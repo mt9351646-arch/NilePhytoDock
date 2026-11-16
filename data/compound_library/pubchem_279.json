@@ -1,0 +1,53 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 68252,
+        "SMILES": "CC1=CC(=C(C=C1)C(C)C)OC(=O)C",
+        "InChIKey": "WFMIUXMJJBBOGJ-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Thymol acetate",
+    "Thymyl acetate",
+    "528-79-0",
+    "Acetylthymol",
+    "O-Acetylthymol",
+    "Acetyl thymol",
+    "Phenol, 5-methyl-2-(1-methylethyl)-, acetate",
+    "EINECS 208-442-8",
+    "6I29126I5V",
+    "NSC 406522",
+    "NSC-406522",
+    "Phenol, 5-methyl-2-(1-methylethyl)-, 1-acetate",
+    "THYMOL ACETATE [MI]",
+    "AI3-03427",
+    "DTXSID40862124",
+    "(2-isopropyl-5-methyl-phenyl) acetate",
+    "RefChem:898087",
+    "DTXCID50810934",
+    "208-442-8",
+    "Thymol, acetate",
+    "(5-methyl-2-propan-2-ylphenyl) acetate",
+    "5-methyl-2-(propan-2-yl)phenyl acetate",
+    "UNII-6I29126I5V",
+    "2-Isopropyl-5-methylphenol acetate",
+    "Thymol derivative, 17",
+    "SCHEMBL250091",
+    "CHEBI:9583",
+    "CHEMBL3343661",
+    "SCHEMBL29380051",
+    "BDBM248169",
+    "HMS1728G14",
+    "MFCD02149365",
+    "NSC406522",
+    "2-Isopropyl-5-methylphenyl acetate #",
+    "EBC-612122",
+    "NS00013240",
+    "C09909",
+    "G26065",
+    "EN300-22486452",
+    "Q27108438"
+  ]
+}

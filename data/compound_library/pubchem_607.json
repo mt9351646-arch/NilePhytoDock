@@ -1,0 +1,47 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 20960,
+        "SMILES": "CC1=CCC(CC1)(C(C)C)OC(=O)C",
+        "InChIKey": "BFCBRSFYYLSTAA-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Terpinene 4-acetate",
+    "4-TERPINENYL ACETATE",
+    "4-Terpinyl acetate",
+    "4-Terpineol acetate",
+    "4821-04-9",
+    "(4-methyl-1-propan-2-ylcyclohex-3-en-1-yl) acetate",
+    "1-Terpinen-4-ol acetate",
+    "3-Cyclohexen-1-ol, 4-methyl-1-(1-methylethyl)-, acetate",
+    "p-Menth-1-en-4-ol, acetate",
+    "1-TERPINEN-4-YL ACETATE",
+    "3-Cyclohexen-1-ol, 4-methyl-1-(1-methylethyl)-, 1-acetate",
+    "302N85584M",
+    "DTXSID90884114",
+    "EINECS 225-395-9",
+    "(4,6,6-trimethyl-3-(2,6,6-trimethyl-3-(2,6,6-trimethyl-3-bicyclo(3.1.1)hept-1-enyl)-3-bicyclo(3.1.1)hept-1-enyl)-2-bicyclo(3.1.1)hept-4-enyl) acetate",
+    "[4,6,6-trimethyl-3-[2,6,6-trimethyl-3-(2,6,6-trimethyl-3-bicyclo[3.1.1]hept-1-enyl)-3-bicyclo[3.1.1]hept-1-enyl]-2-bicyclo[3.1.1]hept-4-enyl] acetate",
+    "RefChem:891476",
+    "DTXCID001023584",
+    "TERPINEN-4-OL ACETATE",
+    "Terpinene-4-yl acetate",
+    "1-(Isopropyl)-4-methylcyclohex-3-en-1-yl acetate",
+    "Terpin-4-yl acetate",
+    "Terpinen-4-yl acetate",
+    "Terpinen-4-ol, acetate",
+    "4-methyl-1-(propan-2-yl)cyclohex-3-en-1-yl acetate",
+    "SCHEMBL9951564",
+    "CHEBI:184320",
+    "UNII-302N85584M",
+    "(+/-)-TERPINENE 4-ACETATE",
+    "TERPINENE 4-ACETATE, (+/-)-",
+    "NS00047224",
+    "1-Isopropyl-4-methyl-3-cyclohexen-1-yl acetate #",
+    "Q27255896",
+    "1-ISOPROPYL-4-METHYLCYCLOHEX-3-EN-1-YL ACETATE"
+  ]
+}

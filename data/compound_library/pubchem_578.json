@@ -1,0 +1,45 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 11586487,
+        "SMILES": "CC1=C[C@H]2C(=C(CCCC2(C)C)C)CC1",
+        "InChIKey": "LCOSCMLXPAQCLQ-AWEZNQCLSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "beta-Himachalene",
+    "Himachalene",
+    "(R)-2,4a,5,6,7,8-hexahydro-3,5,5,9-tetramethyl-1H-benzocycloheptene",
+    "F8Y2422O3M",
+    "(4aR)-3,5,5,9-tetramethyl-1,2,4a,6,7,8-hexahydrobenzo[7]annulene",
+    "1H-Benzocycloheptene, 2,4abeta,5,6,7,8-hexahydro-3,5,5,9-tetramethyl-, (+)-",
+    "CHEBI:49210",
+    "(4aR)-3,5,5,9-tetramethyl-1,2,4a,6,7,8-hexahydrobenzo(7)annulene",
+    "RefChem:917074",
+    "CHEBI:49209",
+    "(6xi)-himachal-1(11),4-diene 3,5,5,9-tetramethyl-2,4a,5,6,7,8-hexahydro-1H-benzo(7)annulene",
+    ".beta.-Himachalene",
+    "(R)-beta-himachalene",
+    "(+)-.beta.-Himachalene",
+    "himachal-1(11),4-diene",
+    "(R)-3,5,5,9-Tetramethyl-2,4a,5,6,7,8-hexahydro-1H-benzo[7]annulene",
+    "(4aR)-3,5,5,9-tetramethyl-2,4a,5,6,7,8-hexahydro-1H-benzo[7]annulene",
+    "(+)-2,4abeta,5,6,7,8-hexahydro-3,5,5,9-tetramethyl-1H-benzocycloheptene",
+    "1H-Benzocycloheptene, 2,4a.beta.,5,6,7,8-hexahydro-3,5,5,9-tetramethyl-, (+)-",
+    "(+)-|A-Himachalene",
+    "UNII-F8Y2422O3M",
+    "SCHEMBL17627761",
+    "CHEBI:49208",
+    "LCOSCMLXPAQCLQ-AWEZNQCLSA-N",
+    ".BETA.-HIMACHALENE, (+)-",
+    "Q27121532",
+    "2,4a,5,6,7,8-hexanhydro-3,5,5,9-tetramethyl-benzocyloheptene",
+    "1H-benzocycloheptene, 2,4a,5,6,7,8-hexahydro-3,5,5,9-tetramethyl",
+    "1H-benzocycloheptene,2,4a,5,6,7,8-hexahydro-3,5,5,9-tetramethyl-, (R)-",
+    "1H-BENZOCYCLOHEPTENE, 2,4A,5,6,7,8-HEXAHYDRO-3,5,5,9-TETRAMETHYL-, (4AR)",
+    "1H-Benzocycloheptene, 2,4a,5,6,7,8-hexahydro-3,5,5,9-tetramethyl-, (4aR)-",
+    "3,5,5,9-Tetramethyl-2,4a,5,6,7,8-hexahydro-1H-benzo[a]cycloheptene-, (R)-"
+  ]
+}

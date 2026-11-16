@@ -1,0 +1,60 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 91456,
+        "SMILES": "C[C@H]1[C@H]2C[C@]2(CC1=O)C(C)C",
+        "InChIKey": "USMNOWBWPHYOEA-XKSSXDPKSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "beta-Thujone",
+    "(+)-Isothujone",
+    "(+)-Thujone",
+    "(+)-3-Thujone",
+    "471-15-8",
+    "Isothujone",
+    "(+)-beta-Thujone",
+    "D-beta-Thujone",
+    "(1S,4S,5R)-(+)-3-thujanone",
+    "NSC 67392",
+    "3-Thujanone, (1S,4S,5R)-(+)-",
+    "8ZI5R3T54Q",
+    "(1s,4s,5r)-4-methyl-1-propan-2-ylbicyclo[3.1.0]hexan-3-one",
+    "(1S,4S,5R)-4-methyl-1-(propan-2-yl)bicyclo[3.1.0]hexan-3-one",
+    "(1S,4S,5R)-1-isopropyl-4-methylbicyclo[3.1.0]hexan-3-one",
+    "cis-Thujone",
+    ".beta.-Thujone",
+    "(1S,4S,5R)-4-methyl-1-(propan-2-yl)bicyclo[3.1.0]hexan-3-one (1S,4S,5R)-thujan-3-one",
+    "[1S-(1alpha,4beta,5alpha)]-4-methyl-1-(1-methylethyl)bicyclo[3.1.0]hexan-3-one",
+    "(+)-thujan-3-one",
+    "UNII-8ZI5R3T54Q",
+    "NSC67392",
+    "beta Thujone",
+    "AI3-11501",
+    "NSC-67392",
+    "D-beta",
+    "thujone (trans-)",
+    "(+)-cis-Thujone",
+    "(+)-b-Thujone",
+    "SCHEMBL337540",
+    ".BETA.-THUJONE [MI]",
+    "orb1697390",
+    "(1S,4S,5R)-thujan-3-one",
+    "CHEMBL3277898",
+    "DTXSID7057575",
+    "CHEBI:50045",
+    "USMNOWBWPHYOEA-XKSSXDPKSA-N",
+    "(+)-Isothujone ((+)-beta-Thujone)",
+    "AKOS006240449",
+    "(+)-(1S,4S,5R)-thujan-3-one",
+    "LMPR0102120039",
+    "Bicyclo(3.1.0)hexan-3-one, 4-methyl-1-(1-methylethyl)-, (1S-(1-alpha,4-beta,5-alpha))-",
+    "NS00076400",
+    "C20260",
+    "T31529",
+    "Q27121861",
+    "BICYCLO(3.1.0)HEXAN-3-ONE, 4-METHYL-1-(1-METHYLETHYL)-, (1S,4S,5R)"
+  ]
+}

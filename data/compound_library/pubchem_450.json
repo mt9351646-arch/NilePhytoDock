@@ -1,0 +1,15 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 15742123,
+        "SMILES": "C1C2=C(C(=O)OC3=C2C(=CC(=C3O)O)C(=O)O1)CC(=O)O",
+        "InChIKey": "DBBOJUGDRHJPND-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Phyllanthusiin E",
+    "CHEMBL4635028"
+  ]
+}

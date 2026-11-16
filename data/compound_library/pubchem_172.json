@@ -1,0 +1,32 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 100197,
+        "SMILES": "CC(=CC(C(C)(C)C=C)O)C",
+        "InChIKey": "WPPVSYVQAKQNJK-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "3,3,6-Trimethylhepta-1,5-dien-4-ol",
+    "3,3,6-Trimethyl-1,5-heptadien-4-ol",
+    "27644-04-8",
+    "DTXSID50952343",
+    "RefChem:1065584",
+    "DTXCID10860273",
+    "248-589-5",
+    "Artemisia alcohol",
+    "2,5,5-trimethylhepta-2,6-dien-4-ol",
+    "1,5-Heptadien-4-ol, 3,3,6-trimethyl-",
+    "29887-38-5",
+    "EINECS 248-589-5",
+    "(.+/-.)-Artemisia alcohol",
+    "SCHEMBL309975",
+    "NSC367110",
+    "NSC 367110",
+    "NSC-367110",
+    "NS00050118",
+    "1,5-Heptadien-4-ol, 3,3,6-trimethyl-, (S)-"
+  ]
+}

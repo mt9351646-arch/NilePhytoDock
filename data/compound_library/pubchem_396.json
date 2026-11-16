@@ -1,0 +1,42 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 520384,
+        "SMILES": "CC1C=CC2(C1C2)C(C)C",
+        "InChIKey": "GJYKUZUTZNTBEC-UHFFFAOYSA-N"
+      },
+      {
+        "CID": 164517369,
+        "SMILES": "C[C@H]1C=CC2(C1C2)C(C)C",
+        "InChIKey": "GJYKUZUTZNTBEC-IDKOKCKLSA-N"
+      },
+      {
+        "CID": 97046700,
+        "SMILES": "C[C@H]1C=C[C@]2([C@@H]1C2)C(C)C",
+        "InChIKey": "GJYKUZUTZNTBEC-IVZWLZJFSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "beta-Thujene",
+    "CHEBI:138047",
+    "DTXSID301037255",
+    "28634-89-1",
+    "4-methyl-1-propan-2-ylbicyclo[3.1.0]hex-2-ene",
+    "4-methyl-1-propan-2-ylbicyclo(3.1.0)hex-2-ene",
+    "RefChem:1079716",
+    "DTXCID901521323",
+    "2-Thujene",
+    "Bicyclo[3.1.0]hex-2-ene, 4-methyl-1-(1-methylethyl)-",
+    "1-Isopropyl-4-methylbicyclo[3.1.0]hex-2-ene",
+    ".beta.-Thujene",
+    "SCHEMBL379391",
+    "4-methyl-1-(propan-2-yl)bicyclo[3.1.0]hex-2-ene",
+    "GJYKUZUTZNTBEC-UHFFFAOYSA-N",
+    "C21702",
+    "Q408209",
+    "4-methyl-1-(1-methylethyl)-bicyclo[3.1.0]hex-2-ene",
+    "4-methyl-1-(1-methylethyl)-bicyclo[3.1.0]hexane, didehydro derivative"
+  ]
+}

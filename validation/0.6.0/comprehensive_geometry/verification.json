@@ -1,0 +1,61 @@
+{
+  "real_poses": 6,
+  "real_targets": 2,
+  "verified_contacts": 222,
+  "ring_feature_contacts": 3,
+  "negative_coordinate_and_distance_checks": true,
+  "three_diagram_styles_seven_residue_modes_per_pose": true,
+  "three_native_appearance_presets": true,
+  "nine_protein_representations_eight_color_modes_three_ligand_representations": true,
+  "confidence_requires_explicit_source_confirmation": true,
+  "poses": [
+    {
+      "pose_id": 1,
+      "protein": "3PTB",
+      "compound": "Myrcene",
+      "verified_contacts": 47,
+      "renderer_atom_and_feature_coordinates_match": true,
+      "complex_reconstruction_matches_pose": true
+    },
+    {
+      "pose_id": 2,
+      "protein": "3PTB",
+      "compound": "alpha-Terpinene",
+      "verified_contacts": 20,
+      "renderer_atom_and_feature_coordinates_match": true,
+      "complex_reconstruction_matches_pose": true
+    },
+    {
+      "pose_id": 3,
+      "protein": "3PTB",
+      "compound": "p-Cymene",
+      "verified_contacts": 36,
+      "renderer_atom_and_feature_coordinates_match": true,
+      "complex_reconstruction_matches_pose": true
+    },
+    {
+      "pose_id": 7,
+      "protein": "1IEP",
+      "compound": "Myrcene",
+      "verified_contacts": 49,
+      "renderer_atom_and_feature_coordinates_match": true,
+      "complex_reconstruction_matches_pose": true
+    },
+    {
+      "pose_id": 8,
+      "protein": "1IEP",
+      "compound": "alpha-Terpinene",
+      "verified_contacts": 25,
+      "renderer_atom_and_feature_coordinates_match": true,
+      "complex_reconstruction_matches_pose": true
+    },
+    {
+      "pose_id": 9,
+      "protein": "1IEP",
+      "compound": "p-Cymene",
+      "verified_contacts": 45,
+      "renderer_atom_and_feature_coordinates_match": true,
+      "complex_reconstruction_matches_pose": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 141999,
+        "SMILES": "CC(C)(C)C1CCC(C=C1)O",
+        "InChIKey": "NGXNAIZTJAUMGV-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "4-tert-butylcyclohex-2-en-1-ol",
+    "35376-39-7",
+    "DTXSID60956796",
+    "RefChem:1071609",
+    "DTXCID901384751",
+    "cis-p-2-Menthen-1-ol",
+    "35376-40-0",
+    "2-Cyclohexen-1-ol, 4-(1,1-dimethylethyl)-, trans-",
+    "SCHEMBL8227904",
+    "2-Cyclohexen-1-ol,4-(1,1-dimethylethyl)-trans-",
+    "Q67879801"
+  ]
+}

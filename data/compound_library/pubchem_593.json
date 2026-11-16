@@ -1,0 +1,63 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 10719,
+        "SMILES": "CCC1=CC2=C(C=CC2=C(C=C1)C)C",
+        "InChIKey": "GXGJIOMUZAGVEH-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Chamazulene",
+    "Chamazulen",
+    "529-05-5",
+    "7-Ethyl-1,4-dimethylazulene",
+    "Dimethulene",
+    "Camazulene",
+    "Dimethulen",
+    "1,4-Dimethyl-7-ethylazulene",
+    "Azulene, 7-ethyl-1,4-dimethyl-",
+    "7-ethyl-1,4-dimethyl-azulene",
+    "Z439UH6E5F",
+    "BA-2784",
+    "DTXSID70200939",
+    "RefChem:32250",
+    "DTXCID50123430",
+    "208-449-6",
+    "BA 2784",
+    "dimethylene",
+    "AZULENE, 1,4-DIMETHYL-7-ETHYL-",
+    "MFCD00800984",
+    "EINECS 208-449-6",
+    "BRN 1306577",
+    "UNII-Z439UH6E5F",
+    "Dimethwlen",
+    "Lindazulene",
+    "CHAMAZULENE [MI]",
+    "CHAMAZULENE [WHO-DD]",
+    "4-05-00-01736 (Beilstein Handbook Reference)",
+    "SCHEMBL180449",
+    "CHEBI:3573",
+    "CHEMBL495665",
+    "orb1705968",
+    "orb3140386",
+    "1,4-Dimethyl-7-ethyl-Azulene",
+    "Chamazulene, analytical standard",
+    "SCHEMBL29562128",
+    "GXGJIOMUZAGVEH-UHFFFAOYSA-",
+    "AKOS040744437",
+    "FC74879",
+    "LMPR0103410002",
+    "DA-72140",
+    "FS-10668",
+    "HY-121038",
+    "NS00013451",
+    "C09633",
+    "G89287",
+    "T19791",
+    "Q909088",
+    "CHAMAZULENE (CONSTITUENT OF CHAMOMILE) [DSC]",
+    "InChI=1/C14H16/c1-4-12-7-5-10(2)13-8-6-11(3)14(13)9-12/h5-9H,4H2,1-3H3"
+  ]
+}

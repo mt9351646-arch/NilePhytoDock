@@ -1,0 +1,3 @@
+from pathlib import Path
+p=Path('reporting/export.py');s=p.read_text(encoding='utf-8');s=s.replace("('Parameters',json.dumps(settings,ensure_ascii=False,indent=2))", "('Parameters','; '.join(f'{k}={v}' for k,v in settings.items()))");s=s.replace('Metal classes represent typed coordination candidates, not complete coordination-geometry validation.','Metal candidates are reported only when the complete Zn tetrahedral or Mg octahedral shell passes the documented chemical, distance and angular checks.');p.write_text(s,encoding='utf-8')
+p=Path('app/gui.py');s=p.read_text(encoding='utf-8');s=s.replace('splitter.setStretchFactor(1,3);l.addWidget(splitter)','splitter.setStretchFactor(1,3);l.addWidget(splitter,1)');p.write_text(s,encoding='utf-8')

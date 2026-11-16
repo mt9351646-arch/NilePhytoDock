@@ -1,0 +1,51 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 12306047,
+        "SMILES": "CC1=C[C@@H]2[C@H](CC1)C(=CC[C@H]2C(C)C)C",
+        "InChIKey": "QMAYBMKBYCGXDH-ZNMIVQPWSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "alpha-Muurolene",
+    "10208-80-7",
+    "B1-Cadinene",
+    "(-)-alpha-muurolene",
+    "D2ZGB75M36",
+    "alpha-Muurolene, (-)-",
+    "(-)-.alpha.-Muurolene",
+    ".alpha.-Muurolene, (-)-",
+    "(1S,4aS,8aR)-4,7-dimethyl-1-(propan-2-yl)-1,2,4a,5,6,8a-hexahydronaphthalene",
+    "CHEBI:64797",
+    "DTXSID90144629",
+    ".alpha.-Muurolene",
+    "(1S,4aS,8aR)-1-isopropyl-4,7-dimethyl-1,2,4a,5,6,8a-hexahydronaphthalene",
+    "1.BETA.-CADINA-4,9-DIENE",
+    "Naphthalene, 1,2,4a,5,6,8a-hexahydro-4,7-dimethyl-1-(1-methylethyl)-, (1S-(1alpha,4aalpha,8aalpha))-",
+    "Naphthalene, 1,2,4a,5,6,8a-hexahydro-4,7-dimethyl-1-(1-methylethyl)-, (1S,4aS,8aR)-",
+    "(1S,4AS,8AR)-1,2,4A,5,6,8A-HEXAHYDRO-4,7-DIMETHYL-1-(1-METHYLETHYL)NAPHTHALENE",
+    "NAPHTHALENE, 1,2,4A,5,6,8A-HEXAHYDRO-4,7-DIMETHYL-1-(1-METHYLETHYL)-, (1S-(1.ALPHA.,4A.ALPHA.,8A.ALPHA.))-",
+    "1BETA-CADINA-4,9-DIENE",
+    "RefChem:555886",
+    "DTXCID1067120",
+    "(1S,4aS,8aR)-4,7-dimethyl-1-propan-2-yl-1,2,4a,5,6,8a-hexahydronaphthalene",
+    "Muurolene",
+    "UNII-D2ZGB75M36",
+    "alpha-murolene",
+    "A-MUUROLENE",
+    "SCHEMBL193052",
+    "Naphthalene, 1,2,4a,5,6,8a-hexahydro-4,7-dimethyl-1-(1-methylethyl)-",
+    "QMAYBMKBYCGXDH-ZNMIVQPWSA-N",
+    "1XI,6xi,7xi-Cadina-4,9-diene",
+    "NS00095990",
+    "C20272",
+    "Q27133436",
+    "naphthalene, 1,2,4a,5,6,8a-hexahydro-4,7-dimethyl-1-(1-methylethyl)",
+    "Naphthalene, 1,2,4a,5,6,8a-hexahydro-4,7-dimethyl-1-(1-methylethyl)-,(1R,4aR,8aS)-rel-",
+    "[1S-(1alpha,4aalpha,8aalpha)]-1,2,4a,5,6,8a-hexahydro-4,7-dimethyl-1-(1-methylethyl)-naphthalene",
+    "Naphthalene, 1,2,4a,5,6,8a-hexahydro-4,7-dimethyl-1-(1-methylethyl)-, (1alpha,4aalpha,8aalpha)-",
+    "naphthalene, 1,2,4a,5,6,8a-hexahydro-4,7-dimethyl-1-(1-methylethyl)-,(1alpha,4aalpha,8aalpha)-"
+  ]
+}

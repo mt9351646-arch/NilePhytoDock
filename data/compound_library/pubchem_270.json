@@ -1,0 +1,38 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 530422,
+        "SMILES": "CC1CC2C(C2(C)C)C=C1",
+        "InChIKey": "LGNSZMLHOYDATP-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "RefChem:198630",
+    "4-Carene, (1S,3R,6R)-(-)-",
+    "LGNSZMLHOYDATP-UHFFFAOYSA-N",
+    "4,7,7-Trimethylbicyclo[4.1.0]hept-2-ene",
+    "4-Carene",
+    "29050-33-7",
+    "UNII-PGD00V83F3",
+    "905822-22-2",
+    "4(5)-carene",
+    "(-)-4,7,7-Trimethylbicyclo(4.1.0)hept-2-ene",
+    "PGD00V83F3",
+    "(1S,3R)-(Z)-4-carene",
+    "(1S,3S)-(E)-4-carene",
+    "Bicyclo(4.1.0)hept-2-ene, 4,7,7-trimethyl-, (-)-",
+    "SCHEMBL11178386",
+    "SCHEMBL29392156",
+    "CHEBI:89934",
+    "DTXSID80871119",
+    "DB-009809",
+    "DB-071478",
+    "DB-071479",
+    "NS00113925",
+    "4,7,7-Trimethylbicyclo[4.1.0]hept-2-ene #",
+    "EN300-188036",
+    "Q27162117"
+  ]
+}

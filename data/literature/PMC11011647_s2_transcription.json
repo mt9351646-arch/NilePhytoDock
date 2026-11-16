@@ -1,0 +1,73 @@
+{
+  "source": "PMC11011647_foods-2945624-supplementary.pdf",
+  "sha256": "de92b9f54bd14b110913da9ec31eb48359c395160defc2b87a3407691c3de4cd",
+  "table": "S2",
+  "sample": "Mo1",
+  "rows": [
+    [
+      "Myristic acid",
+      0.1,
+      0
+    ],
+    [
+      "Palmitic acid",
+      14.5,
+      0.5
+    ],
+    [
+      "Palmitoleic acid",
+      0.1,
+      0
+    ],
+    [
+      "Heptadecanoic acid",
+      0.1,
+      0
+    ],
+    [
+      "Stearic acid",
+      11.1,
+      0.2
+    ],
+    [
+      "Oleic acid",
+      23.4,
+      0.1
+    ],
+    [
+      "Vaccenic acid",
+      0.8,
+      0
+    ],
+    [
+      "Linoleic acid",
+      48.5,
+      0.3
+    ],
+    [
+      "\u03b1-Linolenic acid",
+      0.7,
+      0
+    ],
+    [
+      "Arachidic acid",
+      0.4,
+      0
+    ],
+    [
+      "Gondoic acid",
+      0.2,
+      0
+    ],
+    [
+      "Behenic acid",
+      0.1,
+      0
+    ],
+    [
+      "Lignoceric acid",
+      0.1,
+      0
+    ]
+  ]
+}

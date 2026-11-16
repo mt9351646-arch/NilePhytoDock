@@ -1,0 +1,44 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6429303,
+        "SMILES": "CC1=CC[C@H]2C[C@@H]1[C@@]2(C)CCC=C(C)C",
+        "InChIKey": "YMBFCQPIMVLNIU-KKUMJFAQSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "alpha-cis-bergamotene",
+    "18252-46-5",
+    "cis-alpha-Bergamotene",
+    "VTF86SPQ4S",
+    "2-Norpinene, 2,6-dimethyl-6-(4-methyl-3-pentenyl)-, cis-",
+    "Bicyclo(3.1.1)hept-2-ene, 2,6-dimethyl-6-(4-methyl-3-penten-1-yl)-, (1R,5R,6R)-rel-",
+    "CHEBI:176809",
+    "RefChem:27238",
+    "rel-(1R,5R,6R)-2,6-dimethyl-6-(4-methylpent-3-en-1-yl)bicyclo(3.1.1)hept-2-ene",
+    "(-)-endo-alpha-bergamotene",
+    ".alpha.-cis-bergamotene",
+    "UNII-VTF86SPQ4S",
+    "(1S,5S,6S)-2,6-dimethyl-6-(4-methylpent-3-en-1-yl)bicyclo[3.1.1]hept-2-ene",
+    "(1S,5S,6S)-2,6-dimethyl-6-(4-methylpent-3-enyl)bicyclo[3.1.1]hept-2-ene",
+    "cis-.alpha.-Bergamotene",
+    "|A-cis-Bergamotene",
+    "(?)-cis-alpha-bergamotene",
+    "l-trans-.alpha.-Bergamotene",
+    "(Z)-trans-.alpha.-bergamotene",
+    "bergamotene (Z,.alpha.,trans)",
+    "SCHEMBL1046551",
+    "(-)-I+/-lpha-cis-Bergamotene",
+    "(Z)-trans- .alpha.-bergamotene",
+    "CHEBI:61679",
+    "YMBFCQPIMVLNIU-KKUMJFAQSA-N",
+    "DTXSID301336980",
+    "DTXSID501037120",
+    "C19735",
+    "Q27131278",
+    "23971-87-1",
+    "alpha-cis-Bergamotene; (+/-)-cis-alpha-Bergamotene; Bicyclo[3.1.1]hept-2-ene, 2,6-dimethyl-6-(4-methyl-3-penten-1-yl)-, (1R,5R,6R)-rel-; 2-Norpinene, 2,6-dimethyl-6-(4-methyl-3-pentenyl)-, cis- (8CI); Bicyclo[3.1.1]hept-2-ene, 2,6-dimethyl-6-(4-methyl-3-pentenyl)-, (1R,5R,6R)-rel"
+  ]
+}

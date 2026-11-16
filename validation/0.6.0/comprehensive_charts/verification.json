@@ -1,0 +1,150 @@
+{
+  "actual_project": 1,
+  "real_targets": 2,
+  "all_sixteen_chart_types": [
+    {
+      "chart": "Docking Score Heatmap",
+      "data_rows": 12,
+      "interactive_traces": 1,
+      "hover_tooltip_executed": true,
+      "numeric_values_match_saved_results": true,
+      "png_svg_pdf_csv_xlsx_exported": true,
+      "qt_click_bridge_executed": true
+    },
+    {
+      "chart": "Compound-Protein Bubble Plot",
+      "data_rows": 12,
+      "interactive_traces": 1,
+      "hover_tooltip_executed": true,
+      "numeric_values_match_saved_results": true,
+      "png_svg_pdf_csv_xlsx_exported": true,
+      "qt_click_bridge_executed": true
+    },
+    {
+      "chart": "Oil-Protein Bubble Plot",
+      "data_rows": 2,
+      "interactive_traces": 1,
+      "hover_tooltip_executed": true,
+      "numeric_values_match_saved_results": true,
+      "png_svg_pdf_csv_xlsx_exported": true,
+      "qt_click_bridge_executed": true
+    },
+    {
+      "chart": "Essential Oil Ranking",
+      "data_rows": 2,
+      "interactive_traces": 1,
+      "hover_tooltip_executed": true,
+      "numeric_values_match_saved_results": true,
+      "png_svg_pdf_csv_xlsx_exported": true,
+      "qt_click_bridge_executed": true
+    },
+    {
+      "chart": "Compound Ranking",
+      "data_rows": 12,
+      "interactive_traces": 2,
+      "hover_tooltip_executed": true,
+      "numeric_values_match_saved_results": true,
+      "png_svg_pdf_csv_xlsx_exported": true,
+      "qt_click_bridge_executed": true
+    },
+    {
+      "chart": "Protein-Ligand Interaction Matrix",
+      "data_rows": 381,
+      "interactive_traces": 6,
+      "hover_tooltip_executed": true,
+      "numeric_values_match_saved_results": true,
+      "png_svg_pdf_csv_xlsx_exported": true,
+      "qt_click_bridge_executed": true
+    },
+    {
+      "chart": "Interaction Network",
+      "data_rows": 381,
+      "interactive_traces": 132,
+      "hover_tooltip_executed": true,
+      "numeric_values_match_saved_results": true,
+      "png_svg_pdf_csv_xlsx_exported": true,
+      "qt_click_bridge_executed": true
+    },
+    {
+      "chart": "Residue Interaction Frequency",
+      "data_rows": 44,
+      "interactive_traces": 6,
+      "hover_tooltip_executed": true,
+      "numeric_values_match_saved_results": true,
+      "png_svg_pdf_csv_xlsx_exported": true,
+      "qt_click_bridge_executed": true
+    },
+    {
+      "chart": "Compound-Oil Relationship Network",
+      "data_rows": 12,
+      "interactive_traces": 8,
+      "hover_tooltip_executed": true,
+      "numeric_values_match_saved_results": true,
+      "png_svg_pdf_csv_xlsx_exported": true,
+      "qt_click_bridge_executed": true
+    },
+    {
+      "chart": "Multi-Target Comparison",
+      "data_rows": 2,
+      "interactive_traces": 1,
+      "hover_tooltip_executed": true,
+      "numeric_values_match_saved_results": true,
+      "png_svg_pdf_csv_xlsx_exported": true,
+      "qt_click_bridge_executed": true
+    },
+    {
+      "chart": "Interaction Frequency Heatmap",
+      "data_rows": 18,
+      "interactive_traces": 1,
+      "hover_tooltip_executed": true,
+      "numeric_values_match_saved_results": true,
+      "png_svg_pdf_csv_xlsx_exported": true,
+      "qt_click_bridge_executed": true
+    },
+    {
+      "chart": "Functional Group Frequency Plot",
+      "data_rows": 4,
+      "interactive_traces": 2,
+      "hover_tooltip_executed": true,
+      "numeric_values_match_saved_results": true,
+      "png_svg_pdf_csv_xlsx_exported": true,
+      "qt_click_bridge_executed": true
+    },
+    {
+      "chart": "Functional Group-Residue Network",
+      "data_rows": 18,
+      "interactive_traces": 3,
+      "hover_tooltip_executed": true,
+      "numeric_values_match_saved_results": true,
+      "png_svg_pdf_csv_xlsx_exported": true,
+      "qt_click_bridge_executed": true
+    },
+    {
+      "chart": "Molecular Similarity Heatmap",
+      "data_rows": 6,
+      "interactive_traces": 1,
+      "hover_tooltip_executed": true,
+      "numeric_values_match_saved_results": true,
+      "png_svg_pdf_csv_xlsx_exported": true,
+      "qt_click_bridge_executed": true
+    },
+    {
+      "chart": "Interaction Fingerprint Similarity Heatmap",
+      "data_rows": 6,
+      "interactive_traces": 1,
+      "hover_tooltip_executed": true,
+      "numeric_values_match_saved_results": true,
+      "png_svg_pdf_csv_xlsx_exported": true,
+      "qt_click_bridge_executed": true
+    },
+    {
+      "chart": "Chemical Diversity Visualization",
+      "data_rows": 6,
+      "interactive_traces": 6,
+      "hover_tooltip_executed": true,
+      "numeric_values_match_saved_results": true,
+      "png_svg_pdf_csv_xlsx_exported": true,
+      "qt_click_bridge_executed": true
+    }
+  ]
+}

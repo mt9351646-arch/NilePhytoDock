@@ -1,0 +1,33 @@
+{
+  "source": "actual 3PTB final case study",
+  "native_worker_analysis_completed": true,
+  "unique_structures": 20,
+  "four_views": [
+    {
+      "view": "Functional group-residue associations",
+      "rows": 13
+    },
+    {
+      "view": "Present versus directly participating",
+      "rows": 53
+    },
+    {
+      "view": "Structural clusters",
+      "rows": 20
+    },
+    {
+      "view": "Enrichment (cluster representatives)",
+      "rows": 0
+    }
+  ],
+  "residue_modes": [
+    "Polarity",
+    "Charge",
+    "Biochemical class",
+    "Amino acid identity",
+    "Hydrophobicity",
+    "Aromaticity",
+    "Interaction participation"
+  ],
+  "segmented_multiple_contact_category_rings": true
+}

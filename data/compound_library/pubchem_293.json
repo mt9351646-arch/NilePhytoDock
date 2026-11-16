@@ -1,0 +1,15 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 57119038,
+        "SMILES": "CC1=C2CC(C2(C)C)CC1O",
+        "InChIKey": "MDAPLCACDGOVTG-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "pinen-3-ol",
+    "SCHEMBL4044257"
+  ]
+}

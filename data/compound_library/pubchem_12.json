@@ -1,0 +1,42 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5352451,
+        "SMILES": "CC(C)(/C=C/CC(C)(C=C)O)O",
+        "InChIKey": "QEOHJVNDENHRCH-VOTSOKGWSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "3,7-Dimethyl-1,5-octadien-3,7-diol",
+    "RefChem:1066145",
+    "51276-34-7",
+    "(3E)-2,6-dimethylocta-3,7-diene-2,6-diol",
+    "2,6-Dimethylocta-3,7-diene-2,6-diol",
+    "3,7-Octadiene-2,6-diol, 2,6-dimethyl-",
+    "(3E)-2,6-Dimethyl-3,7-octadiene-2,6-diol",
+    "3,7-dimethyl-1,5-octadiene-3,7-diol",
+    "1,5-Octadiene-3,7-diol, 3,7-dimethyl-",
+    "2,6-dimethyl-3,7-octadien-2,6-diol",
+    "3,7-Dimethyloct-1,5-dien-3,7-diol",
+    "2,6-Dimethylocta-3,7-dien-2,6-diol",
+    "3,7-dimethylocta-1,5-diene-3,7-diol",
+    "1,5-Octadien-3,7-diol, 3,7-dimethyl",
+    "trans-3,7-Dimethylocta-1,5-diene-3,7-diol",
+    "SCHEMBL942493",
+    "orb1683787",
+    "CHEMBL4859666",
+    "(E)-3,7-Dimethylocta-1,5-diene-3,7-diol; trans-3,7-Dimethyl-1,5-octadien-3,7-diol",
+    "CHEBI:180224",
+    "QEOHJVNDENHRCH-VOTSOKGWSA-N",
+    "TN2739",
+    "AKOS022184702",
+    "FS-9948",
+    "3,7-octadiene-2,6-diol, 2,6-dimethyl",
+    "(3S),7-Dimethylocta-1,5-dien-3,7-diol",
+    "(E)-2,6-Dimethyl-3,7-octadien-2,6-diol",
+    "trans-3,7-Dimethyl-1,5-octadiene-3,7-diol",
+    "(3E)-2,6-dimethyl-octa-3,7-diene-2,6-diol"
+  ]
+}

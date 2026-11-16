@@ -1,0 +1,61 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 108871,
+        "SMILES": "CC(C)(C)C(=O)CC#N",
+        "InChIKey": "MXZMACXOMZKYHJ-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Pivaloylacetonitrile",
+    "4,4-Dimethyl-3-oxopentanenitrile",
+    "59997-51-2",
+    "4,4-Dimethyl-3-oxovaleronitrile",
+    "Pentanenitrile, 4,4-dimethyl-3-oxo-",
+    "EINECS 262-017-1",
+    "Valeronitrile, 4,4-dimethyl-3-oxo-",
+    "DTXSID6069375",
+    "RefChem:859944",
+    "DTXCID1042736",
+    "262-017-1",
+    "Trimethylacetylacetonitrile",
+    "4,4-Dimethyl-3-oxo-pentanenitrile",
+    "MFCD00010208",
+    "Pyvaolylacetonitrile",
+    "cyanopinacolone",
+    "1-CYANOPINACOLONE",
+    "MPF9VR4X5R",
+    "4,4-Dimethyl-3-oxopentanenitrile;4,4-Dimethyl-3-oxopentanenitrile",
+    "1-cyano-3,3-dimethyl-2-butanone",
+    "pivalyl acetonitrile",
+    "pivaloyl acetonitrile",
+    "UNII-MPF9VR4X5R",
+    "SCHEMBL133731",
+    "cyanomethyl tert.-butyl ketone",
+    "2-tert-butylcarbonylacetonitrile",
+    "SCHEMBL10769371",
+    "4,4-dimethyl-3-oxopentanonitrile",
+    "HMS1727C21",
+    "4,4-dimethyl-3-oxo pentanenitrile",
+    "4,4-dimethyl-3-oxopentane nitrile",
+    "STR00250",
+    "4,4-Dimethyl-3-Oxo-Pentanonitrile",
+    "SBB008437",
+    "STL183286",
+    "AKOS000119471",
+    "4,4-Dimethyl-3-oxopentanenitrile, 99%",
+    "BP-21253",
+    "DB-053508",
+    "CS-0029522",
+    "NS00034278",
+    "P1112",
+    "EN300-17701",
+    "D72551",
+    "F021523",
+    "Z56989608",
+    "F0001-1573",
+    "InChI=1/C7H11NO/c1-7(2,3)6(9)4-5-8/h4H2,1-3H"
+  ]
+}

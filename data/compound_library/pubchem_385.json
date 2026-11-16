@@ -1,0 +1,57 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 637195,
+        "SMILES": "C[C@@H](CCC[C@@H](C)CCC/C(=C/COC(=O)C)/C)CCCC(C)C",
+        "InChIKey": "JIGCTXHIECXYRJ-ILWBRPEASA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Phytyl acetate",
+    "2-Hexadecen-1-ol, 3,7,11,15-tetramethyl-, 1-acetate, (2E,7R,11R)-",
+    "[(E,7R,11R)-3,7,11,15-tetramethylhexadec-2-enyl] acetate",
+    "Phytyl acetate, (E)-",
+    "EINECS 233-565-9",
+    "2-Hexadecen-1-ol, 3,7,11,15-tetramethyl-, acetate, (2E,7R,11R)-",
+    "5YJX2M386O",
+    "TRANS-PHYTYL ACETATE",
+    "(E,R,R)-PHYTYL ACETATE",
+    "DTXSID00893616",
+    "2-Hexadecen-1-ol,3,7,11,15-tetramethyl-, acetate, (R-(R*,R*-(E)))",
+    "FEMA NO. 4197, E-",
+    "2-Hexadecen-1-ol, 3,7,11,15-tetramethyl-, acetate, (R-(R*,R*-(E)))-",
+    "(7R,11R)-TRANS-PHYTOL ACETATE",
+    "(R-(R*,R*-(E)))-3,7,11,15-Tetramethylhexadec-2-enyl acetate",
+    "2-Hexadecen-1-ol, 3,7,11,15-tetramethyl-, acetate, (theta-(theta,theta-(E)))-",
+    "[R-[R*,R*-(E)]]-3,7,11,15-tetramethylhexadec-2-enyl acetate",
+    "2-Hexadecen-1-ol, 3,7,11,15-tetramethyl-, acetate, [R-[R*,R*-(E)]]-",
+    "((E,7R,11R)-3,7,11,15-tetramethylhexadec-2-enyl) acetate",
+    "RefChem:863092",
+    "18LPS1IF8H",
+    "(E,Z)-PHYTYL ACETATE",
+    "PHYTYL ACETATE [FHFI]",
+    "FEMA NO. 4197",
+    "DTXCID401323645",
+    "10236-16-5",
+    "(7R,11R,E)-3,7,11,15-Tetramethylhexadec-2-en-1-yl acetate",
+    "(E)-Phytyl acetate",
+    "CHEMBL3356397",
+    "(2E,7R,11R)-3,7,11,15-TETRAMETHYLHEXADEC-2-EN-1-YL ACETATE",
+    "MFCD00673238",
+    "UNII-5YJX2M386O",
+    "Teprenone Impurity 19",
+    "SCHEMBL4990812",
+    "JIGCTXHIECXYRJ-ILWBRPEASA-N",
+    "KAA23616",
+    "BDBM50041413",
+    "AKOS025293976",
+    "AS-77017",
+    "D92143",
+    "F842871",
+    "Q27263062",
+    "(7R,11R,E)-3,7,11,15-Tetramethylhexadec-2-en-1-ylacetate",
+    "2-hexadecen-1-ol, 3,7,11,15-tetramethyl-, acetate, (2E,7R,11R)"
+  ]
+}

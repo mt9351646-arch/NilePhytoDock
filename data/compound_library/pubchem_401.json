@@ -1,0 +1,37 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 12309744,
+        "SMILES": "C[C@H]1CCC=C2[C@@]1(C[C@@H](CC2)C(=C)C)C",
+        "InChIKey": "QEBNYNLSCGVZOH-GZBFAFLISA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Eremophilene",
+    "10219-75-7",
+    "Eremophila-1(10),11-diene",
+    "OPI7MD81JT",
+    "Naphthalene, 1,2,3,5,6,7,8,8a-octahydro-1,8a-dimethyl-7-(1-methylethenyl)-, (1S,7R,8aR)-",
+    "DTXSID30144729",
+    "(3R,4aR,5S)-4a,5-dimethyl-3-prop-1-en-2-yl-2,3,4,5,6,7-hexahydro-1H-naphthalene",
+    "Naphthalene, 1,2,3,5,6,7,8,8a-octahydro-1,8a-dimethyl-7-(1-methylethenyl)-, (1S-(1alpha,7alpha,8aalpha))-",
+    "RefChem:1084164",
+    "DTXCID4067220",
+    "(3S,4aS,5R)-4a,5-dimethyl-3-prop-1-en-2-yl-2,3,4,5,6,7-hexahydro-1H-naphthalene",
+    "Eremophylene",
+    "UNII-OPI7MD81JT",
+    "(3R,4aR,5S)-4a,5-dimethyl-3-(prop-1-en-2-yl)-1,2,3,4,4a,5,6,7-octahydronaphthalene",
+    "(-)-eremophilene",
+    "SCHEMBL567341",
+    "CHEBI:142091",
+    "QEBNYNLSCGVZOH-GZBFAFLISA-N",
+    "NAPHTHALENE, 1,2,3,5,6,7,8,8A-OCTAHYDRO-1,8A-DIMETHYL-7-(1-METHYLETHENYL)-, (1S-(1.ALPHA.,7.ALPHA.,8A.ALPHA.))-",
+    "AKOS015903138",
+    "Q27285775",
+    "(1S,7R,8aR)-1,2,3,5,6,7,8,8a-octahydro-1,8a-dimethyl-7-(1-methylethenyl)-naphthalene",
+    "(1S-(1alpha,7alpha,8aalpha))-1,2,3,5,6,7,8,8a-octahydro-1,8a-dimethyl-7-(1-methylethenyl)-naphthalene",
+    "1,2,3,5,6,7,8,8a-octahydro-1,8a-dimethyl-7-(1-methylethenyl)-,[1S-(1alpha,7alpha,8a)]-naphthalene"
+  ]
+}

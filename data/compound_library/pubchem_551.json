@@ -1,0 +1,37 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 80048,
+        "SMILES": "CC(C)C1=CC(=C(C)C)CC[C@@]1(C)C=C",
+        "InChIKey": "QDUJKDRUFBJYSQ-OAHLLOKOSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "alpha-Elemene",
+    "5951-67-7",
+    ".alpha.-Elemene",
+    "UNII-79BY281T5Y",
+    "ELEMENE, ALPHA",
+    "o-Menth-2-ene, 4-isopropylidene-1-vinyl-",
+    "79BY281T5Y",
+    "(S)-6-Ethenyl-6-methyl-1-(1-methylethyl)-3-(1-methylethylidene)cyclohexene",
+    "(6S)-6-ethenyl-6-methyl-1-propan-2-yl-3-propan-2-ylidenecyclohexene",
+    "Cyclohexene, 6-ethenyl-6-methyl-1-(1-methylethyl)-3-(1-methylethylidene)-, (S)-",
+    "(+)-.ALPHA.-ELEMENE",
+    "a-elemene",
+    "1-Isopropyl-6-methyl-3-(1-methylethylidene)-6-vinyl-1-cyclohexene-, (S)-",
+    "(+)-ALPHA-ELEMENE",
+    "RefChem:111224",
+    "QDUJKDRUFBJYSQ-HNNXBMFYSA-N",
+    "QDUJKDRUFBJYSQ-OAHLLOKOSA-N",
+    "(6S)-6-ETHENYL-6-METHYL-1-PROPAN-2-YL-3-PROPAN-2-YLIDENE-CYCLOHEXENE",
+    "SCHEMBL566178",
+    "DTXSID801364506",
+    "DB-310106",
+    "NS00124631",
+    "Q5358809",
+    "6-Ethenyl-6-methyl-1-(1-methylethyl)-3-cyclohexene"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6326181,
+        "SMILES": "CC(C)[C@@]12CC[C@@]([C@@H]1C2)(C)O",
+        "InChIKey": "KXSDPILWMGFJMM-AEJSXWLSSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "17699-16-0",
+    "4-Thujanol",
+    "trans-Sabinene hydrate",
+    "(1R,2R,5S)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hexan-2-ol",
+    "DS203S42BJ",
+    "(1alpha,2alpha,5alpha)-2-methyl-5-(1-methylethyl)bicyclo[3.1.0]hexan-2-ol",
+    "trans-4-thujanol",
+    "(1alpha,2alpha,5alpha)-2-Methyl-5-(1-methylethyl)bicyclo(3.1.0)hexan-2-ol",
+    "(+)-trans-4-Thujanol",
+    "EINECS 241-703-4",
+    "FEMA No. 3239",
+    "UNII-DS203S42BJ",
+    "trans-Sabinenhydrat",
+    "trans sabinene hydrate",
+    "(E)-Sabinene hydrate",
+    "4-THUJANOL [FHFI]",
+    "4-THUJANOL, TRANS-",
+    "SCHEMBL113546",
+    "DTXSID40905045",
+    "KXSDPILWMGFJMM-AEJSXWLSSA-N",
+    "(+/-)-TRANS-4-THUJANOL",
+    "rel-(1R,2R,5S)-5-Isopropyl-2-methylbicyclo[3.1.0]hexan-2-ol",
+    "TRANS-(+/-)-4-THUJANOL",
+    "(1R,2R,5S)-2-methyl-5-(propan-2-yl)bicyclo[3.1.0]hexan-2-ol",
+    "NS00086028",
+    "Q27276574",
+    "BICYCLO(3.1.0)HEXAN-2-OL, 2-METHYL-5-(1-METHYLETHYL)-, (1R,2R,5S)-REL-",
+    "BICYCLO(3.1.0)HEXAN-2-OL, 2-METHYL-5-(1-METHYLETHYL)-, (1.ALPHA.,2.ALPHA.,5.ALPHA.)-"
+  ]
+}

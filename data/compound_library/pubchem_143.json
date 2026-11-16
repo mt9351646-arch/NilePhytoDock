@@ -1,0 +1,49 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 11996452,
+        "SMILES": "C[C@@H]1CC[C@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CC[C@]2(C)O",
+        "InChIKey": "AYXPYQRXGNDJFU-IMNVLQEYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Viridiflorol",
+    "(+)-Viridiflorol",
+    "552-02-3",
+    "d-Viridiflorol",
+    "Himbaccol",
+    "HN71V2CRMY",
+    "CHEBI:156228",
+    "DTXSID80881213",
+    "(1aR,4S,4aS,7R,7aS,7bS)-1,1,4,7-tetramethyl-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulen-4-ol",
+    "(1aR,4S,4aS,7R,7aS,7bS)-1,1,4,7-tetramethyldecahydro-1H-cyclopropa(e)azulen-4-ol",
+    "(1AR-(1aalpha,4beta,4abeta,7alpha,7abeta,7balpha))-decahydro-1,1,4,7-tetramethyl-1H-cycloprop(e)azulen-4-ol",
+    "1H-Cycloprop(e)azulen-4-ol, decahydro-1,1,4,7-tetramethyl-, (1aR-(1aalpha,4beta,4abeta,7alpha,7abeta,7balpha))-",
+    "(1aR,4S,4aS,7R,7aS,7bS)-1,1,4,7-Tetramethyldecahydro-1H-cyclopropa[e]azulen-4-ol",
+    "1H-CYCLOPROP(E)AZULEN-4-OL, DECAHYDRO-1,1,4,7-TETRAMETHYL-, (1AR,4S,4AS,7R,7AS,7BS)-",
+    "(1aR,4S,4aS,7R,7aS,7bS)-1,1,4,7-tetramethyl-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa(e)azulen-4-ol",
+    "1H-Cycloprop[e]azulen-4-ol, decahydro-1,1,4,7-tetramethyl-, [1ar-(1aalpha,4beta,4abeta,7alpha,7abeta,7balpha)]-",
+    "RefChem:194454",
+    "DTXCID701022494",
+    "209-003-3",
+    "(1aR,4S,4aS,7R,7aS,7bS)-Decahydro-1,1,4,7-tetramethyl-1H-cycloprop[e]azulen-4-ol",
+    "UNII-HN71V2CRMY",
+    "viridiflor",
+    "viridi florol",
+    "(1aR,4S,4aS,7R,7aS,7bS)-Decahydro-1,1,4,7-tetramethyl-1H-cycloprop[e]azulen-4-ol; Himbaccol; [1aR-(1aa,4ss,4ass,7a,7ass,7ba)]Decahydro-1,1,4,7-tetramethyl-1H-cycloprop[e]azulen-4-ol; d-Viridiflorol;",
+    "EINECS 209-003-3",
+    "VERIDIFLOROL",
+    "VIRIDIFLOROL, (+)-",
+    "CHEMBL3120647",
+    "SCHEMBL17627696",
+    "Viridiflorol, analytical standard",
+    "AYXPYQRXGNDJFU-IMNVLQEYSA-N",
+    "LMPR01030040",
+    "(1aR,4S,4aS,7R,7aS,7bS)-1,1,4,7-tetramethyl-decahydro-1H-cyclopropa[e]azulen-4-ol",
+    "I80474",
+    "Q27280014",
+    "(1AR-(1A.ALPHA.,4.BETA.,4A.BETA.,7.ALPHA.,7A.BETA.,7B.ALPHA.))-DECAHYDRO-1,1,4,7-TETRAMETHYL-1H-CYCLOPROP(E)AZULEN-4-OL"
+  ]
+}

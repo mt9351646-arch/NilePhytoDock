@@ -1,0 +1,31 @@
+{
+  "version": "0.6.1",
+  "developers": [
+    "Ahmed G Soliman",
+    "Malak Taha"
+  ],
+  "source_commit": "30433b4c03f0df866fd4a198fc155d8fd793db5b",
+  "executable_sha256": "1d63cc3e9d5d631467cea7bbc234200ce7ee823a916c8a4df19a21ce1f92cd90",
+  "assets": [
+    {
+      "name": "NilePhytoDock-0.6.1-Windows-x64.zip",
+      "bytes": 693682147,
+      "sha256": "f06f020b9893b6ceb4584be47b4d08b55f2e43963bcd8e920177e14c3b245242"
+    },
+    {
+      "name": "NilePhytoDock-0.6.1-source.zip",
+      "bytes": 321743454,
+      "sha256": "a0fa6c0738daaec747be7a9df6370d05cdddee5204769542754169b09e2b024b"
+    },
+    {
+      "name": "NilePhytoDock-0.6.1-case-data.zip",
+      "bytes": 48804514,
+      "sha256": "c272ba92441ab4cdceefd854a39729111225d44fbec3fd650fb14f93d76d34ca"
+    },
+    {
+      "name": "NilePhytoDock-0.6.1-Documentation.zip",
+      "bytes": 4272765,
+      "sha256": "dc8c1a0afe945e9f7761a68f3a74e9b237560aa27d5e9ab133a6a6397c1f393b"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6427476,
+        "SMILES": "CC1(C2CC1C(=C)C=C2)C",
+        "InChIKey": "YOQFOABVDRBYCG-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Verbenene",
+    "4080-46-0",
+    "DTXSID50423806",
+    "RefChem:193974",
+    "DTXCID70374644",
+    "YOQFOABVDRBYCG-IUCAKERBSA-N",
+    "6,6-dimethyl-4-methylidenebicyclo[3.1.1]hept-2-ene",
+    "SCHEMBL29990588",
+    "4-methylene-6,6-dimethylbicyclo[3.1.1]hept-2-ene",
+    "Q67880188"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 13994559,
+        "SMILES": "CC(=O)/C=C/C1C(=C)CCC2C1(CCCC2(C)C)C",
+        "InChIKey": "GWLGWWOKIBLQJF-CMDGGOBGSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "GWLGWWOKIBLQJF-CMDGGOBGSA-N",
+    "3-Buten-2-one, 4-[(1S,4aS,8aS)-decahydro-5,5,8a-trimethyl-2-methylene-1-naphthalenyl]-, (3E)-",
+    "DA-49104",
+    "(E)-15,16-Dinorlabda-8(17),11-dien-13-one",
+    "3-Buten-2-one, 4-(decahydro-5,5,8a-trimethyl-2-methylene-1-naphthalenyl)-, [1S-[1.alpha.(E),4a.beta.,8a.alpha.]]-"
+  ]
+}

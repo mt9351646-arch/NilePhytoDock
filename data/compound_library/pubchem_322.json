@@ -1,0 +1,48 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 167812,
+        "SMILES": "C[C@H]1CC[C@@H]2[C@]13CC(=C(C)C)[C@](O3)(C=C2C)O",
+        "InChIKey": "ISFMXVMWEWLJGJ-NZBPQXDJSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Curcumenol",
+    "19431-84-6",
+    "DTXSID0058011",
+    "(1S,2S,5S,8R)-2,6-Dimethyl-9-propan-2-ylidene-11-oxatricyclo[6.2.1.01,5]undec-6-en-8-ol",
+    "(1S,2S,5S,8R)-2,6-dimethyl-9-propan-2-ylidene-11-oxatricyclo(6.2.1.01,5)undec-6-en-8-ol",
+    "RefChem:128874",
+    "DTXCID9031779",
+    "2,6-dimethyl-9-(propan-2-ylidene)-11-oxatricyclo(6.2.1.0^(1,5))undec-6-en-8-ol",
+    "(+)-Curcumenol",
+    "6H-3a,6-Epoxyazulen-6-ol, 1,2,3,4,5,8a-hexahydro-3,8-dimethyl-5-(1-methylethylidene)-, (3S-(3-alpha,3a-alpha,6-alpha,8a-beta))-",
+    "(1s,2s,5s,8r)-9-isopropylidene-2,6-dimethyl-11-oxatricyclo[6.2.1.01,5]undec-6-en-8-ol",
+    "6H-3a,6-Epoxyazulen-6-ol,1,2,3,4,5,8a-hexahydro-3,8-dimethyl-5-(1-methylethylidene)-, (3S,3aS,6R,8aS)-",
+    "BRN 3094585",
+    "5-beta-Guiaia-7(11),9-dien-8-alpha-ol, 5,8-epoxy-",
+    "orb1222555",
+    "orb1303930",
+    "SCHEMBL31013155",
+    "4G54399RRW",
+    "HMS3885G10",
+    "HY-N2259",
+    "MFCD01729508",
+    "MSK161454",
+    "AKOS030529143",
+    "CCG-266822",
+    "EBC-616248",
+    "NCGC00537961-01",
+    "AC-34181",
+    "AS-76068",
+    "CS-0019588",
+    "5beta-Guaia-7(11),9-dien-8alpha-ol, 5,8-epoxy-",
+    "(1S,2S,5S,8R)-2,6-dimethyl-9-(propan-2-ylidene)-11-oxatricyclo[6.2.1.0,1,5]undec-6-en-8-ol",
+    "(3S,3aS,6R,8aS)-1,2,3,4,5,8a-Hexahydro-3,8-dimethyl-5-(1-methylethylidene)-6H-3a,6-epoxyazulen-6-ol",
+    "(3S,3aS,6R,8aS)-3,8-Dimethyl-5-(propan-2-ylidene)-1,2,3,4,5,8a-hexahydro-6H-3a,6-epoxyazulen-6-ol",
+    "6H-3a,6-Epoxyazulen-6-ol, 1,2,3,4,5,8a-hexahydro-3,8-dimethyl-5-(1-methylethylidene)-, (3S,3aS,6R,8aS)-",
+    "Curcumenol6H-3a,6-Epoxyazulen-6-ol, 1,2,3,4,5,8a-hexahydro-3,8-dimethyl-5-(1-methylethylidene)-, (3S-(3-alpha,3a-alpha,6-alpha,8a-beta))-; 6H-3a,6-Epoxyazulen-6-ol,1,2,3,4,5,8a-hexahydro-3,8-dimethyl-5-(1-methylethylidene)-, (3S,3aS,6R,8aS)-; (1S,2S,5S,8R)-2,6-Dimethyl-9-propan-2-ylidene-11-oxatricyclo[6.2.1.01,5]undec-6-en-8-ol"
+  ]
+}

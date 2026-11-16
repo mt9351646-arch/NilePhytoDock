@@ -1,0 +1,16 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 557448,
+        "SMILES": "CC(CCC=C(C)C)C1=CCC(C1(C)C)O",
+        "InChIKey": "DJVZHCXAMWFANO-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "3-(1,5-Dimethyl-hex-4-enyl)-2,2-dimethyl-cyclopent-3-enol",
+    "DJVZHCXAMWFANO-UHFFFAOYSA-N",
+    "3-(1,5-Dimethyl-4-hexenyl)-2,2-dimethyl-3-cyclopenten-1-ol #"
+  ]
+}

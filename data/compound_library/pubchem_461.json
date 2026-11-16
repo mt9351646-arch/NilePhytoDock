@@ -1,0 +1,34 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 99973,
+        "SMILES": "C1=C2C(=C(C(=C1O)O)O)C3=C4C(=C(C(=C3O)O)O)C5=C6C(=C(C(=C5O)O)O)C(C(C(C(C(OC2=O)CO)O)OC4=O)OC6=O)O",
+        "InChIKey": "PPUHUWSVCUJGTD-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Castalin",
+    "19086-75-0",
+    "BA7JCC4U52",
+    "7,8,9,12,13,14,17,18,19,25,29-undecahydroxy-24-(hydroxymethyl)-3,23,26-trioxahexacyclo[13.10.3.12,6.05,10.011,28.016,21]nonacosa-5(10),6,8,11,13,15(28),16,18,20-nonaene-4,22,27-trione",
+    "NSC 297536",
+    "NSC-297536",
+    "7,8,9,12,13,14,17,18,19,25,29-undecahydroxy-24-(hydroxymethyl)-3,23,26-trioxahexacyclo(13.10.3.12,6.05,10.011,28.016,21)nonacosa-5(10),6,8,11,13,15(28),16,18,20-nonaene-4,22,27-trione",
+    "RefChem:123950",
+    "NEOVESCALIN, INTRAMOL. 25,17-ESTER, (15.BETA.)-",
+    "12H-8,17,21-(EPOXYETHANYLYLIDYNE)-4,7-METHANO-5H-DIBENZO(H,O)(1,6)DIOXACYCLOHEPTADECIN-5,12,23-TRIONE, 7,8,9,10-TETRAHYDRO-1,2,3,9,14,15,16,18,19,20,25-UNDECAHYDROXY-10-(HYDROXYMETHYL)-",
+    "NEOVESCALIN, INTRAMOL. 25,17-ESTER, (15BETA)-",
+    "NSC297536",
+    "UNII-BA7JCC4U52",
+    "orb1991319",
+    "SCHEMBL12478165",
+    "SCHEMBL29366689",
+    "DTXSID901029284",
+    "UAA08675",
+    "AKOS040735472",
+    "T125481",
+    "Q5049587"
+  ]
+}

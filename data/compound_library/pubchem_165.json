@@ -1,0 +1,25 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5375536,
+        "SMILES": "CC#CC#C/C=C/1\\C=CC2(O1)CC=CO2",
+        "InChIKey": "IBELVOGDVQQPMZ-KPKJPENVSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "BOHLMANN K4084",
+    "1,6-Dioxaspiro[4.4]nona-2,8-diene, 7-(2,4-hexadiynylidene)-",
+    "(2E)-2-hexa-2,4-diynylidene-1,6-dioxaspiro(4.4)nona-3,7-diene",
+    "(2E)-2-hexa-2,4-diynylidene-1,6-dioxaspiro[4.4]nona-3,7-diene",
+    "1,6-Dioxaspiro(4.4)nona-2,8-diene, 7-(2,4-hexadiynylidene)-",
+    "RefChem:120874",
+    "17089-43-9",
+    "27762-69-2",
+    "IBELVOGDVQQPMZ-KPKJPENVSA-N",
+    "7-(Hexa-2,4-diynylidene)-1,6-dioxaspiro[4.4]nona-2,8-diene",
+    "NSC302306",
+    "(7E)-7-(2,4-Hexadiynylidene)-1,6-dioxaspiro[4.4]nona-2,8-diene #"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 525328,
+        "SMILES": "C=CC1C=CCSS1",
+        "InChIKey": "UQXHSMWBRGWFBK-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "3-Vinyl-1,2-dithiacyclohex-4-ene",
+    "3-ethenyl-3,6-dihydrodithiine",
+    "62488-52-2",
+    "3-vinyl-1,2-dithi-4-ene",
+    "3-Ethenyl-1,2-dithi-4-ene",
+    "1,2-Dithi-4-ene, 3-ethenyl",
+    "DTXSID50335470",
+    "RefChem:95504",
+    "DTXCID50286559",
+    "UQXHSMWBRGWFBK-UHFFFAOYSA-N",
+    "3-Vinyl-3,6-dihydro-1,2-dithiine",
+    "SCHEMBL2928659",
+    "3-vinyl-1,2-dithia-4-cyclohexene",
+    "3-Vinyl-3,6-dihydro-1,2-dithiine #",
+    "3-ETHENYL-3,6-DIHYDRO-1,2-DITHIINE"
+  ]
+}

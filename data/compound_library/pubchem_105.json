@@ -1,0 +1,61 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 16872,
+        "SMILES": "CCCCCCOC(=O)C(C)C",
+        "InChIKey": "CYHBDKTZDLSRMY-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Hexyl isobutyrate",
+    "2349-07-7",
+    "HEXYL 2-METHYLPROPANOATE",
+    "Propanoic acid, 2-methyl-, hexyl ester",
+    "Hexyl isobutanoate",
+    "n-Hexyl isobutyrate",
+    "1-Hexyl isobutyrate",
+    "n-Hexyl isobutanoate",
+    "Isobutyric acid, hexyl ester",
+    "Hexyl 2-methylpropionate",
+    "FEMA No. 3172",
+    "Hexyl isobutyrate (natural)",
+    "DTXSID2047519",
+    "NSC 46108",
+    "5FC79GHU69",
+    "EINECS 219-075-8",
+    "NSC-46108",
+    "BRN 2075011",
+    "AI3-19791",
+    "DTXCID0027519",
+    "HEXYL ISOBUTYRATE [FHFI]",
+    "RefChem:788297",
+    "219-075-8",
+    "164183",
+    "MFCD00027297",
+    "Hexyl-2-methylpropionate",
+    "caproyl isobutyrate",
+    "n-Hexyl iso-butyrate",
+    "Benzyl-Penicillinic acid",
+    "(phenylmethyl)-Penicillin",
+    "UNII-5FC79GHU69",
+    "SCHEMBL534484",
+    "SCHEMBL4678896",
+    "(phenylmethyl)-Penicillinic acid",
+    "CHEMBL3187477",
+    "CHEBI:179553",
+    "Hexyl isobutyrate, >=98%, FG",
+    "NSC46108",
+    "Tox21_302491",
+    "AKOS022185053",
+    "NCGC00256624-01",
+    "AS-12617",
+    "CAS-2349-07-7",
+    "DB-046161",
+    "NS00012611",
+    "Hexyl isobutyrate, natural (US), >=97%, FG",
+    "F448719",
+    "Q27261966"
+  ]
+}

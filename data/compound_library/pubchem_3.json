@@ -1,0 +1,56 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 17868,
+        "SMILES": "CC1=CCC2(C1C2)C(C)C",
+        "InChIKey": "KQAZVFVOEIRWHN-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "ALPHA-THUJENE",
+    "2867-05-2",
+    "Origanene",
+    "Bicyclo[3.1.0]hex-2-ene, 2-methyl-5-(1-methylethyl)-",
+    "2-methyl-5-propan-2-ylbicyclo[3.1.0]hex-2-ene",
+    "CHEBI:50031",
+    "DTXSID20863038",
+    "2-methyl-5-propan-2-ylbicyclo(3.1.0)hex-2-ene",
+    "Bicyclo(3.1.0)hex-2-ene, 2-methyl-5-(1-methylethyl)-",
+    "RefChem:915574",
+    "DTXCID70811721",
+    "ALPHA-THUJENE, (A+-)-",
+    "220-686-7",
+    "U9HIP11C7C",
+    "3-Thujene",
+    "2-methyl-5-(propan-2-yl)bicyclo[3.1.0]hex-2-ene",
+    "THUJONE, (A + B)(SG)",
+    "5-Isopropyl-2-methylbicyclo[3.1.0]hex-2-ene",
+    "thujiene",
+    "2-methyl-5-(1-methylethyl)-bicyclo[3.1.0]hex-2-ene",
+    ".alpha.-Thujene",
+    "2-Methyl-5-(1-methylethyl)-bicyclo(3.1.0)hex-2-ene",
+    "alpha-thujanol",
+    "alpha-Thuiene",
+    "alpha-Thujen",
+    "thuj-3-ene",
+    "thujene (alpha-)",
+    "4-methyl-1-propan-2-ylbicyclo[3.1.0]hex-3-ene",
+    "Thujene, .alpha.-",
+    "(-)-3-Thujene",
+    "(1R,5S)-thuj-2-ene",
+    "SCHEMBL194324",
+    "(1R)-(-)-thuj-3-ene",
+    "orb3179713",
+    "EBC-627308",
+    "DB-326055",
+    "NS00048720",
+    "EN300-7441739",
+    "5-Isopropyl-2-methylbicyclo[3.1.0]hex-2-ene #",
+    "bicyclo[3.1.0]hex-2-ene, 4-methyl-1-propan-2-yl",
+    "Q27121796",
+    "[3.1.0]hex-2-ene,2-methyl-5-(1-methylethyl)-bicyclo",
+    "bicyclo[3.1.0]hex-2-ene,2-methyl-5-(1-methylethyl)-"
+  ]
+}

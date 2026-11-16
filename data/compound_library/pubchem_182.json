@@ -1,0 +1,60 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5317570,
+        "SMILES": "C/C/1=C\\CCC(=C)/C=C/[C@@H](CC1)C(C)C",
+        "InChIKey": "GAIBLDCXCZKKJE-RXJOXMPGSA-N"
+      },
+      {
+        "CID": 91723653,
+        "SMILES": "C/C/1=C/CCC(=C)/C=C\\[C@@H](CC1)C(C)C",
+        "InChIKey": "GAIBLDCXCZKKJE-ACWLMNNXSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Germacrene D",
+    "23986-74-5",
+    "V2I9ATG34E",
+    "(1E,6E,8S)-1-methyl-5-methylidene-8-propan-2-ylcyclodeca-1,6-diene",
+    "1-Methyl-5-methylene-8-(1-methylethyl)-1,6-cyclodecadiene",
+    "CHEBI:49045",
+    "RefChem:37512",
+    "1,6-Cyclodecadiene, 1-methyl-5-methylene-8-(1-methylethyl)-, (1E,6E,8S)-",
+    "639-624-9",
+    "(1E,5E,7xi)-germacra-1(10),4(15),5-triene",
+    "(1Z,6Z)-1-methyl-5-methylidene-8-propan-2-ylcyclodeca-1,6-diene",
+    "(-)-Germacrene D",
+    "(1E,6E,8S)-1-methyl-5-methylidene-8-(propan-2-yl)cyclodeca-1,6-diene",
+    "(1E,5E)-germacra-1(10),4(15),5-triene",
+    "d-germacrene",
+    "germacrene-d",
+    "Germacrene D (~90%) (Stabilized with Hydroquinone)",
+    "(1E,6E,8S)-8-isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",
+    "(S,1E,6E)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",
+    "1(10),4(14),5-Germacratriene",
+    "(1E,6E,8S)-1-methyl-8-(1-methylethyl)-5-methylidenecyclodeca-1,6-diene",
+    "UNII-V2I9ATG34E",
+    "germancrene D",
+    "germacreneD,1-methyl-5-methylene-8-(1-methylethyl)-1,6-cyclodecadiene",
+    "[S-(E,E)]-1-Methyl-5-methylene-8-(1-methylethyl)-1,6-cyclodecadiene; (-)-Germacra-1(10),4(15),5-triene; (-)-Germacrene D; Germacrene D; [s-(E,E)]-1-Methyl-5-methylene-8-(1-methylethyl)-1,6-cyclodecyldidiene;",
+    "(-)-(S)-germacrene D",
+    "(-)-(7S)-germacrene-D",
+    "SCHEMBL113142",
+    "orb1709614",
+    "CHEBI:49044",
+    "DTXSID70881247",
+    "GAIBLDCXCZKKJE-QRYCCKSOSA-N",
+    "AKOS040733249",
+    "MS-23113",
+    "HY-125685",
+    "CS-0093013",
+    "germacra-1(10),4(15),5-triene,(-)-",
+    "T11392",
+    "Q27121450",
+    "1,6-Cyclodecadiene, 1-methyl-5-methylene-8-(1-methylethyl)",
+    "[S-(E,E)]-1-methyl-5-methylene-8-(1-methylethyl)-1,6-cyclodecadiene",
+    "1-methyl-5-methylene-8-(1-methylethyl)-[S-(E,E)]-1,6-cyclodecadiene"
+  ]
+}

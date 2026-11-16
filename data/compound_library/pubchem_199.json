@@ -1,0 +1,24 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 23274265,
+        "SMILES": "C/C/1=C/CC(/C=C\\CC2(C(O2)CC1)C)(C)C",
+        "InChIKey": "QTGAEXCCAPTGLB-QZFXXANLSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Humulene epoxide II",
+    "1,5,5,8-Tetramethyl-12-oxabicyclo[9.1.0]dodeca-3,7-diene",
+    "1,5,5,8-tetramethyl-12-oxabicyclo(9.1.0)dodeca-3,7-diene",
+    "RefChem:146907",
+    "(1R,3E,7E,11R)-1,5,5,8-tetramethyl-12-oxabicyclo(9.1.0)dodeca-3,7-diene",
+    "Humulene 6,7-epoxide",
+    "19888-34-7",
+    "(3Z,7Z)-1,5,5,8-TETRAMETHYL-12-OXABICYCLO[9.1.0]DODECA-3,7-DIENE",
+    "Humulene epoxide 2",
+    "Humulene II epoxide",
+    "NCGC00178326-01"
+  ]
+}

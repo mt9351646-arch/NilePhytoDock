@@ -1,0 +1,51 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 20149,
+        "SMILES": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+        "InChIKey": "KUPLEGDPSCCPJI-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "n-Tetracontane",
+    "TETRACONTANE",
+    "4181-95-7",
+    "UNII-I79S9IXB9Y",
+    "I79S9IXB9Y",
+    "EINECS 224-055-7",
+    "AI3-36490",
+    "DTXSID2063341",
+    "nTetracontane",
+    "RefChem:188450",
+    "DTXCID4039990",
+    "224-055-7",
+    "KUPLEGDPSCCPJI-UHFFFAOYSA-N",
+    "MFCD00015267",
+    "C40H82",
+    "SCHEMBL198673",
+    "SCHEMBL198674",
+    "SCHEMBL201142",
+    "SCHEMBL201935",
+    "SCHEMBL988040",
+    "orb3029122",
+    "orb3140164",
+    "SCHEMBL1685021",
+    "SCHEMBL6684256",
+    "SCHEMBL16235777",
+    "SCHEMBL26121845",
+    "Tetracontane, analytical standard",
+    "MSK3531",
+    "Tetracontane, >=95.0% (GC)",
+    "MSK3531-400H",
+    "HY-W540509",
+    "LS-15432",
+    "SY010045",
+    "NS00049183",
+    "n-Tetracontane Solution in Hexane, 400ug/mL",
+    "Q151239",
+    "T203993",
+    "C4F1723F-8A7B-4248-A951-73F06DE9834E"
+  ]
+}

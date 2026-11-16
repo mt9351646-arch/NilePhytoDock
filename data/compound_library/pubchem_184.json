@@ -1,0 +1,27 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 20055539,
+        "SMILES": "CC(CCC=C(C)C)C12CCC(C1C2)(C)O",
+        "InChIKey": "IRDFGGRWKUKANK-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Sesquisabinene hydrate",
+    "2-methyl-5-(6-methylhept-5-en-2-yl)bicyclo[3.1.0]hexan-2-ol",
+    "139341-65-4",
+    "2-methyl-5-(6-methylhept-5-en-2-yl)bicyclo(3.1.0)hexan-2-ol",
+    "RefChem:1098489",
+    "(E)-Sesquisabinene hydrate",
+    "SCHEMBL7863362",
+    "IRDFGGRWKUKANK-UHFFFAOYSA-N",
+    "DTXSID101377736",
+    "119238-96-9",
+    "Q67865678",
+    "Bicyclo[3.1.0]hexan-2-ol, 5-(1,5-dimethyl-4-hexen-1-yl)-2-methyl-, (1R,2R,5S)-rel-",
+    "Bicyclo[3.1.0]hexan-2-ol, 5-(1,5-dimethyl-4-hexenyl)-2-methyl-, (1R,2R,5S)-rel-",
+    "(1R,2R,5S)-2-Methyl-5-(6-methylhept-5-en-2-yl)bicyclo[3.1.0]hexan-2-ol, (relative configuration)"
+  ]
+}

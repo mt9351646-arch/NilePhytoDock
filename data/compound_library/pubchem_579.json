@@ -1,0 +1,43 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 12311396,
+        "SMILES": "CC1=CC[C@@H]2[C@@H]3[C@H]1[C@]2(CCCC3(C)C)C",
+        "InChIKey": "HICYDYJTCDBHMZ-COMQUAJESA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Longipinene",
+    "alpha-Longipinene",
+    "(+)-alpha-Longipinene",
+    "5989-08-2",
+    "104AN9V5Q1",
+    "CHEBI:62752",
+    "DTXSID30975297",
+    "(1R,2S,7R,8R)-2,6,6,9-tetramethyltricyclo[5.4.0.02,8]undec-9-ene",
+    "3,3,7,9-Tetramethyltricyclo(5.4.0.0(2,8))undec-9-ene",
+    "Tricyclo(5.4.0.0(2,8))undec-9-ene, 3,3,7,9-tetramethyl-",
+    "(1R,2S,7R,8R)-2,6,6,9-tetramethyltricyclo[5.4.0.0(2,8)]undec-9-ene",
+    "CHEBI:62753",
+    "(1R,2S,7R,8R)-2,6,6,9-tetramethyltricyclo(5.4.0.0(2,8))undec-9-ene",
+    "(1R,2S,7R,8R)-2,6,6,9-tetramethyltricyclo(5.4.0.02,8)undec-9-ene",
+    "RefChem:27167",
+    "DTXCID501519405",
+    "2,6,6,9-tetramethyltricyclo(5.4.0.02,8)undec-9-ene",
+    "Longipinene (~75%)",
+    "(+)-.alpha.-Longipinene",
+    "alpha-longyi pinene",
+    "(+)-a-longipinene",
+    "UNII-104AN9V5Q1",
+    "SCHEMBL29354198",
+    "HICYDYJTCDBHMZ-COMQUAJESA-N",
+    "Q27132143",
+    "2,6,6,9-tetramethyl-tricyclo[5.4.0.0(2,8)]undec-9-ene",
+    "tricyclo[5.4.0.0(2,8)]undec-9-ene, 2,6,6,9-tetramethyl",
+    "(1R,2S,7R,8R)-2,6,6,9-tetramethyltricyclo[5.4.0.0?,?]undec-9-ene",
+    "(1R,2S,7R,8R)-2,6,6,9-Tetramethyltricyclo[5.4.0.0~2,8~]undec-9-ene",
+    "TRICYCLO(5.4.0.02,8)UNDEC-9-ENE, 2,6,6,9-TETRAMETHYL-, (1R,2S,7R,8R)-"
+  ]
+}

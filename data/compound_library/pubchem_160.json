@@ -1,0 +1,33 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 442463,
+        "SMILES": "CC1=CCC2C(=O)C1C2(C)C",
+        "InChIKey": "IECBDTGWSQNQID-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Chrysanthenone",
+    "2-Pinen-7-one",
+    "2,7,7-Trimethylbicyclo[3.1.1]hept-2-en-6-one",
+    "DTXSID80894868",
+    "4,6,6-trimethylbicyclo[3.1.1]hept-3-en-7-one",
+    "473-06-3",
+    "2,7,7-trimethylbicyclo(3.1.1)hept-2-en-6-one",
+    "4,6,6-trimethylbicyclo(3.1.1)hept-3-en-7-one",
+    "RefChem:910226",
+    "DTXCID201011133",
+    "841NXH6XEV",
+    "(+)-Chrysanthenone",
+    "Bicyclo[3.1.1]hept-2-en-6-one, 2,7,7-trimethyl-",
+    "AC1L9CVQ",
+    "CHEBI:19",
+    "CHEBI:3681",
+    "SCHEMBL2384039",
+    "C09843",
+    "Q5114549",
+    "2,7,7-Trimethylbicyclo[3.1.1]hept-2-en-6-one #"
+  ]
+}

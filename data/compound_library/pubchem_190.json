@@ -1,0 +1,59 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6429302,
+        "SMILES": "CC1=CC[C@H]2C[C@@H]1[C@]2(C)CCC=C(C)C",
+        "InChIKey": "YMBFCQPIMVLNIU-SOUVJXGZSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "trans-alpha-Bergamotene",
+    "13474-59-4",
+    "(-)-exo-alpha-bergamotene",
+    "(-)-trans-alpha-bergamotene",
+    "(1S,5S,6R)-2,6-dimethyl-6-(4-methylpent-3-en-1-yl)bicyclo[3.1.1]hept-2-ene",
+    "alpha-Bergamotene, (E)-(-)-",
+    "599TK2712C",
+    "(1S,5S,6R)-2,6-dimethyl-6-(4-methylpent-3-enyl)bicyclo[3.1.1]hept-2-ene",
+    "FEMA NO. 4960",
+    "CHEBI:62756",
+    "2-Norpinene, 2,6-dimethyl-6-(4-methyl-3-pentenyl)-, trans-(-)",
+    "(1S,5S,6R)-2,6-dimethyl-6-(4-methylpent-3-en-1-yl)bicyclo(3.1.1)hept-2-ene",
+    "(1S,5S,6R)-2,6-dimethyl-6-(4-methylpent-3-enyl)bicyclo(3.1.1)hept-2-ene",
+    "RefChem:27247",
+    "(+/-)-trans-alpha-Bergamotene",
+    "17829-53-7",
+    "(E)-alpha-bergamotene,(-)-trans-alpha-bergamotene",
+    "alpha-trans-Bergamotene",
+    "cis-.alpha.-Bergamotene",
+    ".alpha.-trans-Bergamotene",
+    "UNII-599TK2712C",
+    "a-trans-bergamotene",
+    "exo-alpha-bergamotene",
+    "(E)-alfa-Bergamotene",
+    "alpha-trans bergamotene",
+    "trans-.alpha.-Bergamotene",
+    "(E)-(-)-alpha-bergamotene",
+    "bergamotene (Z,.alpha.,cis)",
+    "SCHEMBL1052322",
+    "(-)-alphalpha-trans-Bergamotene",
+    "(-)-I+/-lpha-trans-Bergamotene",
+    ".alpha.-trans-.beta.-Bergamotene",
+    "DTXSID901017570",
+    ".ALPHA.BERGAMOTENE, TRANS-",
+    "(-)-EXO-.ALPHA.-BERGAMOTENE",
+    "(1S,5S,6R)-4,6-dimethyl-6-(4-methylpent-3-enyl)bicyclo[3.1.1]hept-3-ene",
+    "(-)-TRANS-.ALPHA.-BERGAMOTENE",
+    ".ALPHA.-BERGAMOTENE, (-)-TRANS-",
+    ".ALPHA.-BERGAMOTENE, (E)-(-)-",
+    "C20811",
+    "Q27132147",
+    "2,6-dimethyl-6-(4-methyl-3-pentenyl)-bicyclo [3.1.1] hept-2-ene",
+    "2,6-dimethyl-6-(4-methyl-3-pentenyl)-bicyclo[3.1.1]hept-2-ene",
+    "bicyclo[3.1.1]hept-2-ene, 2,6-dimethyl-6-(4-methyl-3-pentenyl)",
+    "BICYCLO(3.1.1)HEPT-2-ENE, 2,6-DIMETHYL-6-(4-METHYL-3-PENTEN-1-YL)-, (1S,5S,6R)-",
+    "BICYCLO(3.1.1)HEPT-2-ENE, 2,6-DIMETHYL-6-(4-METHYL-3-PENTENYL)-, (1S-(1.ALPHA.,5.ALPHA.,6.ALPHA.))-"
+  ]
+}

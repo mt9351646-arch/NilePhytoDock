@@ -1,0 +1,28 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 297205,
+        "SMILES": "C1C=CC(C=C1)CO",
+        "InChIKey": "WXDYLOXAVVHBJQ-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "2,5-Cyclohexadiene-1-methanol",
+    "25372-69-4",
+    "DTXSID40304897",
+    "RefChem:247231",
+    "DTXCID80256028",
+    "NSC168020",
+    "2,5-cyclohexadienylmethanol",
+    "SCHEMBL938380",
+    "2,5-Cyclohexadien-1-ylmethanol",
+    "Methanol, (1,4-dihydrophenyl)-",
+    "2,5-Cyclohexadien-1-ylmethanol #",
+    "(Cyclohexa-2,5-dien-1-yl)methanol",
+    "AKOS000277726",
+    "NSC-168020",
+    "NS00126500"
+  ]
+}

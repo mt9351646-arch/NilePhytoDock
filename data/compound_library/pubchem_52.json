@@ -1,0 +1,19 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 177827102,
+        "SMILES": "C[C@@H]1CC[C@H]2[C@H]1[C@H]3[C@H](C3(C)C)CCC24CO4",
+        "InChIKey": "XPGWKKLDFXNBPJ-NMWJTGESSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "epoxyalloaromadendrene",
+    "alloaromadendrene oxide",
+    "alloaromadendrene epoxide",
+    "epoxyde-allo-aromadendrene",
+    "allo-aromandendrene epoxide",
+    "Alloaromadendrene oxide-(1)"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 86895,
+        "SMILES": "CC1=CC=C(C=C1)[C@@]2(CCCC2(C)C)C",
+        "InChIKey": "SLKPBCXNFNIJSV-HNNXBMFYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Cuparene",
+    "1-methyl-4-[(1R)-1,2,2-trimethylcyclopentyl]benzene",
+    "Benzene, 1-methyl-4-(1,2,2-trimethylcyclopentyl)-, (R)-",
+    "24IR5X2B93",
+    "Benzene, 1-methyl-4-(1,2,2-trimethylcyclopentyl)-, (theta)-",
+    "1-methyl-4-((1R)-1,2,2-trimethylcyclopentyl)benzene",
+    "RefChem:128800",
+    "(1R,6S)-3-((1S,3S)-3-bromo-1,2,2-trimethylcyclopentyl)-6-chloro-6-methylcyclohex-3-en-1-ol",
+    "241-061-5",
+    "(+)-Cuparene",
+    "16982-00-6",
+    "(R)-Cuparene",
+    "(R)-1-Methyl-4-(1,2,2-trimethylcyclopentyl)benzene",
+    "(R)-(+)-p-(1,2,2-Trimethylcyclopentyl)toluene",
+    "Cuparene, (+)-",
+    "UNII-24IR5X2B93",
+    "EINECS 241-061-5",
+    "1-Methyl-4-(1,2,2-trimethylcyclopentyl)benzene #",
+    "SCHEMBL156545",
+    "orb1218653",
+    "orb1296986",
+    "DTXSID70168762",
+    "CHEBI:167407",
+    "HY-N9626",
+    "MFCD00043118",
+    "TN6762",
+    "AKOS015914036",
+    "EBC-617630",
+    "LMPR0103140001",
+    "SB46933",
+    "TS-10159",
+    "NS00021037",
+    "benzene, 1-methyl-4-(1,2,2-trimethylcyclopentyl)",
+    "(+)-Cuparene, >=99.0% (sum of enantiomers, GC)",
+    "Q27253858",
+    "(R)-1-methyl-4-(1,2,2-trimethylcyclopentyl)-benzene",
+    "(R)-benzene, 1-methyl-4-(1,2,2-trimethylcyclopentyl)",
+    "BENZENE, 1-METHYL-4-(1,2,2-TRIMETHYLCYCLOPENTYL)-, (.THETA.)-"
+  ]
+}

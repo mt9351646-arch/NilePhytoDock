@@ -1,0 +1,58 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5362889,
+        "SMILES": "CC(=CCC/C(=C/C/C=C(/C)\\C=C)/C)C",
+        "InChIKey": "CXENHBSYCFFKJS-OXYODPPFSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(Z,E)-alpha-Farnesene",
+    "26560-14-5",
+    "(3Z,6E)-3,7,11-trimethyldodeca-1,3,6,10-tetraene",
+    "(Z,E)-.alpha.-Farnesene",
+    "alpha-Farnesene, (3Z,6E)-",
+    "UNII-4U4U81627K",
+    "4U4U81627K",
+    "FEMA No. 3839, (3Z,6E)-alpha-",
+    "1,3,6,10-Dodecatetraene, 3,7,11-trimethyl-, (3Z,6E)-",
+    ".alpha.-(Z,E)-Farnesene",
+    "CHEBI:39238",
+    "DTXSID70181138",
+    "(Z)-3, (E)-6-.alpha.-Farnesene",
+    ".ALPHA.-FARNESENE, (3Z,6E)-",
+    "FEMA NO. 3839, (3Z,6E)-.ALPHA.-",
+    "(Z,E)-3,7,11-Trimethyl-1,3,6,10-dodecatetraene,",
+    "(z,e)-a-farnesene",
+    "RefChem:70627",
+    "alpha-(Z,E)-Farnesene",
+    "cis,trans-I+--Farnesene",
+    "(Z,E)-I+--Farnesene",
+    "(3Z,6E)-I+--Farnesene",
+    "DTXCID80103629",
+    "(Z)-3, (E)-6-alpha-Farnesene",
+    "CXENHBSYCFFKJS-OXYODPPFSA-N",
+    "cis,trans-alpha-Farnesene",
+    "(3z,6e)-alpha-farnesene",
+    "1,3,6,10-Dodecatetraene, 3,7,11-trimethyl-, (Z,E)-",
+    "cis,trans-.alpha.-Farnesene",
+    "Alph",
+    "(3Z,6E)-3,7,11-Trimethyl-1,3,6,10-dodecatetraene",
+    "(Z,E)-?-Farnesene",
+    "alpha farnesene",
+    "-trans-Farnesene",
+    "Z,E-farnesene",
+    "-e,e-Farnesene",
+    "(Z,E)-R-farnesene",
+    "(Z,E)-alpha-famesene",
+    "farnesene (Z,E,alpha)",
+    "alpha-trans,trans-Farnesene",
+    "(3Z,6E)- .alpha.-Farnesene",
+    "SCHEMBL18493445",
+    "NS00095989",
+    "3,7,11-Trimethyl-(E,E)-1,3,6,10-Dodecatetraene",
+    "Q27119780"
+  ]
+}

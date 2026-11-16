@@ -1,0 +1,33 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 91700388,
+        "SMILES": "CC1=CC[C@H](CC1)[C@@]2(CCC(=O)C(O2)(C)C)C",
+        "InChIKey": "MJWZYBQLHJQQJJ-DOMZBBRYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(6S)-2,2,6-trimethyl-6-[(1S)-4-methylcyclohex-3-en-1-yl]oxan-3-one",
+    "[S-(R*,R*)]-dihydro-2,2,6-trimethyl-6-(4-methyl-3-cyclohexen-1-yl)-2H-pyran-3(4H)-one",
+    "(6S)-2,2,6-trimethyl-6-((1S)-4-methylcyclohex-3-en-1-yl)oxan-3-one",
+    "(S-(R*,R*))-Dihydro-2,2,6-trimethyl-6-(4-methyl-3-cyclohexen-1-yl)-2H-pyran-3(4H)-one",
+    "RefChem:70530",
+    "245-087-8",
+    "Bisabolone oxide A",
+    "22567-38-0",
+    "(S)-2,2,6-Trimethyl-6-((S)-4-methylcyclohex-3-en-1-yl)dihydro-2H-pyran-3(4H)-one",
+    "alpha-Bisabolone oxide A",
+    "(-)-.alpha.-Bisabolonoxide",
+    "orb1691052",
+    "SCHEMBL30105482",
+    "HY-N8120",
+    "AKOS040757506",
+    "CS-0140166",
+    "E88962",
+    "T39794",
+    "Q67879738",
+    "2H-Pyran-3(4H)-one, dihydro-2,2,6-trimethyl-6-(4-methyl-3-cyclohexen-1-yl)-, [S-(R*,R*)]-"
+  ]
+}

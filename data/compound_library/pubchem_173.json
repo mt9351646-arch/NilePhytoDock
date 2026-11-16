@@ -1,0 +1,63 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 61130,
+        "SMILES": "CC1(C2CC=C(C1C2)C=O)C",
+        "InChIKey": "KMRMUZKLFIEVAO-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Myrtenal",
+    "564-94-3",
+    "(1R)-(-)-Myrtenal",
+    "6,6-Dimethylbicyclo[3.1.1]hept-2-ene-2-carbaldehyde",
+    "Bicyclo[3.1.1]hept-2-ene-2-carboxaldehyde, 6,6-dimethyl-",
+    "D-myrtenal",
+    "(+)-Myrtenal",
+    "(1S)-Myrtenal",
+    "2-Formyl-6,6-dimethylbicyclo(3.1.1)hept-2-ene",
+    "2-Norpinene-2-carboxaldehyde, 6,6-dimethyl-",
+    "BICYCLO(3.1.1)HEPT-2-ENE-2-CARBOXALDEHYDE, 6,6-DIMETHYL-",
+    "(1R)-(?)-Myrtenal",
+    "(+/-)-MYRTENAL",
+    "(1S,5R)-(+)-6,6-Dimethyl-2-norpinene-2-carboxaldehyde",
+    "Myrtenal (Mixture of Enantiomers)",
+    "(1S)-6,6-Dimethylbicyclo[3.1.1]hept-2-ene-2-carboxaldehyde",
+    "6,6-Dimethylbicyclo(3.1.1)hept-2-ene-2-carboxaldehyde",
+    "6,6-DIMETHYLBICYCLO[3.1.1]HEPT-2-ENE-2-CARBOXALDEHYDE",
+    "6,6-Dimethylbicyclo[3.1.1]hept-2-ene-2-carboxaldehyde; (+/-)-Myrtenal; 6,6-Dimethyl-2-norpinene-2-carboxaldehyde; Benihinal; Myrtenal; NSC 54384",
+    "(1r)-(-) myrtenal",
+    "(?  currency)-Myrtenal",
+    "bmse000534",
+    "(1R)-6,6-Dimethylbicyclo[3.1.1]hept-2-en-2-carboxaldehyde",
+    "(1R)-2-Pinen-10-al",
+    "SCHEMBL228374",
+    "Bicyclo[3.1.1]hept-2-ene-2-carboxaldehyde, 6,6-dimethyl-, (1S)-",
+    "orb1986893",
+    "SCHEMBL4228929",
+    "FEMA 3395",
+    "NSC54384",
+    "AKOS000120250",
+    "( inverted exclamation markA)-Myrtenal",
+    "LMPR0102120023",
+    "2-Norpinene-2-carboxaldehyde,6-dimethyl-",
+    "DA-65738",
+    "SY431363",
+    "DB-065494",
+    "HY-121401",
+    "CS-0081952",
+    "NS00122901",
+    "EN300-20224",
+    "T28122",
+    "F614284",
+    "2-Norpinene-2-carboxaldehyde, 6,6-dimethyl- (8CI)",
+    "Bicyclo[3.1.1]hept-2-ene-2-carboxaldehyde,6-dimethyl-",
+    "6,6-Dimethyl-bicyclo [3.1.1]hept-2-ene-2-carbaldehyde",
+    "6,6-Dimethyl-bicyclo[3,1,1]hept-2-ene-2-carboxaldehyde",
+    "6,6-dimethyl-bicyclo[3.1.1]hept-2-ene-2-carboxaldehyde",
+    "6,6-Dimethylbicyclo[3.1.1]hept-2-ene-2-carbaldehyde #",
+    "bicyclo[3.1.1]hept-2-ene-2-carboxaldehyde, 6,6-dimethyl-,(1S)-"
+  ]
+}

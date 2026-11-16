@@ -1,0 +1,57 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6432005,
+        "SMILES": "CC1=C2C[C@@H](CC[C@]2(CCC1)C)C(C)(C)O",
+        "InChIKey": "WMOPMQRJLLIEJV-IUODEOHRSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "gamma-Eudesmol",
+    "Selinenol",
+    "1209-71-8",
+    "Machilol",
+    "Uncineol",
+    "eudesm-4-en-11-ol",
+    "(+)-gamma-eudesmol",
+    "2-[(2R,4aR)-4a,8-dimethyl-2,3,4,5,6,7-hexahydro-1H-naphthalen-2-yl]propan-2-ol",
+    "C3M974G2BE",
+    "CHEBI:62513",
+    "DTXSID301017639",
+    "2-[(2R,4aR)-4a,8-dimethyl-1,2,3,4,4a,5,6,7-octahydronaphthalen-2-yl]propan-2-ol",
+    "2-((2R,4aR)-4a,8-Dimethyl-1,2,3,4,4a,5,6,7-octahydronaphthalen-2-yl)propan-2-ol",
+    "2-((2R,4aR)-4a,8-dimethyl-2,3,4,5,6,7-hexahydro-1H-naphthalen-2-yl)propan-2-ol",
+    "RefChem:37474",
+    "DTXCID001475824",
+    "2-((2R,4aR)-4a,8-dimethyl-1,2,3,4,4a,5,6,7-octahydronaphthalen-2-yl)propan-2-ol;eudesm-4-en-11-ol",
+    ".gamma.-Eudesmol",
+    "Gamma-Eudesmol (>85%)",
+    "2-Naphthalenemethanol, 1,2,3,4,4a,5,6,7-octahydro-alpha,alpha,4a,8-tetramethyl-, (2R-cis)-",
+    "2-Naphthalenemethanol, 1,2,3,4,4a,5,6,7-octahydro-.alpha.,.alpha.,4a,8-tetramethyl-, (2R-cis)-",
+    "89422-73-1",
+    "1,3,6,8-Tetrachloro-2,7-dinitro-dibenzo[1,4]dioxin",
+    ".gamma.-Eudesmole",
+    "gama-Eudesmol",
+    "2-((4aR)-1,2,3,4,4alpha,5,6,7-octahydro-4alpha,8-dimethylnaphthalen-2-yl)-propan-2-ol",
+    "UNII-C3M974G2BE",
+    "EUDESMOL, .GAMMA.-",
+    "SCHEMBL194293",
+    "CHEMBL477900",
+    "orb3141918",
+    "(+)-.GAMMA.-EUDESMOL",
+    "[2R-cis]-1,2,3,4,4a,5,6,7-Octahydro-.alpha.,.alpha.,4a,8-tetramethyl-2-naphthalenemethanol",
+    "HY-N0065",
+    "TN11518",
+    "(2R-cis)-1,2,3,4,4a,5,6,7-Octahydro-alpha,alpha,4a,8-tetramethyl-2-naphthalenemethanol",
+    "CS-0007112",
+    "NS00126364",
+    "C17124",
+    "H59687",
+    "Q27131974",
+    "2-naphthalenemethanol, 1,2,3,4,4a,5,6,7-octahydro-a,a,4a,8-tetramethyl-, (2R,4aR)-",
+    "(2R,4AR)-1,2,3,4,4A,5,6,7-OCTAHYDRO-.ALPHA.,.ALPHA.,4A,8-TETRAMETHYL-2-NAPHTHALENEMETHANOL",
+    "2-NAPHTHALENEMETHANOL, 1,2,3,4,4A,5,6,7-OCTAHYDRO-.ALPHA.,.ALPHA.,4A,8-TETRAMETHYL-, (2R,4AR)-"
+  ]
+}

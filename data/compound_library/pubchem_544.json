@@ -1,0 +1,40 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5368451,
+        "SMILES": "CC(=C)/C=C/C=C(\\C)/C=C",
+        "InChIKey": "HPZWSJQQCJZBBG-LQPGMRSMSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Cosmene",
+    "Cosmen",
+    "460-01-5",
+    "(3E,5E)-2,6-Dimethyl-1,3,5,7-octatetraene",
+    "(3E,5E)-2,6-dimethylocta-1,3,5,7-tetraene",
+    "BB1XPU95WD",
+    "UNII-BB1XPU95WD",
+    "2,6-Dimethyl-1,3,5,7-octatetraene, E,E-",
+    "trans,trans-2,6-Dimethyl-1,3,5,7-octatetraene",
+    "1,3,5,7-Octatetraene, 2,6-dimethyl-, (3E,5E)-",
+    "(E)-2,6-Dimethyl-1,3,5,7-octatetraene",
+    "2,6-Dimethyl-1,3(E),5(E),7-octatetraene",
+    "RefChem:128191",
+    "HPZWSJQQCJZBBG-LQPGMRSMSA-N",
+    "HPZWSJQQCJZBBG-QDJLDCPTSA-N",
+    "(e,e)-2,6-dimethyl-1,3,5,7-octatetraene",
+    "(3E,5E)-2,6-Dimethyl-1,3,5,7-octatetrene",
+    "SCHEMBL10936108",
+    "SCHEMBL21382736",
+    "CHEBI:90063",
+    "DTXSID301020808",
+    "Cosmene DISCONTINUED, UNSTABLE",
+    "AT49330",
+    "2,6-dimethyl-1,3,5,7-octatetraene, E",
+    "E,E-2,6-dimethyl-1,3,5,7-octatetraene",
+    "(3E,5E)-2,6-Dimethyl-1,3,5,7-octatetraene #",
+    "Q24817453"
+  ]
+}

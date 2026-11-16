@@ -1,0 +1,722 @@
+[
+  {
+    "size": [
+      1366,
+      768
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Dashboard",
+    "client_logical_size": [
+      1283,
+      700
+    ],
+    "content_size": [
+      1003,
+      601
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1366x768_0.png"
+  },
+  {
+    "size": [
+      1366,
+      768
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Essential Oil Library",
+    "client_logical_size": [
+      1283,
+      700
+    ],
+    "content_size": [
+      1003,
+      601
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1366x768_1.png"
+  },
+  {
+    "size": [
+      1366,
+      768
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Protein Manager",
+    "client_logical_size": [
+      1283,
+      700
+    ],
+    "content_size": [
+      993,
+      768
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 167,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1366x768_2.png"
+  },
+  {
+    "size": [
+      1366,
+      768
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Binding Site Explorer",
+    "client_logical_size": [
+      1283,
+      700
+    ],
+    "content_size": [
+      993,
+      816
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 215,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1366x768_3.png"
+  },
+  {
+    "size": [
+      1366,
+      768
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Docking Workspace",
+    "client_logical_size": [
+      1283,
+      700
+    ],
+    "content_size": [
+      993,
+      1231
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 725,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1366x768_4.png"
+  },
+  {
+    "size": [
+      1366,
+      768
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Screening Results",
+    "client_logical_size": [
+      1283,
+      700
+    ],
+    "content_size": [
+      1003,
+      601
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1366x768_5.png"
+  },
+  {
+    "size": [
+      1366,
+      768
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Interaction Explorer",
+    "client_logical_size": [
+      1283,
+      700
+    ],
+    "content_size": [
+      993,
+      1037
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 436,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1366x768_6.png"
+  },
+  {
+    "size": [
+      1366,
+      768
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Oil Ranking",
+    "client_logical_size": [
+      1283,
+      700
+    ],
+    "content_size": [
+      1003,
+      601
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1366x768_7.png"
+  },
+  {
+    "size": [
+      1366,
+      768
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Analysis & Visualization",
+    "client_logical_size": [
+      1283,
+      700
+    ],
+    "content_size": [
+      1003,
+      601
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1366x768_8.png"
+  },
+  {
+    "size": [
+      1366,
+      768
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Reports",
+    "client_logical_size": [
+      1283,
+      700
+    ],
+    "content_size": [
+      1003,
+      601
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1366x768_9.png"
+  },
+  {
+    "size": [
+      1366,
+      768
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Settings",
+    "client_logical_size": [
+      1283,
+      700
+    ],
+    "content_size": [
+      1003,
+      601
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1366x768_10.png"
+  },
+  {
+    "size": [
+      1366,
+      768
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Molecular Analysis",
+    "client_logical_size": [
+      1283,
+      700
+    ],
+    "content_size": [
+      1003,
+      601
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1366x768_11.png"
+  },
+  {
+    "size": [
+      1920,
+      1080
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Dashboard",
+    "client_logical_size": [
+      1920,
+      1080
+    ],
+    "content_size": [
+      1640,
+      981
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1920x1080_0.png"
+  },
+  {
+    "size": [
+      1920,
+      1080
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Essential Oil Library",
+    "client_logical_size": [
+      1920,
+      1080
+    ],
+    "content_size": [
+      1640,
+      981
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1920x1080_1.png"
+  },
+  {
+    "size": [
+      1920,
+      1080
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Protein Manager",
+    "client_logical_size": [
+      1920,
+      1080
+    ],
+    "content_size": [
+      1640,
+      981
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1920x1080_2.png"
+  },
+  {
+    "size": [
+      1920,
+      1080
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Binding Site Explorer",
+    "client_logical_size": [
+      1920,
+      1080
+    ],
+    "content_size": [
+      1640,
+      981
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1920x1080_3.png"
+  },
+  {
+    "size": [
+      1920,
+      1080
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Docking Workspace",
+    "client_logical_size": [
+      1920,
+      1080
+    ],
+    "content_size": [
+      1630,
+      1212
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 326,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1920x1080_4.png"
+  },
+  {
+    "size": [
+      1920,
+      1080
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Screening Results",
+    "client_logical_size": [
+      1920,
+      1080
+    ],
+    "content_size": [
+      1640,
+      981
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1920x1080_5.png"
+  },
+  {
+    "size": [
+      1920,
+      1080
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Interaction Explorer",
+    "client_logical_size": [
+      1920,
+      1080
+    ],
+    "content_size": [
+      1640,
+      981
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1920x1080_6.png"
+  },
+  {
+    "size": [
+      1920,
+      1080
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Oil Ranking",
+    "client_logical_size": [
+      1920,
+      1080
+    ],
+    "content_size": [
+      1640,
+      981
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1920x1080_7.png"
+  },
+  {
+    "size": [
+      1920,
+      1080
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Analysis & Visualization",
+    "client_logical_size": [
+      1920,
+      1080
+    ],
+    "content_size": [
+      1640,
+      981
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1920x1080_8.png"
+  },
+  {
+    "size": [
+      1920,
+      1080
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Reports",
+    "client_logical_size": [
+      1920,
+      1080
+    ],
+    "content_size": [
+      1640,
+      981
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1920x1080_9.png"
+  },
+  {
+    "size": [
+      1920,
+      1080
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Settings",
+    "client_logical_size": [
+      1920,
+      1080
+    ],
+    "content_size": [
+      1640,
+      981
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1920x1080_10.png"
+  },
+  {
+    "size": [
+      1920,
+      1080
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Molecular Analysis",
+    "client_logical_size": [
+      1920,
+      1080
+    ],
+    "content_size": [
+      1640,
+      981
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\1920x1080_11.png"
+  },
+  {
+    "size": [
+      2560,
+      1440
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Dashboard",
+    "client_logical_size": [
+      2560,
+      1440
+    ],
+    "content_size": [
+      2280,
+      1341
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\2560x1440_0.png"
+  },
+  {
+    "size": [
+      2560,
+      1440
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Essential Oil Library",
+    "client_logical_size": [
+      2560,
+      1440
+    ],
+    "content_size": [
+      2280,
+      1341
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\2560x1440_1.png"
+  },
+  {
+    "size": [
+      2560,
+      1440
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Protein Manager",
+    "client_logical_size": [
+      2560,
+      1440
+    ],
+    "content_size": [
+      2280,
+      1341
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\2560x1440_2.png"
+  },
+  {
+    "size": [
+      2560,
+      1440
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Binding Site Explorer",
+    "client_logical_size": [
+      2560,
+      1440
+    ],
+    "content_size": [
+      2280,
+      1341
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\2560x1440_3.png"
+  },
+  {
+    "size": [
+      2560,
+      1440
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Docking Workspace",
+    "client_logical_size": [
+      2560,
+      1440
+    ],
+    "content_size": [
+      2280,
+      1246
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\2560x1440_4.png"
+  },
+  {
+    "size": [
+      2560,
+      1440
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Screening Results",
+    "client_logical_size": [
+      2560,
+      1440
+    ],
+    "content_size": [
+      2280,
+      1341
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\2560x1440_5.png"
+  },
+  {
+    "size": [
+      2560,
+      1440
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Interaction Explorer",
+    "client_logical_size": [
+      2560,
+      1440
+    ],
+    "content_size": [
+      2280,
+      1341
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\2560x1440_6.png"
+  },
+  {
+    "size": [
+      2560,
+      1440
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Oil Ranking",
+    "client_logical_size": [
+      2560,
+      1440
+    ],
+    "content_size": [
+      2280,
+      1341
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\2560x1440_7.png"
+  },
+  {
+    "size": [
+      2560,
+      1440
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Analysis & Visualization",
+    "client_logical_size": [
+      2560,
+      1440
+    ],
+    "content_size": [
+      2280,
+      1341
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\2560x1440_8.png"
+  },
+  {
+    "size": [
+      2560,
+      1440
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Reports",
+    "client_logical_size": [
+      2560,
+      1440
+    ],
+    "content_size": [
+      2280,
+      1341
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\2560x1440_9.png"
+  },
+  {
+    "size": [
+      2560,
+      1440
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Settings",
+    "client_logical_size": [
+      2560,
+      1440
+    ],
+    "content_size": [
+      2280,
+      1341
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\2560x1440_10.png"
+  },
+  {
+    "size": [
+      2560,
+      1440
+    ],
+    "requested_qt_scale": 1.0,
+    "actual_device_pixel_ratio": 1.5,
+    "page": "Molecular Analysis",
+    "client_logical_size": [
+      2560,
+      1440
+    ],
+    "content_size": [
+      2280,
+      1341
+    ],
+    "horizontal_scroll_max": 0,
+    "vertical_scroll_max": 0,
+    "screenshot": "data\\validation\\comprehensive_layout\\1.0\\2560x1440_11.png"
+  }
+]

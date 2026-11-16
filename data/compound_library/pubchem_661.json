@@ -1,0 +1,36 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 12309452,
+        "SMILES": "CC(=C1CC[C@]([C@H](C1)C(=C)C)(C)C=C)C",
+        "InChIKey": "BQSLMQNYHVFRDT-CABCVRRESA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "gamma-Elemene",
+    "WYM3TH44BC",
+    "(-)-gamma-Elemene",
+    "29873-99-2",
+    "gamma-Elemene, (-)-",
+    "DTXSID00881215",
+    "CHEBI:132656",
+    "RefChem:1085692",
+    "DTXCID101022541",
+    "(1R,2R)-1-ethenyl-1-methyl-4-propan-2-ylidene-2-prop-1-en-2-ylcyclohexane",
+    "(1S,2S)-1-ethenyl-1-methyl-4-propan-2-ylidene-2-prop-1-en-2-ylcyclohexane",
+    "UNII-WYM3TH44BC",
+    "o-Menth-8-ene, 4-isopropylidene-1-vinyl-, (-)-",
+    "(1R,2R)-1-Ethenyl-1-methyl-2-(1-methylethenyl)-4-(1-methylethylidene)cyclohexane",
+    "Cyclohexane, 1-ethenyl-1-methyl-2-(1-methylethenyl)-4-(1-methylethylidene)-, (1R,2R)-",
+    "Cyclohexane, 1-ethenyl-1-methyl-2-(1-methylethenyl)-4-(1-methylethylidene)-, (1R-trans)-",
+    ".gamma.-Elemene",
+    "(-)-.gamma.-Elemene",
+    "SCHEMBL309941",
+    "1-ethenyl-1-methyl-2-(1-methylethenyl)-4-(1-methylethylidene)-cyclohexane",
+    ".GAMMA.-ELEMENE, (-)-",
+    "NS00096356",
+    "(1R,2R)-1-Ethenyl-1-methyl-4-(propan-2-ylidene)-2-(prop-1-en-2-yl)cyclohexane"
+  ]
+}

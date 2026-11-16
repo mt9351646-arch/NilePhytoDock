@@ -1,0 +1,48 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 92231,
+        "SMILES": "C[C@@]1(CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CCC2=C)O",
+        "InChIKey": "FRMCCTDTYSRUBE-BGPZULBFSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Spathulenol",
+    "6750-60-3",
+    "(+)-Spathulenol",
+    "7XV9L96SJJ",
+    "CHEBI:132824",
+    "(1aR,4aR,7S,7aR,7bR)-1,1,7-trimethyl-4-methylidene-1a,2,3,4a,5,6,7a,7b-octahydrocyclopropa[h]azulen-7-ol",
+    "DTXSID00881210",
+    "(1aR,4aR,7S,7aR,7bR)-1,1,7-trimethyl-4-methylidene-1a,2,3,4a,5,6,7a,7b-octahydrocyclopropa(h)azulen-7-ol",
+    "RefChem:48473",
+    "1,7,7-trimethyl-4-methylidene-decahydro-1H-cyclopropa(e)azulen-1-ol",
+    "DTXCID601022491",
+    "espatulenol",
+    "Spatulenol",
+    "UNII-7XV9L96SJJ",
+    "sphatulenol",
+    "Spathulenol?",
+    "SCHEMBL309962",
+    "decahydro-1,1,7-trimethyl-4-methylene-1h-cycloprop[e]azulen-7-ol",
+    "CHEMBL518542",
+    "orb1684200",
+    "HY-N1205",
+    "TN2233",
+    "AKOS037515399",
+    "FS63189",
+    "spathulenol,(+)-spathulenol,espatulenol",
+    "DA-67713",
+    "MS-23227",
+    "CS-0016592",
+    "F82083",
+    "Q1376658",
+    "1H-CYCLOPROP(E)AZULEN-7-OL, DECAHYDRO-1,1,7-TRIMETHYL-4-METHYLENE-",
+    "(1aR,4aR,7S,7aR,7bR)-1,1,7-trimethyl-4-methylidenedecahydro-1H-cyclopropa[e]azulen-7-ol",
+    "(1aR,4aR,7S,7aR,7bR)-1,1,7-trimethyl-4-methylene-1a,2,3,4a,5,6,7a,7b-octahydrocyclopropa[h]azulen-7-ol",
+    "[1ar-(1aalpha,4aalpha,7beta,7abeta,7balpha)]-decahydro-1,1,7-trimethyl-4-methylene-1H-cycloprop[e]azulen-7-ol",
+    "1H-CYCLOPROP(E)AZULEN-7-OL, DECAHYDRO-1,1,7-TRIMETHYL-4-METHYLENE-, (1AR,4AR,7S,7AR,7BR)-"
+  ]
+}

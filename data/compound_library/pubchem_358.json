@@ -1,0 +1,26 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5352456,
+        "SMILES": "CCC/C=C/COC(=O)C1=CC=CC=C1",
+        "InChIKey": "IRWNFSMZBFIURE-XBXARRHUSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "RefChem:1092854",
+    "Npc201877",
+    "E-2-Hexenyl benzoate",
+    "(e)-2-hexenyl benzoate",
+    "(2E)-2-Hexenyl benzoate",
+    "(2E)-HEX-2-EN-1-YL BENZOATE",
+    "hexenyl benzoate, (2E)",
+    "(E)-2-Hexen-1-yl-benzoate",
+    "(E)-2-Hexen-1-ol, benzoate",
+    "SCHEMBL29080210",
+    "2-Hexen-1-ol, benzoate, trans",
+    "IRWNFSMZBFIURE-XBXARRHUSA-N",
+    "Q67880210"
+  ]
+}

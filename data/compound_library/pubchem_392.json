@@ -1,0 +1,33 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 103653,
+        "SMILES": "CCC(C)COC(=O)C1=CC=CC=C1",
+        "InChIKey": "PYZHESNNAPENLQ-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "2-Methylbutyl benzoate",
+    "1-Butanol, 2-methyl-, benzoate",
+    "1-Butanol, 2-methyl-, 1-benzoate",
+    "EINECS 257-982-0",
+    "DTXSID00866269",
+    "RefChem:88275",
+    "2-Methylbutyl benzoic acid",
+    "DTXCID90814572",
+    "257-982-0",
+    "52513-03-8",
+    "2-methyl butyl benzoate",
+    "SCHEMBL442774",
+    "SCHEMBL9724768",
+    "Benzoic acid, 2-methylbutyl ester",
+    "2-methylbutyl benzoate, AldrichCPR",
+    "SBB061296",
+    "AKOS006292573",
+    "DB-314161",
+    "NS00057603",
+    "ST51047325"
+  ]
+}

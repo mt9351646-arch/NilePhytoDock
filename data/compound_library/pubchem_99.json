@@ -1,0 +1,26 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6434062,
+        "SMILES": "CC(C)/C=C/C=C(\\C)/C=C",
+        "InChIKey": "PMRMCTRIVCIICU-LQPGMRSMSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "29714-87-2",
+    "EINECS 249-805-0",
+    "2,6-Dimethyloctane, hexadehydro derivative",
+    "11LWZ8H108",
+    "ocimenes",
+    "OCIMENE [MI]",
+    "RefChem:855387",
+    "CHEBI:87751",
+    "OCIMENE",
+    "Octatriene, dimethyl-",
+    "UNII-11LWZ8H108",
+    "SCHEMBL28846606",
+    "PMRMCTRIVCIICU-LQPGMRSMSA-N"
+  ]
+}

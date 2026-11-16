@@ -1,0 +1,52 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 23617864,
+        "SMILES": "CCC(=O)O[C@@H]1C[C@H]2CC[C@@]1(C2(C)C)C",
+        "InChIKey": "FAFMZORPAAGQFV-BREBYQMCSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Isobornyl propionate",
+    "Isoborneol, propionate",
+    "2756-56-1",
+    "FEMA No. 2163",
+    "7T3RQY66IC",
+    "iso-Bornyl Propionate",
+    "Exo-2-Bornyl propionate",
+    "Exo-2-Camphanyl propionate",
+    "Bicyclo(2.2.1)heptan-2-ol, 1,7,7-trimethyl-, propanoate, exo-",
+    "Bicyclo(2.2.1)heptan-2-ol, 1,7,7-trimethyl-, 2-propanoate, (1R,2R,4R)-rel-",
+    "Bicyclo(2.2.1)heptan-2-ol, 1,7,7-trimethyl-, propanoate, (1R,2R,4R)-rel-",
+    "NSC-67993",
+    "RefChem:791576",
+    "220-410-5",
+    "(1,7,7-trimethyl-2-bicyclo(2.2.1)heptanyl) propanoate",
+    "1,7,7-trimethylbicyclo(2.2.1)heptan-2-yl propanoate",
+    "Isobornyl propanoate",
+    "DTXSID2042062",
+    "[(1R,2R,4R)-1,7,7-trimethyl-2-bicyclo[2.2.1]heptanyl] propanoate",
+    "UNII-7T3RQY66IC",
+    "2-Bornyl propionate, exo-",
+    "2-Camphanyl propionate, exo-",
+    "EINECS 220-410-5",
+    "NSC 67993",
+    "AI3-04363",
+    "exo-1,7,7-Trimethylbicyclo(2.2.1)hept-2-yl propionate",
+    "CHEMBL3187995",
+    "DTXCID0022062",
+    "SCHEMBL29361786",
+    "FAFMZORPAAGQFV-BREBYQMCSA-N",
+    "1,7,7-Trimethylbicyclo(2.2.1)heptan-2-yl propanoate, exo-",
+    "ISOBORNYL PROPIONATE [FHFI]",
+    "(+/-)-ISOBORNYL PROPIONATE",
+    "Tox21_301344",
+    "PROPIONIC ACID, ISOBORNYL ESTER",
+    "ISOBORNYL PROPIONATE, (+/-)-",
+    "NCGC00255923-01",
+    "CAS-2756-56-1",
+    "Q27268818"
+  ]
+}

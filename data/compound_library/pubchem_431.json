@@ -1,0 +1,41 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 94164,
+        "SMILES": "CC(=CCCC1(C2CC3C1(C3C2)C)C)C",
+        "InChIKey": "KWFJIXPIFLVMPM-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Santalene",
+    "alpha-Santalene",
+    "512-61-8",
+    "Santalen",
+    ".alpha.-Santalene",
+    "1,7-dimethyl-7-(4-methylpent-3-en-1-yl)tricyclo[2.2.1.02,6]heptane",
+    "Tricyclo[2.2.1.0(2,6)]heptane, 1,7-dimethyl-7-(4-methyl-3-pentenyl)-, (-)-",
+    "1,7-dimethyl-7-(4-methylpent-3-enyl)tricyclo[2.2.1.02,6]heptane",
+    "(-)-.alpha.-Santalene",
+    "CG25XV7SXN",
+    "a-Santalene",
+    "alpha -santalene",
+    "Tricyclo(2.2.1.0(2,6))heptane, 1,7-dimethyl-7-(4-methyl-3-pentenyl)-, (-)-",
+    "(-)-alpha -santalene",
+    "starbld0007845",
+    "UNII-CG25XV7SXN",
+    "alpha-Santalene, (-)-",
+    "hexaphenyl-cyclotrisiloxane",
+    "SCHEMBL2184210",
+    "SCHEMBL4368189",
+    "SCHEMBL4622998",
+    "AAA51261",
+    "AKOS024264302",
+    "DA-67400",
+    "NS00123013",
+    "Q29529955",
+    "2,3-dimethyl-2-(4-methyl-3-pentenyl)-tricyclo[2.2.1.02,6]heptane",
+    "1,7-Dimethyl-7-(4-methyl-3-pentenyl)-tricyclo[2.2.1.0(2,6)]heptane, (-)-"
+  ]
+}

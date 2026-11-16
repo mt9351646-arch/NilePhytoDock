@@ -1,0 +1,43 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6443227,
+        "SMILES": "CC(=CCC/C(=C/CC/C(=C/C=C)/C)/C)C",
+        "InChIKey": "CWLVBFJCJXHUCF-RNPYNJAESA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "62235-06-7",
+    "(e,e)-4,8,12-trimethyl-1,3,7,11-tridecatetraene",
+    "DTXSID101244597",
+    "RefChem:1050953",
+    "DTXCID001675458",
+    "(3E,7E)-4,8,12-trimethyltrideca-1,3,7,11-tetraene",
+    "TMTT",
+    "MFCD28968984",
+    "1,3,7,11-Tridecatetraene, 4,8,12-trimethyl-, (3E,7E)-",
+    "4,8,12-trimethyltrideca 1,3,7,11-tetraene",
+    "(3e,7e)-4,8,12-trimethyl-1,3,7,11-tridecatetraene",
+    "2,6,10-Trimethyl-(E,E)-2,6,10,12-tridecatetraene",
+    "4,8,12-trimethyltrideca-1,3,7,11-tetraene",
+    "starbld0005077",
+    "orb3179505",
+    "SCHEMBL6882595",
+    "SCHEMBL6905662",
+    "CHEBI:74322",
+    "CWLVBFJCJXHUCF-RNPYNJAESA-N",
+    "LMFA11000335",
+    "AKOS025296143",
+    "DB-214826",
+    "C20700",
+    "G63212",
+    "F574734",
+    "(E,E)-4,8,12-Trimethyltrideca-1,3,7,11-tetraene",
+    "Q27144612",
+    "(3E,7E)-4,8,12-trimethyltrideca 1,3,7,11-tetraene",
+    "1,3,7,11-Tridecatetraene, 4,8,12-trimethyl-, (E,E)-",
+    "(3E,7E)-4,8,12-Trimethyltrideca-1,3,7,11-tetraene, stab. with TBC"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 102443,
+        "SMILES": "CC1CCC(=C(C)C)C=C1",
+        "InChIKey": "CIPXOBMYVWRNLL-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Isoterpinolene",
+    "p-Mentha-2,4(8)-diene",
+    "586-63-0",
+    "3-Methyl-6-(1-methylethylidene)cyclohexene",
+    "3-methyl-6-propan-2-ylidenecyclohexene",
+    "VR4XVW6V2H",
+    "3-METHYL-6-(PROPAN-2-YLIDENE)CYCLOHEX-1-ENE",
+    "EINECS 209-579-6",
+    "p-2,4(8)-Menthadiene",
+    "para-Mentha-2,4(8)-diene",
+    "3-Methyl-6-(1-methylethylidene)-cyclohexene",
+    "CHEBI:88840",
+    "DTXSID80862244",
+    "3-Isopropylidene-6-methyl-cyclohexene",
+    "RefChem:150026",
+    "DTXCID60811038",
+    "3-methyl-6-(propan-2-ylidene)cyclohexene",
+    "209-579-6",
+    "CIPXOBMYVWRNLL-UHFFFAOYSA-N",
+    "Cyclohexene, 3-methyl-6-(1-methylethylidene)-",
+    "2,4(8)-p-Menthadiene",
+    "UNII-VR4XVW6V2H",
+    "rho-mentha-2,4(8)-diene",
+    "SCHEMBL2703916",
+    "NS00042611",
+    "3-Methyl-6-(1-methylethylidene)-1-cyclohexene #",
+    "Q24514387"
+  ]
+}

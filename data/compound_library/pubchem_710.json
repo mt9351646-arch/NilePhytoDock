@@ -1,0 +1,30 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6429195,
+        "SMILES": "CC1(C2CC=C(C1C2)COC=O)C",
+        "InChIKey": "QHPJGDWWLWJMPM-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "72928-52-0",
+    "DTXSID00868208",
+    "RefChem:1079795",
+    "DTXCID70816337",
+    "Bicyclo(3.1.1)hept-2-ene-2-methanol, 6,6-dimethyl-, 2-formate",
+    "Myrtenyl formate",
+    "(+)-Myrtenyl formate",
+    "(6,6-dimethyl-2-bicyclo[3.1.1]hept-2-enyl)methyl formate",
+    "(6,6-DIMETHYLBICYCLO[3.1.1]HEPT-2-EN-2-YL)METHYL FORMATE",
+    "{6,6-DIMETHYLBICYCLO[3.1.1]HEPT-2-EN-2-YL}METHYL FORMATE",
+    "2-pinen-10-yl formate",
+    "SCHEMBL17580644",
+    "FEMA 3405",
+    "CHEBI:195868",
+    "(7,7-dimethyl-4-bicyclo[3.1.1]hept-3-enyl)methyl Formate",
+    "NS00060652",
+    "(6,6-dimethyl-2-bicyclo[3.1.1]hept-2-enyl)methyl ormate"
+  ]
+}

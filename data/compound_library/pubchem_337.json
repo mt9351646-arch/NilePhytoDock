@@ -1,0 +1,32 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5363400,
+        "SMILES": "CC/C=C\\COC(=O)C",
+        "InChIKey": "WGGJTPQHVFOGPN-PLNGDYQASA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(Z)-Pent-2-en-1-yl acetate",
+    "cis-2-Pentenyl acetate",
+    "(Z)-2-Pentenyl acetate",
+    "2-Penten-1-ol, 1-acetate, (2Z)-",
+    "EINECS 255-666-7",
+    "(2Z)-2-Pentenyl acetate",
+    "cis-2-Penten-1-ol, acetate",
+    "DTXSID601014927",
+    "RefChem:70618",
+    "DTXCID001473266",
+    "255-666-7",
+    "WGGJTPQHVFOGPN-PLNGDYQASA-N",
+    "42125-10-0",
+    "2-Penten-1-ol, acetate, (Z)-",
+    "[(Z)-pent-2-enyl] acetate",
+    "(2Z)-PENT-2-EN-1-YL ACETATE",
+    "2-Penten-1-ol, acetate, (2Z)-",
+    "SCHEMBL4740509",
+    "NS00056825"
+  ]
+}

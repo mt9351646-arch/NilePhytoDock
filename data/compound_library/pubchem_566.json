@@ -1,0 +1,29 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6429112,
+        "SMILES": "CC(C)C1=CCC(=CC1)C=O",
+        "InChIKey": "NIBUJHLMVJZODW-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "p-Mentha-1,4-dien-7-al",
+    "22580-90-1",
+    ".gamma.-Terpinen-7-al",
+    "1,4-p-Menthadien-7-al",
+    "1,4-Cyclohexadiene-1-carboxaldehyde, 4-(1-methylethyl)-",
+    "DTXSID90423901",
+    "4-Isopropylcyclohexa-1,4-dienecarbaldehyde",
+    "4-Isopropylcyclohexa-1,4-diene-1-carboxaldehyde",
+    "1,4-Cyclohexadiene-1-carboxaldehyde, 4-isopropyl-",
+    "gamma-Terpinen-7-al",
+    "RefChem:169341",
+    "DTXCID60374739",
+    "NIBUJHLMVJZODW-UHFFFAOYSA-N",
+    "CTK0J6289",
+    "SCHEMBL229974",
+    "4-(propan-2-yl)cyclohexa-1,4-diene-1-carbaldehyde"
+  ]
+}

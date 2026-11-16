@@ -1,0 +1,20 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 13818874,
+        "SMILES": "C/C/1=C\\CC/C(=C\\[C@@H]2[C@@H](C2(C)C)CC1)/C=O",
+        "InChIKey": "BLCUVJCHWZPQCX-UMDNKZHUSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(-)-ISOBICYCLOGERMACRENAL",
+    "Isobicyclogermacrenal",
+    "73256-82-3",
+    "isobicyclo-germacrenal",
+    "HY-N8138",
+    "(1R,2E,6E,10S)-7,11,11-TRIMETHYLBICYCLO[8.1.0]UNDECA-2,6-DIENE-3-CARBALDEHYDE",
+    "CS-0140185"
+  ]
+}

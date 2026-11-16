@@ -1,0 +1,47 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 136330,
+        "SMILES": "CC1=CC=CC(CC1=O)(C)C",
+        "InChIKey": "QNGQIURXCUHNAT-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Eucarvone",
+    "503-93-5",
+    "2,6,6-trimethylcyclohepta-2,4-dien-1-one",
+    "2,4-Cycloheptadien-1-one, 2,6,6-trimethyl-",
+    "DTXSID00198310",
+    "6H2K49X6B0",
+    "NSC-127544",
+    "NSC 127544",
+    "RefChem:596889",
+    "DTXCID30120801",
+    "2,6,6-Trimethyl-2,4-cycloheptadien-1-one",
+    "2,6,6-Trimethylcyclohepta-2,4-dienone",
+    "2, 2,6,6-trimethyl-",
+    "SCHEMBL1655454",
+    "MFCD00182537",
+    "FS-2395",
+    "2,6,6-Trimethyl-2,4-cycloheptadien-1-one #",
+    "D92536",
+    "Eucarvon",
+    "NSC127544",
+    "UNII-6H2K49X6B0",
+    "orb1299089",
+    "CHEBI:80820",
+    "2,6,6-trimethyl-cyclohepta-2,4-d",
+    "AKOS006230586",
+    "EBC-617628",
+    "2,4-cycloheptadiene-1-one-2,6,6-trimethyl",
+    "CS-0134526",
+    "T8250",
+    "2,6,6-trimethyl-cyclohepta-2,4-dien-1-one",
+    "C16955",
+    "(2Z,4Z)-2,6,6-trimethylcyclohepta-2,4-dienone",
+    "F046899",
+    "Q27149863"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 10964588,
+        "SMILES": "C[C@H](CCC=C)C=C(C)C",
+        "InChIKey": "FYZHLRMYDRUDES-SNVBAGLBSA-N"
+      },
+      {
+        "CID": 14682369,
+        "SMILES": "C[C@@H](CCC=C)C=C(C)C",
+        "InChIKey": "FYZHLRMYDRUDES-JTQLQIEISA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "ISOCITRONELLENE",
+    "85006-04-8",
+    "(R)-5,7-Dimethylocta-1,6-diene",
+    "(5R)-5,7-DIMETHYLOCTA-1,6-DIENE",
+    "DTXSID001316991",
+    "RefChem:923658",
+    "DTXCID801746813",
+    "285-035-1",
+    "EINECS 285-035-1",
+    "R(+)5,7-Dimethyl-1,6-octadiene",
+    "5,7-Dimethyl-1,6-octadiene, (R)-",
+    "1,6-Octadiene, 5,7-dimethyl-, (R)-",
+    "SCHEMBL30895369",
+    "AKOS006238542",
+    "NS00060204"
+  ]
+}

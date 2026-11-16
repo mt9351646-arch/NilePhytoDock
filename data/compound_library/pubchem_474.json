@@ -1,0 +1,40 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 442674,
+        "SMILES": "C1[C@@H]2[C@@H]3[C@@H]([C@H]([C@@H](O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C6=C5[C@H]([C@@H](C(=O)O3)CC(=O)O)[C@@H](C(=O)O6)O)O)O)OC(=O)C7=CC(=C(C(=C7C8=C(C(=C(C=C8C(=O)O1)O)O)O)O)O)O",
+        "InChIKey": "HGJXAVROWQLCTP-YABCKIEDSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Chebulagic acid",
+    "23094-71-5",
+    "DTXSID401026980",
+    "NSC-342674",
+    "RefChem:32137",
+    "DTXCID201765669",
+    "(2R,3S)-2-(4-hydroxyphenyl)-8-((2R,3S,4S)-3,5,7-trihydroxy-2-(4-hydroxyphenyl)chroman-4-yl)chromane-3,5,7-triol",
+    "2-(13,14,15,18,19,20,31,35,36-nonahydroxy-2,10,23,28,32-pentaoxo-5-(3,4,5-trihydroxybenzoyl)oxy-3,6,9,24,27,33-hexaoxaheptacyclo(28.7.1.04,25.07,26.011,16.017,22.034,38)octatriaconta-1(37),11,13,15,17,19,21,34(38),35-nonaen-29-yl)acetic acid",
+    "JW8L3F5IW9",
+    "2-[(4R,5S,7R,25S,26R,29S,30S,31S)-13,14,15,18,19,20,31,35,36-Nonahydroxy-2,10,23,28,32-pentaoxo-5-(3,4,5-trihydroxybenzoyl)oxy-3,6,9,24,27,33-hexaoxaheptacyclo[28.7.1.04,25.07,26.011,16.017,22.034,38]octatriaconta-1(37),11,13,15,17,19,21,34(38),35-nonaen-29-yl]acetic acid",
+    "CHEMBL525240",
+    "NSC636590",
+    "2-[nonahydroxy-pentaoxo-(3,4,5-trihydroxybenzoyl)oxy-[?]yl]acetic acid",
+    "C41H30O27",
+    "MFCD09264640",
+    "CHEBI:3583",
+    "orb1296151",
+    "orb3139946",
+    "SCHEMBL27906844",
+    "SCHEMBL29395411",
+    "GN-29",
+    "BDBM50366290",
+    "FC157417",
+    "E80601",
+    "F851289",
+    "Q5089009",
+    ".beta.-D-Glucopyranose, cyclic 3,6-[(1R)-4,4',5,5',6,6'-hexahydroxy[1,1'-biphenyl]-2,2'-dicarboxylate] 1-(3,4,5-trihydroxybenzoate), cyclic"
+  ]
+}

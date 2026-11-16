@@ -1,0 +1,42 @@
+[
+  {
+    "id": 84,
+    "name": "Nonacosane",
+    "reason": "Standard scope review: Outside the standard small-molecule preparation scope (900 Da, 80 heavy atoms, 25 rotatable bonds); specialist protocol review required; candidate files and previous raw results retained."
+  },
+  {
+    "id": 85,
+    "name": "Triacontane",
+    "reason": "Standard scope review: Outside the standard small-molecule preparation scope (900 Da, 80 heavy atoms, 25 rotatable bonds); specialist protocol review required; candidate files and previous raw results retained."
+  },
+  {
+    "id": 120,
+    "name": "Pentatriacontane",
+    "reason": "Standard scope review: Outside the standard small-molecule preparation scope (900 Da, 80 heavy atoms, 25 rotatable bonds); specialist protocol review required; candidate files and previous raw results retained."
+  },
+  {
+    "id": 122,
+    "name": "Hexatriacontane",
+    "reason": "Standard scope review: Outside the standard small-molecule preparation scope (900 Da, 80 heavy atoms, 25 rotatable bonds); specialist protocol review required; candidate files and previous raw results retained."
+  },
+  {
+    "id": 123,
+    "name": "Tetracontane",
+    "reason": "Standard scope review: Outside the standard small-molecule preparation scope (900 Da, 80 heavy atoms, 25 rotatable bonds); specialist protocol review required; candidate files and previous raw results retained."
+  },
+  {
+    "id": 125,
+    "name": "Tetratriacontane",
+    "reason": "Standard scope review: Outside the standard small-molecule preparation scope (900 Da, 80 heavy atoms, 25 rotatable bonds); specialist protocol review required; candidate files and previous raw results retained."
+  },
+  {
+    "id": 126,
+    "name": "Tetratetracontane",
+    "reason": "Standard scope review: Outside the standard small-molecule preparation scope (900 Da, 80 heavy atoms, 25 rotatable bonds); specialist protocol review required; candidate files and previous raw results retained."
+  },
+  {
+    "id": 129,
+    "name": "1-Heptatriacontanol",
+    "reason": "Standard scope review: Outside the standard small-molecule preparation scope (900 Da, 80 heavy atoms, 25 rotatable bonds); specialist protocol review required; candidate files and previous raw results retained."
+  }
+]

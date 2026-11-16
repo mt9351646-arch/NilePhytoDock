@@ -1,0 +1,50 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 442393,
+        "SMILES": "CC(=C)[C@@H]1CC[C@]2(CCCC(=C)[C@@H]2C1)C",
+        "InChIKey": "YOVSPTNQHMDJAG-QLFBSQMISA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "BETA-SELINENE",
+    "17066-67-0",
+    "(+)-beta-Selinene",
+    "CHEBI:10443",
+    "DTXSID201020829",
+    "(4aR,7R,8aS)-7-isopropenyl-4a-methyl-1-methylenedecahydronaphthalene",
+    "[4aR-(4aalpha,7alpha,8abeta)]-decahydro-4a-methyl-1-methylene-7-(1-methylethenyl)-naphthalene",
+    "(4aR,7R,8aS)-4a-methyl-1-methylidene-7-(prop-1-en-2-yl)decahydronaphthalene eudesma-4(14),11-diene",
+    "(3R,4aS,8aR)-8a-methyl-5-methylidene-3-prop-1-en-2-yl-1,2,3,4,4a,6,7,8-octahydronaphthalene",
+    "(4aR-(4aalpha,7alpha,8abeta))-decahydro-4a-methyl-1-methylene-7-(1-methylethenyl)-naphthalene",
+    "RefChem:917101",
+    "CHEBI:49276",
+    "DTXCID201766493",
+    "beta-Eudesmene",
+    ".beta.-Selinene",
+    "b-Selinene, (~90%)",
+    "(4AR,7R,8aS)-4a-methyl-1-methylene-7-(prop-1-en-2-yl)decahydronaphthalene",
+    "(4aR,7R,8aS)-4a-methyl-1-methylidene-7-(prop-1-en-2-yl)-decahydronaphthalene",
+    "Naphthalene, decahydro-4a-methyl-1-methylene-7-(1-methylethenyl)-, [4aR-(4a.alpha.,7.alpha.,8a.beta.)]-",
+    ".beta.-Eudesmene",
+    "(+)-.beta.-Selinene",
+    "|A-Selinene",
+    "C09723",
+    "SCHEMBL309336",
+    "CHEMBL2287242",
+    "YOVSPTNQHMDJAG-QLFBSQMISA-N",
+    "7-Isopropenyl-4a-methyl-1-methylenedecahydronaphthalene-, (4aR-(4a.alpha.,7.alpha.,8a.beta.))-",
+    "Naphthalene, decahydro-4a-methyl-1-methylene-7-(1-methylethenyl)-, [4aR-(4aalpha,7alpha,8abeta)]-",
+    "LMPR0103190014",
+    "NS00113988",
+    "Q27108640",
+    "(4aR,7R,8aS)-4a-methyl-1-methylidene-7-(prop-1-en-2-yl)decahydronaphthalene",
+    "(4ar,7r,8as)-decahydro-4a-methyl-1-methylene-7-(1-methylethenyl)-naphthalene",
+    "(4aS,7S,8aR)-4a-methyl-1-methylene-7-(prop-1-en-2-yl)decahydronaphthalene",
+    "(+)-beta-selinene;(4aR,7R,8aS)-7-isopropenyl-4a-methyl-1-methylenedecahydronaphthalene;[4aR-(4aalpha,7alpha,8abeta)]-decahydro-4a-methyl-1-methylene-7-(1-methylethenyl)-naphthalene; beta-Selinene; beta-eudesmene",
+    "decahydro-4a-methyl-1-methylene-7-(1-methylethenyl)-,[4aR-(4aalpha,7alpha,8abeta)]-naphthalene",
+    "naphathalene, decahydro-4a-methyl-1-methylene-7-(1-methylethenyl)-, [4aR-(4aalpha,7alpha,8abeta)]-"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 79044,
+        "SMILES": "CC1=CC2C(C2(C)C)CC1",
+        "InChIKey": "IBVJWOMJGCHRRW-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "2-Carene",
+    "3,7,7-Trimethylbicyclo[4.1.0]hept-2-ene",
+    "554-61-0",
+    "DTXSID00858821",
+    "4,7,7-trimethylbicyclo[4.1.0]hept-4-ene",
+    "4,7,7-trimethylbicyclo(4.1.0)hept-4-ene",
+    "3,7,7-TRIMETHYLBICYCLO(4.1.0)HEPT-2-ENE",
+    "Bicyclo(4.1.0)hept-2-ene, 3,7,7-trimethyl-",
+    "Bicyclo[4.1.0]hept-2-ene, 3,7,7-trimethyl-",
+    "RefChem:468189",
+    "DTXCID70809567",
+    "F03R774450",
+    "delta-2-carene",
+    "carene <delta-2->",
+    "SCHEMBL305407",
+    "CHEMBL2286984",
+    "CHEBI:184750",
+    "AKOS025295339",
+    "DB-070610",
+    "NS00122154",
+    "3,7,7-trimethyl-bicyclo[4.1.0]hept-2-ene",
+    "bicyclo[4.1.0]hept-2-ene, 3,7,7-trimethyl"
+  ]
+}

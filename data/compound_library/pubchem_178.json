@@ -1,0 +1,20 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 545235,
+        "SMILES": "CC1=CCC(CC1OC(=O)C(C)(C)C)C(=C)C",
+        "InChIKey": "DWANKGPRCZFGFO-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "RefChem:1093314",
+    "Npc94448",
+    "Limonen-6-ol, pivalate",
+    "5-Isopropenyl-2-methyl-2-cyclohexen-1-yl pivalate",
+    "DWANKGPRCZFGFO-UHFFFAOYSA-N",
+    "5-Isopropenyl-2-methyl-2-cyclohexen-1-yl pivalate #",
+    "2,2-dimethyl-propionic acid 5-isopropenyl-2-methylcyclohex-2-enyl ester"
+  ]
+}

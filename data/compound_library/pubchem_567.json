@@ -1,0 +1,54 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 122484,
+        "SMILES": "CC(C)[C@@H]1CC[C@@](C=C1)(C)O",
+        "InChIKey": "IZXYHAXVIZHGJV-UWVGGRQHSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "2-Cyclohexen-1-ol, 1-methyl-4-(1-methylethyl)-, trans-",
+    "trans-1-Methyl-4-(1-methylethyl)-2-cyclohexen-1-ol",
+    "EINECS 249-859-5",
+    "(1R,4S)-1-methyl-4-propan-2-ylcyclohex-2-en-1-ol",
+    "2-Cyclohexen-1-ol, 1-methyl-4-(1-methylethyl)-, (1R,4S)-rel-",
+    "RefChem:470837",
+    "p-Menth-2-en-1-ol",
+    "trans-p-2-Menthen-1-ol",
+    "(E)-p-menth-2-en-1-ol",
+    "trans-4-(Isopropyl)-1-methylcyclohex-2-en-1-ol",
+    "1-Methyl-4-(methylethyl)-(E)-2-cyclohexenol",
+    "trans-p-menth-2-en-1-ol",
+    "4-Isopropyl-1-methylcyclohex-2-enol",
+    "4-Isopropyl-1-methyl-2-cyclohexen-1-ol",
+    "trans-p-Menth-2-enol",
+    "trans-p-Menthen-1-ol",
+    "t-p-Menth-2-en-1-ol",
+    "C4RZG7ANG6",
+    "p-Menthen-1-ol, trans-",
+    "trans-p-Ment-2-en-1-ol",
+    "(E)-p-2-Menthen-1-ol",
+    "(E)-rho-2-menthen-1-ol",
+    "trans-p-Menth-2-ene-1-ol",
+    "trans-p-Mentha-2-en-1-ol",
+    "trans-rho-menth-2-en-1-ol",
+    "p-Menth-2-en-1-ol, trans",
+    "trans-para-Menth-2-en-1-ol",
+    "(E)-p-Mentha-2-en-1-ol",
+    "trans-para-Menth-2-ene-1-ol",
+    "Menth-2-en-1-ol (trans-p)",
+    "Menth-2-en-1-ol- trans-para",
+    "SCHEMBL4978490",
+    "(1r,4s)-p-menth-2-en-1-ol",
+    "1-methyl-4-isopropylcyclohex-2-en-1-ol",
+    "117066-76-9",
+    "(1R,4S)-4-Isopropyl-1-methylcyclohex-2-enol",
+    "1-methyl-4-(1-methylethyl)-2-cyclohexen-1-ol",
+    "4-Isopropyl-1-methyl-2-cyclohexen-1-ol, (E)-",
+    "trans-2-Cyclohexene-1-ol-1-methyl-4(1-methylethyl)",
+    "rel-(1R,4S)-1-Methyl-4-(1-methylethyl)-2-cyclohexen-1-ol",
+    "1-Methyl-4-(1-methylethyl)-2-cyclohexen-1-ol, rel-(1R,4S)-"
+  ]
+}

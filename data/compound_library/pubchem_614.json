@@ -1,0 +1,44 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 1549107,
+        "SMILES": "CC(=CCC/C(=C\\CC/C(=C\\CO)/C)/C)C",
+        "InChIKey": "CRDAMVZIKSXKFV-FBXUGWQNSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "cis,cis-Farnesol",
+    "cis-Farnesol",
+    "16106-95-9",
+    "Farnesol, (2Z,6Z)-",
+    "2,6,10-Dodecatrien-1-ol, 3,7,11-trimethyl-, (2Z,6Z)-",
+    "FEMA No. 2478, (2Z,6Z)-",
+    "3,7,11-Trimethyldodeca-2-cis,6-cis,10-trien-1-ol",
+    "DTXSID101317885",
+    "RefChem:597157",
+    "DTXCID001747681",
+    "(Z,Z)-farnesol",
+    "(2Z,6Z)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol",
+    "(2-cis,6-cis)-farnesol",
+    "z,z-farnesol",
+    "J03523NK03",
+    "(2-cis,6-cis)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol",
+    "(2Z,6Z)-Farnesol",
+    "UNII-J03523NK03",
+    "2Z,6Z-Farnesol",
+    "(Z,Z)-alpha-farnesol",
+    "starbld0005471",
+    "SCHEMBL2935434",
+    "(2Z,6Z)-3,7,11-trimethyl-2,6,10-dodecatrien-1-ol",
+    "CHEMBL1232800",
+    "CHEBI:42680",
+    "AKOS015901075",
+    "cis,cis-Farnesol, >=95.0% (GC)",
+    "DB02509",
+    "LMPR0103010008",
+    "2,6,10-Dodecatrien-1-ol, 3,7,11-trimethyl-, (Z,Z)-,",
+    "(2-cis,6-cis)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol;(Z,Z)-farnesol; FARNESOL; cis,cis-farnesol"
+  ]
+}

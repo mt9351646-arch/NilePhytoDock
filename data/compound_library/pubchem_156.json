@@ -1,0 +1,75 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 87839,
+        "SMILES": "CC1=C[C@@H]([C@H]2C[C@@H]1C2(C)C)O",
+        "InChIKey": "WONIGEXYPVIKFS-YIZRAAEISA-N"
+      },
+      {
+        "CID": 164888,
+        "SMILES": "CC1=C[C@H]([C@@H]2C[C@H]1C2(C)C)O",
+        "InChIKey": "WONIGEXYPVIKFS-HRDYMLBCSA-N"
+      },
+      {
+        "CID": 61126,
+        "SMILES": "CC1=CC(C2CC1C2(C)C)O",
+        "InChIKey": "WONIGEXYPVIKFS-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(S)-cis-Verbenol",
+    "(1S,2S,5S)-4,6,6-trimethylbicyclo[3.1.1]hept-3-en-2-ol",
+    "Verbenol, (S)-cis-",
+    "(-)-cis-Verbenol",
+    "(-)-Verbenol",
+    "(1S)-cis-verbenol",
+    "Bicyclo[3.1.1]hept-3-en-2-ol, 4,6,6-trimethyl-, (1S,2S,5S)-",
+    "S-(-)-cis-Verbenol",
+    "XR9T57F48T",
+    "EINECS 242-645-2",
+    "DTXSID20885073",
+    "Bicyclo(3.1.1)hept-3-en-2-ol, 4,6,6-trimethyl-, (1S,2S,5S)-",
+    "(1S,4S,5S)-CIS-VERBENOL",
+    "(1S(1alpha,2beta,5alpha))4,6,6Trimethylbicyclo(3.1.1)hept3en2ol",
+    "BICYCLO(3.1.1)HEPT-3-EN-2-OL, 4,6,6-TRIMETHYL-, (1S-(1ALPHA,2BETA,5ALPHA))-",
+    "BICYCLO(3.1.1)HEPT-3-EN-2-OL, 4,6,6-TRIMETHYL-, (1S-(1.ALPHA.,2.BETA.,5.ALPHA.))-",
+    "(1S,2S,5S)-4,6,6-trimethylbicyclo(3.1.1)hept-3-en-2-ol",
+    "RefChem:901801",
+    "DTXCID401024477",
+    "18881-04-4",
+    "cis-Verbenol",
+    "1845-30-3",
+    "MFCD00065444",
+    "(1S,2S)-4,6,6-Trimethylbicyclo[3.1.1]hept-3-en-2-ol",
+    "UNII-XR9T57F48T",
+    "rel-(1R,2R,5R)-4,6,6-Trimethylbicyclo[3.1.1]hept-3-en-2-ol",
+    "CCRIS 5289",
+    "(S) cis-verbenol",
+    "1-(S)-cis-Verbenol",
+    "(S)-(-)-cis-Verbenol",
+    "(S)-cis-Verbenol, 95%",
+    "orb3170143",
+    "SCHEMBL1302577",
+    "CHEBI:233296",
+    "Fr13892",
+    "MSK163114",
+    "AKOS015913095",
+    "Bicyclo(3.1.1)hept-3-en-2-ol, 4,6,6-trimethyl-, (1alpha,2beta,5alpha)-",
+    "FV02258",
+    "HY-W674037",
+    "AC-30319",
+    "AS-70919",
+    "SY423029",
+    "VL171080",
+    "CS-0757546",
+    "G73855",
+    "F865842",
+    "J-500444",
+    "Q27293968",
+    "(1s,2s)-(+)-cis-4,6,6-trimethyl bicyclo[3.1.1]hept-3-en-2-ol",
+    "(1S-(1alpha,2beta,5alpha))-4,6,6-Trimethylbicyclo(3.1.1)hept-3-en-2-ol",
+    "Bicyclo(3.1.1)hept-3-en-2-ol, 4,6,6-trimethyl-, (1R,2R,5R)-rel-"
+  ]
+}

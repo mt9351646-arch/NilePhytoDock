@@ -1,0 +1,41 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 273568,
+        "SMILES": "CC1=C2CC(CCC2(CCC1=O)C)C(=C)C",
+        "InChIKey": "KUFXJZXMWHNCEH-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "DTXSID901141898",
+    "60026-22-4",
+    "4,4a,5,6,7,8-Hexahydro-1,4a-dimethyl-7-(1-methylethenyl)-2(3H)-naphthalenone",
+    "RefChem:1069351",
+    "DTXCID00220362",
+    "(+)-4,11-Eudesmadien-3-one",
+    "1,4a-dimethyl-7-prop-1-en-2-yl-3,4,5,6,7,8-hexahydronaphthalen-2-one",
+    "[4aR,(-)]-4,4a,5,6,7,8-Hexahydro-1,4aalpha-dimethyl-7beta-(1-methylethenyl)naphthalene-2(3H)-one",
+    "132983-05-2",
+    "2303-31-3",
+    "NSC118866",
+    "?-CYPERONE",
+    "(-) Epi-.alpha.-Cyperone",
+    "orb1222226",
+    "epi-.alpha.-Cyperone, (-)-",
+    "SCHEMBL12917916",
+    "CHEBI:190005",
+    "KUFXJZXMWHNCEH-UHFFFAOYSA-N",
+    "s9236",
+    "7-Isopropenyl-1,4a-dimethyl-4,4a,5,6,7,8-hexahydro-3H-naphthalen-2-one",
+    "NSC-118866",
+    "1,4a-dimethyl-7-(prop-1-en-2-yl)-2,3,4,4a,5,6,7,8-octahydronaphthalen-2-one",
+    "DB-050343",
+    "NS00066977",
+    "7-isopropenyl-1,4a-dimethyl-3,4,5,6,7,8-hexahydronaphthalen-2-one",
+    "1,4a-Dimethyl-7-(prop-1-en-2-yl)-4,4a,5,6,7,8-hexahydronaphthalen-2(3H)-one",
+    "4,4a,5,6,7,8-hexahydro-1,4a-dimethyl-7-(prop-1-en-2-yl)naphthalen-2(3H)-one",
+    "7-Isopropenyl-1,4a-dimethyl-4,4a,5,6,7,8-hexahydro-2(3H)-naphthalenone #"
+  ]
+}

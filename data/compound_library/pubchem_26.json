@@ -1,0 +1,59 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 88302,
+        "SMILES": "CC1([C@@H]2C[C@H]1C(=C)[C@H](C2)O)C",
+        "InChIKey": "LCYXQUJDODZYIJ-VGMNWLOBSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "trans-Pinocarveol",
+    "1674-08-4",
+    "20ZI248IAP",
+    "DTXSID301339508",
+    "RefChem:1100281",
+    "DTXCID501769103",
+    "PINOCARVEOL, TRANS-(A+-)-",
+    "FEMA NO. 3587, TRANS-(A+-)-",
+    "216-813-0",
+    "19894-98-5",
+    "(1r,3s,5r)-6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptan-3-ol",
+    "Pinocarveol, trans-(+)-",
+    "Pinocarveol, trans-(+/-)-",
+    "(1R,3S,5R)-3-Hydroxy-6,6-Dimethyl-2-methylenebicyclo[3.1.1]heptane",
+    "(1R,3S,5R)-6,6-Dimethyl-2-methylenebicyclo[3.1.1]heptan-3-ol",
+    "993483H55R",
+    "(1alpha,3alpha,5alpha)-6,6-dimethyl-2-methylenebicyclo[3.1.1]heptan-3-ol",
+    "[1R-(1alpha,3beta,5alpha)]-6,6-dimethyl-2-methylenebicyclo[3.1.1]heptan-3-ol",
+    "(1alpha,3alpha,5alpha)-6,6-Dimethyl-2-methylenebicyclo(3.1.1)heptan-3-ol",
+    "(1R-(1alpha,3beta,5alpha))-6,6-Dimethyl-2-methylenebicyclo(3.1.1)heptan-3-ol",
+    "UNII-20ZI248IAP",
+    "2(10)-Pinen-3-ol, trans-",
+    "UNII-993483H55R",
+    "trans-Isopinocarveol",
+    "EINECS 216-813-0",
+    "EINECS 243-410-7",
+    "(+)-PINOCARVEOL",
+    "D-TRANS-PINOCARVEOL",
+    "PINOCARVEOL, TRANS-",
+    "TRANS-(+)-PINOCARVEOL",
+    "SCHEMBL14484474",
+    "LCYXQUJDODZYIJ-VGMNWLOBSA-N",
+    "(-)-trans-2(10)-Pinen-3-ol",
+    "(1R)-(+)-TRANS-PINOCARVEOL",
+    "AKOS026742394",
+    "FEMA NO. 3587, TRANS-(+)-",
+    "NS00123093",
+    "FEMA NO. 3587, TRANS-(+/-)-",
+    "BICYCLO(3.1.(+/-)-TRANS-PINOCARVEOL",
+    "EN300-183424",
+    "(1S,3R,5S)-(-)-2(10)-Pinen-3-ol",
+    "2(10)-PINEN-3-OL, (1R,3S,5R)-(+)-",
+    "BICYCLO(3.1.1)HEPTAN-3-OL, 6,6-DIMETHYL-2-METHYLENE-, (1R,3S,5R)-",
+    "BICYCLO(3.1.1)HEPTAN-3-OL, 6,6-DIMETHYL-2-METHYLENE-, (1R,3S,5R)-REL-",
+    "BICYCLO(3.1.1)HEPTAN-3-OL, 6,6-DIMETHYL-2-METHYLENE-, (1.ALPHA.,3.ALPHA.,5.ALPHA.)-",
+    "BICYCLO(3.1.1)HEPTAN-3-OL, 6,6-DIMETHYL-2-METHYLENE-, (1R-(1.ALPHA.,3.ALPHA.,5.ALPHA.))-"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "native_presets": [
+    {
+      "preset": "Scientific Classic",
+      "actual_style_opacity": 1,
+      "background_pixels": 1358216,
+      "export_pixels": [
+        1600,
+        1200
+      ],
+      "state": {
+        "representation": "Cartoon",
+        "colorMode": "Chain",
+        "ligandStyle": "Sticks",
+        "highlight": true,
+        "contacts": 47,
+        "preset": "Scientific Classic",
+        "background": "#edf3f5",
+        "proteinOpacity": 1,
+        "surfaceOpacity": 0.35,
+        "material": "Smooth",
+        "lighting": "Standard",
+        "fog": false
+      }
+    },
+    {
+      "preset": "High Contrast",
+      "actual_style_opacity": 1,
+      "background_pixels": 1321114,
+      "export_pixels": [
+        1600,
+        1200
+      ],
+      "state": {
+        "representation": "Cartoon",
+        "colorMode": "Chain",
+        "ligandStyle": "Sticks",
+        "highlight": true,
+        "contacts": 47,
+        "preset": "High Contrast",
+        "background": "#091827",
+        "proteinOpacity": 1,
+        "surfaceOpacity": 0.5,
+        "material": "Outline",
+        "lighting": "Standard",
+        "fog": false
+      }
+    },
+    {
+      "preset": "Publication Quality",
+      "actual_style_opacity": 0.85,
+      "background_pixels": 1358945,
+      "export_pixels": [
+        1600,
+        1200
+      ],
+      "state": {
+        "representation": "Cartoon",
+        "colorMode": "Chain",
+        "ligandStyle": "Sticks",
+        "highlight": true,
+        "contacts": 47,
+        "preset": "Publication Quality",
+        "background": "#ffffff",
+        "proteinOpacity": 0.85,
+        "surfaceOpacity": 0.3,
+        "material": "Smooth",
+        "lighting": "Ambient occlusion",
+        "fog": false
+      }
+    }
+  ],
+  "opacity_and_custom_color_apply_to_model": true,
+  "atom_mapping_verified": 47
+}

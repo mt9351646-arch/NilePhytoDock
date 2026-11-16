@@ -1,0 +1,38 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 12315492,
+        "SMILES": "C[C@@H](CCC=C(C)C)[C@H]1CCC(=C)C=C1",
+        "InChIKey": "PHWISBHSBNDZDX-LSDHHAIUSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "beta-Sesquiphellandrene",
+    "20307-83-9",
+    "(-)-beta-Sesquiphellandrene",
+    "(-)-(6R,7S)-sesquiphellandrene",
+    "(3R)-3-[(2S)-6-methylhept-5-en-2-yl]-6-methylidenecyclohexene",
+    "(-)-b-Sesquiphellandrene",
+    "(-)-.beta.-Sesquiphellandrene",
+    "(R)-3-Methylene-6-((S)-6-methylhept-5-en-2-yl)cyclohex-1-ene",
+    "(R)-3-methylene-6-[(S)-6-methylhept-5-en-2-yl]-cyclohex-1-ene",
+    "Cyclohexene, 3-[(1S)-1,5-dimethyl-4-hexen-1-yl]-6-methylene-, (3R)-",
+    ".beta.-Sesquiphellandrene",
+    "(?)-?-Sesquiphellandrene",
+    "(-)--Sesquiphellandrene",
+    "CYCLOHEXENE, 3-((1S)-1,5-DIMETHYL-4-HEXEN-1-YL)-6-METHYLENE-, (3R)-",
+    "orb2299267",
+    "SCHEMBL17627721",
+    "CHEBI:64361",
+    "PHWISBHSBNDZDX-LSDHHAIUSA-N",
+    "(3R)-3-[(2S)-6-methylhept-5-en-2-yl]-6-methylidenecyclohex-1-ene",
+    "MSK175477",
+    "TN7506",
+    "SESQUIPHELLANDRENE, (-)-.BETA.-",
+    "Q27133237",
+    "(6S)-2-Methyl-6-[(1R)-4-methylenecyclohex-2-enyl]hept-2-ene",
+    "2-HEPTENE, 2-METHYL-6-(4-METHYLENE-2-CYCLOHEXEN-1-YL)-, (1'R,6S)-(-)-"
+  ]
+}

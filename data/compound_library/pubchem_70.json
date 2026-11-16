@@ -1,0 +1,63 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 439711,
+        "SMILES": "C[C@]12CC[C@H](C1)C([C@H]2O)(C)C",
+        "InChIKey": "IAIHUHQCLTYTSF-MRTMQBJTSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "512-13-0",
+    "(-)-endo-Fenchol",
+    "(1S,2S,4R)-1,3,3-trimethylbicyclo[2.2.1]heptan-2-ol",
+    "l-alpha-Fenchyl alcohol",
+    "UJ108AQX3M",
+    "(-)-alpha-fenchol",
+    "alpha-Fenchyl alcohol, (-)-",
+    "DTXSID7041205",
+    "Bicyclo(2.2.1)heptan-2-ol, 1,3,3-trimethyl-, (1S-endo)-",
+    "CHEBI:15405",
+    "(1S,2S,4R)-1,3,3-Trimethylbicyclo(2.2.1)heptan-2-ol",
+    "RefChem:1049075",
+    "DTXCID5021205",
+    "alpha-Fenchol",
+    "endo-Fenchol",
+    "alpha-Fenchyl alcohol",
+    "Bicyclo[2.2.1]heptan-2-ol, 1,3,3-trimethyl-, (1S,2S,4R)-",
+    "endo-alpha-Fenchol",
+    "endo-fenchyl alcohol",
+    "(-)-alpha-Fenchyl alcohol",
+    "(1S-ENDO)-FENCHOL",
+    "rel-(1S,2S,4R)-1,3,3-Trimethylbicyclo[2.2.1]heptan-2-ol",
+    "Bicyclo(2.2.1)heptan-2-ol, 1,3,3-trimethyl-, (1S,2S,4R)-",
+    "(1S,2S,4R)-1,3,3-Trimethyl-bicyclo[2.2.1]heptan-2-ol",
+    "(+/-)-alpha-Fenchol",
+    "(-)-.alpha.-Fenchol",
+    "UNII-UJ108AQX3M",
+    "EINECS 208-135-9",
+    "BRN 2038083",
+    "4-06-00-00278 (Beilstein Handbook Reference)",
+    "(1S,2S,4R)-endo-fenchol",
+    "SCHEMBL1245968",
+    "L-.ALPHA.-FENCHYL ALCOHOL",
+    "DTXSID101014534",
+    "STK801828",
+    "AKOS005622496",
+    "EBC-627320",
+    "LMPR0102120005",
+    ".ALPHA.-FENCHYL ALCOHOL, (-)-",
+    "CS-0238492",
+    "(1S,2-endo)-1,3,3-trimethylnorbornan-2-ol",
+    "1,3,3-Trimethyl-2-norbornanol, (1S-endo)-",
+    "C02344",
+    "G29631",
+    "2-Norbornanol, 1,3,3-trimethyl-, (-)-endo-",
+    "EN300-19633567",
+    "Q27089421",
+    "(1S-endo)-1,3,3-Trimethylbicyclo(2.2.1)heptan-2-ol",
+    "alpha-fenchyl alcoholalpha-1,3,3-trimethyl-norbornan-2-ol",
+    "(1S,2S,4R)-1,3,3-trimethyl-bicyclo[2.2.1]heptan-2-ol, AldrichCPR"
+  ]
+}

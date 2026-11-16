@@ -1,0 +1,5 @@
+85d8b6073064b8e90b8303505322a06b06501c12714d075df02886c43ef8ca09  NilePhytoDock-0.6.0-Windows-x64.zip
+c799ef15e5ed7c6122d5e728b24f6c31e506cedf8f59811057959911c96c52eb  NilePhytoDock-0.6.0-source.zip
+c272ba92441ab4cdceefd854a39729111225d44fbec3fd650fb14f93d76d34ca  NilePhytoDock-0.6.0-case-data.zip
+b790be7ebd568e84272b19acc6285b6ddb1274e599dab473fd4c106719635fd1  NilePhytoDock-0.6.0-Documentation.zip
+97d86ebf6ca0a2b509c7d98a856c85eb293b1c29a4731db3982db1eaab04b7e2  release-manifest-0.6.0.json

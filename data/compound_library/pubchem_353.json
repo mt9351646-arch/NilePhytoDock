@@ -1,0 +1,15 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 71448973,
+        "SMILES": "CC1=CC=C(CC1)[C@@]2(CCCC2(C)C)C",
+        "InChIKey": "DYQFFTPJVWEYMH-HNNXBMFYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "alpha-Cuprenene",
+    "C20180"
+  ]
+}

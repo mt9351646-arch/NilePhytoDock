@@ -1,0 +1,52 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5320249,
+        "SMILES": "CC(=C)CC/C=C(\\C)/C=C",
+        "InChIKey": "XJPBRODHZKDRCB-CSKARUKUSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "alpha-Ocimene",
+    "502-99-8",
+    "1,3,7-Octatriene, 3,7-dimethyl-",
+    "ESJ648Z6YA",
+    "RefChem:555899",
+    "trans-alpha-Ocimene",
+    "alpha-trans-Ocimene",
+    "(E)-alpha-ocimene",
+    "6874-10-8",
+    "(3E)-3,7-dimethylocta-1,3,7-triene",
+    "8DBO41SLJL",
+    "alpha-Ocimene, (E)-",
+    "Ocimene trans-alpha-form",
+    "alpha-Ocimene, (3E)-",
+    "UNII-8DBO41SLJL",
+    "Ocimene trans-alpha-form [MI]",
+    "1,3,7-Octatriene, 3,7-dimethyl-, (3E)-",
+    "3,7-dimethyl-1,3E,7-octatriene",
+    "alpha-cis-ocimene",
+    "e-alpha-ocimene",
+    "3,7-dimethyl-1,3,7-octatriene",
+    "EINECS 207-957-5",
+    "(3E)-alpha-ocimene",
+    "UNII-ESJ648Z6YA",
+    ".ALPHA.-TRANS-OCIMENE",
+    "SCHEMBL111818",
+    "TRANS-.ALPHA.-OCIMENE",
+    "OCIMENE, TRANS-.ALPHA.-",
+    ".ALPHA.-OCIMENE, (E)-",
+    "2,6-Dimethyl-1,5,7-octatriene",
+    "DTXSID001042902",
+    "OCIMENE TRANS-.ALPHA.-FORM",
+    ".ALPHA.-OCIMENE, (3E)-",
+    "3,7-Dimethyl-1,3,7-octatriene #",
+    "LMPR0102010023",
+    "OCIMENE TRANS-.ALPHA.-FORM [MI]",
+    "1,3,7-octatriene, 3,7-dimethyl-, (E)",
+    "NS00093938",
+    "Q26776996"
+  ]
+}

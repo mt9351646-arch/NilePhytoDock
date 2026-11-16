@@ -1,0 +1,47 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 93046,
+        "SMILES": "CC1(C2CCC3(C1C2)CO3)C",
+        "InChIKey": "OUXAABAEPHHZPC-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "2,10-Epoxypinane",
+    "beta-Pinene oxide",
+    "6,6-dimethylspiro[bicyclo[3.1.1]heptane-2,2'-oxirane]",
+    ".beta.-Pinene oxide",
+    "CCRIS 3760",
+    "Spiro[bicyclo[3.1.1]heptane-2,2'-oxirane], 6,6-dimethyl-",
+    "EINECS 230-055-8",
+    "BRN 0105830",
+    "Spiro(bicyclo(3.1.1)heptane-2,2'-oxirane), 6,6-dimethyl-",
+    "DTXSID70863962",
+    "5-17-01-00423 (Beilstein Handbook Reference)",
+    "6,6-dimethylspiro(bicyclo(3.1.1)heptane-2,2'-oxirane)",
+    "RefChem:80505",
+    "DTXCID90219301",
+    "230-055-8",
+    "OUXAABAEPHHZPC-UHFFFAOYSA-N",
+    "6931-54-0",
+    "beta-Pinene epoxide",
+    "Pinane, 2,10-epoxy-",
+    "(+)-Beta-Pinene oxide",
+    "ss-Pinenoxyd",
+    "beta pinene oxide",
+    ".beta.-Pinene epoxide",
+    "SCHEMBL260525",
+    "GAA93154",
+    "AKOS006227869",
+    "EBC-618232",
+    "6,6-dimethylspiro[norpinane-2,2'-oxirane]",
+    "NS00012358",
+    "ST50824366",
+    "G47255",
+    "EN300-1601456",
+    "6,6-dimethylspiro[bicyclo[3.1.1]heptane-2,3'-oxirane]",
+    "Z1198147162"
+  ]
+}

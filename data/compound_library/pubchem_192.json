@@ -1,0 +1,56 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 62367,
+        "SMILES": "CC(C)C12CCC(C1C2)(C)O",
+        "InChIKey": "KXSDPILWMGFJMM-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Sabinenehydrate",
+    "2-Methyl-5-(1-methylethyl)bicyclo(3.1.0)hexan-2-ol",
+    "2-methyl-5-(1-methylethyl)bicyclo[3.1.0]hexan-2-ol",
+    "RefChem:910064",
+    "208-911-7",
+    "Sabinene hydrate",
+    "546-79-2",
+    "4-Thujanol",
+    "5-Isopropyl-2-methylbicyclo[3.1.0]hexan-2-ol",
+    "2-methyl-5-propan-2-ylbicyclo[3.1.0]hexan-2-ol",
+    "(Z)-Sabinene hydrate",
+    "FEMA No. 3239",
+    "Bicyclo(3.1.0)hexan-2-ol, 2-methyl-5-(1-methylethyl)-",
+    "Bicyclo[3.1.0]hexan-2-ol, 2-methyl-5-(1-methylethyl)-",
+    "cis-Sabinene hydrate",
+    "4-Thujanol (natural)",
+    "cis-Sabinenehydrate",
+    "Bicyclo[3.1.0]hexan-2-ol, 2-methyl-5-(1-methylethyl)-; 4-Thujanol (6CI,7CI,8CI); 2-Methyl-5-(1-methylethyl)bicyclo[3.1.0]hexan-2-ol; Sabinene hydrate",
+    "EINECS 208-911-7",
+    "sabinene hydrate (cis-)",
+    "SCHEMBL438844",
+    "2-methyl-5-(propan-2-yl)bicyclo[3.1.0]hexan-2-ol",
+    "orb3172987",
+    "CHEMBL5305985",
+    "CHEBI:16377",
+    "DTXSID40862164",
+    "(1.alpha.,2.beta.,5.alpha.)-2-Methyl-5-(1-methylethyl)bicyclo(3.1.0)hexan-2-ol",
+    "QAA53755",
+    "4-Thujanol 100 |Ig/mL in Acetonitrile",
+    "FS146170",
+    "4-Thujanol 100 microg/mL in Acetonitrile",
+    "DB-052630",
+    "NS00013239",
+    "G82585",
+    "5-isopropyl-2-methyl-bicyclo[3.1.0]hexan-2-ol",
+    "5-isopropyl-2-methylbicyclo-[3.1.0]hexan-2-ol",
+    "T212815",
+    "Q27101876",
+    "2-methyl-5-(1-methylethyl)bicyclo-[3.1.0]hexan-2-ol",
+    "1alpha,2alpha,5alpha-2-methyl-5-(1-methylethyl)-bicyclo[3.1.0]hexan-2-ol",
+    "Bicyclo[3.1.0]hexan-2-ol, 2-methyl-5-(1-methylethyl)-, (1alpha,2alpha,5alpha)-",
+    "bicyclo[3.1.0]hexan-2-ol, 2-methyl-5-(1-methylethyl)-,(1alpha,2alpha,5alpha)",
+    "bicyclo[3.1.0]hexan-2-ol, 2-methyl-5-(1-methylethyl)-,(1alpha,2beta,5alpha)-"
+  ]
+}

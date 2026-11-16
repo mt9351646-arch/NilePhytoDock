@@ -1,0 +1,48 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 10743,
+        "SMILES": "COC1=CC(=CC(=C1O)OC)C=CC(=O)O",
+        "InChIKey": "PCMORTLOPMLEFB-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "530-59-6",
+    "UNII-P0I60993EC",
+    "CHEBI:77131",
+    "2-Propenoic acid, 3-(4-hydroxy-3,5-dimethoxyphenyl)-, (E)-",
+    "NSC-59261",
+    "RefChem:50015",
+    "208-487-3",
+    "3,5-Dimethoxy-4-hydroxycinnamic acid",
+    "Sinapic acid",
+    "4-Hydroxy-3,5-dimethoxycinnamic acid",
+    "MFCD00004401",
+    "(EZ)-sinapic acid",
+    "s3981",
+    "3-(4-hydroxy-3,5-dimethoxyphenyl)prop-2-enoic acid",
+    "4-Hydroxy-3,5-dimethoxycinnamic Acid, Predominantly trans",
+    "2-Propenoic acid, 3-(4-hydroxy-3,5-dimethoxyphenyl)-",
+    "SCHEMBL37313",
+    "orb1303795",
+    "DTXSID40862129",
+    "WLZ4748",
+    "HMS3372O09",
+    "HAA36237",
+    "3,5-dimethoxy4-hydroxycinnamic acid",
+    "AC7708",
+    "AKOS028109907",
+    "3,5-dimethoxy-4-hydroxy-cinnamic acid",
+    "SY018287",
+    "DB-022072",
+    "D1765",
+    "D2932",
+    "3,5-DIMETHOXY-4-HYDROXY CINNAMIC ACID",
+    "3-(4-hydroxy-3,5-dimethoxy-phenyl)prop-2-enoic acid",
+    "Q27146675",
+    "NSC 59261; Sinapinic Acid; Synapitic Acid; 3-(4-Hydroxy-3,5-dimethoxyphenyl)-2-propenoic Acid; 4-Hydroxy-3,5-?dimethoxycinnamic Acid; 3,5-Dimethoxy-4-hydroxycinnamic Acid",
+    "NSC 59261; Sinapinic Acid; Synapitic Acid; 3-(4-Hydroxy-3,5-dimethoxyphenyl)-2-propenoic Acid; 4-Hydroxy-3,5-dimethoxycinnamic Acid; 3,5-Dimethoxy-4-hydroxycinnamic Acid"
+  ]
+}

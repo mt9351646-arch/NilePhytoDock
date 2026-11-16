@@ -1,0 +1,32 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 520909,
+        "SMILES": "CC1=CC2C(CC1)C(=C)CCCC2(C)C",
+        "InChIKey": "ZJSIKVDEOWWVEH-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "alpha-Himachalene",
+    "CHEBI:49214",
+    "3,5,5-trimethyl-9-methylidene-2,4a,6,7,8,9a-hexahydro-1H-benzo[7]annulene",
+    "DTXSID30191859",
+    "3,5,5-trimethyl-9-methylidene-2,4a,6,7,8,9a-hexahydro-1H-benzo(7)annulene",
+    "RefChem:111243",
+    "DTXCID20114350",
+    ".alpha.-Himachalene",
+    "1H-Benzocycloheptene, 2,4a.alpha.,5,6,7,8,9,9a.alpha.-octahydro-3,5,5-trimethyl-9-methylene-",
+    "1H-Benzocycloheptene,2,4a,",
+    "SCHEMBL1004668",
+    "ZJSIKVDEOWWVEH-UHFFFAOYSA-N",
+    "1H-Benzocycloheptene, 2,4a,5,6,7,8,9,9a-octahydro-3,5,5-trimethyl-9-methylene-",
+    "3,5,5-trimethyl-9-methylidene-2,4a,5,6,7,8,9,9a-octahydro-1H-benzo[7]annulene",
+    "Q27121537",
+    "1H-Benzocycloheptene, 2,4a,5,6,7,8,9,9a-octahydro-3,5,5-trimethyl-9-methylene-, cis-",
+    "2,4a,5,6,7,8,9,9a-octahydro-3,5,5-trimethyl-9-methylidene-1H-benzo[7]annulene",
+    "3,5,5-trimethyl-9-methylene-2,4a,5,6,7,8,9,9a-octahydro-1H-benzo[7]annulene",
+    "3,5,5-Trimethyl-9-methylene-2,4a,5,6,7,8,9,9a-octahydro-1H-benzo[a]cycloheptene #"
+  ]
+}

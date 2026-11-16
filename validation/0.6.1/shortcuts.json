@@ -1,0 +1,12 @@
+[
+  {
+    "Shortcut": "X:\\nile\\release\\NilePhytoDock Studio 0.6.1\\Start NilePhytoDock Studio.lnk",
+    "Target": "X:\\nile\\release\\NilePhytoDock Studio 0.6.1\\NilePhytoDock.exe",
+    "Icon": "X:\\nile\\release\\NilePhytoDock Studio 0.6.1\\NilePhytoDock.ico,0"
+  },
+  {
+    "Shortcut": "C:\\Users\\PC\\Desktop\\NilePhytoDock Studio 0.6.1.lnk",
+    "Target": "X:\\nile\\release\\NilePhytoDock Studio 0.6.1\\NilePhytoDock.exe",
+    "Icon": "X:\\nile\\release\\NilePhytoDock Studio 0.6.1\\NilePhytoDock.ico,0"
+  }
+]

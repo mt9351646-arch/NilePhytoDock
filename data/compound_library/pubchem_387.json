@@ -1,0 +1,24 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 96469,
+        "SMILES": "CC(C)CC=NO",
+        "InChIKey": "JAUPRNSQRRCCRR-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "3-Methylbutanal oxime",
+    "RefChem:504165",
+    "Butanal, 3-methyl-, oxime",
+    "N-(3-methylbutylidene)hydroxylamine",
+    "3-methylbutyraldoxime",
+    "3-Methyl-butyraldehyde oxime",
+    "SCHEMBL264513",
+    "SCHEMBL7575725",
+    "SCHEMBL11494064",
+    "DTXSID30878759",
+    "DB-243860"
+  ]
+}

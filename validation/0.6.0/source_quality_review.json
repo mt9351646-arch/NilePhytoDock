@@ -1,0 +1,31 @@
+{
+  "before": {
+    "botanical_oils": 57,
+    "essential_oils": 46,
+    "fixed_oils": 11,
+    "species": 68,
+    "profiles": 119,
+    "compounds": 819,
+    "ready": 195,
+    "unique_ready": 173,
+    "records": 2109
+  },
+  "after": {
+    "botanical_oils": 57,
+    "essential_oils": 46,
+    "fixed_oils": 11,
+    "species": 68,
+    "profiles": 119,
+    "compounds": 819,
+    "ready": 194,
+    "unique_ready": 172,
+    "records": 2109
+  },
+  "source_review": [
+    {
+      "id": 585,
+      "name": "Hexadecanoic acid, trimethylsilyl ester",
+      "notes": "Source quality review: analytical derivative or silicone/fluorinated library annotation is not approved as a native botanical molecule. Candidate files retained."
+    }
+  ]
+}

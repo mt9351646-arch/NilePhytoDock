@@ -1,0 +1,2351 @@
+{
+  "format": 1,
+  "retrieved_at": "2026-10-29",
+  "references": {
+    "PMC9563047": {
+      "title": "Origanum majorana essential oil improves the rat’s sexual behavior and testicular oxidative damage induced by imidacloprid via modulating the steroidogenesis pathways",
+      "doi": "10.1016/j.jsps.2022.06.016",
+      "sha256": "02dc8f541405295dbf5acc061d2a43f21690f5eb7c92b3fca3817047d4a48945",
+      "license": "This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9563047/"
+    },
+    "PMC9578474": {
+      "title": "In vitro and in silico β-lactamase inhibitory properties and phytochemical profile of Ocimum basilicum cultivated in central delta of Egypt",
+      "doi": "10.1080/13880209.2022.2127791",
+      "sha256": "dadf832886918203e2d9beac21dac524df2fdc60403b20fe8e6e0dda890cb3ef",
+      "license": "This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9578474/"
+    },
+    "PMC11666597": {
+      "title": "Influence of ethephon and soil treatments on the essential oil composition of sweet fennel and its biological activities",
+      "doi": "10.1038/s41598-024-82204-1",
+      "sha256": "13141e082902d9c2bbecff8925ed10a839e549602430cb8c874a59223ed5b8e3",
+      "license": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11666597/"
+    },
+    "PMC9570728": {
+      "title": "GC-MS Profiling, Anti-Helicobacter pylori, and Anti-Inflammatory Activities of Three Apiaceous Fruits’ Essential Oils",
+      "doi": "10.3390/plants11192617",
+      "sha256": "882ee395300c204fe6df3ba4847dd02d54bf370c5cff98aa6d5722f2cd3d467b",
+      "license": "Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9570728/"
+    },
+    "PMC5527698": {
+      "title": "African peppermint (Mentha piperita) from Morocco: Chemical composition and antimicrobial properties of essential oil",
+      "doi": "10.4103/japtr.JAPTR_11_17",
+      "sha256": "eed74d332a1ecad3a9747ea66cad8229eb783a07b0e6c924cb396ebc275faa6e",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/This is an open access article distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License, which allows others to remix, tweak, and build upon the work non-commercially, as long as the author is credited and the new creations are licensed under the identical terms.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5527698/"
+    }
+  },
+  "profiles": [
+    {
+      "pmcid": "PMC9563047",
+      "table_id": "Supplementary_Table_1",
+      "table_number": 1,
+      "species": "Origanum majorana",
+      "common_name": "Sweet Marjoram",
+      "label": "Sweet marjoram Giza May 2020",
+      "part": "Fresh aerial parts",
+      "origin": "Cairo University Experimental Station of Medicinal Plants, Giza, Egypt",
+      "extraction_method": "Hydrodistillation, Clevenger, 5 h",
+      "analytical_method": "GC-MS, Rtx-5MS",
+      "method": "Hydrodistillation, Clevenger, 5 h; GC-MS, Rtx-5MS",
+      "type": "Essential oil",
+      "basis": "GC peak area %",
+      "rankable": true,
+      "geography_status": "Egyptian collection documented",
+      "notes": "Complete supplementary component table; class totals and unknown peak excluded. Supplement file PMC9563047_mmc1.docx SHA256 2dc956b4b85c3c2768c84d939218d753ffa3491eb200e5c90c7b7712b408084a",
+      "observations": [
+        {
+          "name": "cis-Sabinene hydrate",
+          "original_name": "cis-Sabinene hydrate",
+          "value": 5.89,
+          "sd": 0.15,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 4,
+          "raw": [
+            "",
+            "cis-Sabinene hydrate",
+            "11.54",
+            "1061",
+            "5.89 (0.15)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "β-Linalool",
+          "original_name": "β-Linalool",
+          "value": 17.76,
+          "sd": 0.34,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 5,
+          "raw": [
+            "",
+            "β-Linalool",
+            "12.63",
+            "1084",
+            "17.76 (0.34)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "cis-p-2-Menthen-1-ol",
+          "original_name": "cis-p-2-Menthen-1-ol",
+          "value": 2.38,
+          "sd": 0.02,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 6,
+          "raw": [
+            "",
+            "cis-p-2-Menthen-1-ol",
+            "13.20",
+            "1114",
+            "2.38 (0.02)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "trans-p-2-Menthen-1-ol",
+          "original_name": "trans-p-2-Menthen-1-ol",
+          "value": 1.15,
+          "sd": 0.19,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 7,
+          "raw": [
+            "",
+            "trans-p-2-Menthen-1-ol",
+            "13.82",
+            "1134",
+            "1.15 (0.19)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Linderol",
+          "original_name": "Linderol",
+          "value": 0.05,
+          "sd": 0.01,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 8,
+          "raw": [
+            "",
+            "Linderol",
+            "14.72",
+            "1163",
+            "0.05 (0.01)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "4-Terpineol (Terpinen-4-ol)",
+          "original_name": "4-Terpineol (Terpinen-4-ol)",
+          "value": 13.54,
+          "sd": 1.64,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 9,
+          "raw": [
+            "",
+            "4-Terpineol (Terpinen-4-ol)",
+            "15.14",
+            "1177",
+            "13.54 (1.64)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "p-Cymen-8-ol",
+          "original_name": "p-Cymen-8-ol",
+          "value": 0.04,
+          "sd": 0.01,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 10,
+          "raw": [
+            "",
+            "p-Cymen-8-ol",
+            "15.26",
+            "1182",
+            "0.04 (0.01)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "α-Terpineol",
+          "original_name": "α-Terpineol",
+          "value": 4.74,
+          "sd": 0.71,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 11,
+          "raw": [
+            "",
+            "α-Terpineol",
+            "15.42",
+            "1186",
+            "4.74 (0.71)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "trans-p-Menth-1-en-3-ol (trans-Piperitol)",
+          "original_name": "trans-p-Menth-1-en-3-ol (trans-Piperitol)",
+          "value": 0.45,
+          "sd": 0.11,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 12,
+          "raw": [
+            "",
+            "trans-p-Menth-1-en-3-ol (trans-Piperitol)",
+            "15.51",
+            "1189",
+            "0.45 (0.11)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "cis-p-Menth-1-en-3-ol",
+          "original_name": "cis-p-Menth-1-en-3-ol",
+          "value": 0.61,
+          "sd": 0.01,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 13,
+          "raw": [
+            "",
+            "cis-p-Menth-1-en-3-ol",
+            "15.84",
+            "1199",
+            "0.61 (0.01)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "cis-Carveol",
+          "original_name": "cis-Carveol",
+          "value": 0.02,
+          "sd": 0.01,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 14,
+          "raw": [
+            "",
+            "cis-Carveol",
+            "16.16",
+            "1211",
+            "0.02 (0.01)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Nerol",
+          "original_name": "Nerol",
+          "value": 0.13,
+          "sd": 0.0,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 15,
+          "raw": [
+            "",
+            "Nerol",
+            "16.41",
+            "1219",
+            "0.13 (0.00)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Spathulenol",
+          "original_name": "Spathulenol",
+          "value": 0.33,
+          "sd": 0.01,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 16,
+          "raw": [
+            "",
+            "Spathulenol",
+            "25.93",
+            "1570",
+            "0.33 (0.01)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Ledol",
+          "original_name": "Ledol",
+          "value": 0.05,
+          "sd": 0.01,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 17,
+          "raw": [
+            "",
+            "Ledol",
+            "26.29",
+            "1584",
+            "0.05 (0.01)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "β-Eudesmol",
+          "original_name": "β-Eudesmol",
+          "value": 0.02,
+          "sd": 0.0,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 18,
+          "raw": [
+            "",
+            "β-Eudesmol",
+            "27.03",
+            "1614",
+            "0.02 (0.00)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "α-Cadinol",
+          "original_name": "α-Cadinol",
+          "value": 0.01,
+          "sd": 0.0,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 19,
+          "raw": [
+            "",
+            "α-Cadinol",
+            "27.77",
+            "1646",
+            "0.01 (0.00)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Phytol",
+          "original_name": "Phytol",
+          "value": 0.02,
+          "sd": 0.01,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 20,
+          "raw": [
+            "",
+            "Phytol",
+            "37.23",
+            "2096",
+            "0.02 (0.01)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "m-Cymene",
+          "original_name": "m-Cymene",
+          "value": 1.6,
+          "sd": 0.22,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 23,
+          "raw": [
+            "",
+            "m-Cymene",
+            "10.095",
+            "1014",
+            "1.60 (0.22)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Linalyl acetate",
+          "original_name": "Linalyl acetate",
+          "value": 3.64,
+          "sd": 0.4,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 26,
+          "raw": [
+            "",
+            "Linalyl acetate",
+            "17.18",
+            "1246",
+            "3.64 (0.40)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Bornyl acetate",
+          "original_name": "Bornyl acetate",
+          "value": 0.08,
+          "sd": 0.0,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 27,
+          "raw": [
+            "",
+            "Bornyl acetate",
+            "18.06",
+            "1277",
+            "0.08 (0.00)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "4-Terpineol acetate",
+          "original_name": "4-Terpineol acetate",
+          "value": 1.96,
+          "sd": 0.53,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 28,
+          "raw": [
+            "",
+            "4-Terpineol acetate",
+            "18.478",
+            "1291",
+            "1.96 (0.53)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "α-Terpinyl acetate",
+          "original_name": "α-Terpinyl acetate",
+          "value": 0.04,
+          "sd": 0.0,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 29,
+          "raw": [
+            "",
+            "α-Terpinyl acetate",
+            "19.838",
+            "1339",
+            "0.04 (0.00)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Neryl acetate",
+          "original_name": "Neryl acetate",
+          "value": 0.17,
+          "sd": 0.01,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 30,
+          "raw": [
+            "",
+            "Neryl acetate",
+            "20.223",
+            "1352",
+            "0.17 (0.01)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Geranyl acetate",
+          "original_name": "Geranyl acetate",
+          "value": 0.31,
+          "sd": 0.0,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 31,
+          "raw": [
+            "",
+            "Geranyl acetate",
+            "20.753",
+            "1371",
+            "0.31 (0.00)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "trans-Dihydrocarvone",
+          "original_name": "trans-Dihydrocarvone",
+          "value": 0.08,
+          "sd": 0.02,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 34,
+          "raw": [
+            "",
+            "trans-Dihydrocarvone",
+            "15.736",
+            "1196",
+            "0.08 (0.02)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Pulegone",
+          "original_name": "Pulegone",
+          "value": 0.06,
+          "sd": 0.01,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 35,
+          "raw": [
+            "",
+            "Pulegone",
+            "16.744",
+            "1231",
+            "0.06 (0.01)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Carvone",
+          "original_name": "Carvone",
+          "value": 0.02,
+          "sd": 0.0,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 36,
+          "raw": [
+            "",
+            "Carvone",
+            "16.894",
+            "1236",
+            "0.02 (0.00)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "trans-β-Ionone",
+          "original_name": "trans-β-Ionone",
+          "value": 0.02,
+          "sd": 0.0,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 37,
+          "raw": [
+            "",
+            "trans-β-Ionone",
+            "23.553",
+            "1477",
+            "0.02 (0.00)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Hexahydrofarnesyl acetone",
+          "original_name": "Hexahydrofarnesyl acetone",
+          "value": 0.08,
+          "sd": 0.0,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 38,
+          "raw": [
+            "",
+            "Hexahydrofarnesyl acetone",
+            "31.82",
+            "1825",
+            "0.08 (0.00)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "α-Thujene",
+          "original_name": "α-Thujene",
+          "value": 1.34,
+          "sd": 0.06,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 41,
+          "raw": [
+            "",
+            "α-Thujene",
+            "7.12",
+            "908",
+            "1.34 (0.06)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "α-Pinene",
+          "original_name": "α-Pinene",
+          "value": 0.74,
+          "sd": 0.03,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 42,
+          "raw": [
+            "",
+            "α-Pinene",
+            "7.30",
+            "915",
+            "0.74 (0.03)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Camphene",
+          "original_name": "Camphene",
+          "value": 0.03,
+          "sd": 0.0,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 43,
+          "raw": [
+            "",
+            "Camphene",
+            "7.72",
+            "930",
+            "0.03 (0.00)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Sabinene",
+          "original_name": "Sabinene",
+          "value": 5.62,
+          "sd": 0.03,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 44,
+          "raw": [
+            "",
+            "Sabinene",
+            "8.56",
+            "960",
+            "5.62 (0.03)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "β-Pinene",
+          "original_name": "β-Pinene",
+          "value": 0.4,
+          "sd": 0.02,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 45,
+          "raw": [
+            "",
+            "β-Pinene",
+            "8.61",
+            "962",
+            "0.40 (0.02)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "β-Myrcene",
+          "original_name": "β-Myrcene",
+          "value": 1.9,
+          "sd": 0.14,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 46,
+          "raw": [
+            "",
+            "β-Myrcene",
+            "9.06",
+            "978",
+            "1.90 (0.14)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "α-Phellandrene",
+          "original_name": "α-Phellandrene",
+          "value": 0.31,
+          "sd": 0.01,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 47,
+          "raw": [
+            "",
+            "α-Phellandrene",
+            "9.43",
+            "992",
+            "0.31 (0.01)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "α-Terpinene",
+          "original_name": "α-Terpinene",
+          "value": 8.21,
+          "sd": 0.21,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 48,
+          "raw": [
+            "",
+            "α-Terpinene",
+            "9.90",
+            "1008",
+            "8.21 (0.21)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Limonene",
+          "original_name": "Limonene",
+          "value": 3.25,
+          "sd": 0.26,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 49,
+          "raw": [
+            "",
+            "Limonene",
+            "10.24",
+            "1019",
+            "3.25 (0.26)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "trans-β-Ocimene",
+          "original_name": "trans-β-Ocimene",
+          "value": 0.05,
+          "sd": 0.01,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 50,
+          "raw": [
+            "",
+            "trans-β-Ocimene",
+            "10.50",
+            "1027",
+            "0.05 (0.01)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "β-Ocimene",
+          "original_name": "β-Ocimene",
+          "value": 0.1,
+          "sd": 0.01,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 51,
+          "raw": [
+            "",
+            "β-Ocimene",
+            "10.83",
+            "1038",
+            "0.10 (0.01)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "γ-Terpinene",
+          "original_name": "γ-Terpinene",
+          "value": 14.26,
+          "sd": 2.15,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 52,
+          "raw": [
+            "",
+            "γ-Terpinene",
+            "11.27",
+            "1052",
+            "14.26 (2.15)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Terpinolene",
+          "original_name": "Terpinolene",
+          "value": 3.32,
+          "sd": 0.03,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 53,
+          "raw": [
+            "",
+            "Terpinolene",
+            "12.11",
+            "1079",
+            "3.32 (0.03)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "(E)-2,6-Dimethyl-1,3,5,7-octatetraene",
+          "original_name": "(E)-2,6-Dimethyl-1,3,5,7-octatetraene",
+          "value": 0.02,
+          "sd": 0.0,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 54,
+          "raw": [
+            "",
+            "(E)-2,6-Dimethyl-1,3,5,7-octatetraene",
+            "13.55",
+            "1126",
+            "0.02 (0.00)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Eucalyptol (1,8-Cineole)",
+          "original_name": "Eucalyptol (1,8-Cineole)",
+          "value": 0.39,
+          "sd": 0.07,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 57,
+          "raw": [
+            "",
+            "Eucalyptol (1,8-Cineole)",
+            "10.299",
+            "1023",
+            "0.39 (0.07)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Caryophyllene oxide",
+          "original_name": "Caryophyllene oxide",
+          "value": 0.27,
+          "sd": 0.02,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 58,
+          "raw": [
+            "",
+            "Caryophyllene oxide",
+            "26.074",
+            "1575",
+            "0.27 (0.02)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Ledene oxide-(II)",
+          "original_name": "Ledene oxide-(II)",
+          "value": 0.1,
+          "sd": 0.01,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 59,
+          "raw": [
+            "",
+            "Ledene oxide-(II)",
+            "27.38",
+            "1629",
+            "0.10 (0.01)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Carvacrol",
+          "original_name": "Carvacrol",
+          "value": 0.06,
+          "sd": 0.02,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 62,
+          "raw": [
+            "",
+            "Carvacrol",
+            "18.61",
+            "1296",
+            "0.06 (0.02)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Caryophyllene",
+          "original_name": "Caryophyllene",
+          "value": 2.35,
+          "sd": 0.08,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 66,
+          "raw": [
+            "",
+            "Caryophyllene",
+            "21.84",
+            "1410",
+            "2.35 (0.08)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Aromandendrene",
+          "original_name": "Aromandendrene",
+          "value": 0.07,
+          "sd": 0.0,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 67,
+          "raw": [
+            "",
+            "Aromandendrene",
+            "22.33",
+            "1429",
+            "0.07 (0.00)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Humulene",
+          "original_name": "Humulene",
+          "value": 0.08,
+          "sd": 0.0,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 68,
+          "raw": [
+            "",
+            "Humulene",
+            "22.72",
+            "1444",
+            "0.08 (0.00)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Alloaromadendrene",
+          "original_name": "Alloaromadendrene",
+          "value": 0.03,
+          "sd": 0.0,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 69,
+          "raw": [
+            "",
+            "Alloaromadendrene",
+            "22.91",
+            "1452",
+            "0.03 (0.00)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Elixene",
+          "original_name": "Elixene",
+          "value": 1.78,
+          "sd": 0.01,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 70,
+          "raw": [
+            "",
+            "Elixene",
+            "23.875",
+            "1489",
+            "1.78 (0.01)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Aromadendrene, dehydro-",
+          "original_name": "Aromadendrene, dehydro-",
+          "value": 0.03,
+          "sd": 0.01,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 71,
+          "raw": [
+            "",
+            "Aromadendrene, dehydro-",
+            "24.125",
+            "1499",
+            "0.03 (0.01)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "δ-Cadinene",
+          "original_name": "δ-Cadinene",
+          "value": 0.01,
+          "sd": 0.0,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 72,
+          "raw": [
+            "",
+            "δ-Cadinene",
+            "24.495",
+            "1514",
+            "0.01 (0.00)"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "pmcid": "PMC9578474",
+      "table_id": "t0001",
+      "table_number": 1,
+      "species": "Ocimum basilicum",
+      "common_name": "Sweet Basil",
+      "label": "Sweet basil Tanta December 2018",
+      "part": "Dried aerial parts",
+      "origin": "Medicinal plant farm, Faculty of Pharmacy, Tanta University, Egypt",
+      "extraction_method": "Hydrodistillation, Clevenger",
+      "analytical_method": "GC-MS",
+      "method": "Hydrodistillation, Clevenger; GC-MS",
+      "type": "Essential oil",
+      "basis": "GC peak area %",
+      "rankable": true,
+      "geography_status": "Egyptian collection documented",
+      "notes": "",
+      "observations": [
+        {
+          "name": "α-Pinene",
+          "original_name": "α-Pinene",
+          "value": 0.31,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 2,
+          "raw": [
+            "1",
+            "9.84",
+            "944",
+            "α-Pinene",
+            "0.31"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Camphene",
+          "original_name": "Camphene",
+          "value": 0.12,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 3,
+          "raw": [
+            "2",
+            "11.21",
+            "954",
+            "Camphene",
+            "0.12"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Sabinene",
+          "original_name": "Sabinene",
+          "value": 0.61,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 4,
+          "raw": [
+            "3",
+            "11.40",
+            "979",
+            "Sabinene",
+            "0.61"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "α-Myrcene",
+          "original_name": "α-Myrcene",
+          "value": 0.18,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 5,
+          "raw": [
+            "4",
+            "11.75",
+            "996",
+            "α-Myrcene",
+            "0.18"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "1,8-Cineol",
+          "original_name": "1,8-Cineol",
+          "value": 17.73,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 6,
+          "raw": [
+            "5",
+            "13.43",
+            "1032",
+            "1,8-Cineol",
+            "17.73"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "γ-Terpinene",
+          "original_name": "γ-Terpinene",
+          "value": 0.7,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 7,
+          "raw": [
+            "6",
+            "13.70",
+            "1063",
+            "γ-Terpinene",
+            "0.70"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "α-Terpinolene",
+          "original_name": "α-Terpinolene",
+          "value": 0.14,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 8,
+          "raw": [
+            "7",
+            "14.90",
+            "1087",
+            "α-Terpinolene",
+            "0.14"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Linalool",
+          "original_name": "Linalool",
+          "value": 0.78,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 9,
+          "raw": [
+            "8",
+            "15.68",
+            "1099",
+            "Linalool",
+            "0.78"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Camphor",
+          "original_name": "Camphor",
+          "value": 14.61,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 10,
+          "raw": [
+            "9",
+            "17.45",
+            "1143",
+            "Camphor",
+            "14.61"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Borneol",
+          "original_name": "Borneol",
+          "value": 0.77,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 11,
+          "raw": [
+            "10",
+            "18.14",
+            "1170",
+            "Borneol",
+            "0.77"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "α-Terpineol",
+          "original_name": "α-Terpineol",
+          "value": 0.12,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 12,
+          "raw": [
+            "11",
+            "18.56",
+            "1190",
+            "α-Terpineol",
+            "0.12"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Estragole",
+          "original_name": "Estragole",
+          "value": 0.71,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 13,
+          "raw": [
+            "12",
+            "22.04",
+            "1210",
+            "Estragole",
+            "0.71"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "α-Elemene",
+          "original_name": "α-Elemene",
+          "value": 0.44,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 14,
+          "raw": [
+            "13",
+            "23.66",
+            "1345",
+            "α-Elemene",
+            "0.44"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Eugenol",
+          "original_name": "Eugenol",
+          "value": 1.6,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 15,
+          "raw": [
+            "14",
+            "24.29",
+            "1359",
+            "Eugenol",
+            "1.60"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Methyl cinnamate",
+          "original_name": "Methyl cinnamate",
+          "value": 39.99,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 16,
+          "raw": [
+            "15",
+            "24.55–26.26",
+            "1373",
+            "Methyl cinnamate",
+            "39.99"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "α-Ylangene",
+          "original_name": "α-Ylangene",
+          "value": 2.72,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 17,
+          "raw": [
+            "16",
+            "26.84",
+            "1380",
+            "α-Ylangene",
+            "2.72"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "δ-Guaiene",
+          "original_name": "δ-Guaiene",
+          "value": 3.28,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 18,
+          "raw": [
+            "17",
+            "27.15",
+            "1512",
+            "δ-Guaiene",
+            "3.28"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Methyl eugenol",
+          "original_name": "Methyl eugenol",
+          "value": 2.27,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 19,
+          "raw": [
+            "18",
+            "27.84",
+            "1409",
+            "Methyl eugenol",
+            "2.27"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Cubenol",
+          "original_name": "Cubenol",
+          "value": 0.13,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 20,
+          "raw": [
+            "19",
+            "29.66",
+            "1631",
+            "Cubenol",
+            "0.13"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "α-Cadinol",
+          "original_name": "α-Cadinol",
+          "value": 7.68,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 21,
+          "raw": [
+            "20",
+            "30.42",
+            "1649",
+            "α-Cadinol",
+            "7.68"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "pmcid": "PMC11666597",
+      "table_id": "Tab3",
+      "table_number": 3,
+      "species": "Foeniculum vulgare",
+      "common_name": "Fennel",
+      "label": "Sweet fennel untreated control cultivation plot",
+      "part": "Fresh fruits",
+      "origin": "Egyptian cultivation study; Mepaco seed source; exact field coordinates not reported",
+      "extraction_method": "Hydrodistillation, Clevenger, 3 h",
+      "analytical_method": "GC-MS",
+      "method": "Hydrodistillation, Clevenger, 3 h; GC-MS",
+      "type": "Essential oil",
+      "basis": "GC peak area %",
+      "rankable": true,
+      "geography_status": "Egyptian study with documented experimental cultivation",
+      "notes": "Control soil plot only: no treatment; irrigation every 15 days. Table 3 has separate treatment columns, not replicated oil identities.",
+      "observations": [
+        {
+          "name": "2,3-Butanediol",
+          "original_name": "2,3-Butanediol",
+          "value": 0.5,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 3,
+          "raw": [
+            "5.178",
+            "806",
+            "2,3-Butanediol",
+            "0.5",
+            "–",
+            "–",
+            "–",
+            "–"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Limonene",
+          "original_name": "Limonene",
+          "value": 9.82,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 11,
+          "raw": [
+            "11.425",
+            "1031",
+            "Limonene",
+            "9.82",
+            "26.56",
+            "26.37",
+            "48.59",
+            "23.23"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Pantolactone",
+          "original_name": "Pantolactone",
+          "value": 0.55,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 12,
+          "raw": [
+            "11.52",
+            "1031.8",
+            "Pantolactone",
+            "0.55",
+            "–",
+            "–",
+            "–",
+            "–"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "1 H-Pyrrole-2-carboxaldehyde",
+          "original_name": "1 H-Pyrrole-2-carboxaldehyde",
+          "value": 1.06,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 14,
+          "raw": [
+            "11.989",
+            "1047",
+            "1 H-Pyrrole-2-carboxaldehyde",
+            "1.06",
+            "–",
+            "–",
+            "–",
+            "–"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Maltol",
+          "original_name": "Maltol",
+          "value": 0.58,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 20,
+          "raw": [
+            "14.258",
+            "1118",
+            "Maltol",
+            "0.58",
+            "–",
+            "----",
+            "–",
+            "–"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Estragole",
+          "original_name": "Estragole",
+          "value": 53.27,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 24,
+          "raw": [
+            "16.474",
+            "1200",
+            "Estragole",
+            "53.27",
+            "3.09",
+            "3.65",
+            "4.43",
+            "16.22"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "β -Fenchyl acetate",
+          "original_name": "β -Fenchyl acetate",
+          "value": 0.88,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 25,
+          "raw": [
+            "17.049",
+            "1231",
+            "β -Fenchyl acetate",
+            "0.88",
+            "–",
+            "0.06",
+            "0.64",
+            "0.25"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "α -Fenchyl acetate",
+          "original_name": "α -Fenchyl acetate",
+          "value": 0.49,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 26,
+          "raw": [
+            "17.45",
+            "1236",
+            "α -Fenchyl acetate",
+            "0.49",
+            "0.09",
+            "0.09",
+            "0.84",
+            "0.1"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "trans-anethole",
+          "original_name": "trans-anethole",
+          "value": 31.49,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 28,
+          "raw": [
+            "19.333",
+            "1283",
+            "trans-anethole",
+            "31.49",
+            "29.59",
+            "34.91",
+            "30.83",
+            "26.9"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "p-Acetonylanisole",
+          "original_name": "p-Acetonylanisole",
+          "value": 0.42,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 29,
+          "raw": [
+            "21.3",
+            "1384",
+            "p-Acetonylanisole",
+            "0.42",
+            "–",
+            "–",
+            "–",
+            "–"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Ethanone, 2,2-dimethoxy-1,2-diphenyl",
+          "original_name": "Ethanone, 2,2-dimethoxy-1,2-diphenyl",
+          "value": 0.55,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 33,
+          "raw": [
+            "34.535",
+            "1874",
+            "Ethanone, 2,2-dimethoxy-1,2-diphenyl",
+            "0.55",
+            "–",
+            "–",
+            "–",
+            "–"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "pmcid": "PMC9570728",
+      "table_id": "plants-11-02617-t001",
+      "table_number": 1,
+      "species": "Cuminum cyminum",
+      "common_name": "Cumin",
+      "label": "Cumin Egyptian market January 2022",
+      "part": "Dried fruits",
+      "origin": "Egyptian local market; cultivation origin not reported",
+      "extraction_method": "Hydrodistillation, Clevenger, 5 h",
+      "analytical_method": "GC-MS",
+      "method": "Hydrodistillation, Clevenger, 5 h; GC-MS",
+      "type": "Essential oil",
+      "basis": "GC peak area %",
+      "rankable": true,
+      "geography_status": "Egyptian market sample; growing origin unverified",
+      "notes": "Do not assign a specific Egyptian growing site to this market sample. Only the C. cyminum column was imported, not anise or caraway.",
+      "observations": [
+        {
+          "name": "Cumin aldehyde",
+          "original_name": "Cumin aldehyde",
+          "value": 41.26,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 3,
+          "raw": [
+            "Cumin aldehyde",
+            "1283",
+            "1283",
+            "41.26",
+            "n.d",
+            "n.d",
+            "[22]"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Limonene",
+          "original_name": "Limonene",
+          "value": 0.77,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 4,
+          "raw": [
+            "Limonene",
+            "1027",
+            "1027",
+            "0.77",
+            "1.57",
+            "48.49",
+            "[3,23]"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "ɣ-Terpinene",
+          "original_name": "ɣ-Terpinene",
+          "value": 8.11,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 7,
+          "raw": [
+            "ɣ-Terpinene",
+            "1049",
+            "1049",
+            "8.11",
+            "n.d",
+            "n.d",
+            "[22]"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "1,4-p-Menthadien-7-al",
+          "original_name": "1,4-p-Menthadien-7-al",
+          "value": 12.84,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 8,
+          "raw": [
+            "1,4-p-Menthadien-7-al",
+            "1784",
+            "1784",
+            "12.84",
+            "n.d",
+            "n.d",
+            "[23]"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Myrtenal",
+          "original_name": "Myrtenal",
+          "value": 19.26,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 9,
+          "raw": [
+            "Myrtenal",
+            "1237",
+            "1237",
+            "19.26",
+            "n.d",
+            "n.d",
+            "[23]"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "α-Pinene",
+          "original_name": "α-Pinene",
+          "value": 0.43,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 10,
+          "raw": [
+            "α-Pinene",
+            "933",
+            "930",
+            "0.43",
+            "n.d",
+            "n.d",
+            "[22]"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "β-Pinene",
+          "original_name": "β-Pinene",
+          "value": 10.27,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 11,
+          "raw": [
+            "β-Pinene",
+            "969",
+            "973",
+            "10.27",
+            "n.d",
+            "n.d",
+            "[22]"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "β-Myrcene",
+          "original_name": "β-Myrcene",
+          "value": 0.41,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 12,
+          "raw": [
+            "β-Myrcene",
+            "980",
+            "985",
+            "0.41",
+            "n.d",
+            "0.13",
+            "[22]"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "p-Cymene",
+          "original_name": "p-Cymene",
+          "value": 5.22,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 13,
+          "raw": [
+            "p-Cymene",
+            "1441",
+            "1441",
+            "5.22",
+            "n.d",
+            "n.d",
+            "[22]"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "p-Menth-2-en-1-ol",
+          "original_name": "p-Menth-2-en-1-ol",
+          "value": 1.26,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 16,
+          "raw": [
+            "p-Menth-2-en-1-ol",
+            "1130",
+            "1129",
+            "1.26",
+            "n.d",
+            "n.d",
+            "[22]"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "pmcid": "PMC5527698",
+      "table_id": "Table1",
+      "table_number": 1,
+      "species": "Mentha × piperita",
+      "common_name": "Peppermint",
+      "label": "Peppermint Taounate Morocco reference profile",
+      "part": "Fresh aerial parts",
+      "origin": "National Institute of Medicinal and Aromatic Plants garden, Taounate, Morocco",
+      "extraction_method": "Hydrodistillation, Clevenger, 3 h",
+      "analytical_method": "GC-MS",
+      "method": "Hydrodistillation, Clevenger, 3 h; GC-MS",
+      "type": "Essential oil",
+      "basis": "GC peak area %",
+      "rankable": true,
+      "geography_status": "Non-Egyptian reference sample",
+      "notes": "Documented Moroccan sample, not an Egyptian oil. Source table image SHA256 b92c59d73d96db1e1a056c843f3f80ee0440b200860cb0a5a9cbeef66da53142. The methyl acetate row at RI1295 is flagged for identity review rather than silently changed to menthyl acetate.",
+      "observations": [
+        {
+          "name": "alpha-thujene",
+          "original_name": "alpha-thujene",
+          "value": 0.31,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 2,
+          "raw": [
+            "931",
+            "alpha-thujene",
+            "0.31"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "alpha-pinene",
+          "original_name": "alpha-pinene",
+          "value": 0.32,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 3,
+          "raw": [
+            "939",
+            "alpha-pinene",
+            "0.32"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Verbenene",
+          "original_name": "Verbenene",
+          "value": 0.02,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 4,
+          "raw": [
+            "967",
+            "Verbenene",
+            "0.02"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Sabinene",
+          "original_name": "Sabinene",
+          "value": 1.38,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 5,
+          "raw": [
+            "975",
+            "Sabinene",
+            "1.38"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "beta-pinene",
+          "original_name": "beta-pinene",
+          "value": 0.53,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 6,
+          "raw": [
+            "979",
+            "beta-pinene",
+            "0.53"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "alpha-phellandrene",
+          "original_name": "alpha-phellandrene",
+          "value": 0.01,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 7,
+          "raw": [
+            "1005",
+            "alpha-phellandrene",
+            "0.01"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "P-cymene",
+          "original_name": "P-cymene",
+          "value": 0.03,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 8,
+          "raw": [
+            "1026",
+            "P-cymene",
+            "0.03"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Limonene",
+          "original_name": "Limonene",
+          "value": 3.01,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 9,
+          "raw": [
+            "1031",
+            "Limonene",
+            "3.01"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "1,8-cineole",
+          "original_name": "1,8-cineole",
+          "value": 6.06,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 10,
+          "raw": [
+            "1033",
+            "1,8-cineole",
+            "6.06"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Cis-sabinene hydrate",
+          "original_name": "Cis-sabinene hydrate",
+          "value": 0.24,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 11,
+          "raw": [
+            "1070",
+            "Cis-sabinene hydrate",
+            "0.24"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Linalool",
+          "original_name": "Linalool",
+          "value": 0.05,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 12,
+          "raw": [
+            "1098",
+            "Linalool",
+            "0.05"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Chrysanthenone",
+          "original_name": "Chrysanthenone",
+          "value": 0.42,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 13,
+          "raw": [
+            "1123",
+            "Chrysanthenone",
+            "0.42"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Menthone",
+          "original_name": "Menthone",
+          "value": 7.42,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 14,
+          "raw": [
+            "1152",
+            "Menthone",
+            "7.42"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Menthofuran",
+          "original_name": "Menthofuran",
+          "value": 13.18,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 15,
+          "raw": [
+            "1164",
+            "Menthofuran",
+            "13.18"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Neomenthol",
+          "original_name": "Neomenthol",
+          "value": 4.79,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 16,
+          "raw": [
+            "1165",
+            "Neomenthol",
+            "4.79"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Menthol",
+          "original_name": "Menthol",
+          "value": 46.32,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 17,
+          "raw": [
+            "1171",
+            "Menthol",
+            "46.32"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "terpinen-4-ol",
+          "original_name": "terpinen-4-ol",
+          "value": 0.04,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 18,
+          "raw": [
+            "1177",
+            "terpinen-4-ol",
+            "0.04"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "alpha-terpineol",
+          "original_name": "alpha-terpineol",
+          "value": 0.03,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 19,
+          "raw": [
+            "1189",
+            "alpha-terpineol",
+            "0.03"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Carvone",
+          "original_name": "Carvone",
+          "value": 1.02,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 20,
+          "raw": [
+            "1243",
+            "Carvone",
+            "1.02"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Neomenthylacetate",
+          "original_name": "Neomenthylacetate",
+          "value": 0.43,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 21,
+          "raw": [
+            "1273",
+            "Neomenthylacetate",
+            "0.43"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "Methyl acetate",
+          "original_name": "Methyl acetate",
+          "value": 12.1,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 22,
+          "raw": [
+            "1295",
+            "Methyl acetate",
+            "12.10"
+          ],
+          "annotation": "Source identity review required",
+          "notes": "Published name methyl acetate at RI1295 is suspect; original value and name retained, observation excluded from docking and oil-index coverage until curated.",
+          "docking_eligible": false
+        },
+        {
+          "name": "Isomenthylacetate",
+          "original_name": "Isomenthylacetate",
+          "value": 0.82,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 23,
+          "raw": [
+            "1305",
+            "Isomenthylacetate",
+            "0.82"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "alpha-terpinyl acetate",
+          "original_name": "alpha-terpinyl acetate",
+          "value": 0.03,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 24,
+          "raw": [
+            "1352",
+            "alpha-terpinyl acetate",
+            "0.03"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "beta-bourbonene",
+          "original_name": "beta-bourbonene",
+          "value": 0.37,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 25,
+          "raw": [
+            "1388",
+            "beta-bourbonene",
+            "0.37"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "alpha-gurjunene",
+          "original_name": "alpha-gurjunene",
+          "value": 0.03,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 26,
+          "raw": [
+            "1409",
+            "alpha-gurjunene",
+            "0.03"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "beta-caryophyllene",
+          "original_name": "beta-caryophyllene",
+          "value": 0.55,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 27,
+          "raw": [
+            "1418",
+            "beta-caryophyllene",
+            "0.55"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        },
+        {
+          "name": "alpha-humulene",
+          "original_name": "alpha-humulene",
+          "value": 0.01,
+          "sd": null,
+          "unit": "GC peak area %",
+          "status": "reported",
+          "source_row": 28,
+          "raw": [
+            "1460",
+            "alpha-humulene",
+            "0.01"
+          ],
+          "annotation": "Published GC-MS/GC-FID assignment",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "Origanum majorana": "New Egyptian oil; full supplementary composition",
+    "Thymus vulgaris": "Already documented in PMC9605189; no duplicate imported",
+    "Mentha × piperita": "New Moroccan reference; no unsupported Egyptian attribution",
+    "Ocimum basilicum": "New Egyptian farm sample",
+    "Foeniculum vulgare": "New experimental cultivation control; exact field coordinates not reported",
+    "Cuminum cyminum": "New Egyptian market sample; growing origin unverified"
+  },
+  "exclusions": [
+    "PMC6253825 lacks a clear peppermint collection location; not used for geographic attribution.",
+    "No pharmacological results or published docking scores were imported as application calculations."
+  ]
+}

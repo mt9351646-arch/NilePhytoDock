@@ -1,0 +1,18 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 565289,
+        "SMILES": "CC(=O)CC=C1CCCC1",
+        "InChIKey": "ZTMAYXUTUHXWGB-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "4-Cyclopentylidene-2-butanone",
+    "SCHEMBL14974150",
+    "2-Butanone, 4-cyclopentylidene-",
+    "4-Cyclopentylidene-2-butanone #",
+    "ZTMAYXUTUHXWGB-UHFFFAOYSA-N"
+  ]
+}

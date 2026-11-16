@@ -1,0 +1,57 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 494311,
+        "SMILES": "CC1CCC(C(C1)OC(=O)C)C(=C)C",
+        "InChIKey": "HLHIVJRLODSUCI-UHFFFAOYSA-N"
+      },
+      {
+        "CID": 94579,
+        "SMILES": "C[C@@H]1CC[C@H]([C@@H](C1)OC(=O)C)C(=C)C",
+        "InChIKey": "HLHIVJRLODSUCI-ADEWGFFLSA-N"
+      },
+      {
+        "CID": 11735731,
+        "SMILES": "C[C@H]1CC[C@@H]([C@H](C1)OC(=O)C)C(=C)C",
+        "InChIKey": "HLHIVJRLODSUCI-WCQGTBRESA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "p-Menth-8-en-3-yl acetate",
+    "Isopropenylcyclohexan-3-ol acetate",
+    "(5-methyl-2-prop-1-en-2-ylcyclohexyl) acetate",
+    "AI3-02180",
+    "1-Methyl-4-isopropenylcyclohexan-3-yl acetate",
+    "5-Methyl-2-(1-methylethenyl)cyclohexanol acetate",
+    "Cyclohexanol, 5-methyl-2-(1-methylethenyl), acetate",
+    "Cyclohexanol, 5-methyl-2-(1-methylethenyl)-, acetate",
+    "Cyclohexanol, 5-methyl-2-(1-methylethenyl)-, acetate, [1R-(1.alpha.,2.beta.,5.alpha.)]-",
+    "RefChem:580683",
+    "Cyclohexanol, 5-methyl-2-(1-methylethenyl)-, acetate, (1R-(1alpha,2beta,5alpha))-",
+    "Isopulegol acetate",
+    "89-49-6",
+    "ISOPULEGYLACETATE",
+    "ISOPULEGOLACETATE",
+    "2-Isopropenyl-5-methylcyclohexyl acetate",
+    "Cyclohexanol, 5-methyl-2-(1-methylethenyl)-, 1-acetate",
+    "neo-isopulegol acetate",
+    "neo-iso-isopulegol acetate",
+    "5-methyl-2-(prop-1-en-2-yl)cyclohexyl acetate",
+    "isopulegylacetat",
+    "NSC403868",
+    "(-)-Isopulegyl acetate",
+    "SCHEMBL560314",
+    "Cyclohexanol, 5-methyl-2-(1-methylethenyl)-, acetate, (1R,2S,5R)-",
+    "DTXSID60861679",
+    "AKOS024286269",
+    "ST092693",
+    "(2-isopropenyl-5-methyl-cyclohexyl) acetate",
+    "NS00012774",
+    "5-methyl-2-(1-methylvinyl)cyclohexyl acetate",
+    "H64766",
+    "F570099",
+    "Cyclohexanol, 5-methyl-2-(1-methylethenyl)-, acetate, {[1R-(1.alpha.,2.beta.,5.alpha.)]-}"
+  ]
+}

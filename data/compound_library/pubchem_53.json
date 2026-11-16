@@ -1,0 +1,24 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5352484,
+        "SMILES": "C/C/1=C/CCC(=C)C2CC(C2CC1)(C)CO",
+        "InChIKey": "DFMBJBXEHZSTJQ-WZUFQYTHSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "14-Hydroxy-9-epi-(E)-caryophyllene",
+    "RefChem:1057511",
+    "((5Z)-6,10-dimethyl-2-methylidene-10-bicyclo(7.2.0)undec-5-enyl)methanol",
+    "244226-09-3",
+    "14-Hydroxycaryophyllene",
+    "14-Hydroxy-1-epi-caryophyllene",
+    "14-Hydroxy-9-epi-.beta.-Caryophyllene",
+    "SCHEMBL29365327",
+    "DFMBJBXEHZSTJQ-WZUFQYTHSA-N",
+    "DTXSID801357997",
+    "Q67879566"
+  ]
+}

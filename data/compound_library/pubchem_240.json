@@ -1,0 +1,52 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 92138,
+        "SMILES": "CC(=C)[C@@H]1C[C@@H](CC[C@@]1(C)C=C)C(C)(C)O",
+        "InChIKey": "GFJIQNADMLPFOW-VNHYZAJKSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Elemol",
+    "639-99-6",
+    "ALPHA-ELEMOL",
+    "L92AJ7G06I",
+    "2-[(1R,3S,4S)-4-ethenyl-4-methyl-3-prop-1-en-2-ylcyclohexyl]propan-2-ol",
+    "CHEBI:141221",
+    "Cyclohexanemethanol, 4-ethenyl-alpha,alpha,4-trimethyl-3-(1-methylethenyl)-, (1R-(1alpha,3alpha,4beta))-",
+    "Cyclohexanemethanol, 4-ethenyl-alpha,alpha,4-trimethyl-3-(1-methylethenyl)-, (1R,3S,4S)-",
+    "2-((1R,3S,4S)-4-ethenyl-4-methyl-3-prop-1-en-2-ylcyclohexyl)propan-2-ol",
+    "Cyclohexanemethanol, 4-ethenyl-alpha,alpha,4-trimethyl-3-(1-methylethenyl)-, [1R-(1alpha,3alpha,4beta)]-",
+    "RefChem:136475",
+    "2-((1R,4S)-4-ethenyl-4-methyl-3-prop-1-en-2-ylcyclohexyl)propan-2-ol",
+    "211-360-5",
+    "2-((1R,3S,4S)-4-Methyl-3-(prop-1-en-2-yl)-4-vinylcyclohexyl)propan-2-ol",
+    "2-[(1r,3s,4s)-4-ethenyl-4-methyl-3-(prop-1-en-2-yl)cyclohexyl]propan-2-ol",
+    "(1S,2S,4R)-(-)-alpha,alpha-Dimethyl-1-vinyl-o-menth-8-ene-4-methanol",
+    ".alpha.-Elemol",
+    ".beta.-Elemol",
+    "UNII-L92AJ7G06I",
+    "beta-elemol",
+    "2-[(1R,3S,4S)-4-methyl-3-(prop-1-en-2-yl)-4-vinylcyclohexyl]propan-2-ol",
+    "Cyclohexanemethanol, 4-ethenyl-.alpha.,.alpha.,4-trimethyl-3-(1-methylethenyl)-, (1R,3S,4S)-",
+    "EINECS 211-360-5",
+    "AI3-00210",
+    "SCHEMBL310097",
+    "ELEMOL, (-)-",
+    "orb1697327",
+    "CHEMBL2287241",
+    "DTXSID1052323",
+    "AKOS040751670",
+    "NS00012345",
+    "T31613",
+    "Q27282855",
+    "(1R,3S,4S)-4-ethenyl-alpha,alpha,4-trimethyl-3-(1-methylethenyl)cyclohexanemethanol",
+    "1R,1alpha,3alpha,4beta-4-ethenyl-alpha,alpha,4-trimethyl-3-(1-methylethenyl)cyclohexanemethanol",
+    "4-ETHENYL-.ALPHA.,.ALPHA.,4-TRIMETHYL-3-(1-METHYLETHENYL)-(1R-(1.ALPHA.,3.ALPHA.,4.BETA.))-CYCLOHEXANEMETHANOL",
+    "cyclohexanemethanol, 4-ethenyl-alpha,a,4-trimethyl-3-(1-methylethenyl)-, [1R-(1alpha,3alpha,4beta)]-",
+    "Cyclohexanemethanol, 4-ethenyl-alpha,alpha,4-trimethyl-3-(1-methylethenyl)-, (1theta-(1alpha,3alpha,4beta))-",
+    "cyclohexanemethanol, 4-ethenyl-alpha,alpha,4-trimethyl-3-(1-methylethenyl)-, [1R-(1alpha,3alpha,4alpha)]-"
+  ]
+}

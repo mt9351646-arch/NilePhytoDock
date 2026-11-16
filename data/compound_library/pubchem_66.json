@@ -1,0 +1,38 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 68140,
+        "SMILES": "CC(=C)C1CCC(=C)CC1",
+        "InChIKey": "GOQRXDTWKVYHJH-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "p-Mentha-1(7),8-diene",
+    "Cyclohexane, 1-methylene-4-(1-methylethenyl)-",
+    "RefChem:580451",
+    "Pseudolimonene",
+    "1-Methylene-4-(1-methylvinyl)cyclohexane",
+    "499-97-8",
+    "1-methylene-4-(1-methylethenyl)cyclohexane",
+    "EINECS 207-895-9",
+    "Pseudolimonen",
+    "pseudo-limonene",
+    "p-Menthadien",
+    "1-methylidene-4-prop-1-en-2-ylcyclohexane",
+    ".psi.-Limonene",
+    "1(7),8-p-Menthadiene",
+    "1(7), 8-p-Menthadiene",
+    "1-METHYLIDENE-4-(PROP-1-EN-2-YL)CYCLOHEXANE",
+    "BM3287QA6N",
+    "SCHEMBL8962209",
+    "trans-p-mentha-1(7),8-diene",
+    "DTXSID40198152",
+    "PARA-MENTA-1(7),8-DIENE",
+    "AKOS015906577",
+    "1-Isopropenyl-4-methylenecyclohexane #",
+    "NS00031989",
+    "Q63393473"
+  ]
+}

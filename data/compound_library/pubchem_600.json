@@ -1,0 +1,18 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 21989930,
+        "SMILES": "C1C=CSSS1",
+        "InChIKey": "YIHDDWFPRQQFCP-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "1,2,3-Trithia-4-cyclohexene",
+    "4H-1,2,3-Trithiine",
+    "5-trithiane",
+    "SCHEMBL1039989",
+    "YIHDDWFPRQQFCP-UHFFFAOYSA-N"
+  ]
+}

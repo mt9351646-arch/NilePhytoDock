@@ -1,0 +1,50 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 95376,
+        "SMILES": "CC1=CC=C(C=C1)C(C)CO",
+        "InChIKey": "CLFDIFDNDWRHJF-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "4371-50-0",
+    "p-Cymen-9-ol",
+    "DTXSID801018187",
+    "RefChem:1094187",
+    "DTXCID501476427",
+    "2-(4-methylphenyl)propan-1-ol",
+    "2-(p-Tolyl)propan-1-ol",
+    "2-(4-Methylphenyl)-1-propanol",
+    "MFCD00036662",
+    "beta,4-Dimethyl-Benzeneethanol",
+    "NSC-5309",
+    "2-p-tolylpropan-1-ol",
+    "2-(p-Tolyl)-1-propanol",
+    "beta,4-Dimethylbenzeneethanol",
+    "NSC5309",
+    "para-cymen-9-ol",
+    "Cymene-9-ol",
+    "cymen-9-ol (para-)",
+    "starbld0027764",
+    "p-Cymen-9-ol, 8CI",
+    "Benzeneethanol,4-dimethyl-",
+    "9EX9W95RE8",
+    "orb2893649",
+    "SCHEMBL4492702",
+    "SCHEMBL7052389",
+    "SCHEMBL8076390",
+    "b,4-Dimethylbenzeneethanol, 9CI",
+    "Benzeneethanol, beta,4-dimethyl-",
+    "p,beta-Dimethyl-Phenethyl alcohol",
+    "CHEBI:195898",
+    "Phenethyl alcohol,.beta.-dimethyl-",
+    "AKOS014316181",
+    "NS-01156",
+    "CS-0281249",
+    "H42026",
+    "EN300-1241084",
+    "T203886"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6429100,
+        "SMILES": "CC1=CC2[C@H](CCC(=C)[C@]2(CC1)O)C(C)C",
+        "InChIKey": "URABJKMBRKSXSG-LOWNFYCTSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Muurola-4,10(14)-dien-1.beta.-ol",
+    "URABJKMBRKSXSG-LOWNFYCTSA-N",
+    "DTXSID001358608",
+    "Muurola-4,10(14)-dien-1beta-ol"
+  ]
+}

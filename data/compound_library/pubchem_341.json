@@ -1,0 +1,46 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6427110,
+        "SMILES": "CC(=CCC/C(=C/C=C)/C)C",
+        "InChIKey": "LUKZREJJLWEWQM-YRNVUSSQSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(3E)-4,8-dimethyl-1,3,7-nonatriene",
+    "3E-DMNT",
+    "RefChem:906010",
+    "19945-61-0",
+    "(E)-4,8-Dimethyl-1,3,7-nonatriene",
+    "(3E)-4,8-dimethylnona-1,3,7-triene",
+    "DMNT",
+    "4,8-dimethyl-1,3(E),7-nonatriene",
+    "1,3,7-Nonatriene, 4,8-dimethyl-, (3E)-",
+    "(e)-4,8-dimethylnona-1,3,7-triene",
+    "4,8-Dimethyl-1,3E,7-nonatriene",
+    "e-4,8-dimethyl-1,3,7-nonatriene",
+    "1,3,7-Nonatriene, 4,8-dimethyl-, (E)-",
+    "orb3179920",
+    "SCHEMBL2146239",
+    "SCHEMBL6905707",
+    "SCHEMBL28959116",
+    "CHEBI:60158",
+    "2,6-dimethyl-2,6,8-nonatriene",
+    "DTXSID201304588",
+    "GLXC-21749",
+    "LMFA11000037",
+    "1,3,7-Nonatriene, 4,8-dimethyl-,",
+    "2,6-Dimethyl-(E)-2,6,8-nonatriene",
+    "(3E)-4,8-dimethyl-nona-1,3,7-triene",
+    "(E)-4,8-Dimethylnona-1, 3, 7-triene",
+    "DB-309887",
+    "CS-0224691",
+    "C21795",
+    "EN300-120476",
+    "G76818",
+    "T69160",
+    "Q27127102"
+  ]
+}

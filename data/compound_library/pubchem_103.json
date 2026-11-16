@@ -1,0 +1,39 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 98467,
+        "SMILES": "CC(CCC1C(O1)(C)C)CCO",
+        "InChIKey": "KCNJNSNPPWXJGM-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Citronellol epoxide",
+    "1564-98-3",
+    "5-(3,3-dimethyloxiran-2-yl)-3-methylpentan-1-ol",
+    "3,7-Dimethyl-6,7-epoxyoctan-1-ol",
+    "NSC 140635",
+    "Oxiranepentanol, gamma,3,3-trimethyl-",
+    "1-Octanol, 6,7-epoxy-3,7-dimethyl-",
+    "2-Oxiranepentanol, gamma,3,3-trimethyl-",
+    "Oxiranepentanol, .gamma.,3,3-trimethyl-",
+    "AI3-36744",
+    "2-Oxiranepentanol, .gamma.,3,3-trimethyl-",
+    "DTXSID00883693",
+    "RefChem:477610",
+    "DTXCID701023197",
+    "5-(3,3-Dimethyloxiranyl)-3-methyl-1-pentanol",
+    "3,7-Dimethyl-6,7-epoxy-1-octanol",
+    "3,7-epoxyoctan-1-ol",
+    "Citronellol epoxide (R or S)",
+    "SCHEMBL7977453",
+    "Oxiranepentanol,3,3-trimethyl-",
+    "1-Octanol,7-epoxy-3,7-dimethyl-",
+    "NSC140635",
+    "2-Oxiranepentanol, g,3,3-trimethyl-",
+    "NSC-140635",
+    "DS-013534",
+    "5-(3,3-Dimethyl-2-oxiranyl)-3-methyl-1-pentanol #"
+  ]
+}

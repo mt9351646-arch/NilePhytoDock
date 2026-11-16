@@ -1,0 +1,37 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 519323,
+        "SMILES": "CC1=CCC(C=C1)C(C)(C)O",
+        "InChIKey": "FQEXRDMYDXBXEO-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "RefChem:1092716",
+    "Npc14594",
+    "p-Mentha-1,5-dien-8-ol",
+    "2-(4-methylcyclohexa-2,4-dien-1-yl)propan-2-ol",
+    "1686-20-0",
+    "2-(4-Methyl-2,4-cyclohexadienyl)-2-propanol",
+    "Mentha-1,5-diene-8-ol",
+    "p-Mentha-1,5-diene-8-ol",
+    "2,4-Cyclohexadiene-1-methanol, .alpha.,.alpha.,4-trimethyl-",
+    "alpha-Phellandren-8-ol",
+    "alpha-phellandrene-8-ol",
+    "p-1,5-Menthadienol-8",
+    ".alpha.-Phellandren-8-ol",
+    "1,5-p-Menthadien-8-ol",
+    "p-1,5-Menthadien-8-ol",
+    ".alpha.-Phellandrene-8-ol",
+    "p-Menth-1,5-dien-8-ol",
+    "p-mentha-1.5-dien-8-ol",
+    "para-Mentha-1,5-dien-8-ol",
+    "Phellandren-8-ol, .alpha.-",
+    "SCHEMBL3672407",
+    "DTXSID90333970",
+    "FQEXRDMYDXBXEO-UHFFFAOYSA-N",
+    "2-(4-Methyl-2,4-cyclohexadien-1-yl)-2-propanol #"
+  ]
+}

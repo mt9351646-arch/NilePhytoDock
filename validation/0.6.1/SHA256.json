@@ -1,0 +1,57 @@
+[
+  {
+    "file": "dedicated_3d_page.png",
+    "sha256": "3d611c87881199fed2bb9b045c6a6070e63fed4c50da8620b792d3fd924b7ef5",
+    "bytes": 270049
+  },
+  {
+    "file": "frozen_source.json",
+    "sha256": "8d1ef83793de6f7c8dad49ba1bb50142c73029e0fccdb552b7f657d71a1dfbc4",
+    "bytes": 1592
+  },
+  {
+    "file": "fullscreen_3d.png",
+    "sha256": "538be527113c16d3e167a28d3e3711af082206875e3d5f52380c596744d64e7d",
+    "bytes": 448623
+  },
+  {
+    "file": "functional_groups_1366.png",
+    "sha256": "b5f6cb884c3f0738ff5790a65913dd9640b419cc3105e9ff11d5b73b0d740de9",
+    "bytes": 154203
+  },
+  {
+    "file": "native_installation.json",
+    "sha256": "5fdd92c1e862fa27771d202eee012e357465b245410c1b935c61d0eaf46909f0",
+    "bytes": 2667
+  },
+  {
+    "file": "oil_results_1366.png",
+    "sha256": "1e3e03e213a8587c4c7333ccbb65e3e623e5d27d231086484a830d0907156833",
+    "bytes": 160624
+  },
+  {
+    "file": "pytest.xml",
+    "sha256": "6c2716c4f3dcc178f00613a8d38b97fa04dab0fe847736154ae1640507f8529f",
+    "bytes": 8083
+  },
+  {
+    "file": "README.md",
+    "sha256": "b182d90dec9091b407301c133626deb3c4fc4020d3ae21c1d8fd4e72bb9c3135",
+    "bytes": 1585
+  },
+  {
+    "file": "release_verification.json",
+    "sha256": "63bd3e86f7c2dc906e24379e13115b319121ee3cd842a070e94809720e32c6bd",
+    "bytes": 7071
+  },
+  {
+    "file": "result_ui.json",
+    "sha256": "5015c8926278990cf92ab237496c60e85444f67c6f2e56962f982c26e08c3037",
+    "bytes": 9765
+  },
+  {
+    "file": "shortcuts.json",
+    "sha256": "4b65d64a84b224881eb78f2ff6fadd6c87c1e4ee79062534dc8e38cb51ccf01d",
+    "bytes": 530
+  }
+]

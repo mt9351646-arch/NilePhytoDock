@@ -1,0 +1,41 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 11074994,
+        "SMILES": "C[C@H]1CC[C@@H]2[C@H]1[C@@H]3[C@@H](C3(C)C)CC[C@]2(C)O",
+        "InChIKey": "AYXPYQRXGNDJFU-AQEIEYEASA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Ledol",
+    "(+)-Ledol",
+    "577-27-5",
+    "99XJ3YS21U",
+    "(1aS,4S,4aR,7S,7aR,7bR)-1,1,4,7-tetramethyl-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulen-4-ol",
+    "DTXSID40877915",
+    "(1aS,4S,4aR,7S,7aR,7bR)-1,1,4,7-tetramethyl-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa(e)azulen-4-ol",
+    "RefChem:67419",
+    "DTXCID401015979",
+    "(1aR,4R,4aS,7R,7aS,7bS)-1,1,4,7-tetramethyl-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa(e)azulen-4-ol",
+    "UNII-99XJ3YS21U",
+    "ledum camphor",
+    "d-Ledol",
+    "1H-Cycloprop(e)azulen-4-ol, decahydro-1,1,4,7-tetramethyl-, (1aR-(1aalpha,4alpha,4abeta,7alpha,7abeta,7balpha))-",
+    "LEDOL [MI]",
+    "orb2944234",
+    "CHEMBL3120648",
+    "SCHEMBL29406752",
+    "LEDOL, (+)-",
+    "LMPR01030042",
+    "AKOS040752462",
+    "EBC-618367",
+    "(1aS,4S,4aR,7S,7aR,7bR)-1,1,4,7-tetramethyl-decahydro-1H-cyclopropa[e]azulen-4-ol",
+    "HY-121388",
+    "CS-0081844",
+    "T32622",
+    "(1AS,4S,4AR,7S,7AR,7BR)-DECAHYDRO-1,1,4,7-TETRAMETHYL-1H-CYCLOPROP(E)AZULEN-4-OL",
+    "1H-CYCLOPROP(E)AZULEN-4-OL, DECAHYDRO-1,1,4,7-TETRAMETHYL-, (1AS,4S,4AR,7S,7AR,7BR)-"
+  ]
+}

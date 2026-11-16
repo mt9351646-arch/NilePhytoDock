@@ -1,0 +1,26 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 519324,
+        "SMILES": "CC(=C)CCCC(=C)C=C",
+        "InChIKey": "VYBREYKSZAROCT-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "alpha-Myrcene",
+    "2-methyl-6-methylideneocta-1,7-diene",
+    "1686-30-2",
+    "DTXSID50333971",
+    "RefChem:915561",
+    "DTXCID90285061",
+    ".alpha.-Myrcene",
+    "1,7-Octadiene, 2-methyl-6-methylene-",
+    "Alpha myrcene",
+    "SCHEMBL245195",
+    "SCHEMBL28122643",
+    "2-Methyl-6-methylene-1,7-octadiene #",
+    "NS00094735"
+  ]
+}

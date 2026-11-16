@@ -1,0 +1,36 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 78265163,
+        "SMILES": "C[C@]12CCCC([C@@H]3[C@H]1CC[C@@H]3C2CO)(C)C",
+        "InChIKey": "VZJHQHUOVIDRCF-UEUNCZIASA-N"
+      },
+      {
+        "CID": 12311097,
+        "SMILES": "C[C@]12CCCC([C@@H]3[C@H]1CC[C@@H]3[C@H]2CO)(C)C",
+        "InChIKey": "VZJHQHUOVIDRCF-NTASLKFISA-N"
+      },
+      {
+        "CID": 572865,
+        "SMILES": "CC1(CCCC2(C3C1C(C2CO)CC3)C)C",
+        "InChIKey": "VZJHQHUOVIDRCF-UHFFFAOYSA-N"
+      },
+      {
+        "CID": 91750192,
+        "SMILES": "C[C@@]12CCCC([C@H]3C1CC[C@@H]3[C@@H]2CO)(C)C",
+        "InChIKey": "VZJHQHUOVIDRCF-GZVHEFRTSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Longifolol",
+    "Hydroxyjunipene",
+    "Longifolyl alcohol",
+    "EINECS 207-415-8",
+    "469-27-2",
+    "(1S-(1alpha,3Abeta,4alpha,8abeta,9S*))-decahydro-4,8,8-trimethyl-1,4-methanoazulene-9-methanol",
+    "SCHEMBL29638247",
+    "Q67879994"
+  ]
+}

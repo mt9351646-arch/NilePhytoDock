@@ -1,0 +1,27 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5365022,
+        "SMILES": "CCCCCCCCCCCCCCCCC/C=C/CCCCCCCCCCCCCCCC",
+        "InChIKey": "BLCUZCCTSBVFSV-LAPDZXRHSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "17-Pentatriacontene",
+    "DTXSID00881250",
+    "NSC 66519",
+    "6971-40-0",
+    "RefChem:79265",
+    "DTXCID80909502",
+    "BLCUZCCTSBVFSV-LAPDZXRHSA-N",
+    "(17E)-17-Pentatriacontene",
+    "SCHEMBL2021345",
+    "(17E)-17-Pentatriacontene #",
+    "(17E)-PENTATRIACONT-17-ENE",
+    "AKOS024430359",
+    "NS00096074",
+    "119179-78-1"
+  ]
+}

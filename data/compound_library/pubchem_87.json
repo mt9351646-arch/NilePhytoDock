@@ -1,0 +1,30 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 91747125,
+        "SMILES": "C[C@H]1CC[C@@H](C2=CC(=C)CCC12)C(C)C",
+        "InChIKey": "RNDFUOKDULDZPR-WLDKUNSKSA-N"
+      },
+      {
+        "CID": 521496,
+        "SMILES": "CC1CCC(C2=CC(=C)CCC12)C(C)C",
+        "InChIKey": "RNDFUOKDULDZPR-UHFFFAOYSA-N"
+      },
+      {
+        "CID": 10750739,
+        "SMILES": "C[C@H]1CC[C@@H](C2=CC(=C)CC[C@H]12)C(C)C",
+        "InChIKey": "RNDFUOKDULDZPR-BFHYXJOUSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "trans-Muurola-4(14),5-diene",
+    "SCHEMBL30515428",
+    "CHEBI:88632",
+    "DTXSID501020804",
+    "262352-87-4",
+    "Q27160518",
+    "(1R,4S)-4-Methyl-7-methylidene-1-(propan-2-yl)-1,2,3,4,4a,5,6,7-octahydronaphthalene"
+  ]
+}

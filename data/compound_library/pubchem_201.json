@@ -1,0 +1,39 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6432211,
+        "SMILES": "CC(C)C1=CC2=C(C=C1)[C@]3(CCCC([C@@H]3CC2)(C)C)C",
+        "InChIKey": "QUUCYKKMFLJLFS-AZUAARDMSA-N"
+      },
+      {
+        "CID": 86869,
+        "SMILES": "CC(C)C1=CC2=C(C=C1)C3(CCCC(C3CC2)(C)C)C",
+        "InChIKey": "QUUCYKKMFLJLFS-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Abietatriene",
+    "Abieta-8,11,13-triene",
+    "CHEBI:86062",
+    "DTXSID30941114",
+    "RefChem:1075141",
+    "DTXCID701838502",
+    "19407-28-4",
+    "Ar-Abietatriene",
+    "Dehydroabietan",
+    "Podocarpa-8,11,13-triene, 13-isopropyl-",
+    "Phenanthrene, 1,2,3,4,4a,9,10,10a-octahydro-1,1,4a-trimethyl-7-(1-methylethyl)-, (4aS-trans)-",
+    "(4aS,10aS)-1,1,4a-trimethyl-7-propan-2-yl-2,3,4,9,10,10a-hexahydrophenanthrene",
+    "8,11,13-Abietatriene",
+    "dehydroabietadiene",
+    "Abietane, dehydro-",
+    "SCHEMBL134586",
+    "SCHEMBL6280790",
+    "CHEMBL3343789",
+    "C21425",
+    "Q27158870",
+    "(4aS,10aS)-7-isopropyl-1,1,4a-trimethyl-2,3,4,9,10,10a-hexahydrophenanthrene"
+  ]
+}

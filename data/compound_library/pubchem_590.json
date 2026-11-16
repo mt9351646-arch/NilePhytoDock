@@ -1,0 +1,36 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 117301,
+        "SMILES": "CC1=CCC(CC1)C2(CCC(O2)C(C)(C)O)C",
+        "InChIKey": "RKBAYVATPNYHLW-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Bisabolol oxide B",
+    "55399-12-7",
+    "Bisabololoxide B",
+    "RefChem:120326",
+    "259-624-9",
+    "alpha-Bisabolol oxide B",
+    "2-[5-methyl-5-(4-methylcyclohex-3-en-1-yl)oxolan-2-yl]propan-2-ol",
+    "Tetrahydro-alpha,alpha,5-trimethyl-5-(4-methyl-3-cyclohexen-1-yl)furan-2-methanol",
+    "Bisabolol oxide II",
+    ".alpha.-Bisabolol oxide B",
+    "EINECS 259-624-9",
+    "SCHEMBL10865738",
+    "CHEBI:80720",
+    "2-[5-Methyl-5-(4-methyl-3-cyclohexen-1-yl)tetrahydro-2-furanyl]-2-propanol #",
+    "2-Furanmethanol, tetrahydro-.alpha.,.alpha.,5-trimethyl-5-(4-methyl-3-cyclohexen-1-yl)-",
+    "RKBAYVATPNYHLW-UHFFFAOYSA-N",
+    "[2S-[2alpha,5beta(R*)]]-tetrahydro-alpha,alpha,5-trimethyl-5-(4-methyl-3-cyclohexen-1-yl)furan-2-methanol",
+    "2-Furanmethanol, tetrahydro-.alpha.,.alpha.,5-trimethyl-5-(4-methyl-3-cyclohexen-1-yl)-, [2S-[2.alpha.,5.beta.(R)]]-",
+    "BBA18488",
+    "DB-309410",
+    "NS00050639",
+    "Q27149762",
+    "2-Furanmethanol, tetrahydro-alpha,alpha,5-trimethyl-5-(methyl-3-cyclohexen-1-yl)-"
+  ]
+}

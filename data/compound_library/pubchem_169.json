@@ -1,0 +1,20 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 557551,
+        "SMILES": "CC1=CCC(C=CCC(CCC1)(C)O)(C)C",
+        "InChIKey": "ZLMAVMBYWKVCLV-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "28446-26-6",
+    "3,7-Cycloundecadien-1-ol, 1,5,5,8-tetramethyl-",
+    "DTXSID50339650",
+    "1,5,5,8-tetramethylcycloundeca-3,7-dien-1-ol",
+    "RefChem:272492",
+    "DTXCID90290731",
+    "SCHEMBL10748830"
+  ]
+}

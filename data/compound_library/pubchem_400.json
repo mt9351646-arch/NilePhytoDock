@@ -1,0 +1,59 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 75427,
+        "SMILES": "C[C@H](CCC=C(C)C)CC=O",
+        "InChIKey": "NEHNMFOYXAPHSD-SNVBAGLBSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(R)-3,7-Dimethyloct-6-enal",
+    "6-Octenal, 3,7-dimethyl-, (3R)-",
+    "6-Octenal, 3,7-dimethyl-, (R)-",
+    "EINECS 219-194-5",
+    "EC 219-194-5",
+    "6-Octenal, 3,7-dimethyl-, (theta)-",
+    "RefChem:544134",
+    "219-194-5",
+    "(R)-(+)-Citronellal",
+    "2385-77-5",
+    "(+)-Citronellal",
+    "(3R)-3,7-dimethyloct-6-enal",
+    "(R)-citronellal",
+    "(3R)-(+)-citronellal",
+    "(3R)-3,7-Dimethyl-6-octenal",
+    "(R)-3,7-dimethyl-6-octenal",
+    "MFCD00067089",
+    "(+)-Citronellal (>90%)",
+    "3,7-Dimethyl-6-octenal, (3R)-",
+    "CS-0089462",
+    "Citronellal Impurity 1",
+    "LMPR0",
+    "A901492",
+    "CHEBI:299",
+    "SCHEMBL457495",
+    "orb1989701",
+    "CHEMBL1081721",
+    "DTXSID6044482",
+    "3,7-Dimethyl-(3R)-6-Octenal",
+    "EBC-46204",
+    "AKOS025311453",
+    "6-OCTENAL, 3,7-DIMETHYL-,R",
+    "CCG-214393",
+    "LMPR0102010007",
+    "MS-22876",
+    "SY110512",
+    "HY-111664",
+    "NS00008006",
+    "(R)-(+)-Citronellal, technical grade, 90%",
+    "C09848",
+    "G12180",
+    "T13449",
+    "EN300-23312937",
+    "F979959",
+    "Q413787",
+    "6-acetamido-4-hydroxy-3-[[4-(2-sulfonatooxyethylsulfonyl)phenyl]diazenyl]naphthalene-2-sulfonate"
+  ]
+}

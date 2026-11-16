@@ -1,0 +1,36 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 525331,
+        "SMILES": "C1C=CSS1",
+        "InChIKey": "PCGDBWLKAYKBTN-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "1,2-dithiole",
+    "3H-1,2-Dithiole",
+    "1,2-Dithiolene",
+    "3H-dithiole",
+    "1,2-Dithiacyclopentene",
+    "288-26-6",
+    "1,2-dithioles",
+    "RefChem:72046",
+    "CHEBI:48859",
+    "PCGDBWLKAYKBTN-UHFFFAOYSA-N",
+    "3H-1,2-dithiolene",
+    "NDY9U8RY64",
+    "SCHEMBL22568",
+    "SCHEMBL117642",
+    "SCHEMBL117643",
+    "SCHEMBL5178779",
+    "SCHEMBL5231785",
+    "SCHEMBL5464130",
+    "SCHEMBL5670370",
+    "DTXSID901031881",
+    "Q18343387",
+    "Ref.: J.Agric. Food Chem., Vol. 46, #1, 1998, 220-223",
+    "1,3-Dibicyclo[2.2.1]hepta-2,5-dien-2-yl-1,3-dichloro-1,3-bis[3-(trimethylsilyl)propyl]disiloxane"
+  ]
+}

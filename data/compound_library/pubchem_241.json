@@ -1,0 +1,47 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 3084331,
+        "SMILES": "CC1=C[C@H]2[C@@H](CC[C@]([C@H]2CC1)(C)O)C(C)C",
+        "InChIKey": "LHYHMMRYTDARSZ-AJNGGQMLSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "T-Muurolol",
+    "19912-62-0",
+    "epi-alpha-Muurolol",
+    "(1S,4S,4aR,8aS)-1,6-dimethyl-4-propan-2-yl-3,4,4a,7,8,8a-hexahydro-2H-naphthalen-1-ol",
+    "DTXSID10173698",
+    "RefChem:921010",
+    "DTXCID1096189",
+    "(-)-T-Muurolol",
+    "Muurolol",
+    "1-Naphthalenol, 1,2,3,4,4a,7,8,8a-octahydro-1,6-dimethyl-4-(1-methylethyl)-, (1S-(1alpha,4alpha,4aalpha,8aalpha))-",
+    ".tau.-Muurolol",
+    "tau-Muurolol",
+    "Muurolol T",
+    "T-MuuroloI",
+    "alpha-epi-muurolol",
+    "(-)-tau-muurolol",
+    "alpha-muurolol, epi-",
+    ".alpha.-epi-Muurolol",
+    "epi-.alpha.-Muurolol",
+    "10-epi-alpha-muurolol",
+    "orb2563838",
+    "SCHEMBL5653479",
+    "CHEMBL2228956",
+    "CHEBI:132906",
+    "LHYHMMRYTDARSZ-AJNGGQMLSA-N",
+    "HY-N12787",
+    "TN7988",
+    "(1S,4S,4aR,8aS)-1,6-dimethyl-4-(propan-2-yl)-1,2,3,4,4a,7,8,8a-octahydronaphthalen-1-ol",
+    "CS-1050898",
+    "NS00123144",
+    "G89207",
+    "Q63409422",
+    "(1S,4S,4aR,8aS)-4-isopropyl-1,6-dimethyl-1,2,3,4,4a,7,8,8a-octahydronaphthalen-1-ol",
+    "4-Isopropyl-1,6-dimethyl-1,2,3,4,4a,7,8,8a-octahydro-1-naphthalenol-, [1S-(1.alpha.,4.alpha.,4a.alpha.,8a.alpha.)]-"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "interaction_export_modes": [
+    {
+      "mode": "Complete Interaction Table",
+      "records": 381,
+      "csv_xlsx_docx_verified": true
+    },
+    {
+      "mode": "Best Pose Interactions",
+      "records": 381,
+      "csv_xlsx_docx_verified": true
+    },
+    {
+      "mode": "Selected Protein Interactions",
+      "records": 156,
+      "csv_xlsx_docx_verified": true
+    },
+    {
+      "mode": "Selected Compound Interactions",
+      "records": 96,
+      "csv_xlsx_docx_verified": true
+    },
+    {
+      "mode": "Functional Group Interaction Summary",
+      "records": 18,
+      "csv_xlsx_docx_verified": true
+    },
+    {
+      "mode": "Interaction Frequency Summary",
+      "records": 44,
+      "csv_xlsx_docx_verified": true
+    }
+  ],
+  "full_numeric_precision_preserved": true,
+  "empty_export_rejected": true,
+  "original_observations_unchanged": 1613,
+  "counts": {
+    "botanical_oils": 57,
+    "essential_oils": 46,
+    "fixed_oils": 11,
+    "species": 68,
+    "profiles": 119,
+    "compounds": 819,
+    "ready": 186,
+    "unique_ready": 164,
+    "records": 2109
+  },
+  "seed_integrity_and_foreign_keys_valid": true,
+  "ready_paths_portable": true,
+  "historical_evaluations": 12
+}

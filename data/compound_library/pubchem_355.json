@@ -1,0 +1,40 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 12306048,
+        "SMILES": "CC1=C[C@@H]2[C@@H](CC1)C(=CC[C@H]2C(C)C)C",
+        "InChIKey": "QMAYBMKBYCGXDH-KKUMJFAQSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(+)-alpha-cadinene",
+    "alpha-Cadinene, (+)-",
+    "11044-40-9",
+    "UNII-X650G04I0A",
+    "X650G04I0A",
+    "(1S,4aR,8aR)-4,7-dimethyl-1-(propan-2-yl)-1,2,4a,5,6,8a-hexahydronaphthalene",
+    "RefChem:27262",
+    "CADINENE, alpha-, (+)-",
+    "alpha-Cadinene",
+    "(-)-alpha-Cadinene",
+    "24406-05-1",
+    "Cadina-4,9-diene, (-)-",
+    "(1S,4aR,8aR)-4,7-dimethyl-1-propan-2-yl-1,2,4a,5,6,8a-hexahydronaphthalene",
+    "(1S,4aR,8aR)-4,7-dimethyl-1-(propan-2-yl)- 1,2,4a,5,6,8a-hexahydronaphthalene",
+    "Naphthalene, 1,2,4a,5,6,8a-hexahydro-4,7-dimethyl-1-(1-methylethyl)-, (1S-(1alpha,4abeta,8aalpha))-",
+    "Cadinen",
+    "(1S,4aR,8aR)-1-Isopropyl-4,7-dimethyl-1,2,4a,5,6,8a-hexahydronaphthalene",
+    "a-Cadinene",
+    "(-)-a-Cadinene",
+    "SCHEMBL566939",
+    "CHEBI:80749",
+    "DTXSID301020739",
+    ".ALPHA.-CADINENE, (+)-",
+    "Cadina-4,9-diene, (-)- (8CI)",
+    "CADINENE, .ALPHA.-, (+)-",
+    "Q27149802",
+    "1,2,4a,5,6,8a-Hexahydro-4,7-dimethyl-1-(1-methylethyl)-(1S,4aR,8aR)-Naphthalene"
+  ]
+}

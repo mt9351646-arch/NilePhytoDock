@@ -1,0 +1,15 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 572691,
+        "SMILES": "CC1(C2CCC(C2)C1C=C)C",
+        "InChIKey": "DTEBVEANSBDEJR-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "2,2-Dimethyl-3-vinyl-bicyclo[2.2.1]heptane",
+    "DTEBVEANSBDEJR-UHFFFAOYSA-N"
+  ]
+}

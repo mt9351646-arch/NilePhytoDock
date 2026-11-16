@@ -1,0 +1,25 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 530816,
+        "SMILES": "CC1=CCC2C1C3C2(CCC3C(C)C)C",
+        "InChIKey": "FAIMMSRDTUMTQR-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "alpha-Bourbonene",
+    ".alpha.-Bourbonene",
+    "a-Bourbonene",
+    "3,7-dimethyl-10-propan-2-yltricyclo[5.3.0.02,6]dec-3-ene",
+    "3,7-dimethyl-10-propan-2-yltricyclo(5.3.0.02,6)dec-3-ene",
+    "a-cis-Bergamotene",
+    "RefChem:111102",
+    "5208-58-2",
+    "FAIMMSRDTUMTQR-UHFFFAOYSA-N",
+    "SCHEMBL30105547",
+    "CHEBI:88649",
+    "Q22162855"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 521496,
+        "SMILES": "CC1CCC(C2=CC(=C)CCC12)C(C)C",
+        "InChIKey": "RNDFUOKDULDZPR-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "1-epi-Bicyclosesquiphellandrene",
+    "RefChem:1055358",
+    "4-methyl-7-methylidene-1-propan-2-yl-2,3,4,4a,5,6-hexahydro-1H-naphthalene",
+    "(+)-Epi-bicyclosesquiphellandrene",
+    "trans-Muurola-4(14),5-diene",
+    "(-)-Bicyclosesquiphellandrene",
+    "bicyclosesquiphellandrene, epi-",
+    "SCHEMBL29025253",
+    "(1S,4R,4aR)-1-Isopropyl-4-methyl-7-methylene-1,2,3,4,4a,5,6,7-octahydronaphthalene",
+    "RNDFUOKDULDZPR-UHFFFAOYSA-N",
+    "1-Isopropyl-4-methyl-7-methylene-1,2,3,4,4a,5,6,7-octahydronaphthalene",
+    "trans-?Muurola-?4(15)?,?5-?diene",
+    "Q67866103",
+    "Naphthalene, 1,2,3,4,4a,5,6,7-octahydro-4-methyl-7-methylene-1-(1-methylethyl)-, (1S,4R,4aR)-",
+    "Naphthalene, 1,2,3,4,4a,5,6,7-octahydro-4-methyl-7-methylene-1-(1-methylethyl)-, [1S-(1.alpha.,4.beta.,4a.alpha.)]-"
+  ]
+}

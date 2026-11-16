@@ -1,0 +1,3189 @@
+[
+  {
+    "file": "Cotula_cinerea_Essential_Oil_Compounds_and_Percentages.docx",
+    "paragraphs": [
+      "Cotula cinerea Essential Oil: Chemical Composition",
+      "Compound names and reported relative percentages",
+      "Essential Oil Name",
+      "Cotula cinerea essential oil, obtained from the aerial parts of the plant. The study compares samples collected from two geographical locations (El Alamein and the Red Sea) using two extraction methods: conventional hydrodistillation (HD) and microwave-assisted hydrodistillation (MAE).",
+      "Chemical Compounds and Percentages",
+      "The table below reproduces the compound percentages reported in the supplied paper excerpt. Values are shown in the following order: El Alamein–HD, El Alamein–MAE, Red Sea–HD, and Red Sea–MAE.",
+      "Major Chemical Groups",
+      "Main Compounds",
+      "Pinocarvone was the most abundant reported compound (43.88–62.05%), followed by α-thujone (6.62–31.67%), camphene (7.07–13.49%), santolina triene (2.68–8.08%), and α-pinene (2.35–4.86%).",
+      "Notes on the Data",
+      "• The percentages are the relative composition values reported for each sample in the supplied paper excerpt; they should not automatically be interpreted as exact weight percentages.\n• A value of 0.00 means the compound was reported as zero/not detected in that sample under the study's analysis; it does not necessarily prove absolute absence.\n• These are four sample profiles of the same essential oil, not four different essential oils.",
+      "Source",
+      "Ali, S. K., Saleh, I. A., El-Gendy, A. E.-N. G., Abd El Aty, A. A., Mohamed, T. A., & Hegazy, M.-E. F. “Effect of Geographical Location and Extraction Methods on the Chemical Composition and Antimicrobial Activity of Cotula cinerea Essential Oil via Chemo-Metric Analysis.” PMCID: PMC13453069; PMID: 42571628.",
+      "Note: The source details above are limited to the bibliographic information included in the supplied text."
+    ],
+    "tables": [
+      [
+        [
+          "No.",
+          "Compound",
+          "El Alamein\nHD (%)",
+          "El Alamein\nMAE (%)",
+          "Red Sea\nHD (%)",
+          "Red Sea\nMAE (%)"
+        ],
+        [
+          "1",
+          "Santolina triene",
+          "8.08",
+          "6.49",
+          "3.20",
+          "2.68"
+        ],
+        [
+          "2",
+          "Tricyclene",
+          "0.57",
+          "0.66",
+          "0.41",
+          "0.91"
+        ],
+        [
+          "3",
+          "α-Thujene",
+          "0.04",
+          "0.00",
+          "0.00",
+          "0.00"
+        ],
+        [
+          "4",
+          "α-Pinene",
+          "2.35",
+          "3.41",
+          "4.86",
+          "4.46"
+        ],
+        [
+          "5",
+          "Camphene",
+          "7.07",
+          "10.70",
+          "13.49",
+          "13.15"
+        ],
+        [
+          "6",
+          "2,2-Dimethyl-3-vinyl-bicyclo[2.2.1]heptane",
+          "0.00",
+          "0.00",
+          "0.11",
+          "0.17"
+        ],
+        [
+          "7",
+          "Sabinene",
+          "2.31",
+          "1.12",
+          "1.48",
+          "1.63"
+        ],
+        [
+          "8",
+          "β-Pinene",
+          "1.28",
+          "1.77",
+          "2.71",
+          "2.11"
+        ],
+        [
+          "9",
+          "Eucalyptol",
+          "0.26",
+          "0.95",
+          "4.20",
+          "2.72"
+        ],
+        [
+          "10",
+          "cis-Sabinene hydrate",
+          "0.68",
+          "0.16",
+          "0.21",
+          "0.87"
+        ],
+        [
+          "11",
+          "α-Thujone",
+          "31.67",
+          "13.24",
+          "9.06",
+          "6.62"
+        ],
+        [
+          "12",
+          "3,7-Octadiene-2,6-diol, 2,6-dimethyl",
+          "0.33",
+          "0.14",
+          "0.00",
+          "0.26"
+        ],
+        [
+          "13",
+          "trans-Sabinene hydrate",
+          "0.20",
+          "0.09",
+          "0.00",
+          "0.45"
+        ],
+        [
+          "14",
+          "β-Pinene oxide",
+          "0.09",
+          "0.04",
+          "0.00",
+          "0.16"
+        ],
+        [
+          "15",
+          "cis-p-Mentha-1(7),8-dien-2-ol",
+          "0.45",
+          "0.00",
+          "0.00",
+          "0.00"
+        ],
+        [
+          "16",
+          "Camphor",
+          "0.00",
+          "0.00",
+          "0.17",
+          "0.11"
+        ],
+        [
+          "17",
+          "Pinocarvone",
+          "43.88",
+          "60.51",
+          "59.41",
+          "62.05"
+        ],
+        [
+          "18",
+          "Terpinen-4-ol",
+          "0.46",
+          "0.22",
+          "0.21",
+          "0.36"
+        ],
+        [
+          "19",
+          "(−)-Bornyl acetate",
+          "0.15",
+          "0.48",
+          "0.47",
+          "1.22"
+        ]
+      ],
+      [
+        [
+          "Chemical group",
+          "El Alamein–HD (%)",
+          "El Alamein–MAE (%)",
+          "Red Sea–HD (%)",
+          "Red Sea–MAE (%)"
+        ],
+        [
+          "Monoterpene hydrocarbons (MH)",
+          "21.70",
+          "24.15",
+          "26.26",
+          "25.11"
+        ],
+        [
+          "Oxygenated monoterpenes (OM)",
+          "78.17",
+          "75.83",
+          "73.73",
+          "74.82"
+        ],
+        [
+          "Total identified compounds",
+          "99.87",
+          "99.98",
+          "99.99",
+          "99.93"
+        ]
+      ]
+    ]
+  },
+  {
+    "file": "Hedychium_Alpinia_Volatile_Compounds_111.docx",
+    "paragraphs": [
+      "Volatile Composition of Egyptian Hedychium coronarium and Alpinia zerumbet",
+      "This document summarizes the volatile compounds and relative peak-area percentages reported in Table 1 of the supplied article. The study examined two plant species, two plant parts (leaves and rhizomes), and two extraction methods (hydrodistillation and headspace).",
+      "Number of Oils and Compounds",
+      "Plant species studied: 2 — Hedychium coronarium and Alpinia zerumbet.",
+      "Oil/volatile profiles compared: 8 profiles — leaf and rhizome samples for each species, each analyzed using hydrodistillation (HD) and headspace (HS).",
+      "Compound counts reported in the abstract/results: H. coronarium leaves: 47 (HD) and 16 (HS); H. coronarium rhizomes: 39 (HD) and 15 (HS); A. zerumbet leaves: 19 (HD) and 21 (HS); A. zerumbet rhizomes: 23 (HD) and 16 (HS).",
+      "These counts add up to 196 compound detections across the eight profiles, not 196 unique chemical compounds. The article's Table 1 contains a combined list of compounds across samples; compounds can occur in more than one profile.",
+      "Hedychium coronarium — Leaves — Hydrodistillation (HD)",
+      "Hedychium coronarium — Leaves — Headspace (HS)",
+      "Hedychium coronarium — Rhizomes — Hydrodistillation (HD)",
+      "Hedychium coronarium — Rhizomes — Headspace (HS)",
+      "Alpinia zerumbet — Leaves — Hydrodistillation (HD)",
+      "Alpinia zerumbet — Leaves — Headspace (HS)",
+      "Alpinia zerumbet — Rhizomes — Hydrodistillation (HD)",
+      "Alpinia zerumbet — Rhizomes — Headspace (HS)",
+      "Important Data Notes",
+      "Percentages are relative GC/MS peak-area percentages, as reported in Table 1; they are not necessarily weight percentages of the oil.",
+      "A dash in the original table indicates that a compound was not reported for that sample. Compounds absent from a profile have not been listed in that profile.",
+      "The article's abstract and discussion provide compound counts for the eight profiles. Some cells in the pasted Table 1 appear blank or difficult to interpret in text extraction, so the lists above transcribe the visible non-dash percentages from the supplied text. Please check against the original table/PDF before formal publication.",
+      "The study includes two plant species cultivated and collected in Egypt: Hedychium coronarium and Alpinia zerumbet. It compares eight plant-part/extraction-method profiles, not eight different plant species.",
+      "Reference",
+      "Shahat, E. A., Ayoub, I. M., Bakr, R. O., Gad, H. A., Eldahshan, O. A., & Singab, A. N. B. (2026). Comparative analysis of volatile composition and anticholinesterase activity of Egyptian Hedychium coronarium and Alpinia zerumbet using chemometric assessment of extraction techniques. Scientific Reports, 16, 15209. https://doi.org/10.1038/s41598-026-51750-1"
+    ],
+    "tables": [
+      [
+        [
+          "No.",
+          "Compound",
+          "Relative peak area (%)"
+        ],
+        [
+          "1",
+          "α-Pinene",
+          "6.63"
+        ],
+        [
+          "2",
+          "β-Myrcene",
+          "8.90"
+        ],
+        [
+          "3",
+          "(Z)-β-Ocimene",
+          "0.09"
+        ],
+        [
+          "4",
+          "γ-Terpinene",
+          "0.18"
+        ],
+        [
+          "5",
+          "p-Mentha-2,4(8)-diene",
+          "0.09"
+        ],
+        [
+          "6",
+          "Linalool",
+          "0.27"
+        ],
+        [
+          "7",
+          "α-Campholenal",
+          "0.05"
+        ],
+        [
+          "8",
+          "trans-Pinocarveol",
+          "0.20"
+        ],
+        [
+          "9",
+          "Pinocarvone",
+          "0.23"
+        ],
+        [
+          "10",
+          "Borneol",
+          "0.14"
+        ],
+        [
+          "11",
+          "Terpinen-4-ol",
+          "1.11"
+        ],
+        [
+          "12",
+          "α-Terpineol",
+          "0.78"
+        ],
+        [
+          "13",
+          "Myrtenol",
+          "0.61"
+        ],
+        [
+          "14",
+          "Citronellol",
+          "0.06"
+        ],
+        [
+          "15",
+          "Carvone",
+          "0.06"
+        ],
+        [
+          "16",
+          "Linalool acetate",
+          "0.33"
+        ],
+        [
+          "17",
+          "Isobornyl acetate",
+          "0.11"
+        ],
+        [
+          "18",
+          "δ-Elemene",
+          "0.31"
+        ],
+        [
+          "19",
+          "α-Terpinyl acetate",
+          "0.24"
+        ],
+        [
+          "20",
+          "Citronellyl acetate",
+          "0.14"
+        ],
+        [
+          "21",
+          "β-Elemene",
+          "0.23"
+        ],
+        [
+          "22",
+          "Caryophyllene",
+          "45.24"
+        ],
+        [
+          "23",
+          "Aromadendrene",
+          "0.06"
+        ],
+        [
+          "24",
+          "α-Humulene",
+          "2.90"
+        ],
+        [
+          "25",
+          "Germacrene D",
+          "0.16"
+        ],
+        [
+          "26",
+          "δ-Amorphene",
+          "0.13"
+        ],
+        [
+          "27",
+          "(E)-Nerolidol",
+          "0.43"
+        ],
+        [
+          "28",
+          "Longipinocarvone",
+          "2.30"
+        ],
+        [
+          "29",
+          "Caryophyllene oxide",
+          "12.49"
+        ],
+        [
+          "30",
+          "cis-β-Elemenone",
+          "0.12"
+        ],
+        [
+          "31",
+          "Spathulenol",
+          "0.52"
+        ],
+        [
+          "32",
+          "Muurola-4,10(14)-dien-1β-ol",
+          "0.65"
+        ],
+        [
+          "33",
+          "Caryophylla-4(12),8(13)-dien-5α-ol",
+          "0.74"
+        ],
+        [
+          "34",
+          "Caryophylla-4(12),8(13)-dien-5β-ol",
+          "2.73"
+        ],
+        [
+          "35",
+          "τ-Cadinol",
+          "0.21"
+        ],
+        [
+          "36",
+          "Alloaromadendrene epoxide",
+          "0.30"
+        ],
+        [
+          "37",
+          "14-Hydroxy-9-epi-(E)-caryophyllene",
+          "1.41"
+        ],
+        [
+          "38",
+          "Longifolol",
+          "0.56"
+        ],
+        [
+          "39",
+          "(E)-15,16-Dinorlabda-8(17),11-dien-13-one",
+          "0.21"
+        ],
+        [
+          "40",
+          "(6Z,10Z)-Pseudo phytol",
+          "0.07"
+        ],
+        [
+          "41",
+          "6Z,10E-Pseudo phytol",
+          "0.06"
+        ],
+        [
+          "42",
+          "Manool",
+          "0.15"
+        ],
+        [
+          "43",
+          "2-Hexadecen-1-ol, 3,7,11,15-tetramethyl",
+          "0.14"
+        ]
+      ],
+      [
+        [
+          "No.",
+          "Compound",
+          "Relative peak area (%)"
+        ],
+        [
+          "1",
+          "Hexenal",
+          "4.99"
+        ],
+        [
+          "2",
+          "α-Thujene",
+          "0.25"
+        ],
+        [
+          "3",
+          "α-Pinene",
+          "26.19"
+        ],
+        [
+          "4",
+          "Camphene",
+          "0.22"
+        ],
+        [
+          "5",
+          "Sabinene",
+          "1.63"
+        ],
+        [
+          "6",
+          "β-Pinene",
+          "48.94"
+        ],
+        [
+          "7",
+          "β-Myrcene",
+          "0.17"
+        ],
+        [
+          "8",
+          "p-Cymene",
+          "1.34"
+        ],
+        [
+          "9",
+          "1,8-Cineole (Eucalyptol)",
+          "10.07"
+        ],
+        [
+          "10",
+          "Sylvestrene",
+          "1.42"
+        ],
+        [
+          "11",
+          "α-Campholenal",
+          "0.62"
+        ],
+        [
+          "12",
+          "Thujen-3-ol",
+          "0.66"
+        ],
+        [
+          "13",
+          "Pinocarvone",
+          "0.67"
+        ],
+        [
+          "14",
+          "Myrtenal",
+          "0.72"
+        ],
+        [
+          "15",
+          "Caryophyllene",
+          "0.20"
+        ]
+      ],
+      [
+        [
+          "No.",
+          "Compound",
+          "Relative peak area (%)"
+        ],
+        [
+          "1",
+          "α-Thujene",
+          "0.31"
+        ],
+        [
+          "2",
+          "α-Pinene",
+          "7.32"
+        ],
+        [
+          "3",
+          "Camphene",
+          "0.66"
+        ],
+        [
+          "4",
+          "β-Pinene",
+          "23.80"
+        ],
+        [
+          "5",
+          "β-Myrcene",
+          "1.50"
+        ],
+        [
+          "6",
+          "α-Phellandrene",
+          "3.39"
+        ],
+        [
+          "7",
+          "p-Mentha-1(7),8-diene",
+          "0.74"
+        ],
+        [
+          "8",
+          "α-Terpinene",
+          "0.41"
+        ],
+        [
+          "9",
+          "1,8-Cineole (Eucalyptol)",
+          "41.69"
+        ],
+        [
+          "10",
+          "(E)-β-Ocimene",
+          "0.05"
+        ],
+        [
+          "11",
+          "δ-Terpinene",
+          "2.08"
+        ],
+        [
+          "12",
+          "γ-Terpinene",
+          "0.26"
+        ],
+        [
+          "13",
+          "p-Mentha-2,4(8)-diene",
+          "0.60"
+        ],
+        [
+          "14",
+          "endo-Fenchol",
+          "0.09"
+        ],
+        [
+          "15",
+          "Thujone",
+          "0.02"
+        ],
+        [
+          "16",
+          "α-Campholenal",
+          "0.09"
+        ],
+        [
+          "17",
+          "Camphor",
+          "0.11"
+        ],
+        [
+          "18",
+          "Ethanone, 1-(1,4-dimethyl-3-cyclohexen-1-yl)",
+          "0.03"
+        ],
+        [
+          "19",
+          "Pinocarvone",
+          "0.19"
+        ],
+        [
+          "20",
+          "Isoborneol",
+          "1.34"
+        ],
+        [
+          "21",
+          "trans-Pinocamphone",
+          "0.08"
+        ],
+        [
+          "22",
+          "Terpinen-4-ol",
+          "4.51"
+        ],
+        [
+          "23",
+          "Myrtenal",
+          "0.26"
+        ],
+        [
+          "24",
+          "α-Terpineol",
+          "4.42"
+        ],
+        [
+          "25",
+          "Isobornyl formate",
+          "0.02"
+        ],
+        [
+          "26",
+          "Bornyl acetate",
+          "0.11"
+        ],
+        [
+          "27",
+          "α-Terpinyl acetate",
+          "0.56"
+        ],
+        [
+          "28",
+          "Caryophyllene oxide",
+          "0.46"
+        ],
+        [
+          "29",
+          "α-Humulene",
+          "0.10"
+        ],
+        [
+          "30",
+          "Valencene",
+          "0.04"
+        ],
+        [
+          "31",
+          "trans-Calamenene",
+          "0.02"
+        ],
+        [
+          "32",
+          "τ-Cadinol",
+          "0.29"
+        ],
+        [
+          "33",
+          "Cubenol",
+          "0.05"
+        ],
+        [
+          "34",
+          "Ambrial",
+          "0.08"
+        ],
+        [
+          "35",
+          "n-Tricosane",
+          "0.02"
+        ],
+        [
+          "36",
+          "Pentacosane",
+          "0.03"
+        ],
+        [
+          "37",
+          "Hexacosane",
+          "0.05"
+        ],
+        [
+          "38",
+          "Nonacosane",
+          "0.04"
+        ],
+        [
+          "39",
+          "Triacontane",
+          "0.02"
+        ]
+      ],
+      [
+        [
+          "No.",
+          "Compound",
+          "Relative peak area (%)"
+        ],
+        [
+          "1",
+          "α-Thujene",
+          "0.45"
+        ],
+        [
+          "2",
+          "α-Pinene",
+          "10.33"
+        ],
+        [
+          "3",
+          "Camphene",
+          "0.57"
+        ],
+        [
+          "4",
+          "Sabinene",
+          "23.87"
+        ],
+        [
+          "5",
+          "β-Pinene",
+          "0.43"
+        ],
+        [
+          "6",
+          "α-Phellandrene",
+          "0.62"
+        ],
+        [
+          "7",
+          "p-Cymene",
+          "1.55"
+        ],
+        [
+          "8",
+          "1,8-Cineole (Eucalyptol)",
+          "58.41"
+        ],
+        [
+          "9",
+          "γ-Terpinene",
+          "0.52"
+        ],
+        [
+          "10",
+          "p-Mentha-2,4(8)-diene",
+          "0.16"
+        ],
+        [
+          "11",
+          "Isoborneol",
+          "0.16"
+        ]
+      ],
+      [
+        [
+          "No.",
+          "Compound",
+          "Relative peak area (%)"
+        ],
+        [
+          "1",
+          "α-Thujene",
+          "3.90"
+        ],
+        [
+          "2",
+          "α-Pinene",
+          "1.96"
+        ],
+        [
+          "3",
+          "Camphene",
+          "0.27"
+        ],
+        [
+          "4",
+          "Sabinene",
+          "6.54"
+        ],
+        [
+          "5",
+          "β-Pinene",
+          "4.05"
+        ],
+        [
+          "6",
+          "β-Myrcene",
+          "0.71"
+        ],
+        [
+          "7",
+          "α-Phellandrene",
+          "0.17"
+        ],
+        [
+          "8",
+          "α-Terpinene",
+          "2.44"
+        ],
+        [
+          "9",
+          "p-Cymene",
+          "7.80"
+        ],
+        [
+          "10",
+          "1,8-Cineole (Eucalyptol)",
+          "19.64"
+        ],
+        [
+          "11",
+          "γ-Terpinene",
+          "13.98"
+        ],
+        [
+          "12",
+          "Terpinolene",
+          "1.45"
+        ],
+        [
+          "13",
+          "Terpinen-4-ol",
+          "24.72"
+        ],
+        [
+          "14",
+          "α-Terpineol",
+          "1.75"
+        ],
+        [
+          "15",
+          "Caryophyllene",
+          "2.55"
+        ],
+        [
+          "16",
+          "α-Humulene",
+          "0.32"
+        ],
+        [
+          "17",
+          "Caryophyllene oxide",
+          "1.87"
+        ],
+        [
+          "18",
+          "trans-Muurola-4(14),5-diene",
+          "0.26"
+        ],
+        [
+          "19",
+          "Caryophylla-4(12),8(13)-dien-5β-ol",
+          "0.16"
+        ]
+      ],
+      [
+        [
+          "No.",
+          "Compound",
+          "Relative peak area (%)"
+        ],
+        [
+          "1",
+          "Hexenal",
+          "6.85"
+        ],
+        [
+          "2",
+          "α-Thujene",
+          "4.37"
+        ],
+        [
+          "3",
+          "α-Pinene",
+          "1.53"
+        ],
+        [
+          "4",
+          "Camphene",
+          "0.36"
+        ],
+        [
+          "5",
+          "Sabinene",
+          "21.62"
+        ],
+        [
+          "6",
+          "β-Pinene",
+          "1.12"
+        ],
+        [
+          "7",
+          "β-Myrcene",
+          "1.56"
+        ],
+        [
+          "8",
+          "p-Cymene",
+          "5.45"
+        ],
+        [
+          "9",
+          "1,8-Cineole (Eucalyptol)",
+          "24.79"
+        ],
+        [
+          "10",
+          "γ-Terpinene",
+          "8.49"
+        ],
+        [
+          "11",
+          "cis-Sabinene hydrate",
+          "3.27"
+        ],
+        [
+          "12",
+          "trans-Sabinene hydrate",
+          "2.87"
+        ],
+        [
+          "13",
+          "Terpinolene",
+          "1.14"
+        ],
+        [
+          "14",
+          "Linalool",
+          "0.67"
+        ],
+        [
+          "15",
+          "cis-p-Ment-2-en-1-ol",
+          "0.49"
+        ],
+        [
+          "16",
+          "trans-p-Ment-2-en-1-ol",
+          "0.24"
+        ],
+        [
+          "17",
+          "Terpinen-4-ol",
+          "10.30"
+        ],
+        [
+          "18",
+          "α-Terpineol",
+          "0.61"
+        ],
+        [
+          "19",
+          "Ascaridole",
+          "0.91"
+        ],
+        [
+          "20",
+          "Caryophyllene",
+          "0.39"
+        ],
+        [
+          "21",
+          "Caryophyllene oxide",
+          "0.00"
+        ]
+      ],
+      [
+        [
+          "No.",
+          "Compound",
+          "Relative peak area (%)"
+        ],
+        [
+          "1",
+          "α-Thujene",
+          "1.39"
+        ],
+        [
+          "2",
+          "α-Pinene",
+          "1.59"
+        ],
+        [
+          "3",
+          "Camphene",
+          "0.73"
+        ],
+        [
+          "4",
+          "Sabinene",
+          "7.79"
+        ],
+        [
+          "5",
+          "β-Pinene",
+          "5.55"
+        ],
+        [
+          "6",
+          "β-Myrcene",
+          "1.03"
+        ],
+        [
+          "7",
+          "α-Phellandrene",
+          "0.61"
+        ],
+        [
+          "8",
+          "α-Terpinene",
+          "5.51"
+        ],
+        [
+          "9",
+          "p-Cymene",
+          "1.89"
+        ],
+        [
+          "10",
+          "1,8-Cineole (Eucalyptol)",
+          "20.78"
+        ],
+        [
+          "11",
+          "γ-Terpinene",
+          "11.27"
+        ],
+        [
+          "12",
+          "Terpinolene",
+          "2.36"
+        ],
+        [
+          "13",
+          "endo-Fenchol",
+          "0.16"
+        ],
+        [
+          "14",
+          "Camphor",
+          "0.16"
+        ],
+        [
+          "15",
+          "Terpinen-4-ol",
+          "20.75"
+        ],
+        [
+          "16",
+          "α-Terpineol",
+          "2.15"
+        ],
+        [
+          "17",
+          "α-Fenchyl acetate",
+          "3.66"
+        ],
+        [
+          "18",
+          "Caryophyllene",
+          "1.25"
+        ],
+        [
+          "19",
+          "Caryophyllene oxide",
+          "0.34"
+        ],
+        [
+          "20",
+          "Carotol",
+          "0.29"
+        ],
+        [
+          "21",
+          "Caryophylla-4(12),8(13)-dien-5β-ol",
+          "0.00"
+        ],
+        [
+          "22",
+          "Ambrial",
+          "0.20"
+        ]
+      ],
+      [
+        [
+          "No.",
+          "Compound",
+          "Relative peak area (%)"
+        ],
+        [
+          "1",
+          "α-Thujene",
+          "6.10"
+        ],
+        [
+          "2",
+          "α-Pinene",
+          "4.36"
+        ],
+        [
+          "3",
+          "Camphene",
+          "0.69"
+        ],
+        [
+          "4",
+          "Sabinene",
+          "6.17"
+        ],
+        [
+          "5",
+          "β-Pinene",
+          "12.27"
+        ],
+        [
+          "6",
+          "β-Myrcene",
+          "1.60"
+        ],
+        [
+          "7",
+          "α-Phellandrene",
+          "0.62"
+        ],
+        [
+          "8",
+          "α-Terpinene",
+          "6.29"
+        ],
+        [
+          "9",
+          "p-Cymene",
+          "10.42"
+        ],
+        [
+          "10",
+          "1,8-Cineole (Eucalyptol)",
+          "23.63"
+        ],
+        [
+          "11",
+          "γ-Terpinene",
+          "13.15"
+        ],
+        [
+          "12",
+          "Terpinolene",
+          "2.59"
+        ],
+        [
+          "13",
+          "cis-Sabinene hydrate",
+          "0.72"
+        ],
+        [
+          "14",
+          "trans-Sabinene hydrate",
+          "0.70"
+        ],
+        [
+          "15",
+          "Terpinen-4-ol",
+          "9.52"
+        ],
+        [
+          "16",
+          "Caryophyllene",
+          "1.16"
+        ]
+      ]
+    ]
+  },
+  {
+    "file": "Lavender_Oil_GCMS_Data_Extraction.docx",
+    "paragraphs": [
+      "Lavender Essential Oils — GC–MS Data Extraction",
+      "Data extracted from a Scientific Reports (2026) study of four commercial lavender oils in the Egyptian market.",
+      "Important Notes Before Using the Data",
+      "Oil name: Lavender essential oil.",
+      "Scientific plant name: The Methods section identifies the samples as Lavandula angustifolia Mill.; the paper also uses the broader term Lavandula spp. in its title/introduction.",
+      "Plant part: The paper states that lavender essential oil is generally obtained by steam distillation from flowers and leaves. However, it does not specify which plant part was used for each of the four commercial products.",
+      "Therefore, the plant part for each individual commercial sample cannot be assigned specifically as flowers or leaves based on the information reported in this study.",
+      "Percentages are mean relative GC–MS peak-area percentages, with standard deviation (SD) where reported. They should not automatically be interpreted as absolute mass concentrations such as mg/g.",
+      "A dash (–) indicates that no value was reported for that compound in the published table for that sample; it does not necessarily prove absolute absence.",
+      "Both individual compound values and chemical-class totals are included. A chemical-class total must not be treated as the percentage of a single compound.",
+      "Extracted Data",
+      "Product codes used in the study: L-Nef (Nefertari), L-Imt (Imtenan), L-Sha (Shana), and L-Rag (Ragab).",
+      "Key Findings from the Study",
+      "L-Sha had the highest Linalool percentage among the samples (33.61% ± 0.26) and the highest Linalyl acetate percentage (46.09% ± 0.30).",
+      "L-Rag contained Linalool at 24.72% ± 1.88 and Linalyl acetate at 32.65% ± 2.37.",
+      "L-Nef contained 2,4-Pentanediol at 16.21% ± 2.60, which the paper discusses as atypical for the expected lavender-oil profile.",
+      "L-Imt had a reported total fatty acid/ester class value of 24.39% ± 25.00 and Oleyl acetate at 12.08% ± 20.92. The authors discuss possible carrier oils or formulation additives, but these findings alone do not conclusively prove adulteration.",
+      "Study Reference",
+      "\"Comparative metabolite profiling of commercial lavender oils in the Egyptian market using GC–MS and chemometric analysis.\" Scientific Reports (2026).",
+      "DOI: https://doi.org/10.1038/s41598-026-45972-6",
+      "Article: https://www.nature.com/articles/s41598-026-45972-6",
+      "Database Recommendation",
+      "For computational use, keep separate fields for product name, scientific plant name, plant part, compound name, percentage, SD, value type (individual compound or compound-group total), and source. Do not guess the plant part for a product if the study does not report it."
+    ],
+    "tables": [
+      [
+        [
+          "Oil Name / Product",
+          "Scientific Plant Name",
+          "Plant Part",
+          "Compound or Compound Group",
+          "Reported Percentage",
+          "Note"
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "α-Pinene",
+          "0.20% ± 0.02 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "α-Pinene",
+          "0.13% ± 0.03 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Camphene",
+          "0.10% ± 0.01 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Camphene",
+          "0.03% ± 0.02 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Limonene oxide",
+          "0.02% ± 0.04 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Sabinen",
+          "0.14% ± 0.03 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "β-pinene",
+          "0.16% ± 0.02 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Hexyl acetate",
+          "0.02% ± 0.03 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "2,4-Pentanediol",
+          "16.21% ± 2.60 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "p-Cymene",
+          "0.20% ± 0.02 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "p-Cymene",
+          "0.38% ± 0.05 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Cineole",
+          "5.79% ± 0.63 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Cineole",
+          "2.91% ± 0.62 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Sha (Shana)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Cineole",
+          "3.65% ± 0.05 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Cineole",
+          "3.44% ± 0.21 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "α-Terpineol",
+          "2.72% ± 2.36 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Sylvestrene",
+          "0.81% ± 1.40 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Sylvestrene",
+          "0.40% ± 0.06 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Sylvestrene",
+          "2.45% ± 0.20 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Ocimene",
+          "0.05% ± 0.08 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "γ-Terpinene",
+          "0.01% ± 0.02 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "a-Campholenal",
+          "0.07% ± 0.01 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "a-Campholenal",
+          "0.05% ± 0.05 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Linalool",
+          "10.91% ± 0.41 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Linalool",
+          "18.59% ± 4.62 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Sha (Shana)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Linalool",
+          "33.61% ± 0.26 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Linalool",
+          "24.72% ± 1.88 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Camphor",
+          "3.96% ± 0.25 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Camphor",
+          "2.44% ± 0.31 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Sha (Shana)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Camphor",
+          "7.63% ± 0.10 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Camphor",
+          "3.24% ± 0.29 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Isoborneol",
+          "0.36% ± 0.03 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Isoborneol",
+          "0.35% ± 0.03 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Borneol",
+          "0.69% ± 0.05 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Borneol",
+          "0.95% ± 0.06 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Terpinen-4-ol",
+          "1.19% ± 0.10 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Sha (Shana)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Gardenol",
+          "9.02% ± 0.04 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "trans-Ocimenol",
+          "0.24% ± 0.21 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Citronellol epoxide",
+          "0.01% ± 0.02 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Estragole",
+          "0.03% ± 0.06 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Hexyl isobutyrate",
+          "0.02% ± 0.04 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Isopulegol acetate",
+          "0.06% ± 0.01 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Nerol",
+          "0.19% ± 0.02 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Linalyl acetate",
+          "10.97% ± 0.45 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Linalyl acetate",
+          "22.42% ± 4.45 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Sha (Shana)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Linalyl acetate",
+          "46.09% ± 0.30 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Linalyl acetate",
+          "32.65% ± 2.37 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Dihydrolinalool",
+          "0.05% ± 0.01 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Bornyl acetate",
+          "0.21% ± 0.02 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Lavandulyl isobutyrate",
+          "0.09% ± 0.01 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Hexenyl isobutanoate",
+          "0.02% ± 0.02 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Epoxy-α-terpenyl acetate",
+          "0.07% ± 0.06 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "α-Terpineol acetate",
+          "0.35% ± 0.03 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "2-Carene",
+          "0.04% ± 0.03 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Lavandulyl acetate",
+          "0.02% ± 0.03 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Lavandulyl acetate",
+          "0.10% ± 0.08 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Copaene",
+          "0.39% ± 0.03 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Caryophyllene",
+          "1.75% ± 1.51 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "α-Limonene diepoxide",
+          "0.05% ± 0.05 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Isoaromadendrene epoxide",
+          "0.01% ± 0.02 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Caryophyllene oxide",
+          "0.49% ± 0.12 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Octacosane",
+          "1.06% ± 1.84 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Pentatriacontane",
+          "3.88% ± 6.71 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Pentatriacontane",
+          "2.11% ± 1.83 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Heneicosane",
+          "0.00% ± 0.00 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Heneicosane",
+          "3.71% ± 0.18 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Hexatriacontane",
+          "0.11% ± 0.18 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Hexatriacontane",
+          "4.37% ± 3.80 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Tetracontane",
+          "2.43% ± 0.31 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Eicosane",
+          "3.75% ± 0.07 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Tetratriacontane",
+          "6.25% ± 0.37 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Tetratetracontane",
+          "5.65% ± 0.68 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Tetracontane",
+          "0.65% ± 1.13 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Isopropyl linolate",
+          "2.40% ± 4.16 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "17-Pentatriacontene",
+          "2.46% ± 4.26 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "1-Heptatriacontanol",
+          "7.95% ± 13.77 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Phytyl decanoate",
+          "1.25% ± 2.16 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Oleyl acetate",
+          "12.08% ± 20.92 SD",
+          "Reported as relative GC–MS peak-area percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total alcohol",
+          "30.93% ± 5.46 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total alcohol",
+          "29.46% ± 18.81 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Sha (Shana)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total alcohol",
+          "42.63% ± 0.29 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total alcohol",
+          "24.72% ± 1.88 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total Aldehyde/ketone",
+          "4.03% ± 0.26 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total Aldehyde/ketone",
+          "2.49% ± 0.36 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Sha (Shana)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total Aldehyde/ketone",
+          "7.63% ± 0.10 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total Aldehyde/ketone",
+          "3.24% ± 0.29 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total aliphatic hydrocarbons",
+          "7.09% ± 12.29 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total aliphatic hydrocarbons",
+          "29.32% ± 9.07 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total Ester",
+          "11.40% ± 0.53 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total Ester",
+          "22.96% ± 4.72 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Sha (Shana)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total Ester",
+          "46.09% ± 0.30 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total Ester",
+          "32.65% ± 2.37 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total Fatty acid/ester",
+          "24.39% ± 25.00 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total Monoterpene hydrocarbons",
+          "1.50% ± 1.52 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total Monoterpene hydrocarbons",
+          "1.14% ± 0.26 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total Monoterpene hydrocarbons",
+          "2.45% ± 0.20 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Nef (Nefertari)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total Oxide/ether",
+          "5.85% ± 0.73 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total Oxide/ether",
+          "3.49% ± 0.83 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Sha (Shana)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total Oxide/ether",
+          "3.65% ± 0.05 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Rag (Ragab)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total Oxide/ether",
+          "3.44% ± 0.21 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ],
+        [
+          "L-Imt (Imtenan)",
+          "Lavandula angustifolia Mill. (Methods section)",
+          "Flowers/leaves generally; exact part per product not specified",
+          "Total Sesquiterpene hydrocarbon",
+          "2.14% ± 1.55 SD",
+          "Total for a chemical class; not an individual compound percentage."
+        ]
+      ]
+    ]
+  },
+  {
+    "file": "Melaleuca_quinquenervia_Essential_Oil_Composition_with_Reference.docx",
+    "paragraphs": [
+      "Melaleuca quinquenervia Leaf Essential Oil",
+      "Chemical Composition: Identified Compounds, Relative Abundance, and Chemical Classes",
+      "1. Essential Oil and Botanical Source",
+      "Essential oil: Melaleuca quinquenervia Leaf Essential Oil (MQLEO)",
+      "Botanical source: Melaleuca quinquenervia (Cav.) S.T. Blake",
+      "Plant part: Leaves",
+      "Collection location reported in the paper: Shanbari, Oseem, Giza, Egypt",
+      "Collection period: January 2025",
+      "Extraction method: Hydrodistillation using a Clevenger apparatus",
+      "Chemical profiling method: Gas Chromatography–Mass Spectrometry (GC/MS)",
+      "2. Identified Chemical Constituents",
+      "The study reports 19 identified constituents. The percentages below are relative GC/MS peak-area percentages (Area %), as reported in Table 1; they should not automatically be interpreted as exact weight percentages.",
+      "3. Major Chemical Group Percentages",
+      "Note on the total: the article’s Results prose reports 98.09%, whereas Table 1 reports 98.05%. The group summary above follows the Table 1 total and percentages.",
+      "4. Original Research Paper",
+      "Fikry, E.; Orfali, R.; Perveen, S.; Ghaffar, S.; El-Shafae, A. M.; El-Domiaty, M. M.; Tawfeek, N. Chemical Composition and Anti-Lung Cancer Activities of Melaleuca quinquenervia Leaf Essential Oil: Integrating Gas Chromatography–Mass Spectrometry (GC/MS) Profiling, Network Pharmacology, and Molecular Docking. Pharmaceuticals (Basel). 2025 May 22; 18(6):771. doi:10.3390/ph18060771.",
+      "DOI: https://doi.org/10.3390/ph18060771",
+      "Full-text article: https://www.mdpi.com/1424-8247/18/6/771",
+      "5. Important Interpretation Note",
+      "This document summarizes the chemical-composition data reported in the cited paper. The reported relative abundance can vary with plant origin, growing conditions, extraction procedures, and analytical methods. The paper’s chemical profile refers specifically to the Egyptian leaf essential oil analyzed in this study."
+    ],
+    "tables": [
+      [
+        [
+          "No.",
+          "Compound",
+          "Area %",
+          "Chemical class"
+        ],
+        [
+          "1",
+          "Methyl 2-methylbutyrate (Butanoic acid, 2-methyl-, methyl ester)",
+          "0.04%",
+          "Fatty acid ester"
+        ],
+        [
+          "2",
+          "1R-α-Pinene (D-α-Pinene)",
+          "15.97%",
+          "Bicyclic monoterpene hydrocarbon"
+        ],
+        [
+          "3",
+          "1S-α-Pinene (L-α-Pinene)",
+          "5.29%",
+          "Bicyclic monoterpene hydrocarbon"
+        ],
+        [
+          "4",
+          "m-Cymene",
+          "1.54%",
+          "Aromatic monoterpene hydrocarbon"
+        ],
+        [
+          "5",
+          "1,8-Cineole (Eucalyptol)",
+          "31.57%",
+          "Monocyclic monoterpene oxide"
+        ],
+        [
+          "6",
+          "(+)-3-Carene",
+          "11.57%",
+          "Monoterpene hydrocarbon"
+        ],
+        [
+          "7",
+          "γ-Terpinene",
+          "0.58%",
+          "Monocyclic monoterpene hydrocarbon"
+        ],
+        [
+          "8",
+          "Fenchol",
+          "0.24%",
+          "Monocyclic monoterpene alcohol"
+        ],
+        [
+          "9",
+          "Isoborneol",
+          "0.48%",
+          "Bicyclic monoterpene alcohol"
+        ],
+        [
+          "10",
+          "Terpinen-4-ol",
+          "0.80%",
+          "Monocyclic monoterpene alcohol"
+        ],
+        [
+          "11",
+          "trans-Verbenol",
+          "0.11%",
+          "Bicyclic monoterpene alcohol"
+        ],
+        [
+          "12",
+          "trans-Ocimenol",
+          "8.26%",
+          "Acyclic monoterpene alcohol"
+        ],
+        [
+          "13",
+          "α-Guaiene",
+          "0.16%",
+          "Bicyclic sesquiterpene hydrocarbon"
+        ],
+        [
+          "14",
+          "(+)-Ledene",
+          "0.24%",
+          "Bicyclic sesquiterpene hydrocarbon"
+        ],
+        [
+          "15",
+          "(−)-Palustrol",
+          "0.56%",
+          "Bicyclic sesquiterpene alcohol"
+        ],
+        [
+          "16",
+          "Caryophyllene oxide",
+          "2.23%",
+          "Tricyclic sesquiterpene oxide"
+        ],
+        [
+          "17",
+          "(−)-Globulol",
+          "0.25%",
+          "Tricyclic sesquiterpene alcohol"
+        ],
+        [
+          "18",
+          "Viridiflorol",
+          "13.65%",
+          "Tricyclic sesquiterpene alcohol"
+        ],
+        [
+          "19",
+          "Ledol",
+          "4.55%",
+          "Tricyclic sesquiterpene alcohol"
+        ]
+      ],
+      [
+        [
+          "Chemical group",
+          "Reported percentage"
+        ],
+        [
+          "Monoterpene hydrocarbons",
+          "34.95%"
+        ],
+        [
+          "Oxygenated monoterpenes",
+          "41.46%"
+        ],
+        [
+          "Sesquiterpene hydrocarbons",
+          "0.40%"
+        ],
+        [
+          "Oxygenated sesquiterpenes",
+          "21.24%"
+        ],
+        [
+          "Total identified in Table 1",
+          "98.05%"
+        ]
+      ]
+    ]
+  },
+  {
+    "file": "Pimenta_racemosa_Essential_Oil_Compounds_Percentages.docx11.docx",
+    "paragraphs": [
+      "Chemical Composition of Pimenta racemosa Leaf Essential Oil",
+      "Plant species: Pimenta racemosa (Mill.) J. W. Moore",
+      "Plant part: Leaves",
+      "Collection location: El-Zohrya Garden, Zamalek, Cairo Governorate, Egypt",
+      "Total identified composition: 99.76% of the oil, according to Table 1.",
+      "Identified Chemical Compounds and Relative Percentages",
+      "Major Chemical Classes Reported in the Article",
+      "Important Notes",
+      "This article reports one essential oil: the leaf essential oil of Pimenta racemosa collected in Egypt.",
+      "Table 1 lists 17 compounds, with a total identified composition of 99.76%. However, the abstract says that fourteen compounds were detected. This is an internal inconsistency in the supplied article text; this document follows the detailed Results section and Table 1, which list 17 compounds.",
+      "The percentages are relative GC-MS peak-area percentages, not necessarily weight percentages of the entire oil.",
+      "The plant species is described in the article as native to Venezuela, Puerto Rico, and Jamaica; the studied leaves were grown/collected in Egypt. Therefore, it is more accurate to call this an essential oil extracted from a plant grown in Egypt, rather than a species native only to Egypt.",
+      "Reference",
+      "Eldahshan, O. A., Nilofar, N., Zengin, G., & El-Nashar, H. A. S. “Chemical profile of essential oil from Pimenta racemosa leaves, antioxidant potential, and its enzyme inhibitory properties.” Scientific Reports (2025). DOI: 10.1038/s41598-025-15542-3. PMCID: PMC12371097."
+    ],
+    "tables": [
+      [
+        [
+          "No.",
+          "Chemical compound",
+          "Relative peak area (%)"
+        ],
+        [
+          "1",
+          "α-Pinene",
+          "0.32"
+        ],
+        [
+          "2",
+          "β-Myrcene",
+          "12.88"
+        ],
+        [
+          "3",
+          "α-Phellandrene",
+          "0.54"
+        ],
+        [
+          "4",
+          "p-Cymene",
+          "1.12"
+        ],
+        [
+          "5",
+          "D-Limonene",
+          "8.35"
+        ],
+        [
+          "6",
+          "(E)-β-Ocimene",
+          "0.20"
+        ],
+        [
+          "7",
+          "β-Linalool",
+          "2.14"
+        ],
+        [
+          "8",
+          "Terpinen-4-ol",
+          "0.19"
+        ],
+        [
+          "9",
+          "Chavicol",
+          "1.48"
+        ],
+        [
+          "10",
+          "Eugenol",
+          "70.87"
+        ],
+        [
+          "11",
+          "α-Copaene",
+          "0.13"
+        ],
+        [
+          "12",
+          "(E)-β-Caryophyllene",
+          "0.28"
+        ],
+        [
+          "13",
+          "α-Murolene",
+          "0.15"
+        ],
+        [
+          "14",
+          "3-Cyclohexene-1-carboxaldehyde, 4-(4-methyl-3-pentenyl)-",
+          "0.29"
+        ],
+        [
+          "15",
+          "δ-Cadinene",
+          "0.50"
+        ],
+        [
+          "16",
+          "(E)-β-Caryophyllene oxide",
+          "0.16"
+        ],
+        [
+          "17",
+          "τ-Cadinol",
+          "0.16"
+        ]
+      ],
+      [
+        [
+          "Chemical class",
+          "Percentage reported"
+        ],
+        [
+          "Phenylpropanoids",
+          "72.35%"
+        ],
+        [
+          "Hydrocarbon monoterpenes",
+          "23.41%"
+        ],
+        [
+          "Oxygenated monoterpenes",
+          "2.33%"
+        ],
+        [
+          "Hydrocarbon sesquiterpenes",
+          "1.06%"
+        ],
+        [
+          "Oxygenated sesquiterpenes",
+          "0.32%"
+        ],
+        [
+          "Others",
+          "0.29%"
+        ]
+      ]
+    ]
+  },
+  {
+    "file": "Rosemary_Artemisia_Essential_Oil.docx",
+    "paragraphs": [
+      "Essential Oil Composition of Rosemary and Artemisia",
+      "Corrected transcription of Table 3: GC–MS analysis of control and salt-affected plants",
+      "Source: Soliman, M. M., Elsaba, Y. M., Soliman, M. S. A., & Ahmed, E. Z. (2024). “Composition and antimicrobial activity of Rosmarinus officinalis L. and Artemisia monosperma L. leaf essential oils and methanolic extracts from plants grown in normal and saline habitats in Egypt.” Scientific Reports, 14, Article 7342. https://doi.org/10.1038/s41598-024-57301-w",
+      "How to read the table",
+      "RT = retention time as reported in the article. Control % and Salt % are the reported relative composition values for essential oils from control plants and salt-affected plants, respectively. A dash (—) means that the compound was not reported/detected in that condition in Table 3. These GC–MS percentages represent relative composition and should not automatically be interpreted as weight percentages of the whole oil.",
+      "A. Rosmarinus officinalis L. (Rosemary) Essential Oil",
+      "B. Artemisia monosperma L. Essential Oil",
+      "Verification notes and discrepancies",
+      "The numerical values in the tables above follow the Table 3 transcription supplied in the conversation and were checked against the article page.",
+      "The article's Results prose conflicts with Table 3 for rosemary α-pinene: the prose says 15.52% in control plants, while Table 3 lists 17.52%. This document uses the Table 3 value (17.52%) because the requested source is Table 3.",
+      "The article's Results prose gives salt-stressed rosemary verbenone as 26.15%, while Table 3 lists 26.1%. This document uses the Table 3 value (26.1%).",
+      "Some compound-class labels are blank or unusual in the supplied table. They have been retained as reported or marked 'Not specified in supplied table' rather than silently reclassified.",
+      "A dash (—) has been used consistently for entries shown as a dash in the supplied Table 3.",
+      "Article link",
+      "https://www.nature.com/articles/s41598-024-57301-w"
+    ],
+    "tables": [
+      [
+        [
+          "RT",
+          "Compound name",
+          "Class (as reported)",
+          "Control (%)",
+          "Salt (%)"
+        ],
+        [
+          "15.33",
+          "Verbenone",
+          "Monoterpene",
+          "39.48",
+          "26.1"
+        ],
+        [
+          "4.94",
+          "α-Pinene",
+          "Monoterpene",
+          "17.52",
+          "4.16"
+        ],
+        [
+          "8.40",
+          "1,8-Cineole",
+          "Monoterpene",
+          "10.17",
+          "10"
+        ],
+        [
+          "12.77",
+          "Camphor",
+          "Monoterpenes",
+          "8.57",
+          "22.2"
+        ],
+        [
+          "14.76",
+          "α-Terpineol",
+          "Monoterpenes",
+          "5",
+          "1.81"
+        ],
+        [
+          "18.08",
+          "Bornyl acetate",
+          "Monoterpene",
+          "4.74",
+          "0.77"
+        ],
+        [
+          "12.96",
+          "cis-Verbenol",
+          "Monoterpene",
+          "1.23",
+          "4.76"
+        ],
+        [
+          "13.70",
+          "endo-Borneol",
+          "Monoterpene",
+          "4.39",
+          "16.8"
+        ],
+        [
+          "14.20",
+          "Terpinen-4-ol",
+          "Monoterpene",
+          "2.36",
+          "0.93"
+        ],
+        [
+          "11.34",
+          "Linalool",
+          "Monoterpene",
+          "2.12",
+          "6.31"
+        ],
+        [
+          "5.41",
+          "Camphene",
+          "Monoterpene",
+          "1.3",
+          "0.87"
+        ],
+        [
+          "16.56",
+          "Shisool",
+          "Monoterpene",
+          "1.21",
+          "2.04"
+        ],
+        [
+          "13.93",
+          "Bicyclo[3.1.1]heptan-3-one, 2,6,6-trimethyl-, (1α,2β,5α)-",
+          "Not specified in supplied table",
+          "1.15",
+          "1.97"
+        ],
+        [
+          "16.37",
+          "CIS-D-Dihydrocarveol",
+          "Monoterpene",
+          "0.74",
+          "—"
+        ],
+        [
+          "12.12",
+          "Chrysanthenone",
+          "Monoterpene ketone",
+          "—",
+          "0.68"
+        ],
+        [
+          "22.44",
+          "Caryophyllene",
+          "Sesquiterpenoid",
+          "—",
+          "0.57"
+        ]
+      ],
+      [
+        [
+          "RT",
+          "Compound name",
+          "Class (as reported)",
+          "Control (%)",
+          "Salt (%)"
+        ],
+        [
+          "9.79",
+          "Artemisia ketone",
+          "Monoterpene",
+          "31.66",
+          "41.04"
+        ],
+        [
+          "16.88",
+          "Camphor",
+          "Monoterpene",
+          "16.88",
+          "—"
+        ],
+        [
+          "30.93",
+          "α-Bisabolol",
+          "Sesquiterpene",
+          "11.62",
+          "21.28"
+        ],
+        [
+          "8.63",
+          "β-Phellandrene",
+          "Monoterpene",
+          "10.21",
+          "1.55"
+        ],
+        [
+          "6.56",
+          "Sabinene",
+          "Monoterpene",
+          "4.81",
+          "0.74"
+        ],
+        [
+          "7.25",
+          "β-Myrcene",
+          "Monoterpene",
+          "2.44",
+          "0.19"
+        ],
+        [
+          "6.62",
+          "2-β-Pinene",
+          "Monoterpene",
+          "2.28",
+          "—"
+        ],
+        [
+          "36.27",
+          "1,6-Dioxaspiro[4.4]nona-2,8-diene, 7-(2,4-hexadiynylidene)-",
+          "Not specified in supplied table",
+          "2.09",
+          "1.23"
+        ],
+        [
+          "28.92",
+          "Isospathulenol",
+          "Monoterpene",
+          "1.48",
+          "0.46"
+        ],
+        [
+          "29.64",
+          "Bisabolol oxide",
+          "Sesquiterpene",
+          "1.46",
+          "0.98"
+        ],
+        [
+          "5.64",
+          "Camphene",
+          "Monoterpene",
+          "1.43",
+          "0.37"
+        ],
+        [
+          "35.11",
+          "3-(1,5-Dimethyl-hex-4-enyl)-2,2-dimethyl-cyclopent-3-enol",
+          "Not specified in supplied table",
+          "1.3",
+          "—"
+        ],
+        [
+          "35.53",
+          "3,7-Cycloundecadien-1-ol, 1,5,5,8-tetramethyl-",
+          "Not specified in supplied table",
+          "1.11",
+          "—"
+        ],
+        [
+          "13.84",
+          "Isoborneol",
+          "Monoterpene",
+          "1.01",
+          "1.5"
+        ],
+        [
+          "14.62",
+          "Cryptone",
+          "Monoterpene",
+          "1",
+          "—"
+        ],
+        [
+          "27.45",
+          "Caryophyllene oxide",
+          "Monoterpene (as labeled in supplied Table 3)",
+          "0.97",
+          "0.46"
+        ],
+        [
+          "14.29",
+          "Terpinen-4-ol",
+          "Monoterpene",
+          "0.86",
+          "—"
+        ],
+        [
+          "7.63",
+          "3,6-Heptadien-2-ol, 2,5,5-trimethyl-, (E)-",
+          "Not specified in supplied table",
+          "0.82",
+          "1.58"
+        ],
+        [
+          "10.65",
+          "Artemisia alcohol",
+          "Monoterpene",
+          "0.76",
+          "1.55"
+        ],
+        [
+          "14.84",
+          "(1R)-(-)-Myrtenal",
+          "Monoterpene",
+          "0.71",
+          "0.34"
+        ],
+        [
+          "4.43",
+          "Santolina triene",
+          "Monoterpene",
+          "0.58",
+          "0.13"
+        ],
+        [
+          "27.08",
+          "Nerolidol",
+          "Sesquiterpene",
+          "0.52",
+          "0.23"
+        ],
+        [
+          "27.36",
+          "(-)-Spathulenol",
+          "Sesquiterpene",
+          "0.52",
+          "—"
+        ],
+        [
+          "29.08",
+          "10,10-Dimethyl-2,6-dimethylenebicyclo[7.2.0]undecan-5β-ol",
+          "Not specified in supplied table",
+          "0.44",
+          "0.14"
+        ],
+        [
+          "29.26",
+          "Humulenol-II",
+          "Not specified in supplied table",
+          "0.44",
+          "0.22"
+        ],
+        [
+          "28.25",
+          "Limonen-6-ol, pivalate",
+          "Monoterpenes",
+          "0.41",
+          "—"
+        ],
+        [
+          "24.58",
+          "Benzene, 1-(1,5-dimethyl-4-hexenyl)-4-methyl",
+          "Not specified in supplied table",
+          "0.4",
+          "—"
+        ],
+        [
+          "4.97",
+          "α-Pinene, (-)-",
+          "Monoterpene",
+          "0.39",
+          "0.08"
+        ],
+        [
+          "21.67",
+          "β-Elemene",
+          "Sesquiterpene",
+          "0.38",
+          "0.14"
+        ],
+        [
+          "14.99",
+          "Myrtenol",
+          "Monoterpene",
+          "0.34",
+          "0.22"
+        ],
+        [
+          "33.25",
+          "7-Isopropenyl-1,4a-dimethyl-4,4a,5,6,7,8-hexahydro-3H-naphthalen-2-one",
+          "Sesquiterpenes",
+          "0.33",
+          "—"
+        ],
+        [
+          "24.41",
+          "Germacrene-D",
+          "Sesquiterpene",
+          "0.32",
+          "0.69"
+        ],
+        [
+          "12.81",
+          "(+)-2-Bornanone",
+          "Monoterpene",
+          "—",
+          "22.82"
+        ],
+        [
+          "27.27",
+          "Sesquisabinene hydrate",
+          "Sesquiterpene",
+          "—",
+          "1.22"
+        ],
+        [
+          "27.69",
+          "Cis-Sabinene hydrate",
+          "Monoterpene",
+          "—",
+          "0.08"
+        ],
+        [
+          "36.98",
+          "1,6-Octadiene, 5,7-dimethyl-, (R)-",
+          "Monoterpene",
+          "—",
+          "0.21"
+        ],
+        [
+          "13.55",
+          "Pinocarvone",
+          "Monoterpene",
+          "—",
+          "0.16"
+        ],
+        [
+          "28.26",
+          "Chrysantenyl 2-methylbutanoate",
+          "Monoterpene",
+          "—",
+          "0.15"
+        ],
+        [
+          "24.14",
+          "cis-Verbenol",
+          "Monoterpene alcohol",
+          "—",
+          "0.05"
+        ],
+        [
+          "22.20",
+          "1,5-Cyclooctadiene, 1-tert-butyl-",
+          "Not specified in supplied table",
+          "—",
+          "0.08"
+        ],
+        [
+          "25.49",
+          "(Z,E)-α-Farnesene",
+          "Sesquiterpene",
+          "—",
+          "0.07"
+        ],
+        [
+          "22.45",
+          "trans-α-Bergamotene",
+          "Sesquiterpene",
+          "—",
+          "0.06"
+        ]
+      ]
+    ]
+  },
+  {
+    "file": "Salvia_fruticosa_Essential_Oil_Compounds_and_Percentages (1).docx",
+    "paragraphs": [
+      "Salvia fruticosa Essential Oil",
+      "Identified chemical compounds and reported percentages",
+      "Essential Oil Name",
+      "Salvia fruticosa essential oil (EO), extracted from the aerial parts of the plant. The study compared three extraction approaches: hydrodistillation (HD), headspace (HS), and supercritical fluid extraction (SF).",
+      "Chemical Composition",
+      "Percentages below are reproduced from Table 1 of the supplied article. A dash (—) indicates that the compound was not detected/reported for that extraction method in the table.",
+      "Summary of Reported Composition",
+      "Main Compounds Reported",
+      "Hydrodistillation (HD): Eucalyptol (43.87%) and camphor (9.99%) were the most abundant reported compounds.\nHeadspace (HS): Eucalyptol (35.67%), α-thujene (24.88%), (-)-α-pinene (9.66%), and camphene (8.77%) were the major reported compounds.\nSupercritical fluid extraction (SF): Iso-caryophyllene (17.07%), 13-epi-manoyl oxide (12.52%), α-guaiene (5.08%), and viridiflorol (5.62%) were among the main reported compounds.",
+      "Source Reference",
+      "Hashad, N., Sary, H. G., Khazaal, M. T., & Moharram, F. A. (2026). Impact of extraction method on the chemical composition and antibacterial potential of Salvia fruticosa essential oil. BMC Complementary Medicine and Therapies, 26, 165. https://doi.org/10.1186/s12906-026-05376-5. PMID: 42067804; PMCID: PMC13135703.",
+      "Abbreviations: HD = hydrodistillation; HS = headspace; SF = supercritical fluid extraction. The compound percentages are reported values from the article's Table 1 and should not automatically be interpreted as exact weight percentages."
+    ],
+    "tables": [
+      [
+        [
+          "No.",
+          "Compound name",
+          "HD (%)",
+          "HS (%)",
+          "SF (%)"
+        ],
+        [
+          "1",
+          "α-Thujene",
+          "5.45",
+          "24.88",
+          "—"
+        ],
+        [
+          "2",
+          "Camphene",
+          "2.15",
+          "8.77",
+          "—"
+        ],
+        [
+          "3",
+          "(-)-α-Pinene",
+          "2.19",
+          "9.66",
+          "0.19"
+        ],
+        [
+          "4",
+          "Sabinene",
+          "2.12",
+          "7.92",
+          "—"
+        ],
+        [
+          "5",
+          "α-Phellandrene",
+          "—",
+          "0.25",
+          "—"
+        ],
+        [
+          "6",
+          "(+)-4-Carene",
+          "0.22",
+          "—",
+          "—"
+        ],
+        [
+          "7",
+          "m-Cymene",
+          "1.85",
+          "—",
+          "—"
+        ],
+        [
+          "8",
+          "Eucalyptol",
+          "43.87",
+          "35.67",
+          "7.57"
+        ],
+        [
+          "9",
+          "γ-Terpinene",
+          "0.16",
+          "0.35",
+          "—"
+        ],
+        [
+          "10",
+          "Sabinene hydrate",
+          "—",
+          "0.03",
+          "—"
+        ],
+        [
+          "11",
+          "β-Thujone",
+          "1.20",
+          "0.56",
+          "—"
+        ],
+        [
+          "12",
+          "Camphor",
+          "9.99",
+          "3.28",
+          "4.20"
+        ],
+        [
+          "13",
+          "trans-3-Pinanone",
+          "—",
+          "0.25",
+          "—"
+        ],
+        [
+          "14",
+          "(1R)-(+)-Nopinone",
+          "0.75",
+          "—",
+          "—"
+        ],
+        [
+          "15",
+          "Endo-Borneol",
+          "—",
+          "0.41",
+          "1.87"
+        ],
+        [
+          "16",
+          "Iso borneol",
+          "3.20",
+          "—",
+          "—"
+        ],
+        [
+          "17",
+          "Terpinen-4-ol",
+          "0.86",
+          "0.09",
+          "—"
+        ],
+        [
+          "18",
+          "α-Terpineol",
+          "4.71",
+          "—",
+          "2.97"
+        ],
+        [
+          "19",
+          "Myrtenol",
+          "0.43",
+          "—",
+          "—"
+        ],
+        [
+          "20",
+          "(-)-Bornyl acetate",
+          "0.83",
+          "—",
+          "0.55"
+        ],
+        [
+          "21",
+          "α-Terpinyl acetate",
+          "0.96",
+          "0.18",
+          "1.48"
+        ],
+        [
+          "22",
+          "Iso-caryophyllene",
+          "—",
+          "—",
+          "17.07"
+        ],
+        [
+          "23",
+          "Caryophyllene",
+          "3.46",
+          "1.43",
+          "—"
+        ],
+        [
+          "24",
+          "α-Guaiene",
+          "0.42",
+          "0.21",
+          "5.08"
+        ],
+        [
+          "25",
+          "α-Humulene",
+          "0.63",
+          "0.17",
+          "3.23"
+        ],
+        [
+          "26",
+          "(+)-Ledene",
+          "—",
+          "—",
+          "1.19"
+        ],
+        [
+          "27",
+          "γ-Muurolene",
+          "—",
+          "—",
+          "0.34"
+        ],
+        [
+          "28",
+          "(+)-Spathulenol",
+          "0.30",
+          "—",
+          "1.52"
+        ],
+        [
+          "29",
+          "(-)-Globulol",
+          "—",
+          "—",
+          "0.31"
+        ],
+        [
+          "30",
+          "Caryophyllene oxide",
+          "0.41",
+          "—",
+          "2.44"
+        ],
+        [
+          "31",
+          "Viridiflorol",
+          "1.23",
+          "—",
+          "5.62"
+        ],
+        [
+          "32",
+          "Humulene epoxide II",
+          "—",
+          "—",
+          "0.66"
+        ],
+        [
+          "33",
+          "n-Hexadecanoic acid",
+          "6.68",
+          "—",
+          "—"
+        ],
+        [
+          "34",
+          "Dehydroabietan",
+          "—",
+          "—",
+          "0.42"
+        ],
+        [
+          "35",
+          "13-epi-Manoyl oxide",
+          "—",
+          "—",
+          "12.52"
+        ]
+      ],
+      [
+        [
+          "Parameter",
+          "HD (%)",
+          "HS (%)",
+          "SF (%)"
+        ],
+        [
+          "Total identified compounds",
+          "94.07",
+          "94.11",
+          "69.23"
+        ],
+        [
+          "Non-oxygenated compounds",
+          "18.65",
+          "53.64",
+          "27.52"
+        ],
+        [
+          "Oxygenated compounds",
+          "68.74",
+          "40.47",
+          "41.71"
+        ],
+        [
+          "Monoterpene hydrocarbons (MH)",
+          "12.29",
+          "51.83",
+          "0.19"
+        ],
+        [
+          "Sesquiterpene hydrocarbons (SH)",
+          "4.51",
+          "1.81",
+          "26.91"
+        ],
+        [
+          "Diterpene hydrocarbons (DH)",
+          "—",
+          "—",
+          "0.42"
+        ],
+        [
+          "Aromatic hydrocarbons (ArH)",
+          "1.85",
+          "—",
+          "—"
+        ],
+        [
+          "Oxygenated monoterpenes (OM)",
+          "66.80",
+          "40.47",
+          "18.64"
+        ],
+        [
+          "Oxygenated sesquiterpenes (OS)",
+          "1.94",
+          "—",
+          "10.55"
+        ],
+        [
+          "Oxygenated diterpenes (OD)",
+          "—",
+          "—",
+          "12.52"
+        ],
+        [
+          "Miscellaneous compounds",
+          "6.68",
+          "—",
+          "—"
+        ]
+      ]
+    ]
+  }
+]

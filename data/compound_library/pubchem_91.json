@@ -1,0 +1,21 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6427102,
+        "SMILES": "CC(=O)O[C@@H]1C(C2CCC1(C2)C)(C)C",
+        "InChIKey": "JUWUWIGZUVEFQB-SQLBVSGCSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    ".alpha.-Fenchyl acetate",
+    "alpha-Fenchyl acetate",
+    "Fenchyl acetic acid",
+    "RefChem:111234",
+    "4057-31-2",
+    "JUWUWIGZUVEFQB-SQLBVSGCSA-N",
+    ".alpha.-Fenchyl acetate, endo",
+    "SCHEMBL18076323"
+  ]
+}

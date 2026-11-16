@@ -1,0 +1,30 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5320377,
+        "SMILES": "CC(=C)/C=C/C(C)(C)C=C",
+        "InChIKey": "BYLJEQIUXOYKOB-BQYQJAHWSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Artemisia triene",
+    "DTXSID301316683",
+    "18383-70-5",
+    "RefChem:1077244",
+    "DTXCID801746518",
+    "Artemisiatriene",
+    "Artemesia triene",
+    "(3E)-2,5,5-trimethylhepta-1,3,6-triene",
+    "2,5,5-trimethyl-1,3,6-heptatriene",
+    "1,3,6-Heptatriene, 2,5,5-trimethyl-",
+    "SCHEMBL3306615",
+    "BYLJEQIUXOYKOB-BQYQJAHWSA-N",
+    "CHEBI:230350",
+    "29548-02-5",
+    "3,3,6-Trimethyl-1,4,6-heptatriene",
+    "(3E)-2,5,5-Trimethyl-1,3,6-heptatriene",
+    "Q67879702"
+  ]
+}

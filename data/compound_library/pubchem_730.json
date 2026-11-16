@@ -1,0 +1,21 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 1742211,
+        "SMILES": "C[C@@]12CC[C@@H]3[C@H](CC3(C)C)C(=C)CC[C@@H]1O2",
+        "InChIKey": "NVEQFIOZRFFVFW-GUIRCDHDSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(1R,4R,5R,9S)-4,5-epoxycaryophyllan-8(13)-ene",
+    "RefChem:1049468",
+    "(1R,4R,6S,10S)-4,12,12-trimethyl-9-methylidene-5-oxatricyclo(8.2.0.04,6)dodecane",
+    "isocaryophyllene oxide",
+    "CHEMBL399036",
+    "SCHEMBL24110084",
+    "NVEQFIOZRFFVFW-GUIRCDHDSA-N",
+    "Q67879947"
+  ]
+}

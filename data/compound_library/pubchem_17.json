@@ -1,0 +1,45 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 121719,
+        "SMILES": "CC1(C2CC1C(=C)C(=O)C2)C",
+        "InChIKey": "TZDMGBLPGZXHJI-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Pinocarvone",
+    "30460-92-5",
+    "2(10)-Pinen-3-one",
+    "6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptan-3-one",
+    "Bicyclo[3.1.1]heptan-3-one, 6,6-dimethyl-2-methylene-",
+    "(1)-2(10)-Pinen-3-one",
+    "CHEBI:28996",
+    "DTXSID90865544",
+    "Bicyclo(3.1.1)heptan-3-one, 6,6-dimethyl-2-methylene-",
+    "6,6-dimethyl-2-methylidenebicyclo(3.1.1)heptan-3-one",
+    "RefChem:174342",
+    "DTXCID10813941",
+    "3-Nopinenone",
+    "6,6-Dimethyl-2-methylenebicyclo[3.1.1]heptan-3-one",
+    "alpha-Pinocarvone",
+    "16812-40-1",
+    "(+/-)-2(10)-Pinen-3-one",
+    "6,6-dimethyl-2-methylidene-norpinan-3-one",
+    "MFCD02184568",
+    "(+/-)-6,6-Dimethyl-2-methylenebicyclo[3.1.1]heptan-3-one",
+    "pina-2(10)-ene-3-one",
+    "EINECS 250-211-9",
+    ".alpha.-Pinocarvone",
+    "SCHEMBL217966",
+    "JPC19640",
+    "LMPR0102090023",
+    "2(10)-Pinen-3-one, (.+/-.)-",
+    "NS00051554",
+    "C09884",
+    "Q27104017",
+    "6,6-Dimethyl-2-methylenebicyclo[3.1.1]heptan-3-one (stabilised)",
+    "6,6-Dimethyl-2-methylenebicyclo[3.1.1]heptan-3-one, stab. with Tocopherol"
+  ]
+}

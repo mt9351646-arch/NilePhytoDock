@@ -1,0 +1,38 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 160799,
+        "SMILES": "CC1=C[C@H]2[C@@H](CC[C@]([C@@H]2CC1)(C)O)C(C)C",
+        "InChIKey": "LHYHMMRYTDARSZ-XQLPTFJDSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "T-Cadinol",
+    "5937-11-1",
+    "epi-alpha-Cadinol",
+    "(1S,4S,4aR,8aR)-1,6-dimethyl-4-propan-2-yl-3,4,4a,7,8,8a-hexahydro-2H-naphthalen-1-ol",
+    "RefChem:921009",
+    "Cedrelanol",
+    "tau-Cadinol",
+    "10-Epi-alpha-Cadinol",
+    "T Cadinol",
+    "10beta-cadin-4-en-10-ol",
+    "10-Epicadinol",
+    "epi-Cadinol",
+    "orb2564034",
+    "SCHEMBL3679160",
+    "CHEMBL2228955",
+    "CHEBI:138042",
+    "1-Naphthalenol, 1,2,3,4,4a,7,8,8a-octahydro-1,6-dimethyl-4-(1-methylethyl)-, (1S-(1alpha,4alpha,4aalpha,8abeta))-",
+    "HY-N12788",
+    "TN7792",
+    "10betaH-Cadin-4-en-10-ol (8CI)",
+    "(1S,4S,4aR,8aR)-1,6-dimethyl-4-(propan-2-yl)-1,2,3,4,4a,7,8,8a-octahydronaphthalen-1-ol",
+    "CS-1050903",
+    "C21695",
+    "G89208",
+    "Q67865683"
+  ]
+}

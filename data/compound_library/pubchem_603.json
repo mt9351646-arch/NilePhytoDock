@@ -1,0 +1,36 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 525330,
+        "SMILES": "CCCSSSCC=C",
+        "InChIKey": "IXJMGVJLUBBAQW-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "allyl propyl trisulfide",
+    "2-propenyl propyl trisulfide",
+    "Trisulfide, 2-propenyl propyl",
+    "1-(prop-2-enyltrisulfanyl)propane",
+    "Trisulfide, allyl propyl",
+    "Allyl propyltrisulfide",
+    "JB8R8DYZ2D",
+    "Trisulfide, 2-propen-1-yl propyl",
+    "3-Propylsulfanyldisulfanylprop-1-ene",
+    "1-Allyl-3-propyltrisulfane",
+    "DTXSID70335472",
+    "RefChem:110889",
+    "DTXCID20286561",
+    "IXJMGVJLUBBAQW-UHFFFAOYSA-N",
+    "33922-73-5",
+    "Trisulfide,2-propen-1-yl propyl",
+    "propyl allyl trisulfide",
+    "UNII-JB8R8DYZ2D",
+    "1-(prop-2-en-1-yl)-3-propyltrisulfane",
+    "Propyl 2-propenyl trisulfide",
+    "SCHEMBL2929093",
+    "AKOS006282486",
+    "NS00122406"
+  ]
+}

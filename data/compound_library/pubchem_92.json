@@ -1,0 +1,38 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 442347,
+        "SMILES": "CC1=CC[C@]2(CC[C@@H]([C@]2(CC1)O)C(C)C)C",
+        "InChIKey": "XZYQCFABZDVOPN-ILXRZTDVSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Carotol",
+    "(+)-Carotol",
+    "465-28-1",
+    "NT5C9M36DE",
+    "Carotol, (+)-",
+    "CAROTOL [MI]",
+    "DTXSID101318114",
+    "(3R,3AS,8AR)-2,3,4,5,8,8A-HEXAHYDRO-6,8A-DIMETHYL-3-(1-METHYLETHYL)-3A(1H)-AZULENOL",
+    "3A(1H)-AZULENOL, 2,3,4,5,8,8A-HEXAHYDRO-6,8A-DIMETHYL-3-(1-METHYLETHYL)-, (3R,3AS,8AR)-",
+    "3a(1H)-Azulenol, 2,3,4,5,8,8a-hexahydro-6,8a-dimethyl-3-(1-methylethyl)-, (3R-(3alpha,3aalpha,8aalpha))-",
+    "RefChem:574706",
+    "DTXCID101747903",
+    "866-557-4",
+    "(+)-8-Daucen-5-ol",
+    "(3R,3aS,8aR)-6,8a-dimethyl-3-propan-2-yl-1,2,3,4,5,8-hexahydroazulen-3a-ol",
+    "UNII-NT5C9M36DE",
+    "CHEBI:3431",
+    "SCHEMBL6514107",
+    "LMPR0103550001",
+    "3aalpha(1H)-Azulenol, 2,3,4,5,8,8a-hexahydro-3alpha-isopropyl-6,8aalpha-dimethyl-, (+)-",
+    "FC174952",
+    "NS00113997",
+    "C09628",
+    "Q5045553",
+    "(3R,3aS,8aR)-6,8a-Dimethyl-3-(propan-2-yl)-2,3,4,5,8,8a-hexahydroazulen-3a(1H)-ol"
+  ]
+}

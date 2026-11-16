@@ -1,0 +1,34 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 10151874,
+        "SMILES": "C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)OC5=C(C(=C(C=C5C(=O)O)O)O)O",
+        "InChIKey": "BPAOAXAAABIQKR-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Valoneic acid dilactone",
+    "60202-70-2",
+    "Valoneaic acid dilactone",
+    "UH5C3DT5LR",
+    "DTXSID60436184",
+    "3,4,5-trihydroxy-2-[(7,13,14-trihydroxy-3,10-dioxo-2,9-dioxatetracyclo[6.6.2.04,16.011,15]hexadeca-1(15),4,6,8(16),11,13-hexaen-6-yl)oxy]benzoic acid",
+    "3,4,5-trihydroxy-2-((7,13,14-trihydroxy-3,10-dioxo-2,9-dioxatetracyclo(6.6.2.04,16.011,15)hexadeca-1(15),4,6,8(16),11,13-hexaen-6-yl)oxy)benzoic acid",
+    "RefChem:193604",
+    "DTXCID40387009",
+    "Valoneic acid bislactone",
+    "3,4,5-Trihydroxy-2-((3,7,8-trihydroxy-5,10-dioxo-5,10-dihydrochromeno[5,4,3-cde]chromen-2-yl)oxy)benzoic acid",
+    "Valoneic acid bilactone",
+    "2-((5,10-Dihydro-3,7,8-trihydroxy-5,10-dioxo(1)benzopyrano(5,4,3-cde)(1)benzopyran-2-yl)oxy)-3,4,5-trihydroxybenzoic acid",
+    "Benzoic acid, 2-((5,10-dihydro-3,7,8-trihydroxy-5,10-dioxo(1)benzopyrano(5,4,3-cde)(1)benzopyran-2-yl)oxy)-3,4,5-trihydroxy-",
+    "Benzoic acid, 2-[(5,10-dihydro-3,7,8-trihydroxy-5,10-dioxo[1]benzopyrano[5,4,3-cde][1]benzopyran-2-yl)oxy]-3,4,5-trihydroxy-",
+    "UNII-UH5C3DT5LR",
+    "valoneic acid dilactone I",
+    "CHEMBL5079864",
+    "SCHEMBL29777351",
+    "Q6583653",
+    "3,4,5-Trihydroxy-2-[(3,7,8-trihydroxy-5,10-dioxo-5,10-dihydro[1]benzopyrano[5,4,3-cde][1]benzopyran-2-yl)oxy]benzoic acid"
+  ]
+}

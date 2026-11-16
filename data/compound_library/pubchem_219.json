@@ -1,0 +1,42 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 110745,
+        "SMILES": "CC1CCC2(C1C3C(C3(C)C)CCC2C)O",
+        "InChIKey": "QWRTXOOFEHOROQ-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Palustrol",
+    "5986-49-2",
+    "Diepi-palustrol",
+    "1,1,4,7-tetramethyl-2,3,4,5,6,7,7a,7b-octahydro-1aH-cyclopropa[h]azulen-4a-ol",
+    "4aH-Cycloprop(e)azulen-4a-ol, decahydro-1,1,4,7-tetramethyl-, (1aR-(1aalpha,4beta,4abeta,7alpha,7abeta,7balpha))-",
+    "4aH-Cycloprop[e]azulen-4a-ol, decahydro-1,1,4,7-tetramethyl-, [1aR-(1a.alpha.,4.beta.,4a.beta.,7.alpha.,7a.beta.,7b.alpha.)]-",
+    "4aH-Cycloprop[e]azulen-4a-ol, decahydro-1,1,4,7-tetramethyl-",
+    "(1aR,4S,4aS,7R,7aS,7bR)-1,1,4,7-Tetramethyldecahydro-1H-cyclopropa[e]azulen-4a-ol",
+    "4aH-Cycloprop[e]azulen-4a-ol, decahydro-1,1,4,7-tetramethyl-, (1aR,4S,4aS,7R,7aS,7bR)-",
+    "4aH-Cycloprop(e)azulen-4a-ol, decahydro-1,1,4,7-tetramethyl-",
+    "(1aR,4S,4aS,7R,7aS,7bR)-1,1,4,7-Tetramethyldecahydro-1H-cyclopropa(e)azulen-4a-ol",
+    "1,1,4,7-tetramethyl-2,3,4,5,6,7,7a,7b-octahydro-1aH-cyclopropa(h)azulen-4a-ol",
+    "4aH-Cycloprop(e)azulen-4a-ol, decahydro-1,1,4,7-tetramethyl-, (1aR,4S,4aS,7R,7aS,7bR)-",
+    "(1aS,4R,4aR,7S,7aR,7bS)-1,1,4,7-tetramethyl-2,3,4,5,6,7,7a,7b-octahydro-1aH-cyclopropa(h)azulen-4a-ol",
+    "(1aS,4R,4aR,7S,7aR,7bS)-1,1,4,7-tetramethyl-2,3,4,5,6,7,7a,7b-octahydro-1aH-cyclopropa[h]azulen-4a-ol",
+    "RefChem:169800",
+    "QWRTXOOFEHOROQ-UHFFFAOYSA-N",
+    "Palustrol (Ledum)",
+    "(+)-palustrol",
+    "SCHEMBL14034257",
+    "DTXSID401384637",
+    "FAA98649",
+    "AKOS028109719",
+    "95975-84-1",
+    "DA-66468",
+    "NS00067892",
+    "Q67880165",
+    "1,1,4,7-Tetramethyldecahydro-4ah-cyclopropa[e]azulen-4a-ol #",
+    "decahydro-1,1,4,7-tetramethyl-4ah-cycloprop[e]azulen-4a-ol"
+  ]
+}

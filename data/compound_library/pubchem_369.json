@@ -1,0 +1,50 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 1549108,
+        "SMILES": "CC(=CCC/C(=C/CC/C(=C\\CO)/C)/C)C",
+        "InChIKey": "CRDAMVZIKSXKFV-PVMFERMNSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(2Z,6E)-Farnesol",
+    "(Z,E)-Farnesol",
+    "cis,trans-Farnesol",
+    "3790-71-4",
+    "2-cis,6-trans-Farnesol",
+    "(2-cis,6-trans)-farnesol",
+    "(Z,E)-3,7,11-Trimethyl-2,6,10-dodecatrien-1-ol",
+    "(2-cis,6-trans)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol",
+    "CHEBI:16774",
+    "3,7,11-trimethyldodeca-2Z,6E,10-trien-1-ol",
+    "RefChem:395696",
+    "(2Z,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol",
+    "CIS-TRANS-FARNESOL",
+    "Farnesol, (2Z,6E)-",
+    "(2Z,6E)-3,7,11-trimethyl-2,6,10-dodecatrien-1-ol",
+    "SQ4TI19PXT",
+    "2,6,10-Dodecatrien-1-ol, 3,7,11-trimethyl-, (Z,E)-",
+    "UNII-SQ4TI19PXT",
+    "NSC60597",
+    "z,e-farnesol",
+    "(Z)-Farnesol",
+    "(Z,E)-alpha-farnesol",
+    "cis,trans-.alpha.-Farnesol",
+    "SCHEMBL806894",
+    "CHEMBL5185759",
+    "CIS-2-TRANS-6-FARNESOL",
+    "DTXSID30274196",
+    "EBC-12029",
+    "LMPR0103010013",
+    "FEMA NO. 2478, (2Z,6E)-",
+    "2-cis,6-trans-Farnesol, >=95.0% (GC)",
+    "C03220",
+    "EN300-7460532",
+    "(2Z)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol",
+    "3,7,11-trimethyl-dodeca-2cis,6trans,10-trien-1-ol",
+    "Q27102070",
+    "2,6,10-Dodecatrien-1-ol, 3,7,11-trimethyl-, (2Z,6E)-"
+  ]
+}

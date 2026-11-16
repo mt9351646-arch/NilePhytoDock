@@ -1,0 +1,24 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6428423,
+        "SMILES": "CC1=CC2[C@@H](CC[C@@](C2CC1)(C)O)C(C)C",
+        "InChIKey": "LHYHMMRYTDARSZ-VXGQWTEUSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Cadinol",
+    "(1R,4S)-1,6-dimethyl-4-propan-2-yl-3,4,4a,7,8,8a-hexahydro-2H-naphthalen-1-ol",
+    "RefChem:917822",
+    "(8aS)-7-methyl-4-methylidene-1-propan-2-yl-2,3,4a,5,6,8a-hexahydro-1H-naphthalene",
+    "11070-72-7",
+    "trans-Cadinol",
+    "1.beta.-Cadin-4-en-10-ol",
+    "Torreiol",
+    "SCHEMBL13627136",
+    "LHYHMMRYTDARSZ-VXGQWTEUSA-N",
+    "1-Naphthalenol, 1,2,3,4,4a,7,8,8a-octahydro-1,6-dimethyl-4-(1-methylethyl)-, [1R-(1.alpha.,4.beta.,4a.beta.,8a.beta.)]-"
+  ]
+}

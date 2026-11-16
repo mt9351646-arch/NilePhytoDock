@@ -1,0 +1,27 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 12309449,
+        "SMILES": "CC(C)C1=C[C@@H]([C@@](CC1)(C)C=C)C(=C)C",
+        "InChIKey": "MXDMETWAEGIFOE-CABCVRRESA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "11029-06-4",
+    "DTXSID10149196",
+    "RefChem:131677",
+    "Elemene",
+    "delta-Elemene",
+    "(3R-trans)-4-ethenyl-4-methyl-3-(1-methylethenyl)-1-(1-methylethyl)-cyclohexene",
+    "(1R,2R)-delta-elemene",
+    "SCHEMBL17627747",
+    "CHEBI:132830",
+    "(3R,4R)-4-ethenyl-4-methyl-1-propan-2-yl-3-prop-1-en-2-ylcyclohexene",
+    "Q63409802",
+    "(R,R)-1-isopropyl-4-methyl-3-(prop-1-en-2-yl)-4-vinylcyclohexene",
+    "(3R,4R)-1-isopropyl-4-methyl-3-(prop-1-en-2-yl)-4-vinylcyclohexene",
+    "(3R,trans)-1-isopropyl-4-methyl-3-(prop-1-en-2-yl)-4-vinylcyclohexene"
+  ]
+}

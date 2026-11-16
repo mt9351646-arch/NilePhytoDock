@@ -1,0 +1,53 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 10887971,
+        "SMILES": "CC(C)[C@]12CCC(=C)[C@H]1C2",
+        "InChIKey": "NDVASEGYNIMXJL-NXEZZACHSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(+)-Sabinene",
+    "2009-00-9",
+    "d-Sabinene",
+    "(1R,5R)-1-isopropyl-4-methylenebicyclo[3.1.0]hexane",
+    "(1R,5R)-(+)-Sabinene",
+    "(1R,5R)-sabinene",
+    "Sabinene, (+)-",
+    "4(10)-Thujene, D-",
+    "XYL0G8758O",
+    "(1R,5R)-4-methylidene-1-(propan-2-yl)bicyclo[3.1.0]hexane",
+    "(1R,5R)-thuj-4(10)-ene",
+    "(1R,5R)-4-methylidene-1-propan-2-ylbicyclo[3.1.0]hexane",
+    "4(10)-Thujene, (1R,5R)-(+)-",
+    "Bicyclo[3.1.0]hexane, 4-methylene-1-(1-methylethyl)-, (1R,5R)-",
+    "Sabenene",
+    "Bicyclo(3.1.0)hexane, 4-methylene-1-(1-methylethyl)-, (1R,5R)-",
+    "(1R,5R)-4-methylidene-1-(propan-2-yl)bicyclo[3.1.0]hexane (1R,5R)-thuj-4(10)-ene",
+    "Thuj-4(10)-ene",
+    "Cabinen",
+    "alpha-sabinene",
+    "NSC 407278",
+    "(1R)-sabinene",
+    "(+)-(1R)-sabinene",
+    "UNII-7D1TL44GPC",
+    "(+)-Sabinene, 99%",
+    "UNII-XYL0G8758O",
+    "(+)-4(10)-Thujene",
+    "4-METHYLENE-1-(1-METHYLETHYL)-BICYCLO(3.1.0)HEXANE",
+    "4(10)-Thujene (Sabinene)",
+    "SCHEMBL3652402",
+    "CHEBI:50029",
+    "(1R,5R)-4-Methylene-1-(1-methylethyl)bicyclo[3.1.0]hexane",
+    "DTXSID101383804",
+    "EINECS 222-212-4",
+    "FS27774",
+    "LMPR0102120036",
+    "(+)-SABINENE, TERPENE STANDARD",
+    "NS00009146",
+    "C20230",
+    "Q27121788"
+  ]
+}

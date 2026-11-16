@@ -1,0 +1,21 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 14165630,
+        "SMILES": "CC1(CCCC2(C1CCC(=C)C2CC=O)C)C",
+        "InChIKey": "BFWKKBSHTOEBHL-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Ambrial",
+    ".gamma.-Bicyclohomofarnesal",
+    "SCHEMBL30515438",
+    "BFWKKBSHTOEBHL-UHFFFAOYSA-N",
+    "13,14,15,16-Tetranorlabd-8(17)-en-12-al",
+    "1-Naphthaleneacetaldehyde, decahydro-5,5,8a-trimethyl-2-methylene-",
+    "1-Naphthaleneacetaldehyde, decahydro-5,5,8a-trimethyl-2-methylene-, (1S,4aS,8aS)-",
+    "1-Naphthaleneacetaldehyde, decahydro-5,5,8a-trimethyl-2-methylene-, [1S-(1.alpha.,4a.beta.,8a.alpha.)]-"
+  ]
+}

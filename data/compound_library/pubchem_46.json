@@ -1,0 +1,26 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 12314814,
+        "SMILES": "CC(=C1C[C@H]([C@@](CC1=O)(C)C=C)C(=C)C)C",
+        "InChIKey": "ABLPGPHZENVRRH-ZFWWWQNUSA-N"
+      },
+      {
+        "CID": 177826915,
+        "SMILES": "CC(=C1CC([C@](CC1=O)(C)C=C)C(=C)C)C",
+        "InChIKey": "ABLPGPHZENVRRH-AWKYBWMHSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "cis-beta-Elemenone",
+    "c-.beta.-Elemenone",
+    "cis-.beta.-Elemenone",
+    "4-Isopropenyl-5-methyl-2-(1-methylethylidene)-5-vinylcyclohexanone, cis",
+    "ABLPGPHZENVRRH-ZFWWWQNUSA-N",
+    "CHEBI:167352",
+    "Cyclohexanone, 5-ethenyl-5-methyl-4-(1-methylethenyl)-2-(1-methylethylidene)-, (4R,5S)-rel-",
+    "(4S,5R)-5-ethenyl-5-methyl-2-propan-2-ylidene-4-prop-1-en-2-ylcyclohexan-1-one"
+  ]
+}

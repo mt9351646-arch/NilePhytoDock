@@ -1,0 +1,27 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 21159742,
+        "SMILES": "CCC/C=C\\CCOC(=O)C",
+        "InChIKey": "AAYIYWGTGAUKQY-WAYWQWQTSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "1576-78-9",
+    "cis-3-Heptenyl acetate",
+    "[(Z)-hept-3-enyl] acetate",
+    "(Z)-3-hepten-1-yl acetate",
+    "(3Z)-hept-3-en-1-yl acetate",
+    "(Z)-3-Heptenyl acetate",
+    "KGK6YAA7S7",
+    "3-Heptenyl acetate, cis-",
+    "3-Heptenyl acetate, (3Z)-",
+    "SCHEMBL17627773",
+    "DTXSID801357761",
+    "AKOS006273380",
+    "DB-318926",
+    "Q63391564"
+  ]
+}

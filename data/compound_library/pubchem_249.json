@@ -1,0 +1,22 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 20837773,
+        "SMILES": "CC(=CC/C=C(/C)\\CC=O)C",
+        "InChIKey": "OJLMARCQPSGYNE-POHAHGRESA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "3,6-Octadienal, 3,7-dimethyl-, (Z)-",
+    "RefChem:487636",
+    "(Z)-3,7-dimethylocta-3,6-dienal",
+    "72203-97-5",
+    "Isoneral",
+    "(3Z)-3,7-dimethylocta-3,6-dienal",
+    "SCHEMBL13079615",
+    "DTXSID901017499",
+    "(3Z)-3,7-Dimethyl-3,6-octadienal"
+  ]
+}

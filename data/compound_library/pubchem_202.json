@@ -1,0 +1,39 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6432025,
+        "SMILES": "C[C@@]1(CC[C@@H]2[C@]3(CCCC([C@@H]3CC[C@]2(O1)C)(C)C)C)C=C",
+        "InChIKey": "IGGWKHQYMAJOHK-HHUCQEJWSA-N"
+      },
+      {
+        "CID": 91752338,
+        "SMILES": "C[C@]1(CC[C@@H]2[C@]3(CCCC(C3CC[C@]2(O1)C)(C)C)C)C=C",
+        "InChIKey": "IGGWKHQYMAJOHK-SSLTWDDKSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Labd-14-ene, 8,13-epoxy-, (13S)-",
+    "RefChem:1088311",
+    "(3R,4aR,6aS,10aS,10bR)-3-ethenyl-3,4a,7,7,10a-pentamethyl-2,5,6,6a,8,9,10,10b-octahydro-1H-benzo(f)chromene",
+    "Manoyl oxide",
+    "Epimanoyl oxide",
+    "13R-manoyl oxide",
+    "13-epi-Manoyl oxide",
+    "1H-Naphtho[2,1-b]pyran, 3-ethenyldodecahydro-3,4a,7,7,10a-pentamethyl-, [3S-(3.alpha.,4a.alpha.,6a.beta.,10a.alpha.,10b.beta.)]-",
+    "(13R)-8,13-epoxylabd-14-ene",
+    "13-Epimanoyl oxide",
+    "epi-13-Manoyl oxide",
+    "Oxyde d'epi-13-manoyle",
+    "3,4a,7,7,10a-Pentamethyl-3-vinyldodecahydro-1H-benzo[f]chromene #",
+    "orb1696183",
+    "SCHEMBL3967644",
+    "IGGWKHQYMAJOHK-HHUCQEJWSA-N",
+    "AKOS040752943",
+    "HY-121839",
+    "CS-0083529",
+    "C21725",
+    "T33214"
+  ]
+}

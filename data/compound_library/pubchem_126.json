@@ -1,0 +1,49 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 23494,
+        "SMILES": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+        "InChIKey": "KMXFZRSJMDYPPG-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "TETRATETRACONTANE",
+    "n-Tetratetracontane",
+    "7098-22-8",
+    "FPX2NM4VIT",
+    "NSC-102262",
+    "DTXSID5058640",
+    "CHEBI:84289",
+    "RefChem:188899",
+    "DTXCID9032327",
+    "230-407-0",
+    "MFCD00015268",
+    "Tetratetracontane, analytical standard",
+    "EINECS 230-407-0",
+    "C44H90",
+    "NSC 102262",
+    "UNII-FPX2NM4VIT",
+    "Tetratetracontane, 99%",
+    "AI3-36493",
+    "SCHEMBL198370",
+    "SCHEMBL198371",
+    "SCHEMBL1685025",
+    "SCHEMBL1888556",
+    "SCHEMBL6680092",
+    "SCHEMBL22407242",
+    "NSC102262",
+    "AKOS015902653",
+    "HY-W540905",
+    "AS-81740",
+    "SY106459",
+    "Tetratetracontane, purum, >=95.0% (GC)",
+    "NS00043167",
+    "ST45022217",
+    "F801744",
+    "Q20890372",
+    "Tetratetracontane (C44) 1000 |Ig/mL in Carbon Disulfide",
+    "1208B570-4CB6-48FD-9F3F-67129C995357"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 68316,
+        "SMILES": "CC(=CCCC1=COC=C1)C",
+        "InChIKey": "XNGKCOFXDHYSGR-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Perillene",
+    "Perillen",
+    "539-52-6",
+    "3-(4-methylpent-3-en-1-yl)furan",
+    "3-(4-Methyl-3-pentenyl)furan",
+    "3-(4-methylpent-3-enyl)furan",
+    "Furan, 3-(4-methyl-3-pentenyl)-",
+    "AM4D4646ZW",
+    "CHEBI:74039",
+    "DTXSID40202167",
+    "RefChem:171763",
+    "DTXCID40124658",
+    "Perillen, >90%",
+    "MFCD28387433",
+    "Perillene?",
+    "3-(4-Methyl-3-penten-1-yl)furan; 3-(4-Methyl-3-pentenyl)furan; Perillene",
+    "UNII-AM4D4646ZW",
+    "SCHEMBL310752",
+    "orb1222079",
+    "orb1303346",
+    "orb3140978",
+    "3-(4-methyl-3-pentenyl)-furan",
+    "XNGKCOFXDHYSGR-UHFFFAOYSA-N",
+    "3-(4-Methyl-3-pentenyl)furan #",
+    "3-(4-Methyl-pent-3-enyl)-furan",
+    "HY-N0827",
+    "AKOS028108563",
+    "EBC-616399",
+    "T3S2381",
+    "AS-82915",
+    "DA-56697",
+    "3-(4-METHYL-3-PENTEN-1-YL)FURAN",
+    "CS-0009859",
+    "NS00126669",
+    "FURAN, 3-(4-METHYL-3-PENTEN-1-YL)-",
+    "Q15634089"
+  ]
+}

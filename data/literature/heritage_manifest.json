@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "category": "Ancient Egyptian Botanical Heritage",
+  "policy": "Historical associations are evidence-qualified; no blanket sacred designation. Modern analytical profiles are not evidence of ancient species or recipes.",
+  "entries": [
+    {
+      "scientific_name": "Boswellia spp.",
+      "common_name": "Frankincense",
+      "association": "Embalming material interpretation",
+      "evidence_type": "FTIR on mummy skin, hair and wig",
+      "period": "New Kingdom context, TT71 area (1479–1458 BCE)",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11328696/",
+      "citation": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11328696/",
+      "confidence": "Moderate; material-level assignment",
+      "description": "FTIR was interpreted as frankincense with juniper resin. This method does not establish a Boswellia species or a complete recipe. Modern B. carterii chemistry is stored separately.",
+      "taxonomic_scope": "Genus/material only; species unresolved"
+    },
+    {
+      "scientific_name": "Commiphora spp.",
+      "common_name": "Myrrh",
+      "association": "Perfumery and ritual textual interpretation",
+      "evidence_type": "Classical/Egyptian textual comparison and experimental archaeology",
+      "period": "Ptolemaic/Roman textual and Mendesian perfume context",
+      "source_url": "https://doi.org/10.1086/715345",
+      "citation": "https://doi.org/10.1086/715345",
+      "confidence": "Moderate; historical interpretation",
+      "description": "The Mendesian perfume reconstruction uses myrrh. Ancient terminology and modern species assignment require caution; a reconstructed recipe is not direct proof of each ingredient in Cleopatra’s perfume.",
+      "taxonomic_scope": "Commiphora resin interpretation; no ancient C. myrrha species determination"
+    },
+    {
+      "scientific_name": "Ricinus communis",
+      "common_name": "Castor",
+      "association": "Embalming workshop preparation",
+      "evidence_type": "GC-MS organic residue analysis",
+      "period": "26th Dynasty, Saqqara, 664–525 BCE",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9908542/",
+      "citation": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9908542/",
+      "confidence": "Moderate; probable oil identification",
+      "description": "Ricinoleic-acid patterns were interpreted as castor oil in workshop residues. Degradation and mixture context constrain inference; not evidence that the free acid was the original whole oil.",
+      "taxonomic_scope": "Probable castor oil; biomarker-based"
+    },
+    {
+      "scientific_name": "Sesamum indicum",
+      "common_name": "Sesame",
+      "association": "Candidate ancient oil-bearing crop",
+      "evidence_type": "Proteomics primary study with archaeological synthesis",
+      "period": "Second millennium BCE / New Kingdom reference context",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7812755/",
+      "citation": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7812755/",
+      "confidence": "Moderate for regional crop; indirect for Egypt",
+      "description": "The primary proteomics results concern Levantine dental calculus. The discussion regards Tutankhamun-tomb sesame seeds as credible based on prior archaeobotany. This is indirect Egyptian evidence, not Egyptian oil residue identification.",
+      "taxonomic_scope": "Species-supported regional proteins; Egyptian claim derives from cited archaeobotany"
+    },
+    {
+      "scientific_name": "Linum usitatissimum",
+      "common_name": "Flax",
+      "association": "Funerary linen textiles",
+      "evidence_type": "Microscopy and chemical study of museum archaeological textiles",
+      "period": "Pharaonic to Ptolemaic; individual textile dates in source Table 1",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6832961/",
+      "citation": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6832961/",
+      "confidence": "High for linen use; oil use not tested",
+      "description": "Flax-derived linen shrouds and mummy textiles establish botanical/funerary use. They do not demonstrate that linseed oil was used as an embalming ingredient.",
+      "taxonomic_scope": "Flax textile fibres; modern seed-oil profiles separate"
+    },
+    {
+      "scientific_name": "Carthamus tinctorius",
+      "common_name": "Safflower",
+      "association": "Funerary textile dye",
+      "evidence_type": "HPLC-MS carthamin/degradation-product identification",
+      "period": "Pharaonic Egyptian museum textiles; sample dates in Table 1",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6832961/",
+      "citation": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6832961/",
+      "confidence": "High for dye material; oil use not tested",
+      "description": "Six textile samples contained safflower dye markers. This supports dye use and funerary textiles, not sacred status or safflower oil use.",
+      "taxonomic_scope": "Carthamus dye material"
+    },
+    {
+      "scientific_name": "Balanites aegyptiaca",
+      "common_name": "Desert Date",
+      "association": "Mendesian perfume reconstruction candidate",
+      "evidence_type": "Experimental archaeology and historical oil-name interpretation",
+      "period": "Classical Mendesian perfume tradition",
+      "source_url": "https://doi.org/10.1086/715345",
+      "citation": "https://doi.org/10.1086/715345",
+      "confidence": "Moderate; botanical name interpretation",
+      "description": "Balanos is evaluated in the perfume reconstruction literature. Historical plant-name translation and reconstruction are less specific than direct botanical remains; modern kernel-oil data do not establish ancient use.",
+      "taxonomic_scope": "Balanos / desert-date interpretation; uncertainty retained"
+    },
+    {
+      "scientific_name": "Nymphaea caerulea",
+      "common_name": "Blue Egyptian Lily",
+      "association": "Ptolemaic Bes-vessel botanical association",
+      "evidence_type": "Multianalytical residue study including plant DNA",
+      "period": "Ptolemaic-style Bes vase; original find context unrecorded",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11561246/",
+      "citation": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11561246/",
+      "confidence": "Moderate; context and taxonomic limitations",
+      "description": "The study reports Nymphaea nouchali var. caerulea in a museum Bes vessel. Ritual and psychoactive interpretations are hypotheses; the vessel lacks a secure excavated provenance. No synthetic modern chemical profile was added.",
+      "taxonomic_scope": "Source taxon N. nouchali var. caerulea / N. caerulea synonym context"
+    },
+    {
+      "scientific_name": "Juniperus spp. / Cupressus spp.",
+      "common_name": "Juniper / Cypress",
+      "association": "Embalming preparation",
+      "evidence_type": "GC-MS organic residue analysis",
+      "period": "26th Dynasty, Saqqara, 664–525 BCE",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9908542/",
+      "citation": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9908542/",
+      "confidence": "High for conifer preparation; unresolved genus pair",
+      "description": "Biomarkers support juniper/cypress oil or tar in workshop preparations. They do not securely separate these genera or establish J. phoenicea as the ancient species.",
+      "taxonomic_scope": "Juniperus/Cupressus unresolved; modern J. phoenicea reference separate"
+    },
+    {
+      "scientific_name": "Cedrus spp.",
+      "common_name": "Cedar",
+      "association": "Embalming tar",
+      "evidence_type": "GC-MS chemomarkers in canopic-jar residues",
+      "period": "Late Period, 664–332 BCE",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13144440/",
+      "citation": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13144440/",
+      "confidence": "High for cedar-derived material; species unresolved",
+      "description": "Cedar tar marker patterns were detected in two canopic jars. Modern C. atlantica tar was a reference; this does not identify ancient cedar to that species.",
+      "taxonomic_scope": "Cedrus genus; no ancient species assignment"
+    },
+    {
+      "scientific_name": "Olea europaea",
+      "common_name": "Olive",
+      "association": "Probable plant-oil preparation",
+      "evidence_type": "GC-MS organic residue analysis",
+      "period": "26th Dynasty, Saqqara, 664–525 BCE",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9908542/",
+      "citation": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9908542/",
+      "confidence": "Moderate; probable oil type",
+      "description": "Plant oil interpreted as olive-type is reported among workshop preparations. Common fatty-acid patterns, degradation and mixtures limit species specificity.",
+      "taxonomic_scope": "Probable olive-type oil; not species-exclusive biomarkers"
+    },
+    {
+      "scientific_name": "Moringa peregrina",
+      "common_name": "Moringa peregrina",
+      "association": "Baq-oil historical identification candidate",
+      "evidence_type": "Historical oil-name interpretation; no direct molecular species proof",
+      "period": "Ancient Egyptian oil texts, chronology varies",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7812755/",
+      "citation": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7812755/",
+      "confidence": "Uncertain; candidate only",
+      "description": "The source discussion explicitly notes that baq oil may refer to olive, moringa or another oil plant. No secure M. peregrina-specific ancient residue identification is claimed. Modern Omani seed-lipid data remain separate.",
+      "taxonomic_scope": "Candidate Moringa identification; cannot substitute M. oleifera"
+    }
+  ]
+}

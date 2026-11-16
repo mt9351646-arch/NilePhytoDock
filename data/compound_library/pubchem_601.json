@@ -1,0 +1,43 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 133337,
+        "SMILES": "C=CC1SCC=CS1",
+        "InChIKey": "XUKBDTUPIIADOP-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "80028-57-5",
+    "2-Vinyl-4H-1,3-dithiin",
+    "2-ethenyl-4H-1,3-dithiine",
+    "2-Vdtii",
+    "2-Vinyl-(4H)-1,3-dithiine",
+    "2-Vinyl-[4H]-1,3-dithiin",
+    "2-Vinyl-(4H)-1,3-dithiin",
+    "2-vinyl-[4H]-1,3-dithiine",
+    "RefChem:910283",
+    "2-Vinyl-4H-1,3-dithiine",
+    "2-Ethenyl-4H-1,3-dithiin",
+    "1-Ethyltridecyl 3-bromobenzoate",
+    "2-vinyl-[4H]-1,3-dithin",
+    "3-Bromobenzoic acid, 3-pentadecyl ester",
+    "vinyldithiin II",
+    "2-ethenyl-2,4-dihydro-1,3-dithiine",
+    "2-Vinyl-4H-1,3-dithin",
+    "2-Vinyl-4H-1,2-dithiin",
+    "2-Vinyl-1,3-dithi-4-ene",
+    "DV 2",
+    "orb3211768",
+    "SCHEMBL1300233",
+    "4H-1,3-Dithiin, 2-ethenyl",
+    "H-1,3-Dithiin, 2-ethenyl-",
+    "2-Vinyl-4(H)-1,3-dithiin",
+    "4H-1,3-Dithiin, 2-ethenyl-",
+    "2-Ethenyl-2H,4H-1,3-dithiine",
+    "DTXSID801000918",
+    "2-vinyl-2,4-dihydro-1,3-dithiin",
+    "2-Ethenyl-4H-1,3-dithiine, 9CI"
+  ]
+}

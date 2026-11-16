@@ -1,0 +1,190 @@
+{
+  "source": "PMC6571088_216_2019_1850_MOESM1_ESM.pdf",
+  "sha256": "eb2164ce0f7d1b09ffea3fd871e310c84bb58ccec7d677fa3484556db7a20582",
+  "page": 12,
+  "table": "S3",
+  "scope": "First 18 rows of each column block; partial lipid annotation subset",
+  "rows": [
+    {
+      "name": "16:0-Campesterol",
+      "MP": 1,
+      "MO": 0.02
+    },
+    {
+      "name": "22:1-Stigmasterol",
+      "MP": 1,
+      "MO": 0.04
+    },
+    {
+      "name": "22:2-Sitosterol",
+      "MP": 1,
+      "MO": 0.04
+    },
+    {
+      "name": "22:0-Campesterol",
+      "MP": 1,
+      "MO": 0.04
+    },
+    {
+      "name": "20:1-Stigmasterol",
+      "MP": 1,
+      "MO": 0.05
+    },
+    {
+      "name": "20:2-Sitosterol",
+      "MP": 1,
+      "MO": 0.05
+    },
+    {
+      "name": "MG 20:4",
+      "MP": 1,
+      "MO": 0.05
+    },
+    {
+      "name": "20:0-Sitosterol",
+      "MP": 1,
+      "MO": 0.06
+    },
+    {
+      "name": "18:3-Stigmasterol",
+      "MP": 1,
+      "MO": 0.06
+    },
+    {
+      "name": "MG 18:1",
+      "MP": 1,
+      "MO": 0.06
+    },
+    {
+      "name": "22:0-Stigmasterol",
+      "MP": 1,
+      "MO": 0.06
+    },
+    {
+      "name": "22:1-Sitosterol",
+      "MP": 1,
+      "MO": 0.06
+    },
+    {
+      "name": "1,3DG 38:4",
+      "MP": 1,
+      "MO": 0.07
+    },
+    {
+      "name": "16:3-Stigmasterol",
+      "MP": 1,
+      "MO": 0.07
+    },
+    {
+      "name": "18:0-Stigmasterol",
+      "MP": 1,
+      "MO": 0.08
+    },
+    {
+      "name": "18:1-Sitosterol",
+      "MP": 1,
+      "MO": 0.08
+    },
+    {
+      "name": "20:0-Stigmasterol",
+      "MP": 1,
+      "MO": 0.08
+    },
+    {
+      "name": "20:1-Sitosterol",
+      "MP": 1,
+      "MO": 0.08
+    },
+    {
+      "name": "TG 60:3",
+      "MP": 1,
+      "MO": 0.47
+    },
+    {
+      "name": "TG 60:2",
+      "MP": 1,
+      "MO": 0.48
+    },
+    {
+      "name": "TG 52:5",
+      "MP": 1,
+      "MO": 0.48
+    },
+    {
+      "name": "TG 60:6",
+      "MP": 1,
+      "MO": 0.48
+    },
+    {
+      "name": "1,3DG 35:5",
+      "MP": 1,
+      "MO": 0.49
+    },
+    {
+      "name": "1,3DG 36:0",
+      "MP": 1,
+      "MO": 0.49
+    },
+    {
+      "name": "20:2-Campesterol",
+      "MP": 1,
+      "MO": 0.49
+    },
+    {
+      "name": "PE 36:2",
+      "MP": 1,
+      "MO": 0.49
+    },
+    {
+      "name": "PE 34:2",
+      "MP": 1,
+      "MO": 0.5
+    },
+    {
+      "name": "TG 60:5",
+      "MP": 1,
+      "MO": 0.5
+    },
+    {
+      "name": "PC 36:3",
+      "MP": 1,
+      "MO": 0.51
+    },
+    {
+      "name": "PC 33:2",
+      "MP": 1,
+      "MO": 0.52
+    },
+    {
+      "name": "PE 36:1",
+      "MP": 1,
+      "MO": 0.52
+    },
+    {
+      "name": "18:2-Sitosterol",
+      "MP": 1,
+      "MO": 0.54
+    },
+    {
+      "name": "18:1-Stigmasterol",
+      "MP": 1,
+      "MO": 0.54
+    },
+    {
+      "name": "20:3-Stigmasterol",
+      "MP": 1,
+      "MO": 0.55
+    },
+    {
+      "name": "1,2DG 32:3",
+      "MP": 1,
+      "MO": 0.56
+    },
+    {
+      "name": "1,2DG 35:4",
+      "MP": 1,
+      "MO": 0.56
+    }
+  ],
+  "uncertainty": "Published SDs remain in source PDF; not transcribed into this mean-only subset."
+}

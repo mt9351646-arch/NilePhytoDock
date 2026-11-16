@@ -1,0 +1,45 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 94579,
+        "SMILES": "C[C@@H]1CC[C@H]([C@@H](C1)OC(=O)C)C(=C)C",
+        "InChIKey": "HLHIVJRLODSUCI-ADEWGFFLSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Isopulegyl acetate",
+    "57576-09-7",
+    "FEMA No. 2965",
+    "R3C4VQ5WQM",
+    "[(1R,2S,5R)-5-methyl-2-prop-1-en-2-ylcyclohexyl] acetate",
+    "NSC-403868",
+    "DTXSID60904398",
+    "Cyclohexanol, 5-methyl-2-(1-methylethenyl)-, 1-acetate, (1R,2S,5R)-",
+    "((1R,2S,5R)-5-methyl-2-prop-1-en-2-ylcyclohexyl) acetate",
+    "RefChem:792271",
+    "DTXCID401333553",
+    "260-820-1",
+    "Isopulegol acetate",
+    "ISOPULEGOLACETATE",
+    "(1R,2S,5R)-5-methyl-2-(prop-1-en-2-yl)cyclohexyl acetate",
+    "neo-iso-isopulegol acetate",
+    "UNII-R3C4VQ5WQM",
+    "p-Menth-8-en-3-ol acetate",
+    "Cyclohexanol, 5-methyl-2-(1-methylethenyl)-, acetate, (1R,2S,5R)-",
+    "NSC403868",
+    "EINECS 260-820-1",
+    "NSC-71930",
+    "NSC 403868",
+    "SCHEMBL560313",
+    "CHEMBL3120645",
+    "FEMA 2965",
+    "ISOPULEGYL ACETATE [FHFI]",
+    "CHEBI:172063",
+    "NSC71930",
+    "AKOS006273570",
+    "Q27287738",
+    "Cyclohexanol, 5-methyl-2-(1-methylethenyl)-, acetate, (1theta-(1alpha,2beta,5alpha))-"
+  ]
+}

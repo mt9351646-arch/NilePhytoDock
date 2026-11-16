@@ -1,0 +1,52 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 10398656,
+        "SMILES": "CC1=C[C@H]2[C@@H](CC[C@@]([C@@H]2CC1)(C)O)C(C)C",
+        "InChIKey": "LHYHMMRYTDARSZ-BYNSBNAKSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "alpha-Cadinol",
+    "481-34-5",
+    "l-alpha-Cadinol",
+    "(-)-alpha-Cadinol",
+    "DC0YJ4816P",
+    "alpha-Cadinol, (-)-",
+    "(1R,4S,4aR,8aR)-1,6-dimethyl-4-propan-2-yl-3,4,4a,7,8,8a-hexahydro-2H-naphthalen-1-ol",
+    "CHEBI:132905",
+    "DTXSID701017679",
+    "RefChem:915493",
+    "DTXCID601475858",
+    "a-Cadinol",
+    "UNII-DC0YJ4816P",
+    "l-.alpha.-Cadinol",
+    "(-)-.alpha.-Cadinol",
+    "(1R,4S,4aR,8aR)-1,6-dimethyl-4-(propan-2-yl)-1,2,3,4,4a,7,8,8a-octahydronaphthalen-1-ol",
+    "(1R,4S,4aR,8aR)-4-Isopropyl-1,6-dimethyl-1,2,3,4,4a,7,8,8a-octahydronaphthalen-1-ol",
+    "trans-Cadinol",
+    ".alpha.-Cadinol",
+    "Pilgerol",
+    "alpha-cardinol",
+    "1-Naphthalenol, 1,2,3,4,4a,7,8,8a-octahydro-1,6-dimethyl-4-(1-methylethyl)-, (1R,4S,4aR,8aR)-",
+    "(E)-alpha-cadinol",
+    "(Z)-alpha-cadinol",
+    "CADINOL, ALPHA-",
+    "CHEMBL486795",
+    "orb2564017",
+    "SCHEMBL4276031",
+    "4-Isopropyl-1,6-dimethyl-1,2,3,4,4a,7,8,8a-octahydro-1-naphthalenol",
+    ".ALPHA.-CADINOL, (-)-",
+    "HY-N12805",
+    "TN7809",
+    "CS-1050967",
+    "NS00093939",
+    "G89229",
+    "Q4734900",
+    "(1R-(1.ALPHA.,4.BETA.,4A.BETA.,8A.ALPHA.))-",
+    "1-NAPHTHALENOL, 1,2,3,4,4A,7,8,8A-OCTAHYDRO-1,6-DIMETHYL-4-(1-METHYLETHYL)-,",
+    "(1R,4S,4AR,8AR)-1,2,3,4,4A,7,8,8A-OCTAHYDRO-1,6-DIMETHYL-4-(1-METHYLETHYL)-1-NAPHTHALENOL"
+  ]
+}

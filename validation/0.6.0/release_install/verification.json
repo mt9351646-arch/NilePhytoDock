@@ -1,0 +1,104 @@
+{
+  "success": true,
+  "version": "0.6.0",
+  "engine_health": {
+    "Smina": {
+      "ok": true,
+      "version": "smina 2020.12.10 conda-forge:b08c07c     Built Jan 30 2021.  Based on AutoDock Vina 1.1.2."
+    },
+    "Java": {
+      "ok": true,
+      "version": "openjdk version \"17.0.19\" 2026-04-21\nOpenJDK Runtime Environment Temurin-17.0.19+10 (build 17.0.19+10)\nOpenJDK 64-Bit Server VM Temurin-17.0.19+10 (build 17.0.19+10, mixed mode)"
+    },
+    "P2Rank": {
+      "ok": true,
+      "version": "P2Rank 2.5.1\n\nHome: X:\\nile\\release\\NilePhytoDock Studio 0.6.0\\_internal\\external_tools\\p2rank\nJVM: OpenJDK 64-Bit Server VM 17.0.19+10 Eclipse Adoptium\nOS: Windows 11 (Version: 10.0, Arch: amd64)\nCPUs: 8\nMax Memory: 2 GiB"
+    },
+    "rdkit": {
+      "ok": true,
+      "version": "2026.9.1"
+    },
+    "prolif": {
+      "ok": true,
+      "version": "2.2.3"
+    },
+    "PySide6": {
+      "ok": true,
+      "version": "6.12.0"
+    },
+    "openbabel-wheel": {
+      "ok": true,
+      "version": "3.1.1.23"
+    }
+  },
+  "counts": {
+    "botanical_oils": 57,
+    "essential_oils": 46,
+    "fixed_oils": 11,
+    "species": 68,
+    "profiles": 119,
+    "compounds": 819,
+    "ready": 186,
+    "unique_ready": 164,
+    "records": 2109
+  },
+  "project_id": 1,
+  "project_folder": "X:\\nile\\data\\validation\\release_install\\Actual_HPLC_screening",
+  "actual_docking_runs": 3,
+  "run_ids": [
+    1,
+    2,
+    3
+  ],
+  "command_boxes": [
+    {
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "dimensions": [
+        29.737,
+        23.963,
+        29.95
+      ],
+      "elapsed": 7.73399999999674
+    },
+    {
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "dimensions": [
+        29.737,
+        23.963,
+        29.95
+      ],
+      "elapsed": 12.39100000000326
+    },
+    {
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "dimensions": [
+        29.737,
+        23.963,
+        29.95
+      ],
+      "elapsed": 12.078000000037719
+    }
+  ],
+  "hplc_units_preserved": true,
+  "hplc_oil_index_suppressed": true,
+  "english_ui_and_no_guide_buttons": true,
+  "elapsed_seconds": 76.26600000000326,
+  "frozen": true,
+  "project_complete": true,
+  "all_report_formats_verified": true,
+  "native_3d_atom_mapping_verified": true,
+  "native_3d_contacts": 54,
+  "offline_plotly_rendered": true
+}

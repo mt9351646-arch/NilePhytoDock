@@ -1,0 +1,49 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 85567,
+        "SMILES": "CC1=C[C@@H]([C@@H](CC1)C(C)C)O",
+        "InChIKey": "HPOHAUWWDDPHRS-UWVGGRQHSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "cis-Piperitol",
+    "16721-38-3",
+    "2-Cyclohexen-1-ol, 3-methyl-6-(1-methylethyl)-, (1R,6S)-rel-",
+    "(1R,6S)-3-methyl-6-propan-2-ylcyclohex-2-en-1-ol",
+    "2-Cyclohexen-1-ol, 3-methyl-6-(1-methylethyl)-, cis-",
+    "EINECS 240-775-4",
+    "DTXSID90884932",
+    "RefChem:577419",
+    "DTXCID501024349",
+    "(+)-cis-Piperitol",
+    "cis-p-Menth-1-en-3-ol",
+    "(Z)-Piperitol",
+    "p-Menth-1-en-3-ol, cis-",
+    "p-Menth-1-en-3-ol, cis-(+)-",
+    "cis-6-(Isopropyl)-3-methylcyclohex-2-en-1-ol",
+    "FEMA No. 3179, cis-(+)-",
+    "G7666796PG",
+    "p-Menth-1-en-3-ol, (3R,4S)-",
+    "p-Menth-1-en-3-ol, cis-(+/-)-",
+    "38KW3EQO0M",
+    "UNII-G7666796PG",
+    "(1R,6S)-6-Isopropyl-3-methyl-cyclohex-2-en-1-ol",
+    "34350-53-3",
+    "2-Cyclohexen-1-ol, 3-methyl-6-(1-methylethyl)-, (1R,6S)-",
+    "2-Cyclohexen-1-ol, 3-methyl-6-(1-methylethyl)-, (1R-cis)-",
+    "(+/-)-cis-Piperitol",
+    "UNII-38KW3EQO0M",
+    "SCHEMBL1301004",
+    "(1R,6S)-3-methyl-6-(propan-2-yl)cyclohex-2-en-1-ol",
+    "CHEBI:167403",
+    "3-methyl-6-isopropylcyclohex-2-en-1-ol",
+    "FEMA NO. 3179, CIS-(+/-)-",
+    "6-Isopropyl-3-methyl-2-cyclohexen-1-ol-, cis-",
+    "cis-3-methyl-6-(1-methylethyl)-2-cyclohexen-1-ol",
+    "Q63408709",
+    "3-METHYL-6-(1-METHYLETHYL)-2-CYCLOGEXEN-1-OL"
+  ]
+}

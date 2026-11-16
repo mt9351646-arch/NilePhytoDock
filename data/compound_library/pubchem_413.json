@@ -1,0 +1,51 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5281519,
+        "SMILES": "C/C/1=C\\CC/C(=C/CC(=C(C)C)CC1)/C",
+        "InChIKey": "GXEGJTGWYVZSNR-SJRHNVSNSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Germacrene B",
+    "(1E,4E)-germacrene B",
+    "Germacra-1(10),4,7(11)-triene",
+    "15423-57-1",
+    "trans,trans-germacrene B",
+    "ML9S6L9M3X",
+    "CHEBI:5337",
+    "(1E,5E)-1,5-dimethyl-8-propan-2-ylidenecyclodeca-1,5-diene",
+    "(E,E)-germacra-1(10),4,7(11)-triene",
+    "Germacra-1(10),4,7(11)-triene, (E,E)-",
+    "1,5-Dimethyl-8-(1-methylethylidene)-1,5-cyclodecadiene",
+    "1,5-Cyclodecadiene, 1,5-dimethyl-8-(1-methylethylidene)-, (1E,5E)-",
+    "Germacratriene",
+    "(1E,5E)-8-isopropylidene-1,5-dimethylcyclodeca-1,5-diene",
+    "(E,E)-1,5-Dimethyl-8-(1-methylethylidene)-1,5-cyclodecadiene",
+    "(1E,5E)-1,5-DIMETHYL-8-(1-METHYLETHYLIDENE)-1,5-CYCLODECADIENE",
+    "1,5-Cyclodecadiene, 1,5-dimethyl-8-(1-methylethylidene)-, (E,E)-",
+    "Germacren B",
+    "RefChem:143006",
+    "CHEBI:49314",
+    "8-isopropylidene-1,5-dimethylcyclodeca-1,5-diene",
+    "1,5-dimethylcyclodeca-8-(propan-2-ylidene)1,5-diene",
+    "GXEGJTGWYVZSNR-LBJJKJHXSA-N",
+    "(E,E)-germacrene B",
+    "(1E,5E)-1,5-dimethyl-8-(propan-2-ylidene)cyclodeca-1,5-diene",
+    "b-germacrene",
+    "gemacrene B",
+    "(-)-germacrene B",
+    "(1E,4E)-germacra-1(10),4,7(11)-triene",
+    "SCHEMBL309633",
+    "CHEMBL448125",
+    "GXEGJTGWYVZSNR-SJRHNVSNSA-N",
+    "DTXSID701037033",
+    "LMPR0103090007",
+    "C09672",
+    "Q27106722",
+    "1,5-Dimethyl-8-(1-methylethylidene)-1,5-cyclodecadiene #",
+    "1,5-cyclodecadiene,1,5-dimethyl-8-(1-methylethylidene)-, (E,E)-"
+  ]
+}

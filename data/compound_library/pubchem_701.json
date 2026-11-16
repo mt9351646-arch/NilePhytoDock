@@ -1,0 +1,47 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 12618691,
+        "SMILES": "CC(=C)[C@H]1CC[C@](C=C1)(C)O",
+        "InChIKey": "MKPMHJQMNACGDI-NXEZZACHSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "DTXSID10880638",
+    "2-Cyclohexen-1-ol, 1-methyl-4-(1-methylethenyl)-, trans-",
+    "(1S,4S)-1-methyl-4-prop-1-en-2-ylcyclohex-2-en-1-ol",
+    "RefChem:470836",
+    "cis-p-Menth-2,8-diene-1-ol",
+    "DTXCID701022006",
+    "425394-92-9",
+    "5GXE2SU4ZN",
+    "trans-p-mentha-2,8-dien-1-ol",
+    "(1S,4S)-1-Methyl-4-(prop-1-en-2-yl)cyclohex-2-enol",
+    "2,8-p-Menthadien-1-ol, trans-(-)-",
+    "(-)-(1S,4S)-p-Mentha-2,8-dien-1-ol",
+    "(1S,4S)-1-Methyl-4-(1-methylethenyl)-2-cyclohexen-1-ol",
+    "2-Cyclohexen-1-ol, 1-methyl-4-(1-methylethenyl)-, (1S,4S)-",
+    "7212-40-0",
+    "trans-p-2,8-Menthadien-1-ol",
+    "(E)-p-2,8-Menthadien-1-ol",
+    "(e)-p-mentha-2,8-dien-1-ol",
+    "UNII-5GXE2SU4ZN",
+    "E-p-Mentha-2,8-dienol",
+    "CHEMBL451087",
+    "SCHEMBL29510913",
+    "trans-p-Menth-2,8-dien-1-ol",
+    "p-mentha-trans-2,8-dien-1-ol",
+    "trans-2,8-p-Mentha-dien-1-ol",
+    "(E)-p-menth-2,8-dien-1-ol",
+    "MKPMHJQMNACGDI-NXEZZACHSA-N",
+    "trans-p-Mentha-2,8-diene-1-ol",
+    "(1S,4S)-1-Methyl-4-(prop-1-en-2-yl)cyclohex-2-en-1-ol",
+    "trans-para-Mentha-2,8-dien-1-ol",
+    "1R,4R-p-Mentha-2,8-dien-1-ol",
+    "Mentha-2,8-dien-1-ol, trans-para",
+    "NS00044866",
+    "4-Isopropenyl-1-methyl-2-cyclohexen-1-ol, trans"
+  ]
+}

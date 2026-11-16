@@ -1,0 +1,48 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5281384,
+        "SMILES": "C/C/1=C\\CC/C(=C/C[C@@H](CC/C(=C/CC1)/C)C(=C)C)/C",
+        "InChIKey": "VWSPQDDPRITBAM-KPGNMOGWSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Neocembrene",
+    "Neocembrene A",
+    "(-)-Cembrene A",
+    "31570-39-5",
+    "(R)-(-)-Cembrene A",
+    "2WGK4P4230",
+    "(1E,5E,9E,12R)-1,5,9-trimethyl-12-prop-1-en-2-ylcyclotetradeca-1,5,9-triene",
+    "DTXSID401317353",
+    "NSC-309918",
+    "RefChem:1049091",
+    "DTXCID601840144",
+    "Cembrene A",
+    "(R)-cembrene A",
+    "1,5,9-Trimethyl-12-(1-methylethenyl)-1,5,9-cyclotetradecatriene",
+    "(1E,5E,9E,12R)-1,5,9-trimethyl-12-(prop-1-en-2-yl)cyclotetradeca-1,5,9-triene",
+    "(R,1E,5E,9E)-1,5,9-Trimethyl-12-(prop-1-en-2-yl)cyclotetradeca-1,5,9-triene",
+    "1,5,9-Cyclotetradecatriene, 1,5,9-trimethyl-12-(1-methylethenyl)-, (1E,5E,9E,12R)-",
+    "Cembrene A;Neocembrene",
+    "Cembren A",
+    "1,5,9-Cyclotetradecatriene, 1,5,9-trimethyl-12-(1-methylethenyl)-, (R-(E,E,E))-",
+    "1,5,9-Cyclotetradecatriene, 1,5,9-trimethyl-12-(1-methylethenyl)-, [R-(E,E,E)]-",
+    "CEMBRENE_A",
+    "NEOCEMBRENE [MI]",
+    "UNII-2WGK4P4230",
+    "CHEBI:7501",
+    "CHEMBL518765",
+    "SCHEMBL2041140",
+    "1,5,9-Cyclotetradecatriene, 13-isopropenyl-2,6,10-trimethyl-, (-)-",
+    "CHEBI:82800",
+    "VWSPQDDPRITBAM-KPGNMOGWSA-N",
+    "LMPR0104190001",
+    "NSC 309918",
+    "C09140",
+    "Q5058639",
+    "(1E,5E,9E,12R)-1,5,9-Trimethyl-12-(propan-2-en-2-yl)cyclotetradeca-1,5,9-triene"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6432404,
+        "SMILES": "CC1=C[C@@H]2[C@@H](CC1)C(=C)CC[C@H]2C(C)C",
+        "InChIKey": "WRHGORWNJGOVQY-KKUMJFAQSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "GAMMA-CADINENE",
+    "DTXSID301017689",
+    "RefChem:67382",
+    "DTXCID101837732",
+    "7-methyl-4-methylidene-1-propan-2-yl-2,3,4a,5,6,8a-hexahydro-1H-naphthalene",
+    "39029-41-9",
+    "(+)-gamma-cadinene",
+    "epi-muurolene",
+    "D-gamma-cadinene",
+    "483-74-9",
+    "gamma-Cadinene, (+)-",
+    ".gamma.-Cadinene",
+    "UNII-195FU8L66T",
+    "195FU8L66T",
+    "(1S,4aR,8aR)-7-methyl-4-methylidene-1-(propan-2-yl)-1,2,3,4,4a,5,6,8a-octahydronaphthalene",
+    "(1S,4aR,8aR)-7-methyl-4-methylidene-1-propan-2-yl-2,3,4a,5,6,8a-hexahydro-1H-naphthalene",
+    "Naphthalene, 1,2,3,4,4a,5,6,8a-octahydro-7-methyl-4-methylene-1-(1-methylethyl)-, (1.alpha.,4a.beta.,8a.alpha.)-",
+    "Epimuurolene",
+    "orb3179529",
+    "SCHEMBL29408575",
+    "CHEBI:63205",
+    "DTXSID80197482",
+    "(1R,4aS,8aS)-1-Isopropyl-7-methyl-4-methylene-1,2,3,4,4a,5,6,8a-octahydronaphthalene",
+    "WRHGORWNJGOVQY-KKUMJFAQSA-N",
+    ".GAMMA.-CADINENE, (+)-",
+    "CADINENE, .GAMMA.-, (+)-",
+    "C20173",
+    "Q27132468",
+    "(1S,4aR,8aR)-1-isopropyl-7-methyl-4-methylene-1,2,3,4,4a,5,6,8a-octahydronaphthalene",
+    "1-Isopropyl-7-methyl-4-methylene-1,2,3,4,4a,5,6,8a-octahydronaphthalene)-, (1R,4aS,8aS)-rel-"
+  ]
+}

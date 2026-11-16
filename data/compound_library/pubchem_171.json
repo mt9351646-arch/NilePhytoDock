@@ -1,0 +1,38 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5315406,
+        "SMILES": "CC(C)(C=C)/C=C/C(C)(C)O",
+        "InChIKey": "CSMMFGCGBLZIJE-BQYQJAHWSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Yomogi alcohol",
+    "26127-98-0",
+    "(E)-2,5,5-Trimethylhepta-3,6-dien-2-ol",
+    "WQW4TYB2RH",
+    "(3E)-2,5,5-trimethylhepta-3,6-dien-2-ol",
+    "DTXSID901317396",
+    "RefChem:1101111",
+    "DTXCID101021212",
+    "247-474-7",
+    "3,3,6-Trimethyl-1,4-heptadien-6-ol",
+    "Yomogi alcohol A",
+    "2,5,5-trimethyl-3,6-heptadien-2-ol",
+    "yomogialkohol",
+    "Yogomi alcohol",
+    "EINECS 247-474-7",
+    "2,5,5-trimethylhepta-3,6-dien-2-ol",
+    "SCHEMBL1064900",
+    "3,3,6-trimethyl-1,4-heptadiene-6-ol",
+    "3,6-Heptadien-2-ol, 2,5,5-trimethyl-",
+    "NS00050533",
+    "(3E)-2,5,5-Trimethyl-3,6-heptadien-2-ol",
+    "(3E)-2,5,5-trimethyl-hepta-3,6-dien-2-ol",
+    "(3E)-2,5,5-Trimethyl-3,6-heptadien-2-ol #",
+    "3,6-Heptadien-2-ol, 2,5,5-trimethyl-, (E)-",
+    "3,6-Heptadien-2-ol, 2,5,5-trimethyl-, (3E)-"
+  ]
+}

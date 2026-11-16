@@ -1,0 +1,29 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 71351627,
+        "SMILES": "C[C@@H]1C[C@@H]2[C@@H](C2(C)C)C=C1",
+        "InChIKey": "LGNSZMLHOYDATP-XHNCKOQMSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(+)-4-Carene",
+    "4-Carene, trans-(+)-",
+    "DCI18G90AF",
+    "13837-63-3",
+    "Bicyclo(4.1.0)hept-2-ene, 4,7,7-trimethyl-, (1S,4R,6R)-",
+    "[+]-4-carene",
+    "Bicyclo(4.1.0)hept-2-ene, 4,7,7-trimethyl-, (1S-(1alpha,4alpha,6alpha))-",
+    "RefChem:1048909",
+    "UNII-DCI18G90AF",
+    "(1S,4R,6R)-4,7,7-Trimethylbicyclo(4.1.0)hept-2-ene",
+    "(1S,4R,6R)-4,7,7-Trimethylbicyclo[4.1.0]hept-2-ene",
+    "trans-(+)-4-carene",
+    "(+)-car-4-ene",
+    "DTXSID80777086",
+    "Q27276332",
+    "BICYCLO(4.1.0)HEPT-2-ENE, 4,7,7-TRIMETHYL-, (1S-(1.ALPHA.,4.ALPHA.,6.ALPHA.))-"
+  ]
+}

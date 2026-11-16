@@ -1,0 +1,525 @@
+{
+  "source_file": "PMC9563047_mmc1.docx",
+  "sha256": "2dc956b4b85c3c2768c84d939218d753ffa3491eb200e5c90c7b7712b408084a",
+  "table": 1,
+  "rows": [
+    [
+      "Peak No.",
+      "Compound name",
+      "RT\n(min)",
+      "RI",
+      "Average % (SD)"
+    ],
+    [
+      "Peak No.",
+      "Compound name",
+      "RT\n(min)",
+      "RI",
+      "Average % (SD)"
+    ],
+    [
+      "Alcohols",
+      "Alcohols",
+      "Alcohols",
+      "Alcohols",
+      "Alcohols"
+    ],
+    [
+      "",
+      "cis-Sabinene hydrate",
+      "11.54",
+      "1061",
+      "5.89 (0.15)"
+    ],
+    [
+      "",
+      "β-Linalool",
+      "12.63",
+      "1084",
+      "17.76 (0.34)"
+    ],
+    [
+      "",
+      "cis-p-2-Menthen-1-ol",
+      "13.20",
+      "1114",
+      "2.38 (0.02)"
+    ],
+    [
+      "",
+      "trans-p-2-Menthen-1-ol",
+      "13.82",
+      "1134",
+      "1.15 (0.19)"
+    ],
+    [
+      "",
+      "Linderol",
+      "14.72",
+      "1163",
+      "0.05 (0.01)"
+    ],
+    [
+      "",
+      "4-Terpineol (Terpinen-4-ol)",
+      "15.14",
+      "1177",
+      "13.54 (1.64)"
+    ],
+    [
+      "",
+      "p-Cymen-8-ol",
+      "15.26",
+      "1182",
+      "0.04 (0.01)"
+    ],
+    [
+      "",
+      "α-Terpineol",
+      "15.42",
+      "1186",
+      "4.74 (0.71)"
+    ],
+    [
+      "",
+      "trans-p-Menth-1-en-3-ol (trans-Piperitol)",
+      "15.51",
+      "1189",
+      "0.45 (0.11)"
+    ],
+    [
+      "",
+      "cis-p-Menth-1-en-3-ol",
+      "15.84",
+      "1199",
+      "0.61 (0.01)"
+    ],
+    [
+      "",
+      "cis-Carveol",
+      "16.16",
+      "1211",
+      "0.02 (0.01)"
+    ],
+    [
+      "",
+      "Nerol",
+      "16.41",
+      "1219",
+      "0.13 (0.00)"
+    ],
+    [
+      "",
+      "Spathulenol",
+      "25.93",
+      "1570",
+      "0.33 (0.01)"
+    ],
+    [
+      "",
+      "Ledol",
+      "26.29",
+      "1584",
+      "0.05 (0.01)"
+    ],
+    [
+      "",
+      "β-Eudesmol",
+      "27.03",
+      "1614",
+      "0.02 (0.00)"
+    ],
+    [
+      "",
+      "α-Cadinol",
+      "27.77",
+      "1646",
+      "0.01 (0.00)"
+    ],
+    [
+      "",
+      "Phytol",
+      "37.23",
+      "2096",
+      "0.02 (0.01)"
+    ],
+    [
+      "Total alcohols",
+      "Total alcohols",
+      "Total alcohols",
+      "Total alcohols",
+      "47.19"
+    ],
+    [
+      "Aromatics",
+      "Aromatics",
+      "Aromatics",
+      "Aromatics",
+      "Aromatics"
+    ],
+    [
+      "",
+      "m-Cymene",
+      "10.095",
+      "1014",
+      "1.60 (0.22)"
+    ],
+    [
+      "Total aromatics",
+      "Total aromatics",
+      "Total aromatics",
+      "Total aromatics",
+      "1.60"
+    ],
+    [
+      "Esters",
+      "Esters",
+      "Esters",
+      "Esters",
+      "Esters"
+    ],
+    [
+      "",
+      "Linalyl acetate",
+      "17.18",
+      "1246",
+      "3.64 (0.40)"
+    ],
+    [
+      "",
+      "Bornyl acetate",
+      "18.06",
+      "1277",
+      "0.08 (0.00)"
+    ],
+    [
+      "",
+      "4-Terpineol acetate",
+      "18.478",
+      "1291",
+      "1.96 (0.53)"
+    ],
+    [
+      "",
+      "α-Terpinyl acetate",
+      "19.838",
+      "1339",
+      "0.04 (0.00)"
+    ],
+    [
+      "",
+      "Neryl acetate",
+      "20.223",
+      "1352",
+      "0.17 (0.01)"
+    ],
+    [
+      "",
+      "Geranyl acetate",
+      "20.753",
+      "1371",
+      "0.31 (0.00)"
+    ],
+    [
+      "Total esters",
+      "Total esters",
+      "Total esters",
+      "Total esters",
+      "6.2"
+    ],
+    [
+      "Ketones",
+      "Ketones",
+      "Ketones",
+      "Ketones",
+      "Ketones"
+    ],
+    [
+      "",
+      "trans-Dihydrocarvone",
+      "15.736",
+      "1196",
+      "0.08 (0.02)"
+    ],
+    [
+      "",
+      "Pulegone",
+      "16.744",
+      "1231",
+      "0.06 (0.01)"
+    ],
+    [
+      "",
+      "Carvone",
+      "16.894",
+      "1236",
+      "0.02 (0.00)"
+    ],
+    [
+      "",
+      "trans-β-Ionone",
+      "23.553",
+      "1477",
+      "0.02 (0.00)"
+    ],
+    [
+      "",
+      "Hexahydrofarnesyl acetone",
+      "31.82",
+      "1825",
+      "0.08 (0.00)"
+    ],
+    [
+      "Total ketones",
+      "Total ketones",
+      "Total ketones",
+      "Total ketones",
+      "0.26"
+    ],
+    [
+      "Monoterpene hydrocarbons",
+      "Monoterpene hydrocarbons",
+      "Monoterpene hydrocarbons",
+      "Monoterpene hydrocarbons",
+      "Monoterpene hydrocarbons"
+    ],
+    [
+      "",
+      "α-Thujene",
+      "7.12",
+      "908",
+      "1.34 (0.06)"
+    ],
+    [
+      "",
+      "α-Pinene",
+      "7.30",
+      "915",
+      "0.74 (0.03)"
+    ],
+    [
+      "",
+      "Camphene",
+      "7.72",
+      "930",
+      "0.03 (0.00)"
+    ],
+    [
+      "",
+      "Sabinene",
+      "8.56",
+      "960",
+      "5.62 (0.03)"
+    ],
+    [
+      "",
+      "β-Pinene",
+      "8.61",
+      "962",
+      "0.40 (0.02)"
+    ],
+    [
+      "",
+      "β-Myrcene",
+      "9.06",
+      "978",
+      "1.90 (0.14)"
+    ],
+    [
+      "",
+      "α-Phellandrene",
+      "9.43",
+      "992",
+      "0.31 (0.01)"
+    ],
+    [
+      "",
+      "α-Terpinene",
+      "9.90",
+      "1008",
+      "8.21 (0.21)"
+    ],
+    [
+      "",
+      "Limonene",
+      "10.24",
+      "1019",
+      "3.25 (0.26)"
+    ],
+    [
+      "",
+      "trans-β-Ocimene",
+      "10.50",
+      "1027",
+      "0.05 (0.01)"
+    ],
+    [
+      "",
+      "β-Ocimene",
+      "10.83",
+      "1038",
+      "0.10 (0.01)"
+    ],
+    [
+      "",
+      "γ-Terpinene",
+      "11.27",
+      "1052",
+      "14.26 (2.15)"
+    ],
+    [
+      "",
+      "Terpinolene",
+      "12.11",
+      "1079",
+      "3.32 (0.03)"
+    ],
+    [
+      "",
+      "(E)-2,6-Dimethyl-1,3,5,7-octatetraene",
+      "13.55",
+      "1126",
+      "0.02 (0.00)"
+    ],
+    [
+      "Total monoterpene hydrocarbons",
+      "Total monoterpene hydrocarbons",
+      "Total monoterpene hydrocarbons",
+      "Total monoterpene hydrocarbons",
+      "39.55"
+    ],
+    [
+      "Oxide",
+      "Oxide",
+      "Oxide",
+      "Oxide",
+      "Oxide"
+    ],
+    [
+      "",
+      "Eucalyptol (1,8-Cineole)",
+      "10.299",
+      "1023",
+      "0.39 (0.07)"
+    ],
+    [
+      "",
+      "Caryophyllene oxide",
+      "26.074",
+      "1575",
+      "0.27 (0.02)"
+    ],
+    [
+      "",
+      "Ledene oxide-(II)",
+      "27.38",
+      "1629",
+      "0.10 (0.01)"
+    ],
+    [
+      "Total oxides",
+      "Total oxides",
+      "Total oxides",
+      "Total oxides",
+      "0.76"
+    ],
+    [
+      "Phenol/ethers",
+      "Phenol/ethers",
+      "Phenol/ethers",
+      "Phenol/ethers",
+      "Phenol/ethers"
+    ],
+    [
+      "",
+      "Carvacrol",
+      "18.61",
+      "1296",
+      "0.06 (0.02)"
+    ],
+    [
+      "Total phenol/ether",
+      "Total phenol/ether",
+      "Total phenol/ether",
+      "Total phenol/ether",
+      "0.06"
+    ],
+    [
+      "Sesquiterpene hydrocarbons",
+      "Sesquiterpene hydrocarbons",
+      "Sesquiterpene hydrocarbons",
+      "Sesquiterpene hydrocarbons",
+      "Sesquiterpene hydrocarbons"
+    ],
+    [
+      "",
+      "Unknown",
+      "19.5",
+      "1327",
+      "0.07 (0.00)"
+    ],
+    [
+      "",
+      "Caryophyllene",
+      "21.84",
+      "1410",
+      "2.35 (0.08)"
+    ],
+    [
+      "",
+      "Aromandendrene",
+      "22.33",
+      "1429",
+      "0.07 (0.00)"
+    ],
+    [
+      "",
+      "Humulene",
+      "22.72",
+      "1444",
+      "0.08 (0.00)"
+    ],
+    [
+      "",
+      "Alloaromadendrene",
+      "22.91",
+      "1452",
+      "0.03 (0.00)"
+    ],
+    [
+      "",
+      "Elixene",
+      "23.875",
+      "1489",
+      "1.78 (0.01)"
+    ],
+    [
+      "",
+      "Aromadendrene, dehydro-",
+      "24.125",
+      "1499",
+      "0.03 (0.01)"
+    ],
+    [
+      "",
+      "δ-Cadinene",
+      "24.495",
+      "1514",
+      "0.01 (0.00)"
+    ],
+    [
+      "Total Sesquiterpene hydrocarbons",
+      "Total Sesquiterpene hydrocarbons",
+      "Total Sesquiterpene hydrocarbons",
+      "Total Sesquiterpene hydrocarbons",
+      "4.42"
+    ],
+    [
+      "Total volatiles",
+      "Total volatiles",
+      "Total volatiles",
+      "Total volatiles",
+      "100"
+    ]
+  ]
+}

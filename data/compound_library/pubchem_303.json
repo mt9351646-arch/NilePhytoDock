@@ -1,0 +1,38 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5317320,
+        "SMILES": "CC(=CCC/C(=C\\C/C=C(/C)\\C=C)/C)C",
+        "InChIKey": "CXENHBSYCFFKJS-LOQWIJHWSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(Z,Z)-alpha-Farnesene",
+    "(Z)-Farnesene",
+    "cis-alpha-farnesene",
+    "(Z,Z)-.alpha.-Farnesene",
+    "alpha-Farnesene, (3Z,6Z)-",
+    "L664C3SC2M",
+    "(3Z,6Z)-3,7,11-trimethyldodeca-1,3,6,10-tetraene",
+    "28973-99-1",
+    "cis-.alpha.-Farnesene",
+    "FEMA No. 3839, (3Z,6Z)-alpha-",
+    "1,3,6,10-Dodecatetraene, 3,7,11-trimethyl-, (Z,Z)-",
+    "1,3,6,10-Dodecatetraene, 3,7,11-trimethyl-, (3Z,6Z)-",
+    "CHEBI:39239",
+    "DTXSID901316855",
+    ".ALPHA.-FARNESENE, (3Z,6Z)-",
+    "FEMA NO. 3839, (3Z,6Z)-.ALPHA.-",
+    "RefChem:555711",
+    "DTXCID601746681",
+    "UNII-L664C3SC2M",
+    "(z)-alpha-farnesene",
+    "cis-I+/--Farnesene",
+    "(3Z,6Z)-alpha-farnesene",
+    "SCHEMBL18493449",
+    "Q27119782",
+    "(3Z,6Z)-3,7,11-Trimethyl-1,3,6,10-dodecatetraene #"
+  ]
+}

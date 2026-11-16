@@ -1,0 +1,49 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 164888,
+        "SMILES": "CC1=C[C@H]([C@@H]2C[C@H]1C2(C)C)O",
+        "InChIKey": "WONIGEXYPVIKFS-HRDYMLBCSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(+)-cis-verbenol",
+    "13040-03-4",
+    "Verbenol, (R)-cis-",
+    "(1R)-cis-Verbenol",
+    "Verbenol, (+)-cis-",
+    "(R)-(+)-cis-Verbenol",
+    "UNII-T0QZZ8E09C",
+    "T0QZZ8E09C",
+    "EINECS 235-908-8",
+    "VERBENOL, R-CIS-",
+    "DTXSID50156506",
+    "VERBENOL, (R)-(+)-CIS-",
+    "2-PINEN-4-OL, (1R,4R,5R)-(+)-",
+    "BICYCLO(3.1.1)HEPT-3-EN-2-OL, 4,6,6-TRIMETHYL-, (1R,2R,5R)-",
+    "RefChem:67311",
+    "DTXCID1078997",
+    "235-908-8",
+    "WONIGEXYPVIKFS-HRDYMLBCSA-N",
+    "cis-Verbenol",
+    "(R)-cis-Verbenol",
+    "(1R,2R,5R)-4,6,6-trimethylbicyclo[3.1.1]hept-3-en-2-ol",
+    "(1S)-(+)-Cis-verbenol",
+    "(1R,4R,5R)-cis-Verbenol",
+    "1845-30-3",
+    "1820-09-3",
+    "rel-(1R,2R,5R)-4,6,6-Trimethylbicyclo[3.1.1]hept-3-en-2-ol",
+    "SCHEMBL596019",
+    "DTXSID0058273",
+    "(1R-(1alpha,2beta,5alpha))-4,6,6-Trimethylbicyclo(3.1.1)hept-3-en-2-ol",
+    "AKOS006282587",
+    "AC-30318",
+    "FS176288",
+    "(1R, 4R, 5R)-(+)-2-pinen-4-ol",
+    "NS00081605",
+    "Q27289517",
+    "(1r,2r)-(-)-cis-4,6,6-trimethyl bicyclo [3.1.1]hept-3-en-2-ol"
+  ]
+}

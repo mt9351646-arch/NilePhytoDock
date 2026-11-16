@@ -1,0 +1,36 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5317844,
+        "SMILES": "C[C@H]1CC[C@H](CC2=C1CC[C@@H]2C)C(=C)C",
+        "InChIKey": "ADIDQIZBYUABQK-RWMBFGLXSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "alpha-Guaiene",
+    "3691-12-1",
+    "Guaia-1(5),11-diene",
+    "(1S,4S,7R)-1,4-dimethyl-7-(prop-1-en-2-yl)-1,2,3,4,5,6,7,8-octahydroazulene",
+    "DTXSID5052046",
+    "CHEBI:63443",
+    "ABQ2CB7VAC",
+    "RefChem:27270",
+    "DTXCID0030613",
+    "(1S,4S,7R)-1,4-dimethyl-7-prop-1-en-2-yl-1,2,3,4,5,6,7,8-octahydroazulene",
+    "Azulene, 1,2,3,4,5,6,7,8-octahydro-1,4-dimethyl-7-(1-methylethenyl)-, [1S-(1.alpha.,4.alpha.,7.alpha.)]-",
+    "alpha-quaiene",
+    "orb2299261",
+    "SCHEMBL19690347",
+    "7-Isopropenyl-1,4-dimethyl-1,2,3,4,5,6,7,8-octahydroazulene-, [1S-(1.alpha.,4.alpha.,7.alpha.)]-",
+    "MFCD29767842",
+    "TN7512",
+    "HY-W587956",
+    "C20161",
+    "H53916",
+    "Q5613309",
+    "(1S,4S,7R)-7-isopropenyl-1,4-dimethyl-1,2,3,4,5,6,7,8-octahydroazulene",
+    "Azulene, 1,2,3,4,5,6,7,8-octahydro-1,4-dimethyl-7-(1-methylethenyl)-, [1S-(1alpha,4alpha,7alpha)]-"
+  ]
+}

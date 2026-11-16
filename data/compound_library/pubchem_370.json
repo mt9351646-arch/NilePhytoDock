@@ -1,0 +1,62 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5365682,
+        "SMILES": "CCCCC/C=C\\C/C=C\\CCCCCCCCO",
+        "InChIKey": "JXNPEDYJTDQORS-HZJYTTRNSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(9Z,12Z)-Octadeca-9,12-dien-1-ol",
+    "506-43-4",
+    "Linoleyl alcohol",
+    "cis,cis-9,12-Octadecadien-1-ol",
+    "cis,cis-Octadeca-9,12-dien-1-ol",
+    "P4OX1289YW",
+    "(9Z,12Z)-octadecadien-1-ol",
+    "9-cis,12-cis-octadecadien-1-ol",
+    "(Z,Z)-octadeca-9,12-dien-1-ol",
+    "CHEBI:73534",
+    "RefChem:799237",
+    "208-038-1",
+    "9,12-Octadecadien-1-ol",
+    "CIS,CIS-9,12-OCTADECADIENOL",
+    "(Z,Z)-9,12-Octadecadien-1-ol",
+    "9,12-Octadecadien-1-ol, (Z,Z)-",
+    "MFCD00056667",
+    "BP-30113",
+    "O0225",
+    "9,12-Octadecadien-1-ol, (9Z,12Z)-",
+    "Linoleyl alcohol, United States Pharmacopeia (USP) Reference Standard",
+    "224948-75-8",
+    "(9Z,?12Z)?-9,?12-?Octadecadien-?1-?ol",
+    "UNII-P4OX1289YW",
+    "linoleic alcohol",
+    "EINECS 208-038-1",
+    "Linoleyl alcohol (Standard)",
+    "SCHEMBL33878",
+    "orb1298053",
+    "SCHEMBL5395762",
+    "SCHEMBL16670785",
+    "DTXSID50881240",
+    "LINOLEYL ALCOHOL [USP-RS]",
+    "AAA50643",
+    "HY-W005627R",
+    "LMFA05000557",
+    "AKOS015839888",
+    "CS-W005627",
+    "DS-5209",
+    "EBC-618101",
+    "HY-W005627",
+    "BP-40341",
+    "DA-59540",
+    "SY108970",
+    "(9Z,12Z)-9,12-Octadecadien-1-ol #",
+    "NS00042886",
+    "T9512",
+    "F239209",
+    "(Z,Z)-octadeca-9,12-dien-1-ol;9-cis,12-cis-octadecadien-1-ol;cis,cis-9,12-octadecadien-1-ol;cis,cis-octadeca-9,12-dien-1-ol;linoleyl alcohol"
+  ]
+}

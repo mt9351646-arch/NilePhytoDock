@@ -1,0 +1,20 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 12300116,
+        "SMILES": "CC1(C[C@H]2[C@H]1CC/C(=C\\CCC2=C)/CO)C",
+        "InChIKey": "MGIQTXDHQJGPEZ-BARLUBHISA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "14-Hydroxyisocaryophyllene",
+    "79768-25-5",
+    "14-hydroxy-(Z)-caryophyllene",
+    ".beta.-Caryophyllene, 14-oxy",
+    "MGIQTXDHQJGPEZ-BARLUBHISA-N",
+    "AKOS026670056",
+    "14-Hydroxy-cis-caryophyllene; [1R-(1R*,4E,9S*)]-11,11-Dimethyl-8-methylenebicyclo[7.2.0]undec-4-ene-4-methanol;(1R,4E,9S)-11,11-Dimethyl-8-methylenebicyclo[7.2.0]undec-4-ene-4-methanol;"
+  ]
+}

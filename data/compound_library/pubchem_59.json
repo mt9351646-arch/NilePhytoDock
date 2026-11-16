@@ -1,0 +1,51 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5366244,
+        "SMILES": "CC(C)CCCC(C)CCCC(C)CCC/C(=C/CO)/C",
+        "InChIKey": "BOTWFXYSPFMFNR-HMMYKYKNSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "7541-49-3",
+    "3,7,11,15-TETRAMETHYL-2-HEXADECEN-1-OL",
+    "2-hexadecen-1-ol, 3,7,11,15-tetramethyl",
+    "RefChem:910754",
+    "3,7,11,15-Tetramethylhexadec-2-en-1-ol",
+    "(E)-3,7,11,15-tetramethylhexadec-2-en-1-ol",
+    "(2E)-3,7,11,15-tetramethylhexadec-2-en-1-ol",
+    "253686-88-3",
+    "MFCD00002919",
+    "AI3-36488",
+    "Vitamin K1 Impurity 183",
+    "(E)-3,7,11,15-tetramethyl-2-hexadecen-1-ol",
+    "Phytol, >=97%, FG",
+    "SCHEMBL95475",
+    "(2E)-3,7,11,15-Tetramethyl-2-hexadecen-1-ol",
+    "3,7,11,15-teramethyl-2-hexadecene-1-ol-, (2E,7R,11R)-",
+    "3,7,11,15-Tetramethyl-2-hexadecen-1-ol-, (2E,7R,11R)-",
+    "CHEMBL390773",
+    "HMS5084L07",
+    "3,7,11,15-Tetramethyl-2-hexadecen-1-ol (mixture of isomers)",
+    "EBC-46239",
+    "EBC-46241",
+    "AKOS008965402",
+    "CCG-267435",
+    "FP52747",
+    "HY-W107616",
+    "NCGC00650293-01",
+    "AS-47652",
+    "LS-14831",
+    "SY316289",
+    "CS-0161167",
+    "ST51037944",
+    "EN300-16645",
+    "F14923",
+    "EN300-7399953",
+    "Phytol 3,7,11,15-Tetramethyl-2-hexadecen-1-ol",
+    "Z56347285",
+    "4305EBEF-F02F-4CB0-985E-89469C273922"
+  ]
+}

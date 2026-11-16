@@ -1,0 +1,6 @@
+{
+  "ready_records": 186,
+  "unique_pubchem_cids": 164,
+  "all_rdkit_formulas_match_pubchem": true,
+  "source_formula_not_reported_policy": "PubChem/RDKit formula agreement validates the resolved structure; it does not establish an uncertain analytical annotation."
+}

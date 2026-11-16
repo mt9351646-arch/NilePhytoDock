@@ -1,0 +1,45 @@
+{
+  "total_pages": 37,
+  "documents": [
+    {
+      "document": "docs\\User_Guide_EN.docx",
+      "sha256": "c67c907e6b0f6738ad239eb14cd5d1caefe5c5059c3fa5d28964195d69de4bf1",
+      "rendered_pages": 9,
+      "all_pages_visually_inspected": true,
+      "final_changed_pages_reinspected": true,
+      "no_arabic_text": true,
+      "developers_verified": true,
+      "pdf_sha256": "b30b2f331348cfe472013da8aa148b592fceaefaca95fe15920b947342bb28e0"
+    },
+    {
+      "document": "docs\\Build_and_Methods_EN.docx",
+      "sha256": "2291522fd980657b8b6f9739d943b5876d704a635bcc12c65eec0ebfab8c8b10",
+      "rendered_pages": 15,
+      "all_pages_visually_inspected": true,
+      "final_changed_pages_reinspected": true,
+      "no_arabic_text": true,
+      "developers_verified": true,
+      "pdf_sha256": "43cdaecd349a39f3f226434cfc52303786f3242f9f8717dcea5cb79379a9fc18"
+    },
+    {
+      "document": "docs\\NilePhytoDock_Case_Study.docx",
+      "sha256": "75f196c0227ced60118fcc70dc1daa52752b48742546380d97cca4b248c7cc5b",
+      "rendered_pages": 9,
+      "all_pages_visually_inspected": true,
+      "final_changed_pages_reinspected": true,
+      "no_arabic_text": true,
+      "developers_verified": true,
+      "pdf_sha256": "1bd99134f1e1fa8f6b4b508856c07565a83f7baea2d8e9726d42ae5726d5690c"
+    },
+    {
+      "document": "docs\\NilePhytoDock_Complete_Software_Summary.docx",
+      "sha256": "223b29ae0ff3fea2090ff03ca7dce178aab7f48eb30fabde26c6792166d73dfe",
+      "rendered_pages": 4,
+      "all_pages_visually_inspected": true,
+      "final_changed_pages_reinspected": true,
+      "no_arabic_text": true,
+      "developers_verified": true,
+      "pdf_sha256": "11cbfca7c764c847a9b2060b251d0d1eb88ff20715f511bf30761a3cc25e8dd1"
+    }
+  ]
+}

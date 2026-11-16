@@ -1,0 +1,28 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 12304570,
+        "SMILES": "CC1=CCC[C@H](C1)C(=C)C",
+        "InChIKey": "JWQKMEKSFPNAIB-SNVBAGLBSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Sylvestrene",
+    "1461-27-4",
+    "RefChem:1099342",
+    "(+)-Sylvestrene",
+    "(+)-m-Mentha-1(6),8-diene",
+    "D-sylvestrene",
+    "Sylvestrene, (+)-",
+    "m-Mentha-1,8-diene, (+)-",
+    "5-Isopropenyl-1-methyl-1-cyclohexene, (R)-",
+    "SCHEMBL28346374",
+    "NS00081464",
+    "(R)-1-methyl-5-(1-methylethenyl)cyclohexene",
+    "(r)-1-methyl-5-(1-methylethenyl) cyclohexene",
+    "(R)-1-Methyl-5-(Prop-1-En-2-Yl)Cyclohex-1-Ene",
+    "Q67880102"
+  ]
+}

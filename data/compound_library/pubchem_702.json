@@ -1,0 +1,18 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 527823,
+        "SMILES": "CC1=CC(C(CC1)C(C)(C)O)O",
+        "InChIKey": "MUTBSGZZTDPVPZ-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "p-Menth-1-en-3,8-diol",
+    "SCHEMBL21903093",
+    "MUTBSGZZTDPVPZ-UHFFFAOYSA-N",
+    "6-(1-Hydroxy-1-methylethyl)-3-methyl-2-cyclohexen-1-ol #",
+    "3-Cyclohexene-1-methanol, 2-hydroxy-.alpha.,.alpha.,4-trimethyl-"
+  ]
+}

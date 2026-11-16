@@ -1,0 +1,313 @@
+{
+  "actual_project": "3PTB final botanical case",
+  "oil_count": 5,
+  "unique_structures": 20,
+  "selected_best_compound": "Thymol",
+  "separate_3d_canvas_pixels": {
+    "w": 1264,
+    "h": 438
+  },
+  "standalone_contacts_verified": 19,
+  "full_screen_toggle_verified": true,
+  "functional_group_cohort": {
+    "groups": [
+      {
+        "group": "Phenolic hydroxyl",
+        "domain": "Functional group",
+        "top_compounds": 3,
+        "contacting_compounds": 2,
+        "best_score": -5.51363,
+        "examples": "Carvacrol; Eugenol; Thymol",
+        "residues": "GLY219.A"
+      },
+      {
+        "group": "Ester",
+        "domain": "Functional group",
+        "top_compounds": 1,
+        "contacting_compounds": 0,
+        "best_score": -5.36184,
+        "examples": "Geranyl isovalerate",
+        "residues": ""
+      },
+      {
+        "group": "Ether",
+        "domain": "Functional group",
+        "top_compounds": 1,
+        "contacting_compounds": 0,
+        "best_score": -5.33418,
+        "examples": "Eugenol",
+        "residues": ""
+      }
+    ],
+    "features": [
+      {
+        "group": "Hydrophobic atom feature",
+        "domain": "Molecular feature",
+        "top_compounds": 5,
+        "contacting_compounds": 5,
+        "best_score": -5.51363,
+        "examples": "Carvacrol; Eugenol; Geranyl isovalerate; Humulene; Thymol",
+        "residues": "CYS220.A; GLN192.A; TRP215.A; TYR151.A"
+      },
+      {
+        "group": "Alkene feature",
+        "domain": "Molecular feature",
+        "top_compounds": 3,
+        "contacting_compounds": 3,
+        "best_score": -5.48984,
+        "examples": "Eugenol; Geranyl isovalerate; Humulene",
+        "residues": "TRP215.A; TYR151.A"
+      },
+      {
+        "group": "Aromatic ring feature",
+        "domain": "Molecular feature",
+        "top_compounds": 3,
+        "contacting_compounds": 0,
+        "best_score": -5.51363,
+        "examples": "Carvacrol; Eugenol; Thymol",
+        "residues": ""
+      }
+    ],
+    "details": [
+      {
+        "group": "Phenolic hydroxyl",
+        "domain": "Functional group",
+        "compound": "Thymol",
+        "oils": "Thymus vulgaris",
+        "score": -5.51363,
+        "direct_contact": "Yes",
+        "interaction_types": "HBDonor",
+        "residues": "GLY219.A",
+        "pose_id": 19,
+        "identity": "MGSRCZKZVOBKFT-UHFFFAOYSA-N"
+      },
+      {
+        "group": "Aromatic ring feature",
+        "domain": "Molecular feature",
+        "compound": "Thymol",
+        "oils": "Thymus vulgaris",
+        "score": -5.51363,
+        "direct_contact": "No",
+        "interaction_types": "",
+        "residues": "",
+        "pose_id": 19,
+        "identity": "MGSRCZKZVOBKFT-UHFFFAOYSA-N"
+      },
+      {
+        "group": "Hydrophobic atom feature",
+        "domain": "Molecular feature",
+        "compound": "Thymol",
+        "oils": "Thymus vulgaris",
+        "score": -5.51363,
+        "direct_contact": "Yes",
+        "interaction_types": "Hydrophobic",
+        "residues": "CYS220.A; GLN192.A",
+        "pose_id": 19,
+        "identity": "MGSRCZKZVOBKFT-UHFFFAOYSA-N"
+      },
+      {
+        "group": "Phenolic hydroxyl",
+        "domain": "Functional group",
+        "compound": "Carvacrol",
+        "oils": "Thymus vulgaris",
+        "score": -5.49869,
+        "direct_contact": "Yes",
+        "interaction_types": "HBDonor",
+        "residues": "GLY219.A",
+        "pose_id": 16,
+        "identity": "RECUKUPTGUEGMW-UHFFFAOYSA-N"
+      },
+      {
+        "group": "Aromatic ring feature",
+        "domain": "Molecular feature",
+        "compound": "Carvacrol",
+        "oils": "Thymus vulgaris",
+        "score": -5.49869,
+        "direct_contact": "No",
+        "interaction_types": "",
+        "residues": "",
+        "pose_id": 16,
+        "identity": "RECUKUPTGUEGMW-UHFFFAOYSA-N"
+      },
+      {
+        "group": "Hydrophobic atom feature",
+        "domain": "Molecular feature",
+        "compound": "Carvacrol",
+        "oils": "Thymus vulgaris",
+        "score": -5.49869,
+        "direct_contact": "Yes",
+        "interaction_types": "Hydrophobic",
+        "residues": "CYS220.A; GLN192.A",
+        "pose_id": 16,
+        "identity": "RECUKUPTGUEGMW-UHFFFAOYSA-N"
+      },
+      {
+        "group": "Alkene feature",
+        "domain": "Molecular feature",
+        "compound": "Humulene",
+        "oils": "Thymus vulgaris",
+        "score": -5.48984,
+        "direct_contact": "Yes",
+        "interaction_types": "Hydrophobic",
+        "residues": "TYR151.A",
+        "pose_id": 25,
+        "identity": "FAMPSKZZVDUYOS-HRGUGZIWSA-N"
+      },
+      {
+        "group": "Hydrophobic atom feature",
+        "domain": "Molecular feature",
+        "compound": "Humulene",
+        "oils": "Thymus vulgaris",
+        "score": -5.48984,
+        "direct_contact": "Yes",
+        "interaction_types": "Hydrophobic",
+        "residues": "TYR151.A",
+        "pose_id": 25,
+        "identity": "FAMPSKZZVDUYOS-HRGUGZIWSA-N"
+      },
+      {
+        "group": "Ester",
+        "domain": "Functional group",
+        "compound": "Geranyl isovalerate",
+        "oils": "Thymus vulgaris",
+        "score": -5.36184,
+        "direct_contact": "No",
+        "interaction_types": "",
+        "residues": "",
+        "pose_id": 28,
+        "identity": "SOUKTGNMIRUIQN-NTEUORMPSA-N"
+      },
+      {
+        "group": "Alkene feature",
+        "domain": "Molecular feature",
+        "compound": "Geranyl isovalerate",
+        "oils": "Thymus vulgaris",
+        "score": -5.36184,
+        "direct_contact": "Yes",
+        "interaction_types": "Hydrophobic",
+        "residues": "TRP215.A",
+        "pose_id": 28,
+        "identity": "SOUKTGNMIRUIQN-NTEUORMPSA-N"
+      },
+      {
+        "group": "Hydrophobic atom feature",
+        "domain": "Molecular feature",
+        "compound": "Geranyl isovalerate",
+        "oils": "Thymus vulgaris",
+        "score": -5.36184,
+        "direct_contact": "Yes",
+        "interaction_types": "Hydrophobic",
+        "residues": "GLN192.A; TRP215.A",
+        "pose_id": 28,
+        "identity": "SOUKTGNMIRUIQN-NTEUORMPSA-N"
+      },
+      {
+        "group": "Phenolic hydroxyl",
+        "domain": "Functional group",
+        "compound": "Eugenol",
+        "oils": "Sweet Basil",
+        "score": -5.33418,
+        "direct_contact": "No",
+        "interaction_types": "",
+        "residues": "",
+        "pose_id": 43,
+        "identity": "RRAFCDWBNXTKKO-UHFFFAOYSA-N"
+      },
+      {
+        "group": "Ether",
+        "domain": "Functional group",
+        "compound": "Eugenol",
+        "oils": "Sweet Basil",
+        "score": -5.33418,
+        "direct_contact": "No",
+        "interaction_types": "",
+        "residues": "",
+        "pose_id": 43,
+        "identity": "RRAFCDWBNXTKKO-UHFFFAOYSA-N"
+      },
+      {
+        "group": "Alkene feature",
+        "domain": "Molecular feature",
+        "compound": "Eugenol",
+        "oils": "Sweet Basil",
+        "score": -5.33418,
+        "direct_contact": "Yes",
+        "interaction_types": "Hydrophobic",
+        "residues": "TRP215.A",
+        "pose_id": 43,
+        "identity": "RRAFCDWBNXTKKO-UHFFFAOYSA-N"
+      },
+      {
+        "group": "Aromatic ring feature",
+        "domain": "Molecular feature",
+        "compound": "Eugenol",
+        "oils": "Sweet Basil",
+        "score": -5.33418,
+        "direct_contact": "No",
+        "interaction_types": "",
+        "residues": "",
+        "pose_id": 43,
+        "identity": "RRAFCDWBNXTKKO-UHFFFAOYSA-N"
+      },
+      {
+        "group": "Hydrophobic atom feature",
+        "domain": "Molecular feature",
+        "compound": "Eugenol",
+        "oils": "Sweet Basil",
+        "score": -5.33418,
+        "direct_contact": "Yes",
+        "interaction_types": "Hydrophobic",
+        "residues": "CYS220.A; TRP215.A",
+        "pose_id": 43,
+        "identity": "RRAFCDWBNXTKKO-UHFFFAOYSA-N"
+      }
+    ],
+    "cohort_size": 5,
+    "available_compounds": 20,
+    "cutoff": -5.33418,
+    "top_n": 5,
+    "contact_errors": [],
+    "include_vdw": false,
+    "protocol": "{\"cpu\": 2, \"engine\": \"smina 2020.12.10 conda-forge:b08c07c     Built Jan 30 2021.  Based on AutoDock Vina 1.1.2.\", \"exhaustiveness\": 8, \"keep_waters\": false, \"num_modes\": 3, \"ph\": 7.4, \"remove_heterogens\": [\"BEN A:1\"], \"scoring\": \"vina\", \"seed\": 20261029}",
+    "method": "Distinct chemical identities among the best-scoring compounds; score ties at the cutoff are retained. Presence and direct participation are separate counts. Molecular features are separate from conventional functional groups. Group frequency is descriptive and does not establish causation or measured affinity."
+  },
+  "new_default_result_pages_verified": true,
+  "sizes": [
+    {
+      "page": "oil_results",
+      "width": 1366,
+      "height": 768,
+      "outer_horizontal_overflow": false
+    },
+    {
+      "page": "functional_groups",
+      "width": 1366,
+      "height": 768,
+      "outer_horizontal_overflow": false
+    },
+    {
+      "page": "3d_page",
+      "width": 1366,
+      "height": 768,
+      "outer_horizontal_overflow": false
+    },
+    {
+      "page": "oil_results",
+      "width": 1920,
+      "height": 1080,
+      "outer_horizontal_overflow": false
+    },
+    {
+      "page": "functional_groups",
+      "width": 1920,
+      "height": 1080,
+      "outer_horizontal_overflow": false
+    },
+    {
+      "page": "3d_page",
+      "width": 1920,
+      "height": 1080,
+      "outer_horizontal_overflow": false
+    }
+  ]
+}

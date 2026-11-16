@@ -1,0 +1,24 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 91072206,
+        "SMILES": "C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O",
+        "InChIKey": "DOPSJTNYZLQUNU-XQKIPRNGSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "ellagic acid glucoside",
+    "6,7,14-trihydroxy-13-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2,9-dioxatetracyclo[6.6.2.04,16.011,15]hexadeca-1(15),4,6,8(16),11,13-hexaene-3,10-dione",
+    "Ellagate glucoside",
+    "6,7,14-trihydroxy-13-((2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl)oxy-2,9-dioxatetracyclo(6.6.2.04,16.011,15)hexadeca-1(15),4,6,8(16),11,13-hexaene-3,10-dione",
+    "RefChem:136520",
+    "ellagic acid hexoside",
+    "ellagic acid-hexoside",
+    "ellagic acid-4-o-beta-d-glucopyranoside",
+    "SCHEMBL29585250",
+    "CHEBI:167702",
+    "DTXSID001341720"
+  ]
+}

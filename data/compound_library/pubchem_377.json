@@ -1,0 +1,39 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 86597,
+        "SMILES": "CC1=CCC(CC1)C(=CCC=C(C)C)C",
+        "InChIKey": "YHBUQBJHSRGZNF-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "alpha-Bisabolene",
+    "17627-44-0",
+    "alpha1-Bisabolene",
+    "1-methyl-4-(6-methylhepta-2,5-dien-2-yl)cyclohexene",
+    "1,8,12-Bisabolatriene",
+    "SUQ209P6FX",
+    "DTXSID1051800",
+    "EINECS 241-610-9",
+    "Cyclohexene, 4-(1,5-dimethyl-1,4-hexadienyl)-1-methyl-",
+    "Cyclohexene, 4-(1,5-dimethyl-1,4-hexadien-1-yl)-1-methyl-",
+    "alpha-Bisabolen",
+    ".alpha.-Bisabolene",
+    "bisabola-4,7(11),9-triene",
+    "CHEBI:49240",
+    "RefChem:555405",
+    ".ALPHA.1-BISABOLENE",
+    "4-(1,5-dimethylhexa-1,4-dien-1-yl)-1-methylcyclohexene",
+    "2,5-Heptadiene, 2-methyl-6-(4-methyl-3-cyclohexen-1-yl)-",
+    "DTXCID7030355",
+    "6-Methyl-2-(4-methylcyclohex-3-enyl)hept-2,5-diene",
+    "UNII-SUQ209P6FX",
+    "1-Methyl-4-(6-methylhepta-2,5-dien-2-yl)cyclohex-1-ene",
+    "SCHEMBL3173408",
+    "SAA62744",
+    "NS00100376",
+    "4-(1,5-dimethylhexa-1,4-dienyl)-1-methyl-cyclohexene"
+  ]
+}

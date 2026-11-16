@@ -1,0 +1,56 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 11095734,
+        "SMILES": "C[C@@H]1CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CCC2=C",
+        "InChIKey": "ITYNGVSTWVVPIC-XVIXHAIJSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Aromadendrene",
+    "72747-25-2",
+    "1,1,7-Trimethyl-4-methylenedecahydro-1H-cyclopropa(e)azulene",
+    "RefChem:916223",
+    "1,1,7-Trimethyl-4-methylenedecahydro-1H-cyclopropa[e]azulene",
+    "1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa(e)azulene",
+    "(1aS,4aS,7S,7aS,7bR)-1,1,7-trimethyl-4-methylene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa(e)azulene",
+    "(+)-AROMADENDRENE",
+    "489-39-4",
+    "Aromandendrene",
+    "MFCD00062951",
+    "(-)-AROMADENDRENE II",
+    "(1aR,4aR,7R,7aR,7bS)-1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulene",
+    "(+/-)-Aromadendrene",
+    "1H-Cycloprop[e]azulene, decahydro-1,1,7-trimethyl-4-methylene-",
+    "(1aR,4aR,7R,7aR,7bS)-Decahydro-1,1,7-trimethyl-4-methylene-1H-cycloprop[e]azulene",
+    "decahydro-1,1,7-trimethyl-4-methylene-1H-cycloprop[e]azulene",
+    "decahydro-1,1,7-trimethyl-4-methylene-[1a.a] 1H-cycloprop[e] azulene",
+    "(1aR,4aR,7R,7aR,7bS)-1,1,7-Trimethyl-4-methylidenedecahydro-1H-cyclopropa[e]azulene",
+    "EINECS 207-694-6",
+    "SCHEMBL61622",
+    "orb1299091",
+    "CHEMBL2269083",
+    "DTXSID60862020",
+    "DTXSID80881253",
+    "(1aR,4aR,7R,7aR,7bS)-1,1,7-Trimethyl-4-methylenedecahydro-1H-cyclopropa[e]azulene",
+    "HY-N8411",
+    "MSK169809",
+    "STL570264",
+    "AKOS015913965",
+    "AT37012",
+    "EBC-186034",
+    "FS-8196",
+    "LMPR0103430001",
+    "1H-Cycloprop[e]azulene, decahydro-1,1,7-trimethyl-4-methylene-, (1aR,4aR,7R,7aR,7bS)-",
+    "(1aR,4aR,7R,7aR,7bS)-1,1,7-trimethyl-4-methylene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulene",
+    "(1AR-(1aalpha,4aalpha,7alpha,7abeta,7balpha))-decahydro-1,1,7-trimethyl-4-methylene-1H-cycloprop(e)azulene",
+    "DA-61217",
+    "FA159298",
+    "CS-0144117",
+    "T8247",
+    "(+)-Aromadendrene, >=97.0% (sum of enantiomers, GC)",
+    "1H-cycloprop[e]azulene, decahydro-1,1,7-trimethyl-4-methylene"
+  ]
+}

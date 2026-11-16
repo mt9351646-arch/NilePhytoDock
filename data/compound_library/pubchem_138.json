@@ -1,0 +1,48 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 89664,
+        "SMILES": "CC1=C[C@@H]([C@@H]2C[C@H]1C2(C)C)O",
+        "InChIKey": "WONIGEXYPVIKFS-VGMNWLOBSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(+)-trans-verbenol",
+    "Bicyclo(3.1.1)hept-3-en-2-ol, 4,6,6-trimethyl-, (1R,2S,5R)-rel-",
+    "Bicyclo[3.1.1]hept-3-en-2-ol, 4,6,6-trimethyl-, (1R,2S,5R)-rel-",
+    "RefChem:568202",
+    "trans-Verbenol",
+    "22339-08-8",
+    "(1r,2s,5r)-4,6,6-trimethylbicyclo[3.1.1]hept-3-en-2-ol",
+    "1820-09-3",
+    "Verbenol, (R)-trans-",
+    "Verbenol, (+/-)-trans-",
+    "UNII-5E8197JSI1",
+    "5E8197JSI1",
+    "EINECS 217-335-5",
+    "3GPQ3N9L8Q",
+    "(1alpha,2alpha,5alpha)-4,6,6-trimethylbicyclo[3.1.1]hept-3-en-2-ol",
+    "2-Pinen-4-ol, trans-",
+    "[1R-(1alpha,2alpha,5alpha)]-4,6,6-trimethylbicyclo[3.1.1]hept-3-en-2-ol",
+    "(1R-(1alpha,2alpha,5alpha))-4,6,6-Trimethylbicyclo(3.1.1)hept-3-en-2-ol",
+    "UNII-3GPQ3N9L8Q",
+    "NSC-6833",
+    "(1alpha,2alpha,5alpha)-4,6,6-Trimethylbicyclo(3.1.1)hept-3-en-2-ol",
+    "EINECS 244-920-2",
+    "AI3-23133",
+    "VERBENOL, TRANS-",
+    "(1R)-TRANS-VERBENOL",
+    "SCHEMBL1065045",
+    "(+/-)-TRANS-VERBENOL",
+    "DTXSID60883755",
+    "VERBENOL, R-(+)-TRANS-",
+    "NSC 6833",
+    "TRANS-VERBENOL, (+/-)-",
+    "2-PINEN-4-OL, TRANS-(+)-",
+    "4,6,6-TRIMETHYL-, (1.ALPHA.,2.ALPHA.,5.ALPHA.)-",
+    "Bicyclo(3.1.1)hept-3-en-2-ol, 4,6,6-trimethyl-, trans-(+)-",
+    "BICYCLO(3.1.1)HEPT-3-EN-2-OL, 4,6,6-TRIMETHYL-, (1R,2S,5R)-"
+  ]
+}

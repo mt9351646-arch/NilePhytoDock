@@ -1,0 +1,33 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 19243,
+        "SMILES": "C[C@@H]1CC[C@@H](C(C1)O)C(C)C",
+        "InChIKey": "NOOLISFMXDJSKH-MGRQHWMJSA-N"
+      },
+      {
+        "CID": 439263,
+        "SMILES": "C[C@@H]1CC[C@H]([C@H](C1)O)C(C)C",
+        "InChIKey": "NOOLISFMXDJSKH-UTLUCORTSA-N"
+      },
+      {
+        "CID": 1254,
+        "SMILES": "CC1CCC(C(C1)O)C(C)C",
+        "InChIKey": "NOOLISFMXDJSKH-UHFFFAOYSA-N"
+      },
+      {
+        "CID": 6566020,
+        "SMILES": "C[C@H]1CC[C@@H]([C@@H](C1)O)C(C)C",
+        "InChIKey": "NOOLISFMXDJSKH-IVZWLZJFSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "RefChem:1092767",
+    "Npc168552",
+    "Neomenthol",
+    "(2R,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",
+    "SCHEMBL2028043"
+  ]
+}

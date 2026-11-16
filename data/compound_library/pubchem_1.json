@@ -1,0 +1,28 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 519872,
+        "SMILES": "CC(=CC(C=C)C(=C)C)C",
+        "InChIKey": "ZQGDEJAPCUGBRH-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Santolina triene",
+    "3-ethenyl-2,5-dimethylhexa-1,4-diene",
+    "DTXSID90880656",
+    "RefChem:181211",
+    "DTXCID801022023",
+    "ZQGDEJAPCUGBRH-UHFFFAOYSA-N",
+    "2,5-Dimethyl-3-vinyl-1,4-hexadiene",
+    "2153-66-4",
+    "Santolinatriene",
+    "SCHEMBL30105682",
+    "CHEBI:90018",
+    "2,5-dimethyl-3-vinyl-hexa-1,4-diene",
+    "2,5-Dimethyl-3-vinyl-1,4-hexadiene #",
+    "NS00095806",
+    "Q27162243"
+  ]
+}

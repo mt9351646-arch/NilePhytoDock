@@ -1,0 +1,53 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 12413,
+        "SMILES": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+        "InChIKey": "VHQQPFLOGSTQPC-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Pentatriacontane",
+    "630-07-9",
+    "N-PENTATRIACONTANE",
+    "NSC 125400",
+    "KP13LFH341",
+    "NSC-125400",
+    "UNII-KP13LFH341",
+    "DTXSID9074723",
+    "Pentatriacontane (8CI)(9CI)",
+    "Pentatriacontane (8CI)",
+    "RefChem:171475",
+    "DTXCID8043606",
+    "VHQQPFLOGSTQPC-UHFFFAOYSA-N",
+    "MFCD00059397",
+    "C35H72",
+    "SCHEMBL198662",
+    "SCHEMBL198663",
+    "SCHEMBL199152",
+    "SCHEMBL199276",
+    "SCHEMBL199882",
+    "SCHEMBL1881821",
+    "SCHEMBL3335036",
+    "SCHEMBL7094877",
+    "SCHEMBL8212982",
+    "MSK3556",
+    "Pentatriacontane, analytical standard",
+    "LMFA11000584",
+    "N-C-35",
+    "NSC125400",
+    "MSK3556-1000C",
+    "HY-W343304",
+    "AS-87643",
+    "SY052939",
+    "CS-0454353",
+    "NS00010793",
+    "P0062",
+    "F775085",
+    "Q151158",
+    "n-Pentatriacontane Solution in Cyclohexane, 1000ug/mL",
+    "25E3ABFD-53A7-41A8-9766-C537F92EC7FF"
+  ]
+}

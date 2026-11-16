@@ -1,0 +1,20 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 92234,
+        "SMILES": "C.C.C.CC1=CC=C(CC1)C(C)C.CC1=CCC(=CC1)C(C)C.CC(C)C1=CCC(=C)CC1",
+        "InChIKey": "GJKOIJLRHDVXJX-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "8013-00-1",
+    "EINECS 232-386-3",
+    "RefChem:188048",
+    "DTXSID701018803",
+    "232-386-3",
+    "TERPINENE",
+    "GJKOIJLRHDVXJX-UHFFFAOYSA-N"
+  ]
+}

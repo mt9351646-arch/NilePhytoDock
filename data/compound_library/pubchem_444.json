@@ -1,0 +1,34 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 18504424,
+        "SMILES": "C1=CC(=C(C2=C1C3=C(C(=C(C=C3C(=O)O2)O)O)O)O)O",
+        "InChIKey": "ZELMDXUEWHBWPN-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "3,4,8,9,10-Pentahydroxydibenzo(b,d)pyran-6-one",
+    "3,4,8,9,10-pentahydroxydibenzo[b,d]pyran-6-one",
+    "RefChem:910577",
+    "urolithin M5",
+    "91485-02-8",
+    "3,4,8,9,10-Pentahydroxybenzo[c]chromen-6-one",
+    "3,4,8,9,10-Pentahydroxy-6H-benzo[c]chromen-6-one",
+    "3,4,8,9,10-Pentahydroxy-6H-dibenzo[b,d]pyran-6-one; 3,4,8,9,10-Pentahydroxyurolithin; Decarboxyellagic Acid;",
+    "Decarboxyellagic acid",
+    "orb2567322",
+    "SCHEMBL2357304",
+    "SCHEMBL29466713",
+    "SCHEMBL29827270",
+    "C13H8O7",
+    "HY-N7922",
+    "MSK189742",
+    "EBC-515317",
+    "CS-0138808",
+    "T84318",
+    "3,4,8,9,10-pentahydroxy dibenzo[b,d]pyran-6-one",
+    "3,4,8,9,10-pentahydroxy-dibenzo[b,d]pyran-6-one"
+  ]
+}

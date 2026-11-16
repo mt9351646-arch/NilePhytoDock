@@ -1,0 +1,48 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 94275,
+        "SMILES": "C[C@H]1CCC2=C(CC[C@H](C[C@@H]12)C(=C)C)C",
+        "InChIKey": "YHAJBLWYOIUHHM-GUTXKFCHSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "delta-Guaiene",
+    "alpha-Bulnesene",
+    "3691-11-0",
+    "2U8L6FYE8U",
+    "(3S,3aS,5R)-3,8-dimethyl-5-(prop-1-en-2-yl)-1,2,3,3a,4,5,6,7-octahydroazulene",
+    "(3S,3aS,5R)-3,8-dimethyl-5-prop-1-en-2-yl-1,2,3,3a,4,5,6,7-octahydroazulene",
+    "CHEBI:63447",
+    "DTXSID30190387",
+    "RefChem:131678",
+    "DTXCID40112878",
+    "885-851-3",
+    "Guaia-1(10),11-diene",
+    "(+)-alpha-bulnesene",
+    "a-Bulnesene (>90%)",
+    ".delta.-Guaiene",
+    ".alpha.-Bulnesene",
+    "Azulene, 1,2,3,5,6,7,8,8a-octahydro-1,4-dimethyl-7-(1-methylethenyl)-, [1S-(1alpha,7alpha,8abeta)]-",
+    "alfa-Bulnesene",
+    ".DELTA.-BULNESENE",
+    "UNII-2U8L6FYE8U",
+    "alpha-Bulnesene (>85%)",
+    "Alpha-Bulnesene (>90%)",
+    "orb2645980",
+    "SCHEMBL6014078",
+    "Azulene, 1,2,3,5,6,7,8,8a-octahydro-1,4-dimethyl-7-(1-methylethenyl)-, (1S,7R,8aS)-",
+    "HY-N12995",
+    "TN8025",
+    "CS-1100256",
+    "NS00114008",
+    "C20174",
+    "Q27132629",
+    "(3R,3AS,5S)-3,8-DIMETHYL-5-PROP-1-EN-2-YL-1,2,3,3A,4,5,6,7-OCTAHYDROAZULENE",
+    "(1S,7R,8aS)-1,2,3,5,6,7,8,8a-Octahydro-1,4-dimethyl-7-(1-methylethenyl)azulene; 1,2,3,5,6,7,8,8a-Octahydro-1,4-dimethyl-7-(1-methylethenyl)-[1S-(1alpha,7alpha,8abeta)]-azulene; alpha-Bulnesene",
+    "|A-Guaiene; |A-Bulnesene; (3S,3aS,5R)-3,8-dimethyl-5-(prop-1-en-2-yl)-1,2,3,3a,4,5,6,7-octahydroazulene",
+    "Azulene, 1,2,3,5,6,7,8,8a-octahydro-1,4-dimethyl-7-(1-methylethenyl)-, (1S-(1alpha,4alpha,7alpha))-"
+  ]
+}

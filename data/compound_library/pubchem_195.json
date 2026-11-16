@@ -1,0 +1,58 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 10313167,
+        "SMILES": "CC1([C@H]2CCC(=O)[C@@H]1C2)C",
+        "InChIKey": "XZFDKWMYCUEKSS-BQBZGAKWSA-N"
+      },
+      {
+        "CID": 32735,
+        "SMILES": "CC1(C2CCC(=O)C1C2)C",
+        "InChIKey": "XZFDKWMYCUEKSS-UHFFFAOYSA-N"
+      },
+      {
+        "CID": 157139,
+        "SMILES": "CC1([C@@H]2CCC(=O)[C@H]1C2)C",
+        "InChIKey": "XZFDKWMYCUEKSS-RNFRBKRXSA-N"
+      },
+      {
+        "CID": 6994869,
+        "SMILES": "CC1([C@H]2CCC(=O)[C@H]1C2)C",
+        "InChIKey": "XZFDKWMYCUEKSS-NKWVEPMBSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "38651-65-9",
+    "(1R,5S)-6,6-Dimethylbicyclo[3.1.1]heptan-2-one",
+    "(1R)-(+)-Nopinone",
+    "Norinone",
+    "UNII-G7O7RX0V01",
+    "(1R,5S)-6,6-dimethylnorpinan-2-one",
+    "(1R,5S)-NOPINONE",
+    "(R)-(+)-NOPINONE",
+    "Bicyclo(3.1.1)heptan-2-one, 6,6-dimethyl-, (1R)-",
+    "NSC 250997",
+    "(1R,5S)-(+)-6,6-Dimethylbicyclo[3.1.1]heptan-2-one",
+    "MFCD08447116",
+    "Bicyclo[3.1.1]heptan-2-one, 6,6-dimethyl-, (1R)-",
+    "Bicyclo[3.1.1]heptan-2-one, 6,6-dimethyl-, (1R,5S)-",
+    "(+)-Nopinone",
+    "(1R,5S)-6,6-DIMETHYLBICYCLO(3.1.1)HEPTAN-2-ONE",
+    "BICYCLO(3.1.1)HEPTAN-2-ONE, 6,6-DIMETHYL-, (1R,5S)-",
+    "?-Pinone",
+    "6,6-dimethyl-bicyclo[3.1.1]heptan-2-one",
+    "SCHEMBL2388827",
+    "CHEMBL3782017",
+    "DTXSID201378632",
+    "(1R)-(+)-Nopinone, 98%",
+    "AKOS016010310",
+    "SY211609",
+    "N1328",
+    "(1R,5S)-6,6-dimethyl-Bicyclo[3.1.1]hep",
+    "E73992",
+    "EN300-303653",
+    "F847375"
+  ]
+}

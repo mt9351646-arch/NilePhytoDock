@@ -1,0 +1,724 @@
+{
+  "target": "Bovine beta-trypsin 3PTB",
+  "reference_ligand": "Benzamidine BEN A:1",
+  "target_source": "https://www.rcsb.org/structure/3PTB",
+  "cache_policy": "Hash-verified raw Smina outputs from the initial QC runs are retained and reused where identical; remaining jobs and reference-state controls execute native Smina. Elapsed zero identifies reused jobs.",
+  "experimental_comparator": "Published bovine trypsin benzamidine Ki 33 micromolar, PMC17520; protocol and botanical measurements not matched, so no score/activity correlation or AUROC calculated.",
+  "experimental_reference_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC17520/",
+  "project_id": 1,
+  "engines": {
+    "Smina": {
+      "ok": true,
+      "version": "smina 2020.12.10 conda-forge:b08c07c     Built Jan 30 2021.  Based on AutoDock Vina 1.1.2."
+    },
+    "Java": {
+      "ok": true,
+      "version": "openjdk version \"17.0.19\" 2026-04-21\nOpenJDK Runtime Environment Temurin-17.0.19+10 (build 17.0.19+10)\nOpenJDK 64-Bit Server VM Temurin-17.0.19+10 (build 17.0.19+10, mixed mode)"
+    },
+    "P2Rank": {
+      "ok": true,
+      "version": "P2Rank 2.5.1\n\nHome: X:\\nile\\external_tools\\p2rank\nJVM: OpenJDK 64-Bit Server VM 17.0.19+10 Eclipse Adoptium\nOS: Windows 11 (Version: 10.0, Arch: amd64)\nCPUs: 8\nMax Memory: 2 GiB"
+    },
+    "rdkit": {
+      "ok": true,
+      "version": "2026.9.1"
+    },
+    "prolif": {
+      "ok": true,
+      "version": "2.2.3"
+    },
+    "PySide6": {
+      "ok": true,
+      "version": "6.12.0"
+    },
+    "openbabel-wheel": {
+      "ok": true,
+      "version": "3.1.1.23"
+    }
+  },
+  "settings": {
+    "exhaustiveness": 8,
+    "num_modes": 3,
+    "seed": 20261029,
+    "cpu": 2,
+    "scoring": "vina",
+    "box_size": [
+      22,
+      22,
+      22
+    ],
+    "pocket_mode": "Automatic",
+    "top_n": 1,
+    "pocket_rank": 1,
+    "keep_waters": false,
+    "remove_heterogens": [
+      "BEN A:1"
+    ],
+    "ph": 7.4,
+    "pocket_margin": 6.0,
+    "geometric_boxes": true,
+    "pocket_selections": {}
+  },
+  "profiles": [
+    {
+      "id": 43,
+      "name": "Thymus vulgaris — Thyme Giza 2018 [PMC9605189]",
+      "origin": "Medicinal and Aromatic Plants Experimental Station, Cairo University, Giza, Egypt"
+    },
+    {
+      "id": 85,
+      "name": "Ocimum basilicum — Sweet basil Tanta December 2018 [PMC9578474]",
+      "origin": "Medicinal plant farm, Faculty of Pharmacy, Tanta University, Egypt"
+    },
+    {
+      "id": 87,
+      "name": "Cuminum cyminum — Cumin Egyptian market January 2022 [PMC9570728]",
+      "origin": "Egyptian local market; cultivation origin not reported"
+    },
+    {
+      "id": 89,
+      "name": "Pimpinella anisum — Anise ARC Cairo August 2019 [PMC9023561]",
+      "origin": "Agricultural Research Center, Cairo, Egypt"
+    },
+    {
+      "id": 90,
+      "name": "Coriandrum sativum — Coriander ARC Cairo August 2019 [PMC9023561]",
+      "origin": "Agricultural Research Center, Cairo, Egypt"
+    }
+  ],
+  "unique_jobs": 23,
+  "saved_poses": 69,
+  "all_runs_complete": true,
+  "p2rank_pocket_center_to_crystal_ligand_centroid_A": 0.6083429858189074,
+  "crystal_heavy_atoms_inside_predicted_box": 9,
+  "crystal_heavy_atom_count": 9,
+  "benchmark": [
+    {
+      "box": "neutral_experimental_box",
+      "center": [
+        -1.8554999828338623,
+        14.365999221801758,
+        16.74799919128418
+      ],
+      "size": [
+        13.882999420166016,
+        15.949999809265137,
+        16.513999938964844
+      ],
+      "elapsed_seconds": 6.9689999999827705,
+      "formal_charge": 0,
+      "poses": [
+        {
+          "pose": 1,
+          "score_kcal_mol": -6.10043,
+          "symmetry_corrected_no_alignment_rmsd_A": 0.3937050757440996,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\neutral_experimental_box\\pose_1.sdf"
+        },
+        {
+          "pose": 2,
+          "score_kcal_mol": -6.08588,
+          "symmetry_corrected_no_alignment_rmsd_A": 0.39557425065059304,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\neutral_experimental_box\\pose_2.sdf"
+        },
+        {
+          "pose": 3,
+          "score_kcal_mol": -5.11853,
+          "symmetry_corrected_no_alignment_rmsd_A": 3.6102647414467173,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\neutral_experimental_box\\pose_3.sdf"
+        },
+        {
+          "pose": 4,
+          "score_kcal_mol": -5.03779,
+          "symmetry_corrected_no_alignment_rmsd_A": 1.709587244532044,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\neutral_experimental_box\\pose_4.sdf"
+        },
+        {
+          "pose": 5,
+          "score_kcal_mol": -5.02373,
+          "symmetry_corrected_no_alignment_rmsd_A": 1.7642026943258717,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\neutral_experimental_box\\pose_5.sdf"
+        }
+      ]
+    },
+    {
+      "box": "charged_experimental_box",
+      "center": [
+        -1.8554999828338623,
+        14.365999221801758,
+        16.74799919128418
+      ],
+      "size": [
+        13.882999420166016,
+        15.949999809265137,
+        16.513999938964844
+      ],
+      "elapsed_seconds": 4.735000000044238,
+      "formal_charge": 1,
+      "poses": [
+        {
+          "pose": 1,
+          "score_kcal_mol": -6.10435,
+          "symmetry_corrected_no_alignment_rmsd_A": 0.39033101479527776,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\charged_experimental_box\\pose_1.sdf"
+        },
+        {
+          "pose": 2,
+          "score_kcal_mol": -6.09986,
+          "symmetry_corrected_no_alignment_rmsd_A": 0.39554398687826825,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\charged_experimental_box\\pose_2.sdf"
+        },
+        {
+          "pose": 3,
+          "score_kcal_mol": -4.90716,
+          "symmetry_corrected_no_alignment_rmsd_A": 3.578810987837534,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\charged_experimental_box\\pose_3.sdf"
+        },
+        {
+          "pose": 4,
+          "score_kcal_mol": -4.86698,
+          "symmetry_corrected_no_alignment_rmsd_A": 3.858927267893098,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\charged_experimental_box\\pose_4.sdf"
+        },
+        {
+          "pose": 5,
+          "score_kcal_mol": -4.8633,
+          "symmetry_corrected_no_alignment_rmsd_A": 3.314125012059074,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\charged_experimental_box\\pose_5.sdf"
+        }
+      ]
+    },
+    {
+      "box": "charged_predicted_box",
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ],
+      "elapsed_seconds": 5.76600000000326,
+      "formal_charge": 1,
+      "poses": [
+        {
+          "pose": 1,
+          "score_kcal_mol": -6.11317,
+          "symmetry_corrected_no_alignment_rmsd_A": 0.3885943243137875,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\charged_predicted_box\\pose_1.sdf"
+        },
+        {
+          "pose": 2,
+          "score_kcal_mol": -6.11207,
+          "symmetry_corrected_no_alignment_rmsd_A": 0.3737219406040929,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\charged_predicted_box\\pose_2.sdf"
+        },
+        {
+          "pose": 3,
+          "score_kcal_mol": -4.94234,
+          "symmetry_corrected_no_alignment_rmsd_A": 3.3843422717305387,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\charged_predicted_box\\pose_3.sdf"
+        },
+        {
+          "pose": 4,
+          "score_kcal_mol": -4.90093,
+          "symmetry_corrected_no_alignment_rmsd_A": 3.272419677819117,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\charged_predicted_box\\pose_4.sdf"
+        },
+        {
+          "pose": 5,
+          "score_kcal_mol": -4.89434,
+          "symmetry_corrected_no_alignment_rmsd_A": 3.6554849546036077,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\charged_predicted_box\\pose_5.sdf"
+        }
+      ]
+    },
+    {
+      "box": "repeat_charged_experimental_box",
+      "center": [
+        -1.8554999828338623,
+        14.365999221801758,
+        16.74799919128418
+      ],
+      "size": [
+        13.882999420166016,
+        15.949999809265137,
+        16.513999938964844
+      ],
+      "elapsed_seconds": 4.64100000000326,
+      "formal_charge": 1,
+      "poses": [
+        {
+          "pose": 1,
+          "score_kcal_mol": -6.10435,
+          "symmetry_corrected_no_alignment_rmsd_A": 0.39033101479527776,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\repeat_charged_experimental_box\\pose_1.sdf"
+        },
+        {
+          "pose": 2,
+          "score_kcal_mol": -6.09986,
+          "symmetry_corrected_no_alignment_rmsd_A": 0.39554398687826825,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\repeat_charged_experimental_box\\pose_2.sdf"
+        },
+        {
+          "pose": 3,
+          "score_kcal_mol": -4.90716,
+          "symmetry_corrected_no_alignment_rmsd_A": 3.578810987837534,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\repeat_charged_experimental_box\\pose_3.sdf"
+        },
+        {
+          "pose": 4,
+          "score_kcal_mol": -4.86698,
+          "symmetry_corrected_no_alignment_rmsd_A": 3.858927267893098,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\repeat_charged_experimental_box\\pose_4.sdf"
+        },
+        {
+          "pose": 5,
+          "score_kcal_mol": -4.8633,
+          "symmetry_corrected_no_alignment_rmsd_A": 3.314125012059074,
+          "sdf": "X:\\nile\\data\\validation\\case_study_final\\repeat_charged_experimental_box\\pose_5.sdf"
+        }
+      ]
+    }
+  ],
+  "ranking": {
+    "1": [
+      {
+        "profile_id": 87,
+        "best_constituent_score": -5.19014,
+        "index": 0.6876029853639624,
+        "screened_peak_area_percent": 59.73,
+        "reported_peak_area_percent": 99.83,
+        "fraction_of_reported": 0.5983171391365321,
+        "sensitivity_min": 0.6839492804379844,
+        "sensitivity_max": 0.6907845283466747,
+        "warning": "Insufficient coverage (<70% of original peak area)",
+        "sensitivity_rank_best": 1,
+        "sensitivity_rank_worst": 1
+      },
+      {
+        "profile_id": 43,
+        "best_constituent_score": -5.51363,
+        "index": 0.47365371714337995,
+        "screened_peak_area_percent": 69.03999999999999,
+        "reported_peak_area_percent": 99.92999999999999,
+        "fraction_of_reported": 0.6908836185329731,
+        "sensitivity_min": 0.4600453585672949,
+        "sensitivity_max": 0.48659300129385347,
+        "warning": "Insufficient coverage (<70% of original peak area)",
+        "sensitivity_rank_best": 2,
+        "sensitivity_rank_worst": 2
+      },
+      {
+        "profile_id": 90,
+        "best_constituent_score": -4.97303,
+        "index": 0.23779327837666456,
+        "screened_peak_area_percent": 1.66,
+        "reported_peak_area_percent": 99.67,
+        "fraction_of_reported": 0.016654961372529347,
+        "sensitivity_min": 0.23061844555522884,
+        "sensitivity_max": 0.2445566813464322,
+        "warning": "Insufficient coverage (<70% of original peak area)",
+        "sensitivity_rank_best": 3,
+        "sensitivity_rank_worst": 4
+      },
+      {
+        "profile_id": 85,
+        "best_constituent_score": -5.33418,
+        "index": 0.23739481580075347,
+        "screened_peak_area_percent": 23.330000000000002,
+        "reported_peak_area_percent": 94.89,
+        "fraction_of_reported": 0.2458636315734008,
+        "sensitivity_min": 0.23177980404942164,
+        "sensitivity_max": 0.24393346403537253,
+        "warning": "Insufficient coverage (<70% of original peak area)",
+        "sensitivity_rank_best": 3,
+        "sensitivity_rank_worst": 4
+      },
+      {
+        "profile_id": 89,
+        "best_constituent_score": null,
+        "index": null,
+        "screened_peak_area_percent": 0,
+        "reported_peak_area_percent": 99.39999999999999,
+        "fraction_of_reported": 0.0,
+        "sensitivity_min": null,
+        "sensitivity_max": null,
+        "warning": "Insufficient coverage (<70% of original peak area)",
+        "sensitivity_rank_best": null,
+        "sensitivity_rank_worst": null
+      }
+    ]
+  },
+  "chemical_diversity": {
+    "method": "Morgan radius=2, 2048 bits, chirality enabled; Tanimoto; Butina similarity threshold 0.65",
+    "mean_pairwise_similarity": 0.13220349303601112,
+    "cluster_count": 18,
+    "singleton_clusters": 16,
+    "identities": [
+      "CBFCDTFDPHXCNY-UHFFFAOYSA-N",
+      "CVUAHQAQHICPSF-UHFFFAOYSA-N",
+      "FAMPSKZZVDUYOS-HRGUGZIWSA-N",
+      "FNAZRRHPUDJQCJ-UHFFFAOYSA-N",
+      "GLZPCOQZEFWAFX-YFHOEESVSA-N",
+      "HFPZCAJZSCWRBC-UHFFFAOYSA-N",
+      "MGSRCZKZVOBKFT-UHFFFAOYSA-N",
+      "MOYAFQVGZZPNRA-UHFFFAOYSA-N",
+      "NIBUJHLMVJZODW-UHFFFAOYSA-N",
+      "RECUKUPTGUEGMW-UHFFFAOYSA-N",
+      "RRAFCDWBNXTKKO-UHFFFAOYSA-N",
+      "SOUKTGNMIRUIQN-NTEUORMPSA-N",
+      "UAHWPYUMFXYFJY-UHFFFAOYSA-N",
+      "VYBREYKSZAROCT-UHFFFAOYSA-N",
+      "WEEGYLXZBRQIMU-UHFFFAOYSA-N",
+      "WFMIUXMJJBBOGJ-UHFFFAOYSA-N",
+      "WTWBUQJHJGUZCY-UHFFFAOYSA-N",
+      "YKFLAYDHMOASIY-UHFFFAOYSA-N",
+      "ZFMSMUAANRJZFM-UHFFFAOYSA-N",
+      "ZYEMGPIYFIJGTP-UHFFFAOYSA-N"
+    ],
+    "labels": [
+      "Eicosane",
+      "Isothymol methyl ether",
+      "Humulene",
+      "Heneicosane",
+      "cis-Geraniol",
+      "p-Cymene",
+      "Thymol",
+      "alpha-Terpinolene",
+      "1,4-p-Menthadien-7-al",
+      "Carvacrol",
+      "Eugenol",
+      "Geranyl isovalerate",
+      "Myrcene",
+      "alpha-Myrcene",
+      "Eucalyptol",
+      "Thymyl acetate",
+      "Cumin aldehyde",
+      "gamma-Terpinene",
+      "Estragole",
+      "Methyl eugenol"
+    ]
+  },
+  "functional_group_associations": 13,
+  "interaction_events": 1917,
+  "enrichment": [
+    {
+      "available": false,
+      "reason": "At least 12 structural-cluster/scaffold representatives are required; available 10.",
+      "raw_compounds": 20,
+      "cluster_representatives": 10,
+      "rows": []
+    }
+  ],
+  "repeat_analysis_identical": true,
+  "all_actual_command_boxes_match_selected_pocket": [
+    {
+      "run": 1,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 2,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 3,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 4,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 5,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 6,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 7,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 8,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 9,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 10,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 11,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 12,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 13,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 14,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 15,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 16,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 17,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 18,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 19,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 20,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 21,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 22,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    },
+    {
+      "run": 23,
+      "center": [
+        -1.5173,
+        14.4714,
+        17.4739
+      ],
+      "size": [
+        29.737,
+        23.963,
+        29.95
+      ]
+    }
+  ],
+  "elapsed_seconds": 397.25,
+  "limitations": "Single rigid-receptor target; standard protonation approximation; no side-chain/loop repair or water network analysis. Source coverage is incomplete. No mixture synergy, clinical activity, potency or selectivity inference.",
+  "all_contacts_independently_verified": 1917,
+  "maximum_contact_distance_residual_A": 8.881784197001252e-16,
+  "analysis_method": "Release ontology; independent Morgan/Tanimoto and site Jaccard; no repeated cluster or nonempty Murcko scaffold in enrichment representatives.",
+  "reference_repeat_max_coordinate_difference_A": 0.0,
+  "illustrated_pose_id": 19
+}

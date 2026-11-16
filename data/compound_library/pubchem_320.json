@@ -1,0 +1,17 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 91746712,
+        "SMILES": "C[C@H]1CCC2C1[C@@H]3[C@@H](C3(C)C)CCC24CO4",
+        "InChIKey": "XPGWKKLDFXNBPJ-PVNZKTJZSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "allo-Aromadendrene epoxide",
+    "SCHEMBL30105458",
+    "XPGWKKLDFXNBPJ-PVNZKTJZSA-N",
+    "Q67879602"
+  ]
+}

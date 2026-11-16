@@ -1,0 +1,17 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 102115341,
+        "SMILES": "C/C/1=C/CC(/C=C\\CC(=C)C(CC1)O)(C)C",
+        "InChIKey": "ZHCPVYWHSOILQL-CGBKSYCJSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Humulenol II",
+    "RefChem:1086732",
+    "(4Z,8Z)-6,6,9-TRIMETHYL-2-METHYLIDENECYCLOUNDECA-4,8-DIEN-1-OL",
+    "(+)-Humulenol II"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 21718037,
+        "SMILES": "C[C@@H]1CCC[C@]2([C@H]1C[C@@H](CC2)C(C)(C)O)C",
+        "InChIKey": "YJHVMPKSUPGGPZ-GUIRCDHDSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "51317-08-9",
+    "UNII-EGP3DXQ871",
+    "EGP3DXQ871",
+    "2-((2R,4aR,8R,8aS)-4a,8-dimethyldecahydronaphthalen-2-yl)propan-2-ol",
+    "2-Naphthalenemethanol, decahydro-alpha,alpha,4a,8-tetramethyl-, didehydro deriv. (2R-(2alpha,4aalpha,8abeta))-",
+    "Decahydro-alpha,alpha,4a,8-tetramethyl-2-naphthalenemethanol didehydro deriv. (2R-(2alpha,4aalpha,8abeta))-",
+    "RefChem:35841",
+    "Eudesmol",
+    "3466-63-5",
+    "starbld0008495",
+    "orb1685090",
+    "SCHEMBL29350627",
+    "TJS0161",
+    "AKOS040760041",
+    "TS-10110",
+    "Q27277178",
+    "2-[(2R,4aR,8R,8aS)-4a,8-dimethyl-2,3,4,5,6,7,8,8a-octahydro-1H-naphthalen-2-yl]propan-2-ol"
+  ]
+}

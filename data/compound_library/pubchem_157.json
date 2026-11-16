@@ -1,0 +1,38 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 519954,
+        "SMILES": "CC(=C)C1CCC(CC1)CO",
+        "InChIKey": "GMYHXOPIKMGWOM-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(4-prop-1-en-2-ylcyclohexyl)methanol",
+    "[4-(prop-1-en-2-yl)cyclohexyl]methanol",
+    "(4-(prop-1-en-2-yl)cyclohexyl)methanol",
+    "RefChem:1050382",
+    "trans-Shisool",
+    "cis-isopulegone",
+    "22521-57-9",
+    "18479-64-6",
+    "Shisool",
+    "cis-p-Menth-8-en-7-ol",
+    "trans-p-Menth-8-en-7-ol",
+    "[(1s,4s)-4-(prop-1-en-2-yl)cyclohexyl]methanol",
+    "SCHEMBL3129182",
+    "SCHEMBL6756040",
+    "SCHEMBL10886649",
+    "SCHEMBL27667695",
+    "(4-Isopropenylcyclohexyl)methanol",
+    "GMYHXOPIKMGWOM-AOOOYVTPSA-N",
+    "GMYHXOPIKMGWOM-MGCOHNPYSA-N",
+    "GMYHXOPIKMGWOM-OKXAEBFBSA-N",
+    "DTXSID501268224",
+    "cis-4-isopropenyl-cyclohexylmethanol",
+    "(4-Isopropenylcyclohexyl)methanol #",
+    "cis-4-(1-Methylethenyl)cyclohexanemethanol",
+    "DS-018457"
+  ]
+}

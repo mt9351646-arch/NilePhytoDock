@@ -1,0 +1,29 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6429022,
+        "SMILES": "C[C@H]1CC[C@@H](C2=C1C=CC(=C2)C)C(C)C",
+        "InChIKey": "PGTJIOWQJWHTJJ-QWHCGFSZSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(+)-trans-Calamenene",
+    "XCK5IBT7TK",
+    "Calamenene, trans-(+)-",
+    "40772-39-2",
+    "Naphthalene, 1,2,3,4-tetrahydro-1,6-dimethyl-4-(1-methylethyl)-, (1S,4R)-",
+    "RefChem:1080655",
+    "trans-Calamenene",
+    "(-)-Calamenene",
+    "trans-calamanene",
+    "UNII-XCK5IBT7TK",
+    "(1R,4S)-4-Isopropyl-1,6-dimethyl-1,2,3,4-tetrahydronaphthalene",
+    "SCHEMBL29378083",
+    "PGTJIOWQJWHTJJ-QWHCGFSZSA-N",
+    "DTXSID801378761",
+    "(1S,4R)-4-Isopropyl-1,6-dimethyl-1,2,3,4-tetrahydronaphthalene",
+    "Q67880179"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 12306059,
+        "SMILES": "CC1=C[C@@H]2[C@@H](CCC(=C2CC1)C)C(C)C",
+        "InChIKey": "FUCYIEXQVQJBKY-DZGCQCFKSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "delta-Amorphene",
+    "DTXSID601319098",
+    "189165-79-5",
+    "RefChem:1083121",
+    "DTXCID701748054",
+    "(1S,8aS)-4,7-dimethyl-1-propan-2-yl-1,2,3,5,6,8a-hexahydronaphthalene",
+    ".delta.-Cadinene",
+    "(+)-delta-amorphene",
+    "(+)-.delta.-Cadinene",
+    "Cadina-1(10),4-diene",
+    "I -Amorphene",
+    "1-Isopropyl-4,7-dimethyl-1,2,3,5,6,8a-hexahydronaphthalene #",
+    "SCHEMBL1760779",
+    "[1S,cis]-Naphthalene,1,2,3,5,6,8a-hexahydro-4,7-dimethyl-1-[1-methylethyl]",
+    "FUCYIEXQVQJBKY-DZGCQCFKSA-N",
+    "(1S,8aS)-4,7-dimethyl-1-(propan-2-yl)-1,2,3,5,6,8a-hexahydronaphthalene"
+  ]
+}

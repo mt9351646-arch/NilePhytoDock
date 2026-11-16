@@ -1,0 +1,24 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5835162,
+        "SMILES": "C/C/1=C\\CC/C(=C/CC(CC1)C(=C)C)/C",
+        "InChIKey": "XMRKUJJDDKYUHV-SJRHNVSNSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "germacrene a",
+    "CHEBI:36517",
+    "(1E,4E,7xi)-germacra-1(10),4,11(12)-triene",
+    "DTXSID401037246",
+    "RefChem:143005",
+    "DTXCID101521317",
+    "(1E,5E,8R)-1,5-dimethyl-8-prop-1-en-2-ylcyclodeca-1,5-diene",
+    "Germacren A",
+    "(1E,5E)-1,5-dimethyl-8-prop-1-en-2-ylcyclodeca-1,5-diene",
+    "SCHEMBL29397680",
+    "Q27116867"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 13894537,
+        "SMILES": "C/C/1=C\\CC/C(=C/[C@H]2[C@H](C2(C)C)CC1)/C",
+        "InChIKey": "VPDZRSSKICPUEY-JEPMYXAXSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Bicyclogermacrene",
+    "CHEBI:63709",
+    "RefChem:1079836",
+    "(2E,6E)-3,7,11,11-tetramethylbicyclo(8.1.0)undeca-2,6-diene",
+    "(1R,2E,6E,10S)-3,7,11,11-tetramethylbicyclo(8.1.0)undeca-2,6-diene",
+    "(1R,4E,8E,10S)-4,8,11,11-tetramethylbicyclo(8.1.0)undeca-4,8-diene",
+    "24703-35-3",
+    "SCHEMBL29380574",
+    "DTXSID401377266",
+    "DTXSID601357989",
+    "LMPR0103100001",
+    "C20175",
+    "Q27132747",
+    "Bicyclo[8.1.0]undeca-2,6-diene, 3,7,11,11-tetramethyl-",
+    "67650-90-2"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 87671,
+        "SMILES": "CCC(=C)CCCC(C)(C)O",
+        "InChIKey": "VOATZOQREKBJMT-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "7-Octen-2-ol, 2-methyl-6-methylene-, dihydro deriv.",
+    "RefChem:546931",
+    "2-Methyl-6-methyleneoctan-2-ol",
+    "2-methyl-6-methylideneoctan-2-ol",
+    "2-Methyl-6-methylene-2-octanol",
+    "18479-59-9",
+    "dihydromyrcenol dihydro derivative",
+    "K3X4ZY821W",
+    "2-Octanol, 2-methyl-6-methylene-",
+    "UNII-K3X4ZY821W",
+    "Dihydro myrcenol",
+    "EINECS 242-364-5",
+    "dihydromyrcenol, AldrichCPR",
+    "SCHEMBL613950",
+    "DTXSID40171662",
+    "6-Ethyl-2-methyl-6-hepten-2-ol #",
+    "AKOS006228074",
+    "NS00012252",
+    "Q27281920"
+  ]
+}

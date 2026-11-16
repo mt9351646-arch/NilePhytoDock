@@ -1,0 +1,24 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5319787,
+        "SMILES": "CC1CSSSS1",
+        "InChIKey": "MUHSSCIXCFPQHS-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "5-Methyl-1,2,3,4-tetrathiane",
+    "1,2,3,4-Tetrathiane, 5-methyl-",
+    "116664-30-3",
+    "DTXSID80415759",
+    "5-Methyl-1,2,3,4-tetrathiacyclohexane",
+    "RefChem:103084",
+    "DTXCID50366608",
+    "MUHSSCIXCFPQHS-UHFFFAOYSA-N",
+    "methyl-1,2,3,4-tetrathiane",
+    "SCHEMBL1953341",
+    "1,2,3,4-tetrathia-5-methyl cyclohexane"
+  ]
+}

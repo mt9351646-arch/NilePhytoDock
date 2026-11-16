@@ -1,0 +1,51 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 29075,
+        "SMILES": "CCCCCCCCCCCCCCCCCC=C",
+        "InChIKey": "NHLUYCJZUXOUBX-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "1-NONADECENE",
+    "18435-45-5",
+    "Nonadec-1-ene",
+    "41F44CP2NI",
+    "NSC-77135",
+    "DTXSID0066377",
+    "CHEBI:64503",
+    "RefChem:1056111",
+    "DTXCID6035861",
+    "242-313-7",
+    "Nonadecene",
+    "MFCD00009010",
+    "27400-77-7",
+    "UNII-41F44CP2NI",
+    "EINECS 242-313-7",
+    "EINECS 248-442-5",
+    "NSC 77135",
+    "AI3-36475",
+    "SCHEMBL35078",
+    "SCHEMBL174965",
+    "SCHEMBL445960",
+    "SCHEMBL733058",
+    "SCHEMBL1114864",
+    "SCHEMBL1453502",
+    "SCHEMBL16673619",
+    "NSC77135",
+    "TAA43545",
+    "LMFA11000322",
+    "AKOS028108410",
+    "1-Nonadecene, Standard Material for GC",
+    "BS-22718",
+    "SY053990",
+    "DB-044527",
+    "CS-0196916",
+    "NS00021784",
+    "1-NONADECENE [STANDARD MATERIAL FOR GC]",
+    "F633670",
+    "Q27133324"
+  ]
+}

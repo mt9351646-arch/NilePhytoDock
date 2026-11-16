@@ -1,0 +1,53 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 93199,
+        "SMILES": "CC(=CCCC1=CCC(CC1)C=O)C",
+        "InChIKey": "MQBIZQLCHSZBOI-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Myrac aldehyde",
+    "37677-14-8",
+    "4-(4-Methyl-3-pentenyl)cyclohex-3-ene-1-carbaldehyde",
+    "3-Cyclohexene-1-carboxaldehyde, 4-(4-methyl-3-pentenyl)-",
+    "para-Myrac aldehyde",
+    "Isohexenyl cyclohexenyl carboxaldehyde",
+    "1-Formyl-4-isohexenyl-4-cyclohexene",
+    "EINECS 253-617-4",
+    "1-Formyl-4-ixohexenyl-4-cyclohexene",
+    "4-(4-Methyl-3-penten-1-yl)-3-cyclohexen-1-carboxaldehyde",
+    "4-(4-Methyl-3-penten-1-yl)-3-cyclohexene-1-carboxaldehyde",
+    "DTXSID4052051",
+    "3-Cyclohexene-1-carboxaldehyde, 4-(4-methyl-3-penten-1-yl)-",
+    "4-(4-Methylpent-3-enyl)cyclohex-3-ene-1-carboxaldehyde",
+    "3-Cyclohexene-1-carboxaldehyde, 4-(5-methyl-3-penten-1-yl)-",
+    "RefChem:500739",
+    "DTXCID5030618",
+    "253-617-4",
+    "4-(4-methylpent-3-en-1-yl)cyclohex-3-ene-1-carbaldehyde",
+    "4-(4-methylpent-3-enyl)cyclohex-3-ene-1-carbaldehyde",
+    "4-(4-Methyl-3-pentenyl)-3-cyclohexene-1-carboxaldehyde",
+    "Myrac aldehyde 2",
+    "MFCD00169827",
+    "4-(4-Methyl-3-pentenyl)-3-cyclohexene-1-carbaldehyde",
+    "4-(4-methyl-3-pentenyl)-3-cyclohexenecarbaldehyde",
+    "Emfetal",
+    "p-Myrac aldehyde",
+    "MIRCENAL",
+    "1-(4-methyl-3-pentenyl)-4-formyl-1-cyclohexene",
+    "SCHEMBL214415",
+    "CHEBI:192311",
+    "AKOS006230340",
+    "DA-42604",
+    "LS-14240",
+    "SY113631",
+    "CS-0199114",
+    "NS00012703",
+    "F71271",
+    "F634309",
+    "4-(4-Methyl-3-penten-1-yl)-3-cyclohexen1- carboxaldehyde"
+  ]
+}

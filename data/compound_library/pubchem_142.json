@@ -1,0 +1,52 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 12304985,
+        "SMILES": "C[C@@H]1CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CC[C@@]2(C)O",
+        "InChIKey": "AYXPYQRXGNDJFU-QTPLKFIXSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Globulol",
+    "(-)-Globulol",
+    "489-41-8",
+    "G66H9XM0JK",
+    "DTXSID801318741",
+    "NSC-152470",
+    "(1aR,4R,4aR,7R,7aS,7bS)-1,1,4,7-tetramethyl-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulen-4-ol",
+    "(1AR-(1aalpha,4alpha,4aalpha,7alpha,7abeta,7balpha))-decahydro-1,1,4,7-tetramethyl-1H-cycloprop(e)azulen-4-ol",
+    "(1aR,4R,4aR,7R,7aS,7bS)-1,1,4,7-tetramethyl-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa(e)azulen-4-ol",
+    "RefChem:143488",
+    "1,1,4,7-tetramethyl-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa(e)azulen-4-ol",
+    "DTXCID801748540",
+    "207-696-7",
+    "UNII-G66H9XM0JK",
+    "()-Globulol",
+    "EINECS 207-696-7",
+    "(?)-Globulol",
+    "NSC 152470",
+    "SCHEMBL60792",
+    "GLOBULOL, (-)-",
+    "orb1297357",
+    "CHEMBL2171207",
+    "AYXPYQRXGNDJFU-QTPLKFIXSA-N",
+    "CHEBI:167415",
+    "1H-CYCLOPROP(E)AZULEN-4-OL, DECAHYDRO-1,1,4,7-TETRAMETHYL-, (1AR-(1A.ALPHA.,4.ALPHA.,4A.ALPHA.,7.ALPHA.,7A.BETA.,7B.ALPHA.))-",
+    "HY-N8389",
+    "MFCD00042615",
+    "TN1695",
+    "AKOS040760425",
+    "CS-0143849",
+    "NS00042446",
+    "H27817",
+    "(-)-Globulolsum of enantiomers(Mixture of isomers)",
+    "(-)-Globulol, >=98.5% (sum of enantiomers, GC)",
+    "Q27278826",
+    "(1aR,4a|?,7a|  cent,7b|?)-Decahydro-1,1,4,7|?-tetramethyl-1H-cycloprop[e]azulen-4|?-ol",
+    "(4R,4aR,7R,7aS,7bS)-1,1,4,7-Tetramethyldecahydro-1H-cyclopropa[e]azulen-4-ol",
+    "(1AR-(1A.ALPHA.,4.ALPHA.,4A.ALPHA.,7.ALPHA.,7A.BETA.,7B.ALPHA.))-DECAHYDRO-1,1,4,7-TETRAMETHYL-1H-CYCLOPROP(E)AZULEN-4-OL",
+    "1H-CYCLOPROP(E)AZULEN-4-OL, DECAHYDRO-1,1,4,7-TETRAMETHYL-, (1AR,4R,4AR,7R,7AS,7BS)-"
+  ]
+}

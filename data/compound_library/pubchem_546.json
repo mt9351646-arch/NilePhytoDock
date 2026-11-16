@@ -1,0 +1,23 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 534497,
+        "SMILES": "CC1CCC23C1C4C(C4(C)C)CCC2(O3)C",
+        "InChIKey": "OZNHATCGPKOFBH-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Ledene oxide-(I)",
+    "RefChem:1088406",
+    "3,7,7,10-tetramethyl-2-oxatetracyclo(7.3.0.01,3.06,8)dodecane",
+    "ledene oxide II",
+    "ledene oxide (l)",
+    "Ledene oxide-(II)",
+    "SCHEMBL29682401",
+    "OZNHATCGPKOFBH-UHFFFAOYSA-N",
+    "1,4a,7,7-Tetramethyldecahydrocyclopropa[7,8]azuleno[3a,4-b]oxirene",
+    "1,4a,7,7-Tetramethyldecahydrocyclopropa[7,8]azuleno[3a,4-b]oxirene #"
+  ]
+}

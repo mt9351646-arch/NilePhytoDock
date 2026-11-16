@@ -1,0 +1,35 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6429040,
+        "SMILES": "CC(=C)[C@H]1CCC(=C)[C@@H](C1)O",
+        "InChIKey": "PNVTXOFNJFHXOK-VHSXEESVSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "cis-p-Mentha-1(7),8-dien-2-ol",
+    "13544-59-7",
+    "(1R,5S)-2-methylidene-5-prop-1-en-2-ylcyclohexan-1-ol",
+    "DTXSID80423894",
+    "22626-43-3",
+    "RefChem:126464",
+    "DTXCID40374732",
+    "PNVTXOFNJFHXOK-UHFFFAOYSA-N",
+    "Cyclohexanol, 2-methylene-5-(1-methylethenyl)-, (1R,5S)-",
+    "(1R,5S)-2-methylidene-5-(prop-1-en-2-yl)cyclohexan-1-ol",
+    "(1R,5S)-2-Methylene-5-(prop-1-en-2-yl)cyclohexan-1-ol",
+    "trans-isocarveol",
+    "trans-exo-carveol",
+    "R3Q8HFR2VC",
+    "CHEMBL507840",
+    "SCHEMBL11876152",
+    "EBC-62049",
+    "p-Mentha-1(7),8-dien-2-ol, (-)-trans-",
+    "(-)-(2R,4S)-p-Mentha-1(7),8-dien-2-ol",
+    "EN300-25329529",
+    "(1R,5S)-2-Methylene-5-(1-methylethenyl)cyclohexanol",
+    "2-Methylene-5-(1-methylethenyl)cyclohexanol, (1R,5S)-"
+  ]
+}

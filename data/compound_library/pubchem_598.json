@@ -1,0 +1,50 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 61926,
+        "SMILES": "CSSSCC=C",
+        "InChIKey": "JGMPRNFEEAJLAJ-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Methylallyl trisulfide",
+    "Methyl allyl trisulphide",
+    "MATS",
+    "RefChem:110881",
+    "Trisulfide methyl 2-propenyl",
+    "ALLYL METHYL TRISULFIDE",
+    "34135-85-8",
+    "Methyl allyl trisulfide",
+    "Trisulfide, methyl 2-propenyl",
+    "3-(methyltrisulfanyl)prop-1-ene",
+    "Allyl methyl trisulphide",
+    "Methyl 2-propenyl trisulfide",
+    "Trisulfide, allyl methyl",
+    "1-Allyl-3-methyltrisulfane",
+    "FEMA No. 3253",
+    "1-methyl-3-(prop-2-en-1-yl)trisulfane",
+    "983O8ZL28A",
+    "Methylallyltrisulfide",
+    "C4H8S3",
+    "CCRIS 3265",
+    "EINECS 251-843-8",
+    "UNII-983O8ZL28A",
+    "3-methylsulfanyldisulfanylprop-1-ene",
+    "4,5,6-Trithia-1-heptene",
+    "SCHEMBL534079",
+    "orb1983245",
+    "CHEMBL6134351",
+    "DTXSID30187717",
+    "METHYL ALLYL TRISULFIDE [MI]",
+    "MFCD00040024",
+    "ALLYL METHYL TRISULFIDE [FHFI]",
+    "DB-003719",
+    "HY-134900",
+    "CS-0163777",
+    "NS00054914",
+    "T74050",
+    "Q27272080"
+  ]
+}

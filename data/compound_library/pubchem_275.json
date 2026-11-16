@@ -1,0 +1,47 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 161716,
+        "SMILES": "CC1=CC(=C(C=C1)OC)C(C)C",
+        "InChIKey": "CVUAHQAQHICPSF-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "2-Isopropyl-1-methoxy-4-methylbenzene",
+    "31574-44-4",
+    "2-Isopropyl-4-methylanisole",
+    "1-methoxy-4-methyl-2-propan-2-ylbenzene",
+    "Benzene, 1-methoxy-4-methyl-2-(1-methylethyl)-",
+    "EINECS 250-712-2",
+    "967E4VC54K",
+    "RefChem:562514",
+    "Isothymol methyl ether",
+    "MFCD18967937",
+    "Anisole, 2-isopropyl-4-methyl-",
+    "1-Methoxy-2-isopropyl-4-methylbenzene",
+    "1-Methoxy-4-methyl-2-isopropylbenzene",
+    "1-Methoxy-4-methyl-2-(propan-2-yl)benzene",
+    "1-methoxy-4-methyl-2-(1-methylethyl)-benzene",
+    "2-Isopropyl-4-methylanisol",
+    "Benzene,1-methoxy-4-methyl-2-(1-methylethyl)-",
+    "2-isopropyl-4-methyl anisole",
+    "UNII-967E4VC54K",
+    "DTXSID4052001",
+    "SCHEMBL10238859",
+    "SCHEMBL16951038",
+    "SCHEMBL16951041",
+    "SCHEMBL29591727",
+    "CHEBI:167341",
+    "AKOS016013709",
+    "DS-5588",
+    "2-isopropyl-1-methoxy-4-methyl-benzene",
+    "DB-098720",
+    "CS-0154302",
+    "NS00012740",
+    "C74625",
+    "F323009",
+    "Q67879967"
+  ]
+}

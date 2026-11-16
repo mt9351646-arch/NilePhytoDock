@@ -1,0 +1,31 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 521638,
+        "SMILES": "CCCCCCCCCCCCCCCC(=O)O[Si](C)(C)C",
+        "InChIKey": "HKNNSWCACQFVIK-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "55520-89-3",
+    "RefChem:1086519",
+    "Hexadecanic acid, trimethylsilyl ester",
+    "trimethylsilyl hexadecanoate",
+    "Hexadecanoic acid, trimethylsilyl ester",
+    "Palmitic acid, trimethylsilyl ester",
+    "Palmitic Acid, TMS derivative",
+    "Trimethylsilyl palmitate",
+    "Palmitic acid trimethylsilyl ester",
+    "Palmitic acid, TMS",
+    "palmitic acid tms ester",
+    "Hexadecanoic acid, TMS",
+    "Trimethylsilyl palmitate #",
+    "Hexadecanoic acid, TMS ester",
+    "SCHEMBL11085626",
+    "DTXSID10334702",
+    "DB-327148",
+    "Q63408679"
+  ]
+}

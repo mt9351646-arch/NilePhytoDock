@@ -1,0 +1,38 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 3083613,
+        "SMILES": "CC#CC#CCC1=CC=CC=C1",
+        "InChIKey": "WXQYRBLGGSLJHA-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Capillene",
+    "Benzene, 2,4-hexadiynyl-",
+    "hexa-2,4-diynylbenzene",
+    "520-74-1",
+    "Hexa-2,4-diyn-1-ylbenzene",
+    "DTXSID30199971",
+    "RefChem:1080761",
+    "DTXCID90122462",
+    "Agropyrene",
+    "Capillen",
+    "1-Phenyl-2,4-hexadiyne",
+    "Capilline",
+    "(hexa-2,4-diyn-1-yl)benzene",
+    "2,4-Hexadiynyl-Benzene",
+    "1-phenyl-hexa-2,4-diyne",
+    "2,4-Hexadiyne, 1-phenyl-",
+    "2,4-Hexadiynylbenzene, 9CI",
+    "Benzene, 2,4-hexadiyn-1-yl-",
+    "CHEMBL4470219",
+    "SCHEMBL10889953",
+    "SCHEMBL28568072",
+    "CHEBI:80802",
+    "WXQYRBLGGSLJHA-UHFFFAOYSA-N",
+    "C16927",
+    "Q27149845"
+  ]
+}

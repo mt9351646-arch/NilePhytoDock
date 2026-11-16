@@ -1,0 +1,27 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 572161,
+        "SMILES": "CC(=CC1CC(=C)CCCC1(C)C=C)C",
+        "InChIKey": "UWEJZLPARNBCBM-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "826337-63-7",
+    "Cycloheptane, 1-ethenyl-1-methyl-4-methylene-2-(2-methyl-1-propenyl)-",
+    "DTXSID60341305",
+    "1-ethenyl-1-methyl-4-methylidene-2-(2-methylprop-1-enyl)cycloheptane",
+    "RefChem:1082450",
+    "DTXCID40292386",
+    "Cycloheptane, 4-methylene-1-methyl-2-(2-methyl-1-propen-1-yl)-1-vinyl-",
+    "SCHEMBL26611785",
+    "UWEJZLPARNBCBM-UHFFFAOYSA-N",
+    "1-Methyl-4-methylene-2-(2-methyl-1-propenyl)-1-vinylcycloheptane #",
+    "4-methylene-1-methyl-2-(2-methyl-1-propen-1-yl)-1-vinyl-cycloheptane",
+    "4-methylene-1-methyl-2-(2-methyl-1-propen-1-yl)-1-vinylcycloheptane",
+    "cycloheptane, 4-methylene-1-methyl-2-(2-methyl-1-propen-1-yl)-1-vinyl",
+    "1-ETHENYL-1-METHYL-4-METHYLIDENE-2-(2-METHYLPROP-1-EN-1-YL)CYCLOHEPTANE"
+  ]
+}

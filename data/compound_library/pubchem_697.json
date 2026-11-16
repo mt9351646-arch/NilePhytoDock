@@ -1,0 +1,24 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 561931,
+        "SMILES": "C1CC2C3CCC(C3)C2=C1",
+        "InChIKey": "LXHOZUWYXHJZSN-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "4,7-Methano-1H-indene, 2,4,5,6,7,7a-hexahydro-",
+    "87238-76-4",
+    "DTXSID50340140",
+    "RefChem:286117",
+    "DTXCID70291221",
+    "SCHEMBL890465",
+    "SCHEMBL11220523",
+    "SCHEMBL18300942",
+    "LXHOZUWYXHJZSN-UHFFFAOYSA-N",
+    "tricyclo[5,2,1,0 2,6]dec-2-ene",
+    "2,4,5,6,7,7a-Hexahydro-1H-4,7-methanoindene"
+  ]
+}

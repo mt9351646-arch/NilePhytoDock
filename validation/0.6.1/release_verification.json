@@ -1,0 +1,188 @@
+{
+  "version": "0.6.1",
+  "exe_sha256": "1d63cc3e9d5d631467cea7bbc234200ce7ee823a916c8a4df19a21ce1f92cd90",
+  "entry_point": "X:\\nile\\release\\NilePhytoDock Studio 0.6.1\\NilePhytoDock.exe",
+  "properties": {
+    "CompanyName": "Ahmed G Soliman; Malak Taha",
+    "FileDescription": "NilePhytoDock molecular discovery workspace",
+    "FileVersion": "0.6.1",
+    "InternalName": "NilePhytoDock",
+    "OriginalFilename": "NilePhytoDock.exe",
+    "ProductName": "NilePhytoDock",
+    "ProductVersion": "0.6.1",
+    "LegalCopyright": "Ahmed G Soliman and Malak Taha. Third-party licenses retained."
+  },
+  "matching_embedded_icon_sizes": 7,
+  "shortcut_icons_verified": true,
+  "external_english_documentation": {
+    "Build_and_Methods_EN.docx": "2291522fd980657b8b6f9739d943b5876d704a635bcc12c65eec0ebfab8c8b10",
+    "Build_and_Methods_EN.pdf": "43cdaecd349a39f3f226434cfc52303786f3242f9f8717dcea5cb79379a9fc18",
+    "DATABASE_GUIDE.md": "f8f2b0df301c62f8d0ae5db6dbf11df5028d8752a83971f291ad22358a08c3b4",
+    "DEVELOPER_GUIDE.md": "ae92301cccb03717a139f90c530b6e0c48d0f87e6b43270be022161bc03307e6",
+    "DEVELOPMENT_STATUS.md": "4ba24ad18028d0be1342fd2aca274936362a866d4774afd0453adfd86ab60c46",
+    "INSTALLATION.md": "7f0d90f332d59bc7549bac10679edcabd71e6536ba04ffcb7ea7e93fa5481b18",
+    "Literature_Catalog_EN.csv": "de4466ef58dc9222b6e5114ef7ed9a76a4d255bd247df7bb6f48b4da0e82ee11",
+    "Literature_Observations_EN.csv": "68232c8983c173f04759f8666c58d06341e357792982cf8186491345ba43fd4e",
+    "NilePhytoDock_Case_Study.docx": "75f196c0227ced60118fcc70dc1daa52752b48742546380d97cca4b248c7cc5b",
+    "NilePhytoDock_Case_Study.pdf": "1bd99134f1e1fa8f6b4b508856c07565a83f7baea2d8e9726d42ae5726d5690c",
+    "NilePhytoDock_Complete_Software_Summary.docx": "223b29ae0ff3fea2090ff03ca7dce178aab7f48eb30fabde26c6792166d73dfe",
+    "NilePhytoDock_Complete_Software_Summary.md": "d28bdc3f061eaa2ed2565f2c0e6a8fc6960b63757f6418516daf75ccfd476bd8",
+    "Results_3D_0_6_1.png": "538be527113c16d3e167a28d3e3711af082206875e3d5f52380c596744d64e7d",
+    "Results_and_3D_Guide_EN.md": "a9dd898dee2e4d32439d100091edcf714cd2c5aa340638ca0545ae3f27b579e5",
+    "Results_Groups_0_6_1.png": "b5f6cb884c3f0738ff5790a65913dd9640b419cc3105e9ff11d5b73b0d740de9",
+    "Results_Oil_0_6_1.png": "1e3e03e213a8587c4c7333ccbb65e3e623e5d27d231086484a830d0907156833",
+    "SCIENTIFIC_METHODOLOGY.md": "060c3ac3dab877dfbe7491e610fb53497872d1189b12be33bb27627b2d940579",
+    "TROUBLESHOOTING.md": "dbe95aa7a4b541e465c6c8b6eeff3c135d1d5b7d7746f120e40ad8cda491fa3c",
+    "USER_GUIDE.md": "3a98be98fcdfbc1e5dba92b32eca17c60882234c8da0701b919182610fcfa28c",
+    "User_Guide_EN.docx": "c67c907e6b0f6738ad239eb14cd5d1caefe5c5059c3fa5d28964195d69de4bf1",
+    "User_Guide_EN.pdf": "b30b2f331348cfe472013da8aa148b592fceaefaca95fe15920b947342bb28e0",
+    "VALIDATION_REPORT.md": "2e1b79d3fdb8ca1ae4acf413dc6eefd57e1b19f9bc7b4cc18d857c5101675bff"
+  },
+  "manuals_not_embedded": true,
+  "counts": {
+    "botanical_oils": 57,
+    "essential_oils": 46,
+    "fixed_oils": 11,
+    "species": 68,
+    "profiles": 119,
+    "compounds": 819,
+    "ready": 186,
+    "unique_ready": 164,
+    "records": 2109
+  },
+  "seed_contains_no_projects": true,
+  "ready_structure_inchikeys_and_portable_files_verified": 164,
+  "own_resources_match_source": [
+    "app/resources/3Dmol-min.js",
+    "app/resources/molecular_viewer.html",
+    "app/resources/molecular_viewer.js",
+    "app/resources/plotly.min.js",
+    "app/resources/brand/NilePhytoDock-logo.png",
+    "app/resources/brand/NilePhytoDock-Studio.ico",
+    "app/resources/brand/NilePhytoDock.ico",
+    "app/resources/nav/0.svg",
+    "app/resources/nav/1.svg",
+    "app/resources/nav/10.svg",
+    "app/resources/nav/11.svg",
+    "app/resources/nav/12.svg",
+    "app/resources/nav/2.svg",
+    "app/resources/nav/3.svg",
+    "app/resources/nav/4.svg",
+    "app/resources/nav/5.svg",
+    "app/resources/nav/6.svg",
+    "app/resources/nav/7.svg",
+    "app/resources/nav/8.svg",
+    "app/resources/nav/9.svg"
+  ],
+  "native_installation": {
+    "success": true,
+    "version": "0.6.1",
+    "engine_health": {
+      "Smina": {
+        "ok": true,
+        "version": "smina 2020.12.10 conda-forge:b08c07c     Built Jan 30 2021.  Based on AutoDock Vina 1.1.2."
+      },
+      "Java": {
+        "ok": true,
+        "version": "openjdk version \"17.0.19\" 2026-04-21\nOpenJDK Runtime Environment Temurin-17.0.19+10 (build 17.0.19+10)\nOpenJDK 64-Bit Server VM Temurin-17.0.19+10 (build 17.0.19+10, mixed mode)"
+      },
+      "P2Rank": {
+        "ok": true,
+        "version": "P2Rank 2.5.1\n\nHome: X:\\nile\\release\\NilePhytoDock Studio 0.6.1\\_internal\\external_tools\\p2rank\nJVM: OpenJDK 64-Bit Server VM 17.0.19+10 Eclipse Adoptium\nOS: Windows 11 (Version: 10.0, Arch: amd64)\nCPUs: 8\nMax Memory: 2 GiB"
+      },
+      "rdkit": {
+        "ok": true,
+        "version": "2026.9.1"
+      },
+      "prolif": {
+        "ok": true,
+        "version": "2.2.3"
+      },
+      "PySide6": {
+        "ok": true,
+        "version": "6.12.0"
+      },
+      "openbabel-wheel": {
+        "ok": true,
+        "version": "3.1.1.23"
+      }
+    },
+    "counts": {
+      "botanical_oils": 57,
+      "essential_oils": 46,
+      "fixed_oils": 11,
+      "species": 68,
+      "profiles": 119,
+      "compounds": 819,
+      "ready": 186,
+      "unique_ready": 164,
+      "records": 2109
+    },
+    "project_id": 1,
+    "project_folder": "X:\\nile\\data\\validation\\release_0.6.1\\install\\Actual_HPLC_screening",
+    "actual_docking_runs": 3,
+    "run_ids": [
+      1,
+      2,
+      3
+    ],
+    "command_boxes": [
+      {
+        "center": [
+          -1.5173,
+          14.4714,
+          17.4739
+        ],
+        "dimensions": [
+          29.737,
+          23.963,
+          29.95
+        ],
+        "elapsed": 5.89100000000326
+      },
+      {
+        "center": [
+          -1.5173,
+          14.4714,
+          17.4739
+        ],
+        "dimensions": [
+          29.737,
+          23.963,
+          29.95
+        ],
+        "elapsed": 6.219000000040978
+      },
+      {
+        "center": [
+          -1.5173,
+          14.4714,
+          17.4739
+        ],
+        "dimensions": [
+          29.737,
+          23.963,
+          29.95
+        ],
+        "elapsed": 7.60899999999674
+      }
+    ],
+    "hplc_units_preserved": true,
+    "hplc_oil_index_suppressed": true,
+    "english_ui_and_no_guide_buttons": true,
+    "elapsed_seconds": 51.60899999999674,
+    "frozen": true,
+    "project_complete": true,
+    "all_report_formats_verified": true,
+    "native_3d_atom_mapping_verified": true,
+    "native_3d_contacts": 54,
+    "offline_plotly_rendered": true,
+    "oil_first_results_verified": true,
+    "functional_group_summary_verified": true,
+    "dedicated_3d_page": true,
+    "separate_fullscreen_3d_window": true
+  },
+  "windows_10_tested": false,
+  "clean_vm_tested": false,
+  "code_signed": false
+}

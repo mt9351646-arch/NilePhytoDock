@@ -1,0 +1,20 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 535296,
+        "SMILES": "CC1(CCCC2(C3C1C2C(=C)C(=O)C3)C)C",
+        "InChIKey": "MIJOZYYZCMBCHF-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Longipinocarvone",
+    "2,6,6-trimethyl-9-methylidenetricyclo[5.4.0.02,8]undecan-10-one",
+    "2,6,6-trimethyl-9-methylidenetricyclo(5.4.0.02,8)undecan-10-one",
+    "RefChem:154036",
+    "65556-52-7",
+    "MIJOZYYZCMBCHF-UHFFFAOYSA-N",
+    "SCHEMBL30105489"
+  ]
+}

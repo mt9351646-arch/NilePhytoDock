@@ -1,0 +1,27 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 524198,
+        "SMILES": "CC(C)C12CC1C(=C)C=C2",
+        "InChIKey": "LBVRQJWOZIMWNY-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "1-Isopropyl-4-methylenebicyclo[3.1.0]hex-2-ene",
+    "36262-09-6",
+    "DTXSID701037326",
+    "1-Isopropyl-4-methylenebicyclo(3.1.0)hex-2-ene",
+    "RefChem:1055665",
+    "DTXCID401521378",
+    "4-methylidene-1-propan-2-ylbicyclo(3.1.0)hex-2-ene",
+    "thuja-2,4(10)-diene",
+    "Dehydrosabinene",
+    "2,4(10)-Thujadiene",
+    "Bicyclo[3.1.0]hex-2-ene, 4-methylene-1-(1-methylethyl)-",
+    "SCHEMBL14837187",
+    "LBVRQJWOZIMWNY-UHFFFAOYSA-N",
+    "4-Methylene-1-(1-methylethyl)-bicyclo[3.1.0]hex-2-ene"
+  ]
+}

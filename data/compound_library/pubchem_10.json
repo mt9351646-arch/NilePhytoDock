@@ -1,0 +1,34 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 11744854,
+        "SMILES": "CC(C)[C@]12CC[C@@]([C@H]1C2)(C)O",
+        "InChIKey": "KXSDPILWMGFJMM-OPRDCNLKSA-N"
+      },
+      {
+        "CID": 20055523,
+        "SMILES": "CC(C)[C@@]12CC[C@]([C@@H]1C2)(C)O",
+        "InChIKey": "KXSDPILWMGFJMM-GUBZILKMSA-N"
+      },
+      {
+        "CID": 62367,
+        "SMILES": "CC(C)C12CCC(C1C2)(C)O",
+        "InChIKey": "KXSDPILWMGFJMM-UHFFFAOYSA-N"
+      },
+      {
+        "CID": 12315152,
+        "SMILES": "CC(C)[C@@]12CC[C@](C1C2)(C)O",
+        "InChIKey": "KXSDPILWMGFJMM-AGROOBSYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "cis-Sabinene hydrate",
+    "(Z)-Sabinene hydrate",
+    "(Z)-4-thujanol",
+    "SCHEMBL874181",
+    "LMPR0102120006",
+    "C02462"
+  ]
+}

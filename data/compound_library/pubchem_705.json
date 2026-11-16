@@ -1,0 +1,71 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5356544,
+        "SMILES": "CC(=CCC/C(=C\\CC[C@@](C)(C=C)O)/C)C",
+        "InChIKey": "FQTLCLSUCSAZDY-QKXCFHHRSA-N"
+      },
+      {
+        "CID": 5284507,
+        "SMILES": "CC(=CCC/C(=C/CCC(C)(C=C)O)/C)C",
+        "InChIKey": "FQTLCLSUCSAZDY-SDNWHVSQSA-N"
+      },
+      {
+        "CID": 8888,
+        "SMILES": "CC(=CCCC(=CCCC(C)(C=C)O)C)C",
+        "InChIKey": "FQTLCLSUCSAZDY-UHFFFAOYSA-N"
+      },
+      {
+        "CID": 70702,
+        "SMILES": "CC(=CCCC(=CCC[C@@](C)(C=C)O)C)C",
+        "InChIKey": "FQTLCLSUCSAZDY-OAHLLOKOSA-N"
+      },
+      {
+        "CID": 5320128,
+        "SMILES": "CC(=CCC/C(=C\\CCC(C)(C=C)O)/C)C",
+        "InChIKey": "FQTLCLSUCSAZDY-KAMYIIQDSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "d-Nerolidol",
+    "(+)-Nerolidol",
+    "Peruviol",
+    "(3S,6Z)-3,7,11-trimethyldodeca-1,6,10-trien-3-ol",
+    "142-50-7",
+    "(s)-nerolidol",
+    "(S)-cis-Nerolidol",
+    "1,6,10-Dodecatrien-3-ol, 3,7,11-trimethyl-, (3S,6Z)-",
+    "Nerolidol, (6Z)-(+)-",
+    "NSC60598",
+    "NSC-60598",
+    "NSC406963",
+    "Nerolidol (VAN)",
+    "(+)-cis-Nerolidol",
+    "1,6,10-Dodecatrien-3-ol, 3,7,11-trimethyl-",
+    "1,10-Dodecatrien-3-ol, 3,7,11-trimethyl-, [S-(Z)]-",
+    "UNII-89V5Z0JC8J",
+    "Nerolidiol",
+    "1,10-Dodecatrien-3-ol, 3,7,11-trimethyl-, (Z)-(S)-(+)-",
+    "MFCD00085350",
+    "EINECS 205-540-2",
+    "NSC 406963",
+    "(3S,6Z)-nerolidol",
+    "(6Z)-(+)-nerolidol",
+    "(6Z)-3,7,11-Trimethyl-1,6,10-dodecatrien-3-ol",
+    "CHEMBL561014",
+    "SCHEMBL6514677",
+    "DTXSID4047048",
+    "CHEBI:176337",
+    "FQTLCLSUCSAZDY-QKXCFHHRSA-N",
+    "NSC-406963",
+    "NS00079240",
+    "Q27270067",
+    "(3S,6Z)-3,7,11-trimethyl-1,6,10-dodecatrien-3-ol",
+    "(Z)-(S)-(+)-3,7,11-trimethyl-1,6,10-Dodecatrien-3-ol",
+    "3,7,11-Trimethyl-(3S,6Z)-(+)-1,6,10-Dodecatrien-3-ol",
+    "3,7,11-Trimethyl-(Z)-(S)-(+)-1,6,10-Dodecatrien-3-ol",
+    "1,6,10-Dodecatrien-3-ol, 3,7,11-trimethyl-, (3S,6Z)-(+)-"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 10899740,
+        "SMILES": "C[C@@H]1CC[C@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CCC2=C",
+        "InChIKey": "ITYNGVSTWVVPIC-DHGKCCLASA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Alloaromadendrene",
+    "25246-27-9",
+    "(1aR,4aS,7R,7aR,7bS)-1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulene",
+    "(1aR,4aS,7R,7aR,7bS)-1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa(e)azulene",
+    "RefChem:915416",
+    "(1aS,4aR,7S,7aS,7bR)-1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa(e)azulene",
+    "866-284-0",
+    "(1aR,4aS,7R,7aS,7bS)-1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa(e)azulene",
+    "(-)-Alloaromadendrene",
+    "(-)-allo-Aromadendrene",
+    "ALLOAKUMADENDRENE",
+    "orb2567045",
+    "CHEMBL3120657",
+    "SCHEMBL17627728",
+    "DTXSID70881267",
+    "CHEBI:228351",
+    "ITYNGVSTWVVPIC-DHGKCCLASA-N",
+    "AKOS015914134",
+    "LMPR0103430003",
+    "(1aR,4aS,7R,7aR,7bS)-1,1,7-trimethyl-4-methylidene-decahydro-1H-cyclopropa[e]azulene",
+    "DB-234598",
+    "HY-125134",
+    "CS-0089442",
+    "NS00113748",
+    "T85633",
+    "Q63408945",
+    "(-)-Alloaromadendrene, >=98.0% (sum of enantiomers, GC)",
+    "(1aR,4aS,7R,7aR,7bS)-1,1,7-Trimethyl-4-methylidenedecahydro-1H-cyclopropa[e]azulene",
+    "(1Ar,4as,7r,7ar,7bs)-decahydro-1,1,7-trimethyl-4-methylene-1H-cycloprop[e]azulene",
+    "[1aR-(1aalpha,4abeta,7alpha,7abeta,7balpha)]-decahydro-1,1,7-trimethyl-4-methylene-1H-cycloprop[e]azulene",
+    "1H-cycloprop[e]azulene,decahydro-1,1,7-trimethyl-4-methylene-,[1aR-(1aalpha,4abeta,7alpha,7abeta,7balpha)]-",
+    "cycloprop[e]azulene, decahydro-1,1,7-trimethyl-4-methylene-, [1aR-(1aalpha,4abeta,7alpha,7abeta,7balpha)]-"
+  ]
+}

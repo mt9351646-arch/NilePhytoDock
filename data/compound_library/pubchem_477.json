@@ -1,0 +1,41 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 3001497,
+        "SMILES": "C1[C@@H]2[C@@H]3[C@@H]([C@H]([C@@H](O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C6=C5[C@@H]7C(=CC(=O)[C@@](C7(O)O)(O6)O)C(=O)O3)O)O)OC(=O)C8=CC(=C(C(=C8C9=C(C(=C(C=C9C(=O)O1)O)O)O)O)O)O",
+        "InChIKey": "JQQBXPCJFAKSPG-SVYIMCMUSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Geraniin",
+    "60976-49-0",
+    "DTXSID101030289",
+    "[(1R,7R,8S,26R,28S,29R,38R)-1,13,14,15,18,19,20,34,35,39,39-undecahydroxy-2,5,10,23,31-pentaoxo-6,9,24,27,30,40-hexaoxaoctacyclo[34.3.1.04,38.07,26.08,29.011,16.017,22.032,37]tetraconta-3,11,13,15,17,19,21,32,34,36-decaen-28-yl] 3,4,5-trihydroxybenzoate",
+    "((1R,7R,8S,26R,28S,29R,38R)-1,13,14,15,18,19,20,34,35,39,39-undecahydroxy-2,5,10,23,31-pentaoxo-6,9,24,27,30,40-hexaoxaoctacyclo(34.3.1.04,38.07,26.08,29.011,16.017,22.032,37)tetraconta-3,11,13,15,17,19,21,32,34,36-decaen-28-yl) 3,4,5-trihydroxybenzoate",
+    "beta-D-Glucopyranose, cyclic 3,6-(4,4',5,5',6,6'-hexahydroxy(1,1'-biphenyl)-2,2'-dicarboxylate) 1-(3,4,5-trihydroxybenzoate), cyclic 2-2:4-1-ester with 2-(2-carboxy-4,5,6-trioxo-2-cyclohexen-1-yl)-3,4,5-trihydroxybenzoic acid",
+    "RefChem:922173",
+    "DTXCID901515386",
+    "CHEMBL506069",
+    "MFCD09038731",
+    "Geraniiin",
+    "C10230",
+    "C41H28O27",
+    "CHEBI:5328",
+    "SCHEMBL29433964",
+    "SCHEMBL29810267",
+    "JQQBXPCJFAKSPG-SVYIMCMUSA-N",
+    "(57R,58S,510R,511R,519S)-14,15,16,24,25,26,52,53,516,517,517-Undecahydroxy-55,513,515,3,8-pentaoxo-55,57,58,510,511,513,515,516,517,517a-decahydro-4,7-dioxa-5(19,10)-1,16-epoxy-7,11-methanodibenzo[i,k][1,4,7]trioxacyclotridecina-1,2(1,2)-dibenzenacyclooctaphane-58-yl 3,4,5-trihydroxybenzoate",
+    "BDBM50242278",
+    "MSK180397",
+    "AKOS015965424",
+    "AC-8425",
+    "MG74023",
+    "DA-63742",
+    "SY231951",
+    "Q5549854",
+    "[undecahydroxy(pentaoxo)[?]yl] 3,4,5-trihydroxybenzoate",
+    ".beta.-D-Glucopyranose, cyclic 2.fwdarw.7:4.fwdarw.5-(3,6-dihydro-2,9,10,11,11-pentahydroxy-3-oxo-2,6-methano-2H-1-benzoxocin-5,7-dicarboxylate)cyclic 3,6-(4,4',5,5',6,6'-hexahydroxy[1,1'-biphenyl]-2,2'-dicarboxylate) 1-(3,4,5-trihydroxybenzoate), stereoisomer"
+  ]
+}

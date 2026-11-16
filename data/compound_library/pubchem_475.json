@@ -1,0 +1,42 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5487461,
+        "SMILES": "C1[C@H]([C@@H]([C@H]([C@@H](O1)OC2=C(C3=C4C(=C2)C(=O)OC5=C4C(=CC(=C5O)O)C(=O)O3)O)O)O)O",
+        "InChIKey": "KNURQRIPZJJYQO-PJIMMEPBSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Ellagic acid 4-O-xylopyranoside",
+    "139163-18-1",
+    "Ellagic acid-4-O-beta-D-xylopyranoside",
+    "EABXP",
+    "DTXSID30160949",
+    "6,7,14-trihydroxy-13-[(2S,3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl]oxy-2,9-dioxatetracyclo[6.6.2.04,16.011,15]hexadeca-1(15),4,6,8(16),11,13-hexaene-3,10-dione",
+    "6,7,14-trihydroxy-13-((2S,3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl)oxy-2,9-dioxatetracyclo(6.6.2.04,16.011,15)hexadeca-1(15),4,6,8(16),11,13-hexaene-3,10-dione",
+    "RefChem:136518",
+    "DTXCID2083440",
+    "ellagic acid pentoside",
+    "Ellagic acid 4-O-|A-D-xylopyranoside",
+    "Ellagic acid 4-O-beta-D-xylopyranoside",
+    "ellagic acid-pentoside",
+    "orb1981891",
+    "CHEMBL1939391",
+    "SCHEMBL29583243",
+    "4'-O-xlyopyranosyl ellagic acid",
+    "CHEBI:167700",
+    "ellagic acid-4-O-D-xylopyranoside",
+    "HY-N10741",
+    "DA-63156",
+    "FS-10575",
+    "CS-0634321",
+    "G88929",
+    "T75546",
+    "trihydroxy-[(2S,3R,4S,5R)-3,4,5-trihydroxytetrahydropyran-2-yl]oxy-[?]dione",
+    "(1)Benzopyrano(5,4,3-cde)(1)benzopyran-5,10-dione, 2,3,8-trihydroxy-7-(beta-D-xylopyranosyloxy)-",
+    "2,3,8-Trihydroxy-7-(((2S,3R,4S,5R)-3,4,5-trihydroxytetrahydro-2H-pyran-2-yl)oxy)chromeno[5,4,3-cde]chromene-5,10-dione",
+    "3,7,8-Trihydroxy-5,10-dioxo-5,10-dihydro[1]benzopyrano[5,4,3-cde][1]benzopyran-2-yl beta-D-xylopyranoside"
+  ]
+}

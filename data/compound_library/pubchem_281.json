@@ -1,0 +1,44 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 62566,
+        "SMILES": "CC(C)[C@@H]1CC[C@@]2([C@H]1[C@@H]3[C@H]2CCC3=C)C",
+        "InChIKey": "YIRAHEODBQONHI-ZQNQSHIBSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "beta-Bourbonene",
+    "KIZ51R7NTL",
+    "5208-59-3",
+    "NSC-288727",
+    "(1S,2R,6S,7R,8S)-1-methyl-5-methylidene-8-propan-2-yltricyclo[5.3.0.02,6]decane",
+    "(1S,2R,6S,7R,8S)-1-methyl-5-methylidene-8-propan-2-yltricyclo(5.3.0.02,6)decane",
+    "RefChem:567262",
+    "(-)-beta-Bourbonene",
+    "UNII-KIZ51R7NTL",
+    "Bourbonene, beta-",
+    "Decahydroisopropylmethylmethylenecyclobuta(1,2:3,4)dicyclopentene",
+    "(-)-.beta.-Bourbonene",
+    "1,2,3,3a,3bbeta,4,5,6,6abeta,6balpha-decahydro-1alpha-isopropyl-3aalpha-methyl-6-methylenecyclobuta(1,2:3,4)dicyclopentene",
+    "Cyclobuta(1,2:3,4)dicyclopentene, 1,2,3,3a,3bbeta,4,5,6,6abeta,6balpha-decahydro-1alpha-isopropyl-3aalpha-methyl-6-methylene",
+    "Cyclobuta(1,2:3,4)dicyclopentene, decahydro-3a-methyl-6-methylene-1-(1-methylethyl)-, (1S-(1alpha,3aalpha,3bbeta,6abeta,6balpha))-",
+    "Decahydro-3a-methyl-6-methylene-1-(1-methylethyl)cyclobuta(1,2:3,4)dicyclopentene, (1S-(1alpha,3aalpha,3bbeta,6abeta,6balpha))-",
+    "b-bourbonene",
+    "(1S,3aS,3bR,6aS,6bR)-1-Isopropyl-3a-methyl-6-methylenedecahydrocyclobuta[1,2:3,4]di[5]annulene",
+    "beta-bourbenene",
+    "(Z)-beta-bourbonene",
+    "(E)-.beta.-Bourbonene",
+    "orb3141550",
+    "SCHEMBL30698238",
+    "HY-N12983",
+    "LMPR0103870001",
+    "NSC 288727",
+    "TN11140",
+    "CS-1099823",
+    "NS00022284",
+    "1,2,3,3A,3B.BETA.,4,5,6,6A.BETA.,6B.ALPHA.-DECA-HYDRO-L.ALPHA.-ISOPROPYL-3AA-METHYL-6-METHYLENE-CYCLOBUTA (1,2:3,4) DICYCLOPENTENE",
+    "CYCLOBUTA(1,2:3,4)DICYCLOPENTENE, DECAHYDRO-3A-METHYL-6-METHYLENE-1-(1-METHYLETHYL)-, (1S,3AS,3BR,6AS,6BR)-"
+  ]
+}

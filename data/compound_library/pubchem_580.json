@@ -1,0 +1,28 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 519960,
+        "SMILES": "CC(C)C1CCC2(C3C1C4C2(C4C3)C)C",
+        "InChIKey": "XBWACJDEQIZTPR-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "cyclosativene",
+    "1,2,4-Metheno-1H-indene, octahydro-1,7a-dimethyl-5-(1-methylethyl)-, [1S-(1.alpha.,2.alpha.,3a.beta.,4.alpha.,5.alpha.,7a.beta.,8S*)]-",
+    "(1S,2S,3aR,4R,5S,7aS,8R)-5-Isopropyl-1,7a-dimethyloctahydro-1H-1,2,4-(epimethanetriyl)indene",
+    "1,2,4-Metheno-1H-indene, octahydro-1,7a-dimethyl-5-(1-methylethyl)-, (1S,2S,3aR,4R,5S,7aS,8R)-",
+    "1,2.alpha.,4-Methenoindan, 3a.beta.,4.beta.,5,6,7,7a-hexahydro-5.alpha.-isopropyl-1.beta.,7a.beta.-dimethyl-",
+    "1,2-dimethyl-8-propan-2-yltetracyclo(4.4.0.02,4.03,7)decane",
+    "1,2-dimethyl-8-propan-2-yltetracyclo[4.4.0.02,4.03,7]decane",
+    "RefChem:129967",
+    "1,2,4-Metheno-1H-indene, octahydro-1,7a-dimethyl-5-(1-methylethyl)-, (1S-(1alpha,2alpha,3abeta,4alpha,5alpha,7abeta,8S*))-",
+    "1,2alpha,4-Methenoindan, 3abeta,4beta,5,6,7,7a-hexahydro-5alpha-isopropyl-1beta,7abeta-dimethyl-",
+    "XBWACJDEQIZTPR-UHFFFAOYSA-N",
+    "cycloisosativene",
+    "SCHEMBL30105469",
+    "1,2-dimethyl-8-(propan-2-yl)tetracyclo[4.4.0.0?,?.0?,?]decane",
+    "1,2,4-metheno-1H-indene, octahydro-1,7a-dimethyl-5-(1-methylethyl)"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 534398,
+        "SMILES": "CC1CCC2C1C3C(C3(C)C)CC4C2(O4)C",
+        "InChIKey": "GLKQAHXBJLGAFT-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Isoaromadendrene epoxide",
+    "2,7,7,10-tetramethyl-3-oxatetracyclo(7.3.0.02,4.06,8)dodecane",
+    "2,7,7,10-tetramethyl-3-oxatetracyclo[7.3.0.02,4.06,8]dodecane",
+    "RefChem:149022",
+    "499134-59-7",
+    "GLKQAHXBJLGAFT-UHFFFAOYSA-N",
+    "iso-aromadendrene epoxide",
+    "1,3b,6,6-Tetramethyldecahydro-1H-cyclopropa[7,8]azuleno[4,5-b]oxirene",
+    "Q67879937",
+    "1,3b,6,6-Tetramethyldecahydro-1H-cyclopropa[7,8]azuleno[4,5-b]oxirene #"
+  ]
+}

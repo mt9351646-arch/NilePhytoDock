@@ -1,0 +1,28 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 90806,
+        "SMILES": "CC1=CCC(CC1)C2(CCC(C(O2)(C)C)O)C",
+        "InChIKey": "WJHRAVIQWFQMKF-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "2,2,6-trimethyl-6-(4-methylcyclohex-3-en-1-yl)oxan-3-ol",
+    "DTXSID90945219",
+    "RefChem:1059043",
+    "DTXCID001035555",
+    "alpha-Bisabolol oxide A",
+    "Tetrahydro-2,2,6-trimethyl-6-(4-methyl-3-cyclohexen-1-yl)-2H-pyran-3-ol",
+    "58437-68-6",
+    "Bisabolol oxide I",
+    "alpha-Bisabolol oxide",
+    "(-)-alpha-Bisabolol oxide A",
+    "EINECS 261-249-0",
+    "SCHEMBL14879741",
+    "CHEBI:197106",
+    "DB-309406",
+    "NS00050928"
+  ]
+}

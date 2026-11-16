@@ -1,0 +1,178 @@
+{
+  "version": "0.6.0",
+  "exe_sha256": "1692213f95a3519c9b59650a71599f46ef0db49fdf36adbd4d7fe497d202e8ee",
+  "entry_point": "X:\\nile\\release\\NilePhytoDock Studio 0.6.0\\NilePhytoDock.exe",
+  "properties": {
+    "CompanyName": "Ahmed G Soliman; Malak Taha",
+    "FileDescription": "NilePhytoDock molecular discovery workspace",
+    "FileVersion": "0.6.0",
+    "InternalName": "NilePhytoDock",
+    "OriginalFilename": "NilePhytoDock.exe",
+    "ProductName": "NilePhytoDock",
+    "ProductVersion": "0.6.0",
+    "LegalCopyright": "Ahmed G Soliman and Malak Taha. Third-party licenses retained."
+  },
+  "matching_embedded_icon_sizes": 7,
+  "shortcut_icons_verified": true,
+  "external_english_documentation": {
+    "Build_and_Methods_EN.docx": "2291522fd980657b8b6f9739d943b5876d704a635bcc12c65eec0ebfab8c8b10",
+    "Build_and_Methods_EN.pdf": "43cdaecd349a39f3f226434cfc52303786f3242f9f8717dcea5cb79379a9fc18",
+    "DATABASE_GUIDE.md": "f8f2b0df301c62f8d0ae5db6dbf11df5028d8752a83971f291ad22358a08c3b4",
+    "DEVELOPER_GUIDE.md": "18523b0ea3b90f64a046ec318747933589bf77a6ed80ecd999e40e43d0f3f837",
+    "DEVELOPMENT_STATUS.md": "8f0b90c351d6901cf110ce17ed02b4823c3b0ab96db5a69479b4d0bb7579a81c",
+    "INSTALLATION.md": "c95005733b7bb91ae3294179e1da35dab1db09242399052d5e3e9ad6c1d73cb7",
+    "Literature_Catalog_EN.csv": "de4466ef58dc9222b6e5114ef7ed9a76a4d255bd247df7bb6f48b4da0e82ee11",
+    "Literature_Observations_EN.csv": "68232c8983c173f04759f8666c58d06341e357792982cf8186491345ba43fd4e",
+    "NilePhytoDock_Case_Study.docx": "75f196c0227ced60118fcc70dc1daa52752b48742546380d97cca4b248c7cc5b",
+    "NilePhytoDock_Case_Study.pdf": "1bd99134f1e1fa8f6b4b508856c07565a83f7baea2d8e9726d42ae5726d5690c",
+    "NilePhytoDock_Complete_Software_Summary.docx": "223b29ae0ff3fea2090ff03ca7dce178aab7f48eb30fabde26c6792166d73dfe",
+    "NilePhytoDock_Complete_Software_Summary.md": "c9db9771e9ce43c58aed9fb0905dc15bbf6cd8f9d64627536fbcdc631dc23897",
+    "SCIENTIFIC_METHODOLOGY.md": "060c3ac3dab877dfbe7491e610fb53497872d1189b12be33bb27627b2d940579",
+    "TROUBLESHOOTING.md": "dbe95aa7a4b541e465c6c8b6eeff3c135d1d5b7d7746f120e40ad8cda491fa3c",
+    "USER_GUIDE.md": "d3fc15851bd9ddf57b2c9e6622a7ae739e0905c187cef67edcf417a98d31fd0a",
+    "User_Guide_EN.docx": "c67c907e6b0f6738ad239eb14cd5d1caefe5c5059c3fa5d28964195d69de4bf1",
+    "User_Guide_EN.pdf": "b30b2f331348cfe472013da8aa148b592fceaefaca95fe15920b947342bb28e0",
+    "VALIDATION_REPORT.md": "2208042218e3796fa681ea178d70469f2f6db87c6fc10deaaa32d753adaac8d8"
+  },
+  "manuals_not_embedded": true,
+  "counts": {
+    "botanical_oils": 57,
+    "essential_oils": 46,
+    "fixed_oils": 11,
+    "species": 68,
+    "profiles": 119,
+    "compounds": 819,
+    "ready": 186,
+    "unique_ready": 164,
+    "records": 2109
+  },
+  "seed_contains_no_projects": true,
+  "ready_structure_inchikeys_and_portable_files_verified": 164,
+  "own_resources_match_source": [
+    "app/resources/3Dmol-min.js",
+    "app/resources/molecular_viewer.html",
+    "app/resources/molecular_viewer.js",
+    "app/resources/plotly.min.js",
+    "app/resources/brand/NilePhytoDock-logo.png",
+    "app/resources/brand/NilePhytoDock-Studio.ico",
+    "app/resources/brand/NilePhytoDock.ico",
+    "app/resources/nav/0.svg",
+    "app/resources/nav/1.svg",
+    "app/resources/nav/10.svg",
+    "app/resources/nav/2.svg",
+    "app/resources/nav/3.svg",
+    "app/resources/nav/4.svg",
+    "app/resources/nav/5.svg",
+    "app/resources/nav/6.svg",
+    "app/resources/nav/7.svg",
+    "app/resources/nav/8.svg",
+    "app/resources/nav/9.svg"
+  ],
+  "native_installation": {
+    "success": true,
+    "version": "0.6.0",
+    "engine_health": {
+      "Smina": {
+        "ok": true,
+        "version": "smina 2020.12.10 conda-forge:b08c07c     Built Jan 30 2021.  Based on AutoDock Vina 1.1.2."
+      },
+      "Java": {
+        "ok": true,
+        "version": "openjdk version \"17.0.19\" 2026-04-21\nOpenJDK Runtime Environment Temurin-17.0.19+10 (build 17.0.19+10)\nOpenJDK 64-Bit Server VM Temurin-17.0.19+10 (build 17.0.19+10, mixed mode)"
+      },
+      "P2Rank": {
+        "ok": true,
+        "version": "P2Rank 2.5.1\n\nHome: X:\\nile\\release\\NilePhytoDock Studio 0.6.0\\_internal\\external_tools\\p2rank\nJVM: OpenJDK 64-Bit Server VM 17.0.19+10 Eclipse Adoptium\nOS: Windows 11 (Version: 10.0, Arch: amd64)\nCPUs: 8\nMax Memory: 2 GiB"
+      },
+      "rdkit": {
+        "ok": true,
+        "version": "2026.9.1"
+      },
+      "prolif": {
+        "ok": true,
+        "version": "2.2.3"
+      },
+      "PySide6": {
+        "ok": true,
+        "version": "6.12.0"
+      },
+      "openbabel-wheel": {
+        "ok": true,
+        "version": "3.1.1.23"
+      }
+    },
+    "counts": {
+      "botanical_oils": 57,
+      "essential_oils": 46,
+      "fixed_oils": 11,
+      "species": 68,
+      "profiles": 119,
+      "compounds": 819,
+      "ready": 186,
+      "unique_ready": 164,
+      "records": 2109
+    },
+    "project_id": 1,
+    "project_folder": "X:\\nile\\data\\validation\\release_install\\Actual_HPLC_screening",
+    "actual_docking_runs": 3,
+    "run_ids": [
+      1,
+      2,
+      3
+    ],
+    "command_boxes": [
+      {
+        "center": [
+          -1.5173,
+          14.4714,
+          17.4739
+        ],
+        "dimensions": [
+          29.737,
+          23.963,
+          29.95
+        ],
+        "elapsed": 7.73399999999674
+      },
+      {
+        "center": [
+          -1.5173,
+          14.4714,
+          17.4739
+        ],
+        "dimensions": [
+          29.737,
+          23.963,
+          29.95
+        ],
+        "elapsed": 12.39100000000326
+      },
+      {
+        "center": [
+          -1.5173,
+          14.4714,
+          17.4739
+        ],
+        "dimensions": [
+          29.737,
+          23.963,
+          29.95
+        ],
+        "elapsed": 12.078000000037719
+      }
+    ],
+    "hplc_units_preserved": true,
+    "hplc_oil_index_suppressed": true,
+    "english_ui_and_no_guide_buttons": true,
+    "elapsed_seconds": 76.26600000000326,
+    "frozen": true,
+    "project_complete": true,
+    "all_report_formats_verified": true,
+    "native_3d_atom_mapping_verified": true,
+    "native_3d_contacts": 54,
+    "offline_plotly_rendered": true
+  },
+  "windows_10_tested": false,
+  "clean_vm_tested": false,
+  "code_signed": false
+}

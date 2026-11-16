@@ -1,0 +1,52 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5363426,
+        "SMILES": "CC(=CCC/C(=C/CCC(C)(C=C)OC(=O)C)/C)C",
+        "InChIKey": "PRNJXUQTUSFYLV-NTCAYCPXSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Nerolidyl acetate",
+    "nerolidol acetate",
+    "3,7,11-Trimethyldodeca-1,6,10-trien-3-yl acetate",
+    "NEROLIDOL, ACETATE",
+    "1,6,10-Dodecatrien-3-ol, 3,7,11-trimethyl-, acetate",
+    "EINECS 218-978-4",
+    "NSC 72036",
+    "1,6,10-Dodecatrien-3-ol, 3,7,11-trimethyl-, 3-acetate",
+    "(6E)-3,7,11-TRIMETHYLDODECA-1,6,10-TRIEN-3-YL ACETATE",
+    "RefChem:832384",
+    "DTXCID90811602",
+    "218-978-4",
+    "DTXSID70862899",
+    "2306-78-7",
+    "[(6E)-3,7,11-trimethyldodeca-1,6,10-trien-3-yl] acetate",
+    "(e)-nerolidyl acetate",
+    "3,7,11-Trimethyl-1,6,10-dodecatrien-3-yl acetate",
+    "85611-33-2",
+    "E-Nerolidyl acetate",
+    "(E)-Nerolidol, acetate",
+    "(E)-Nerolidolol acetate",
+    "orb3179634",
+    "SCHEMBL2004079",
+    "CHEBI:173885",
+    "NSC72036",
+    "MFCD00036515",
+    "NSC-72036",
+    "AKOS040759762",
+    "EBC-617021",
+    "TS-09974",
+    "CS-0960967",
+    "T9279",
+    "G71068",
+    "3,11-Trimethyl-1,6,10-dodecatrien-3-yl acetate",
+    "1,10-Dodecatrien-3-ol, 3,7,11-trimethyl-, acetate",
+    "3,7,11-Trimethyl-1,6, 10-dodecatrien-3-yl acetate",
+    "Q67865665",
+    "1,6,10-Dodecatrien-3-ol, 3, 7,11-trimethyl-, acetate",
+    "[(6E)-3,7,11-trimethyldodeca-1,6,10-trien-3-yl] ethanoate"
+  ]
+}

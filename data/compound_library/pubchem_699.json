@@ -1,0 +1,22 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 576908,
+        "SMILES": "CC1=C(C(C=CC1)C=C)C",
+        "InChIKey": "XTEXHRDVSFQWLP-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "1,2-Dimethyl-3-vinyl-1,4-cyclohexadiene",
+    "1,4-Cyclohexadiene, 3-ethenyl-1,2-dimethyl-",
+    "62338-57-2",
+    "3-Ethenyl-1,2-dimethyl-1,4-cyclohexadiene",
+    "SCHEMBL31261761",
+    "XTEXHRDVSFQWLP-UHFFFAOYSA-N",
+    "DTXSID101358344",
+    "DB-315359",
+    "1,2-Dimethyl-3-vinyl-1,4-cyclohexadiene #"
+  ]
+}

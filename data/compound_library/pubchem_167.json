@@ -1,0 +1,20 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 72720411,
+        "SMILES": "CC1=CC[C@H](CC1)[C@@]2(CC[C@@H](C(O2)(C)C)O)C.CC1=CCC(CC1)[C@@]2(CC[C@H](O2)C(C)(C)O)C",
+        "InChIKey": "FZHGQBOZUMAPRQ-FIZODLOOSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Bisabolol oxide",
+    "11087-43-7",
+    "RefChem:569445",
+    "DTXSID20891412",
+    "DTXCID001030531",
+    "FZHGQBOZUMAPRQ-FIZODLOOSA-N",
+    "BISABOLOLOXIDE"
+  ]
+}

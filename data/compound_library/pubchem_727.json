@@ -1,0 +1,19 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 91753433,
+        "SMILES": "C[C@H]1C=C[C@@H]([C@@H]2[C@@]13C2[C@@](CC3)(C)O)C(C)C",
+        "InChIKey": "LMCRYOCEDDKMQA-RIENIYILSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "epi-Cubebol",
+    "(1S,4S,6S,7S,10S)-4,10-dimethyl-7-propan-2-yltricyclo(4.4.0.01,5)dec-8-en-4-ol",
+    "(1S,4S,6S,7S,10S)-4,10-dimethyl-7-propan-2-yltricyclo[4.4.0.01,5]dec-8-en-4-ol",
+    "RefChem:137113",
+    "38230-60-3",
+    "LMCRYOCEDDKMQA-RIENIYILSA-N"
+  ]
+}

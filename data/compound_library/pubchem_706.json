@@ -1,0 +1,43 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 94147,
+        "SMILES": "CC(C)[C@@]12C[C@@H]1C(=C)[C@@H](C2)O",
+        "InChIKey": "MDFQXBNVOAKNAY-BBBLOLIVSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(+)-cis-Sabinol",
+    "Sabinol",
+    "471-16-9",
+    "40873MPA3A",
+    "(1S,3R,5S)-4-methylidene-1-(propan-2-yl)bicyclo[3.1.0]hexan-3-ol",
+    "CHEBI:15387",
+    "(1S,3R,5S)-4-METHYLIDENE-1-PROPAN-2-YLBICYCLO[3.1.0]HEXAN-3-OL",
+    "Bicyclo(3.1.0)hexan-3-ol, 4-methylene-1-(1-methylethyl)-, (1S,3R,5S)-",
+    "CHEBI:26590",
+    "(1S,3R,5S)-4-methylidene-1-propan-2-ylbicyclo(3.1.0)hexan-3-ol",
+    "(1S,3R,5S)-4-methylidene-1-(propan-2-yl)bicyclo(3.1.0)hexan-3-ol",
+    "RefChem:884300",
+    "4-methylidene-1-propan-2-ylbicyclo(3.1.0)hexan-3-ol",
+    "207-436-2",
+    "cis-Sabinol",
+    "Thuj-4(10)-en-3-ol",
+    "UNII-40873MPA3A",
+    "EINECS 207-436-2",
+    "(1S,3R,5S)-sabinol",
+    "SCHEMBL1356240",
+    "DTXSID90883208",
+    "MDFQXBNVOAKNAY-BBBLOLIVSA-N",
+    "(+)-cis-Sabinol;(+)-cis-sabinol",
+    "(1s,3r)-thuj-4(10)-en-3-ol",
+    "LMPR0102060023",
+    "C02213",
+    "(+)-(1S,3R,5S)-thuj-4(10)-en-3-ol",
+    "Q4403492",
+    "(1s,3r,5s)-1-isopropyl-4-methylidenebicyclo[3.1.0]hexan-3-ol",
+    "(1S,3R,5S)-4-Methylene-1-(1-methylethyl)bicyclo[3.1.0]hexan-3-ol"
+  ]
+}

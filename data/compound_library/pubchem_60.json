@@ -1,0 +1,36 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 10460,
+        "SMILES": "CCCC=CC=O",
+        "InChIKey": "MBDOYVRWFFCFHM-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Hexenal",
+    "1335-39-3",
+    "RefChem:787469",
+    "CHEBI:24578",
+    "DTXSID101052718",
+    "Hex-2-enal",
+    "2-Hexen-1-al",
+    "Trans-3-propyalacrolein",
+    "n-C3H7CH=CHCHO",
+    "(E)-2-hexen-1-al",
+    "CHEBI:19591",
+    "(Z)-2-hexen-1-al",
+    "Epitope ID:143637",
+    "SCHEMBL29822",
+    "SCHEMBL233667",
+    "DTXSID7021609",
+    "s6303",
+    "AKOS025243569",
+    "SB85391",
+    "NS00080067",
+    "D78252",
+    "85761-70-2",
+    "Hexenal, Leaf aldehyde, trans-2-Hexenal, Hexobarbitone, Hexobarbital, Evipan, 2-trans-Hexenal, 2-HEXENAL, trans-Hex-2-enal, 2-Hexenal, (E)-, Hexylenic aldehyde, beta-Propyl acrolein, 3-propyl acrolein, beta-Propylacrolein, Sodium hexobarbital, Hex-2-enal, 2-hexenal, E, trans-2-Hexen-1-al, Hexobarbital, Sodium, (E)-2-HEXENAL"
+  ]
+}

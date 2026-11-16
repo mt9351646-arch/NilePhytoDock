@@ -1,0 +1,43 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 12313020,
+        "SMILES": "CC1=C[C@@H]2[C@H](CC1)C(=C)CC[C@H]2C(C)C",
+        "InChIKey": "WRHGORWNJGOVQY-ZNMIVQPWSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "gamma-Muurolene",
+    "CHEBI:64798",
+    "(1S,4aS,8aR)-1-isopropyl-7-methyl-4-methylene-1,2,3,4,4a,5,6,8a-octahydronaphthalene",
+    "(1S,4aS,8aR)-7-methyl-4-methylene-1-(propan-2-yl)-1,2,3,4,4a,5,6,8a-octahydronaphthalene",
+    "DTXSID401017737",
+    "RefChem:37000",
+    "(+-)-gamma-MUUROLENE",
+    "DTXCID701475932",
+    "(1alpha,4Aalpha,8Aalpha)-NAPHTHALENE, 1,2,3,4,4Abeta,5,6.8Abeta-OCTAHYDRO-1beta-ISOPROPYL-7-METHYL-4-METHYLENE-",
+    "30021-74-0",
+    "L2F6RNG65D",
+    "NAPHTHALENE, 1,2,3,4,4A,5,6,8A-OCTAHYDRO-7-METHYL-4-METHYLENE-1-(1-METHYLETHYL)-, (1R,4AR,8AS)-REL-",
+    "REL-(1R,4AR,8AS)-1,2,3,4,4A,5,6,8A-OCTAHYDRO-7-METHYL-4-METHYLENE-1-(1-METHYLETHYL)NAPHTHALENE",
+    "(+)-gamma-muurolene",
+    "g-Muurolene",
+    "(1S,4aS,8aR)-7-methyl-4-methylidene-1-propan-2-yl-2,3,4a,5,6,8a-hexahydro-1H-naphthalene",
+    "Y-MUUROLENE",
+    "1-Isopropyl-7-methyl-4-methylene-1,2,3,4,4a,5,6,8a-octahydronaphthalene",
+    "SCHEMBL29410046",
+    "(1R,4aR,8aS)-1-Isopropyl-7-methyl-4-methylene-1,2,3,4,4a,5,6,8a-octahydronaphthalene",
+    "[1S,(-)]-1,2,3,4,4aalpha,5,6,8aalpha-Octahydro-7-methyl-4-methylene-1-isopropylnaphthalene",
+    "24268-39-1",
+    "C20273",
+    "Q27133437",
+    "1,2,3,4,4a,5,6,8a-octahydro-7-methyl-4-methylene-1-(1-methylethyl)-naphthalene",
+    "1,2,3,4,4alpha,5,6,8a-octahydro-7-methyl-4-methylene-1-(1-methylethyl)-naphthalene",
+    "naphthalene, 1,2,3,4,4a,5,6,8a-octahydro-7-dimethyl-4-methylene-1-(1-methylethyl-)",
+    "naphthalene, 1,2,3,4,4a,5,6,8a-octahydro-7-methyl-4-methylene-1-(1-methylethyl)",
+    "Naphthalene, 1,2,3,4,4a,5,6,8a-octahydro-7-methyl-4-methylene-1-(1-methylethyl)-, (1alpha,4aalpha,8aalpha)-",
+    "naphthalene, 1,2,3,4,4a,5,6,8a-octahydro-7-methyl-4-methylene-1-(1-methylethyl)-,(1a,4aa,8aa)-"
+  ]
+}

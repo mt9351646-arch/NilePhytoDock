@@ -1,0 +1,2 @@
+from pathlib import Path
+p=Path('tools/package_source.py');s=p.read_text(encoding='utf-8');s=s.replace("with zipfile.ZipFile(target,'w'", "for rel in ['data/validation/science/validation_results.json','data/validation/verified_workflow_v2/summary.json','data/validation/verified_workflow_v2/persistence_verification.json','data/validation/executable_verification.json']:\n p=root/rel\n if p.exists():files.append(p)\nwith zipfile.ZipFile(target,'w'");p.write_text(s,encoding='utf-8')

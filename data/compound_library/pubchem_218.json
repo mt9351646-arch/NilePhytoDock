@@ -1,0 +1,26 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 12223113,
+        "SMILES": "CC1=CC[C@H]2CC1C2(C)C",
+        "InChIKey": "GRWFGVWFFZKLTI-IENPIDJESA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "L-.alpha.-Pinene",
+    "(1S)-(-)-.alpha.-Pinene",
+    "1S-.alpha.-Pinene",
+    "1S-alpha-Pinene",
+    "2,6,6-Trimethylbicyclo[3.1.1]hept-2-ene-, (1S,5S)-",
+    "(1S)-(-)-alpha-Pinene",
+    "2,6,6-Trimethylbicyclo(3.1.1)hept-2-ene-, (1S,5S)-",
+    "L-alpha-Pinene",
+    "RefChem:201397",
+    "GRWFGVWFFZKLTI-IENPIDJESA-N",
+    "(-)-.alpha.-Pinene",
+    ".alpha.-Pinene, (-)-",
+    "Bicyclo[3.1.1]hept-2-ene, 2,6,6-trimethyl-, (1S)-"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 15560276,
+        "SMILES": "C[C@@H]1CC[C@@H]2[C@@H](C2(C)C)C3=C(CC[C@H]13)C",
+        "InChIKey": "SPCXZDDGSGTVAW-XIDUGBJDSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "(-)-alpha-Gurjunene",
+    "489-40-7",
+    "(1aR,4R,4aR,7bS)-1,1,4,7-tetramethyl-1a,2,3,4,4a,5,6,7b-octahydro-1H-cyclopropa[e]azulene",
+    "CHEBI:61699",
+    "(-)-.alpha.-Gurjunene",
+    "1,1,4,7-tetramethyl-1a,2,3,4,4a,5,6,7b-octahydrocyclopropa(e)azulene",
+    "1,1,4,7-tetramethyl-1a,2,3,4,4a,5,6,7b-octahydrocyclopropa[e]azulene",
+    "(1aR,4R,4aR,7bS)-1,1,4,7-tetramethyl-1a,2,3,4,4a,5,6,7b-octahydro-1H-cyclopropa(e)azulene",
+    "RefChem:67690",
+    "alpha-Gurjunene",
+    "Gurjunene",
+    "(-)-a-Gurjunene",
+    "alpha-gurjenene",
+    "alpha-gurujene",
+    "iota-gurjunene",
+    "a-gurjunene",
+    "Gurjunene-alpha",
+    "SCHEMBL309916",
+    "DTXSID0052126",
+    "SPCXZDDGSGTVAW-XIDUGBJDSA-N",
+    "C19734",
+    "Q27131296",
+    "1H-cycloprop[e]azulene,1abeta,2,3,4,4aalpha,5,6,7bbeta-octahydro-1,1,4beta,7-tetramethyl",
+    "1H-cyclopropa[e]azulene, 1a,2,3,4,4a,5,6,7b-octahydro-1,1,4,7-tetramethyl",
+    "1H-cycloprop[e]azulene,1a,2,3,4,4a,5,6,7b-octahydro-1,1,4,7-tetramethyl-,[1aR-(1aalpha,4alpha,4abeta,7balpha)]-"
+  ]
+}

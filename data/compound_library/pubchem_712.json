@@ -1,0 +1,39 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 89488,
+        "SMILES": "CC(C)C1CCC(=CC1)C=O",
+        "InChIKey": "AEVLWICMAHGAMS-UHFFFAOYSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Phellandral",
+    "21391-98-0",
+    "4-Isopropylcyclohexenecarbaldehyde",
+    "p-menth-1-en-7-al",
+    "4-propan-2-ylcyclohexene-1-carbaldehyde",
+    "1-Cyclohexene-1-carboxaldehyde, 4-(1-methylethyl)-",
+    "O55U5SW7ZR",
+    "EINECS 244-355-1",
+    "4-(1-METHYLETHYL)-1-CYCLOHEXENE-1-CARBOXALDEHYDE",
+    "4-PROPAN-2-YLCYCLOHEXENE-1-CARBOXALDEHYDE",
+    "4-[1-Methylethyl]-1-cyclohexene-1-carboxaldehyde",
+    "RefChem:860506",
+    "4-(propan-2-yl)cyclohex-1-ene-1-carbaldehyde",
+    "(S)-Phellandral",
+    "4-Isopropyl-1-cyclohexene-1-carbaldehyde",
+    "UNII-O55U5SW7ZR",
+    "4-ISOPROPYLCYCLOHEX-1-ENE-1-CARBALDEHYDE",
+    "SCHEMBL220029",
+    "orb3179674",
+    "DTXSID50871323",
+    "CHEBI:167401",
+    "EBC-618239",
+    "NS00050435",
+    "EN300-2918380",
+    "Q27285352",
+    "Z1511742698"
+  ]
+}

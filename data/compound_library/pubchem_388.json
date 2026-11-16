@@ -1,0 +1,34 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5362772,
+        "SMILES": "CCC(C)/C=N\\O",
+        "InChIKey": "SEWWFHKIKWFJNV-XQRVVYSFSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "Butanal, 2-methyl-, oxime, (Z)-",
+    "RefChem:570577",
+    "49805-56-3",
+    "(NZ)-N-(2-methylbutylidene)hydroxylamine",
+    "(Z)-2-methylbutanal oxime",
+    "(Z)-2-methylbutyraldehyde oxime",
+    "2-methylbutyraldehyde (Z)-oxime",
+    "(E)-2-methylbutanal oxime",
+    "(1Z)-N-hydroxy-2-methylbutan-1-imine",
+    "(1Z)-2-Methylbutanal oxime",
+    "SCHEMBL8011448",
+    "SCHEMBL8011972",
+    "SCHEMBL8012178",
+    "SCHEMBL8015230",
+    "SCHEMBL9507174",
+    "(1Z)-2-Methylbutanal oxime #",
+    "CHEBI:61136",
+    "Butyl aldoxime, 2-methyl-, syn-",
+    "DTXSID601311713",
+    "N-[(1Z)-2-Methylbutylidene]hydroxylamine",
+    "Q27130840"
+  ]
+}

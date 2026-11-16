@@ -1,0 +1,17 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6430998,
+        "SMILES": "CC(=CC(/C=C(\\C)/C=C)O)C",
+        "InChIKey": "DUCHBDMNWUYHGL-VQHVLOKHSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "trans-Ocimenol",
+    "iso-Ocimenol",
+    "DUCHBDMNWUYHGL-UHFFFAOYSA-N",
+    "Q67880137"
+  ]
+}

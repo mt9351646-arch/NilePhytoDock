@@ -1,0 +1,16 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 6451618,
+        "SMILES": "CC1=CCC2([C@@H]1C2)C(C)C",
+        "InChIKey": "KQAZVFVOEIRWHN-YHMJZVADSA-N"
+      }
+    ]
+  },
+  "synonyms": [
+    "alpha thujene",
+    "RefChem:1076381",
+    "SCHEMBL3452067"
+  ]
+}
